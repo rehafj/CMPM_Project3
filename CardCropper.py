@@ -7,8 +7,8 @@ image_list = []
 for filename in glob.glob('cards/*.png'): #assuming gif
     # print(filename)
     im=Image.open(filename)
-    im = im.crop((1, 1, 98, 33))
-    im.save(filename + '_cropped.png')
+    im = im.crop((30, 40, 200, 170))
+    im.save(filename + '_c.png')
 
     #image_list.append(im)
 
