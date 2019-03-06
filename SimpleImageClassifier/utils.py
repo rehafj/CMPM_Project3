@@ -11,7 +11,8 @@ N_CHANNEL = 3
 LEARNING_RATE = 0.0001
 BATCH_SIZE = 100
 N_ITERATION = 10000
-IMAGE_SIZE = 64
+IMAGE_SIZE_X = 190
+IMAGE_SIZE_Y = 110
 IMAGE_EXT ='png'
 
 TRAIN_DATASET_PATH ='dataset/train/'
@@ -56,7 +57,7 @@ def load_data(dataset_path):
     for index, folder in enumerate(folder_list):
         file_list = glob.glob(dataset_path + folder + '/*.'+IMAGE_EXT)
 
-        temp_image_array = np.array([np.array(scipy.misc.imresize(scipy.misc.imread(file_name, mode='RGB').astype('float32'),(IMAGE_SIZE, IMAGE_SIZE))) for file_name in file_list])
+        temp_image_array = np.array([np.array(scipy.misc.imresize(scipy.misc.imread(file_name, mode='RGB').astype('float32'),(IMAGE_SIZE_X, IMAGE_SIZE_Y))) for file_name in file_list])
         temp_image_array = temp_image_array/255.
 
         image_array.append(temp_image_array)

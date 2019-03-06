@@ -11,19 +11,19 @@ from model import *
 def test(image_path):
 
     labels = get_folder_names()
-    test_image = scipy.misc.imresize(scipy.misc.imread(image_path, mode='RGB').astype('float32'),(IMAGE_SIZE, IMAGE_SIZE))
+    test_image = scipy.misc.imresize(scipy.misc.imread(image_path, mode='RGB').astype('float32'),(IMAGE_SIZE_X, IMAGE_SIZE_Y))
     test_image = np.expand_dims(test_image, 0)
     test_image = test_image/255.
 
-    test_data = tf.placeholder(tf.float32, [None, IMAGE_SIZE, IMAGE_SIZE, N_CHANNEL])
-    
+    test_data = tf.placeholder(tf.float32, [None, IMAGE_SIZE_X, IMAGE_SIZE_Y, N_CHANNEL])
+
     output = neural_network(test_data)
     softmax_output = tf.nn.softmax(output)
 
     sess = tf.Session()
     sess.run(tf.global_variables_initializer())
     saver = initialize(sess)
-    
+
 
 
     test_output = sess.run(softmax_output, feed_dict={test_data: test_image})
@@ -35,4 +35,3 @@ def test(image_path):
 if __name__ == "__main__":
     image_path = sys.argv[1]
     test(image_path)
-    
