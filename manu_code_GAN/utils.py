@@ -4,7 +4,6 @@ import os
 import glob
 import random
 import scipy.misc
-import cv2
 
 
 N_CHANNEL = 3
@@ -13,7 +12,7 @@ BATCH_SIZE = 5
 N_ITERATION = 150000
 IMAGE_WIDTH = 64
 IMAGE_HEIGHT = 64
-IMAGE_EXT ='jpg'
+IMAGE_EXT ='png'
 
 DATASET_PATH ='dataset/'
 
