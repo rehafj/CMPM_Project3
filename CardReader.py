@@ -7,7 +7,7 @@ from pokemontcgsdk import Type
 from pokemontcgsdk import Supertype
 from pokemontcgsdk import Subtype
 
-cards = Card.where(set='generations', supertype='pokemon')
+cards = Card.where(supertype='pokemon')
 for card in cards:
     card_url = card.image_url
     card_name = card.id + ".png"
