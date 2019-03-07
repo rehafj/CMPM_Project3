@@ -1,0 +1,4 @@
+Dragon -> Water
+Dark -> Psychic
+Fairy -> Colorless
+Metal -> Fighting
