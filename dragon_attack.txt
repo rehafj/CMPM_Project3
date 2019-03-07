@@ -1,0 +1,1 @@
+type,cost,name,text,damage

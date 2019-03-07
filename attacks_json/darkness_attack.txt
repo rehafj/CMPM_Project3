@@ -1,0 +1,1722 @@
+{"cost": ["Darkness"], "name": "Peck", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Hard Bite", "text": "Flip a coin. If heads, this attack does 20 more damage.", "damage": "40+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Corner", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Ambush", "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness"], "name": "Frustration", "text": "Choose 1 of your opponent's Pok\u00e9mon that doesn't have any damage counters on it. This attack does 30 damage to that Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Toxic Cloud", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pok\u00e9mon between turns.", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Double Kick", "text": "Flip 2 coins. This attack does 10 damage times the number of heads.", "damage": "10\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Mud-Slap", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Corkscrew Punch", "text": "", "damage": "70", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless"], "name": "Whirlwind", "text": "Your opponent switches the Defending Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness"], "name": "Blindside", "text": "Choose 1 of your opponent's Pok\u00e9mon that has any damage counters on it. This attack does 50 damage to that Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Shadow Bind", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Vengeance", "text": "Does 10 damage plus 10 more damage for each Darkness Pok\u00e9mon in your discard pile.", "damage": "10+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Ascension", "text": "Search your deck for a card that evolves from this Pok\u00e9mon and put it onto this Pok\u00e9mon. (This counts as evolving this Pok\u00e9mon.) Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Scratch", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Slash", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Fury Cutter", "text": "Flip 3 coins. If 1 of them is heads, this attack does 10 more damage. If 2 of them are heads, this attack does 30 more damage. If all of them are heads, this attack does 60 more damage.", "damage": "30+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 30 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Psychic Pulse", "text": "Does 10 damage to each of your opponent's Benched Pok\u00e9mon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Skill Hack", "text": "Look at your opponent's hand and choose a Basic Pok\u00e9mon or Evolution card you find there. Choose 1 of that Pok\u00e9mon's attacks. Skill Hack copies that attack except for its Energy cost. (You must still do anything else required for that attack.) (No matter what type that Pok\u00e9mon is, Shiftry ex's type is still Darkness.) Shiftry ex performs that attack.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Dirge", "text": "Does 60 damage to each of your opponent's Benched Pok\u00e9mon that has the same name as the Defending Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Nasty Plot", "text": "Search your deck for any 1 card and put it into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Darkness"], "name": "Dark Pulse", "text": "Does 10 damage times the total amount of Darkness Energy attached to all of your Pok\u00e9mon.", "damage": "10\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Delta Fang", "text": "If the Defending Pok\u00e9mon is Pok\u00e9mon-ex, that Pok\u00e9mon can't attack during your opponent's next turn.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Metal", "Colorless"], "name": "Gang Up", "text": "Does 10 damage times the number of Darkness Pok\u00e9mon and Metal Pok\u00e9mon you have in play.", "damage": "10\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Double Slap", "text": "Flip 2 coins. This attack does 10 damage times the number of heads.", "damage": "10\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 20 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Scratch", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Severe Gas", "text": "The Defending Pok\u00e9mon is now Poisoned.", "damage": "10", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Sharp Fang", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Astonish", "text": "Flip a coin. If heads, choose 1 card from your opponent's hand without looking. Look at that card you chose, then have your opponent shuffle that card into his or her deck.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless"], "name": "Roar", "text": "Your opponent switches his or her Active Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Colorless"], "name": "Bite", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Glide", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Dark Cutter", "text": "", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Infiltrate", "text": "Your opponent reveals his or her hand.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting", "Colorless"], "name": "Bite", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Colorless"], "name": "Teampact", "text": "Flip a coin for each Team Aqua Pok\u00e9mon you have in play. This attack does 30 damage times the number of heads.", "damage": "30\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Water", "Colorless"], "name": "Crunch", "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Fury Swipes", "text": "Flip 3 coins. This attack does 10 damage times the number of heads.", "damage": "10\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness"], "name": "Beat Up", "text": "Flip a coin for each of your Pok\u00e9mon in play. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Fighting", "Colorless"], "name": "Bite", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Fighting", "Fighting", "Colorless"], "name": "Hostile Fang", "text": "If your opponent's Active Pok\u00e9mon is a Team Aqua Pok\u00e9mon, this attack does 40 more damage.", "damage": "80\uff0b", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Spirit Dance", "text": "Flip 2 coins. This attack does 50 damage plus 20 more damage for each heads.", "damage": "50+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Evoblast", "text": "Does 50 damage plus 10 more damage for each of your Pok\u00e9mon in play that evolves from Eevee.", "damage": "50+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Toxic Claws", "text": "The Defending Pok\u00e9mon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pok\u00e9mon between turns.", "damage": "20", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Crunch", "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Darkness Fang", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Bother", "text": "Flip a coin. If heads, your opponent can't play any Supporter cards from his or her hand during his or her next turn.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Knock Back", "text": "Your opponent switches his or her Active Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.", "damage": "80", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Tackle", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Puncture", "text": "This attack's damage isn't affected by Resistance.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Mental Panic", "text": "If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Puncture", "text": "This attack's damage isn't affected by Resistance.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Oblivion Wing", "text": "Attach a Darkness Energy card from your discard pile to 1 of your Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Darkness Blade", "text": "Flip a coin. If tails, this Pok\u00e9mon can't attack during your next turn.", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Evil Ball", "text": "This attack does 20 more damage times the amount of Energy attached to both Active Pok\u00e9mon.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Y Cyclone", "text": "Move an Energy from this Pok\u00e9mon to 1 of your Benched Pok\u00e9mon.", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Evil Ball", "text": "This attack does 20 more damage times the amount of Energy attached to both Active Pok\u00e9mon.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Y Cyclone", "text": "Move an Energy from this Pok\u00e9mon to 1 of your Benched Pok\u00e9mon.", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Rotating Claws", "text": "You may discard an Energy card attached to Charizard Star. If you do, search your discard pile for an Energy card (excluding the one you discarded) and attach it to Charizard Star.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Darkness", "Colorless"], "name": "Dark Swirl", "text": "Discard all Energy cards attached to Charizard Star and discard the top 3 cards from your opponent's deck.", "damage": "150", "convertedEnergyCost": 5}
+
+{"cost": ["Darkness"], "name": "Fin Smack", "text": "Flip 2 coins. This attack does 10 damage times the number of heads.", "damage": "10\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Lunge", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Confuse Ray", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is Confused.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Rage", "text": "Does 10 damage plus 10 more damage for each damage counter on Nidorino.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Horn Drill", "text": "", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Peck", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Poison Horn", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Poisoned.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless"], "name": "Roar", "text": "Your opponent switches the Defending Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Bite", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Ram", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Darkness Fang", "text": "", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Disorderly Flip", "text": "Flip 4 coins. This attack does 10 damage times the number of heads.", "damage": "10\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Whirlwind", "text": "You may have your opponent switch the Defending Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Diving Swipe", "text": "Discard a random card from your opponent's hand.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Smogscreen", "text": "The Defending Pok\u00e9mon is now Poisoned. If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Hammer In", "text": "", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Peck", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Wing Attack", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Dark Clamp", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Bombast", "text": "Does 40 damage times the number of Prize cards you have taken.", "damage": "40\u00d7", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness"], "name": "Gust", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Razor Wing", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Destroyer King", "text": "This attack does 60 more damage for each damage counter on your opponent's Active Pok\u00e9mon.", "damage": "110+", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness", "Darkness"], "name": "Corkscrew Punch", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Night Song", "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with 1 of the Defending Pok\u00e9mon. Your opponent chooses the Defending Pok\u00e9mon to switch. The new Defending Pok\u00e9mon is now Asleep.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Plunder", "text": "Before doing damage, discard all Trainer cards attached to the Defending Pok\u00e9mon.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Hammer In", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Break Ground", "text": "This attack does 10 damage to each of your Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Bite", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Plunder", "text": "Before doing damage, discard all Trainer cards attached to the Defending Pok\u00e9mon.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Darkness"], "name": "Lord's Valley", "text": "If you have exactly 2, 4, or 6 Prize cards remaining, discard the top 10 cards of your deck.", "damage": "160", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness"], "name": "Rock Head", "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 20 (after applying Weakness and Resistance).", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Hammer Kick", "text": "If this Pok\u00e9mon has fewer remaining HP than the Defending Pok\u00e9mon, this attack does 30 more damage.", "damage": "50+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Mach Claw", "text": "This attack's damage isn't affected by Resistance.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Darkness Slugger", "text": "You may discard a card from your hand. If you do, this attack does 30 damage plus 30 more damage.", "damage": "30+", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Reactive Beating", "text": "If Shiftry has any React Energy cards attached to it, the Defending Pok\u00e9mon is now Confused.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Cross-Cut", "text": "If the Defending Pok\u00e9mon is an Evolved Pok\u00e9mon, this attack does 40 damage plus 30 more damage.", "damage": "40+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Extra Call", "text": "Search your deck for a Pok\u00e9mon-ex, show it to your opponent, and put it into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 20 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Knock Off", "text": "Flip a coin. If heads, discard a random card from your opponent's hand.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Ram", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Rising Lunge", "text": "Flip a coin. If heads, this attack does 10 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Fury Swipes", "text": "Flip 3 coins. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Night Daze", "text": "", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Gentle Slap", "text": "Flip a coin. If heads, this attack does 20 more damage.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Rear Guard", "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 30 (after applying Weakness and Resistance).", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Gust", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Darkness Fang", "text": "", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Bite", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Body Slam", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Tractorbeam", "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with the Defending Pok\u00e9mon. This attack does 40 damage to the new Defending Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless", "Colorless"], "name": "Obsidian Fang", "text": "Before doing damage, discard all Pok\u00e9mon Tool cards attached to the Defending Pok\u00e9mon.", "damage": "80", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless"], "name": "Bite", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Ambush", "text": "Flip a coin. If heads, this attack does 30 damage plus 30 more damage.", "damage": "30+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Knock Off", "text": "Flip a coin. If heads, choose 1 card from your opponent's hand without looking and discard it.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Rear Kick", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Whirlwind", "text": "Your opponent switches the Defending Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Night Spear", "text": "Does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Corner", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Night Claw", "text": "Flip a coin. If tails, discard 2 Energy attached to this Pok\u00e9mon.", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Confuse Ray", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Confused.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Moon Impact", "text": "", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Surprise", "text": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Dark Mind", "text": "Does 10 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Free"], "name": "Darkness Grace", "text": "Search your deck for a card that evolves from 1 of your Pok\u00e9mon and put it onto that Pok\u00e9mon. (This counts as evolving that Pok\u00e9mon.) If you do, put 1 damage counter on Spiritomb. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness"], "name": "Will-o'-the-wisp", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Collude", "text": "If you played any Supporter card from your hand during this turn, this attack does 20 damage plus 20 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Desperate Attack", "text": "If Mightyena has less Energy attached to it than the Defending Pok\u00e9mon, this attack does 50 damage plus 30 more damage.", "damage": "50+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Finishing Blow", "text": "If the Defending Pok\u00e9mon already has any damage counters on it, this attack does 50 more damage.", "damage": "20+", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Night Slash", "text": "Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Free"], "name": "Honcho's Command", "text": "Search your deck for up to 2 in any combination of Stadium cards or Trainer cards that has Team Galactic's Invention in its name, show them to your opponent, and put them into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness", "Colorless"], "name": "Target Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 20 damage to that Pok\u00e9mon. If that Pok\u00e9mon already has any damage counters on it, this attack does 20 damage plus 20 more damage. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Iron Head", "text": "Flip a coin until you get tails. This attack does 10 damage times the number of heads.", "damage": "10\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Darkness"], "name": "Berserker Blade", "text": "Does 40 damage to 2 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "60", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness", "Colorless"], "name": "Prize Count", "text": "If you have more Prize cards left than your opponent, this attack does 20 damage plus 60 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Darkness"], "name": "Stamp", "text": "Flip a coin. If heads, this attack does 50 damage plus 10 more damage and does 10 damage to each of your opponent's Benched Pok\u00e9mon, if any. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "50+", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Sniping Tail", "text": "Does 40 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.) The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "40", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Darkness"], "name": "Stamp", "text": "Flip a coin. If heads, this attack does 50 damage plus 10 more damage and does 10 damage to each of your opponent's Benched Pok\u00e9mon, if any. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "50+", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Darkness Sleep", "text": "If the Defending Pok\u00e9mon already has any damage counters on it, that Pok\u00e9mon is now Asleep.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Filch", "text": "Draw a card.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Rip Claw", "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Conform", "text": "If you have the same number of cards in your hand as your opponent, the Defending Pok\u00e9mon is now Confused.", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Seal Off", "text": "The Defending Pok\u00e9mon can't use any Pok\u00e9-Powers or Pok\u00e9-Bodies during your opponent's next turn.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Confusion Wave", "text": "Both Active Pok\u00e9mon are now Confused.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Night Spear", "text": "Does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Ascension", "text": "Search your deck for a card that evolves from this Pok\u00e9mon and put it onto this Pok\u00e9mon. (This counts as evolving this Pok\u00e9mon.) Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Scratch", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Mental Trash", "text": "Your opponent flips 4 coins. For each tails, he or she discards a card from his or her hand.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Distortion Beam", "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Asleep. If tails, your opponent's Active Pok\u00e9mon is now Confused.", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Brutal Bash", "text": "Does 20 damage times the number of Darkness Pok\u00e9mon you have in play.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness"], "name": "Dark Rush", "text": "Does 20 damage times the number of damage counters on this Pok\u00e9mon.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Harsh Fluid", "text": "Put 5 damage counters on the Defending Pok\u00e9mon at the end of your opponent's next turn.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Metal", "Colorless", "Colorless"], "name": "Poison Tentacles", "text": "The Defending Pok\u00e9mon is now Poisoned.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 20 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Flop", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Dark Clamp", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Blazing Claws", "text": "If the Defending Pok\u00e9mon is a Team Plasma Pok\u00e9mon, this attack does 60 more damage, and the Defending Pok\u00e9mon is now Burned.", "damage": "60+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Body Slam", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Colorless", "Colorless", "Colorless"], "name": "Mega Impact", "text": "", "damage": "70", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Bite", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Corner", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Scratch", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Surprise Punch", "text": "Move an Energy attached to the Defending Pok\u00e9mon to 1 of your opponent's Benched Pok\u00e9mon.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Moonlight Fang", "text": "During your opponent's next turn, prevent all effects, including damage, done to Umbreon by attacks from your opponent's Pok\u00e9mon that has any Pok\u00e9-Powers or Pok\u00e9-Bodies.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Quick Blow", "text": "Flip a coin. If heads, this attack does 30 damage plus 30 more damage.", "damage": "30+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Bite", "text": "", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Corkscrew Punch", "text": "", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Jump On", "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.", "damage": "10+", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Cut", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Push Down", "text": "Your opponent switches the Defending Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Bite", "text": "", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Call for Family", "text": "Search your deck for up to 2 Basic Pok\u00e9mon and put them onto your Bench. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Claw Rend", "text": "If your opponent's Active Pok\u00e9mon already has any damage counters on it, this attack does 30 more damage.", "damage": "60+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Tail Rap", "text": "Flip 2 coins. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Rip Off", "text": "Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into his or her deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Psybeam", "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Confused.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Scary Face", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon can't attack or retreat during your opponent's next turn.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Whirlpool", "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pok\u00e9mon.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Bite On", "text": "If the Defending Pok\u00e9mon isn't an Evolved Pok\u00e9mon, that Pok\u00e9mon can't attack, retreat, or use any Pok\u00e9-Powers during your opponent's next turn.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Harass", "text": "Does 10 damage times the number of Pok\u00e9mon you have in play.", "damage": "10\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Corner", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Colorless", "Colorless"], "name": "Fire Fang", "text": "The Defending Pok\u00e9mon is now Burned.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 10 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless"], "name": "Roar", "text": "Your opponent switches the Defending Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Bite", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Riotous Beating", "text": "This attack does 20 damage for each of your Pok\u00e9mon in play.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness"], "name": "Trickster-GX", "text": "Choose 1 of your opponent's Pok\u00e9mon's attacks and use it as this attack. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Captivate", "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pok\u00e9mon with the Defending Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Bite", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Gust", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless", "Colorless"], "name": "Dual Cut", "text": "Flip 2 coins. This attack does 80 damage times the number of heads.", "damage": "80\u00d7", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness"], "name": "Rob", "text": "Look at your opponent's hand. If your opponent has any Pok\u00e9mon Tool or Technical Machine cards in his or her hand, put those cards on top of his or her deck. Your opponent shuffles his or her deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Slash", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Confuse Ray", "text": "The Defending Pok\u00e9mon is now Confused.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Blind", "text": "If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 30 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Bite", "text": "", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Fire Fang", "text": "The Defending Pok\u00e9mon is now Burned.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Veil of Darkness", "text": "Discard as many cards as you like from your hand. Then, draw that many cards.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Endgame", "text": "If your opponent's Mega Evolution Pok\u00e9mon is Knocked Out by damage from this attack, take 2 more Prize cards.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Darkness", "Darkness"], "name": "Dark Mountain", "text": "Discard the top 2 cards of your deck. This attack does 50 more damage for each Supporter card discarded in this way.", "damage": "150+", "convertedEnergyCost": 5}
+
+{"cost": ["Colorless"], "name": "Bone Drop", "text": "This attack does 60 damage to 1 of your opponent's Pok\u00e9mon that has an Ability. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Cutting Wind", "text": "", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Headbutt", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Bite", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Tail Trickery", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Confused.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Fury Swipes", "text": "Flip 3 coins. This attack does 10 damage times the number of heads.", "damage": "10\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Dark Pulse", "text": "This attack does 20 more damage for each Darkness Energy attached to all of your Pok\u00e9mon.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Dark Head", "text": "If your opponent's Active Pok\u00e9mon is Asleep, this attack does 80 more damage.", "damage": "80+", "convertedEnergyCost": 3}
+
+{"cost": ["Free"], "name": "Howl", "text": "Search your deck for Poochyena and put it onto your Bench. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness"], "name": "Lunge", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Dark Pulse", "text": "This attack does 20 more damage for each Darkness Energy attached to all of your Pok\u00e9mon.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Dark Head", "text": "If your opponent's Active Pok\u00e9mon is Asleep, this attack does 80 more damage.", "damage": "80+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 30 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Headbutt", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Low Kick", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Poison Gas", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Poisoned.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Slash", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Pitch-Black Spear", "text": "This attack does 60 damage to 1 of your opponent's Benched Pok\u00e9mon-EX. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Rule of Evil", "text": "This attack does 60 damage to each Pok\u00e9mon that has an Ability (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Slash", "text": "", "damage": "70", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Veil of Darkness", "text": "Discard as many cards as you like from your hand. Then, draw that many cards.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Endgame", "text": "If your opponent's Mega Evolution Pok\u00e9mon is Knocked Out by damage from this attack, take 2 more Prize cards.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Parting Shot", "text": "Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon. During your opponent's next turn, any damage done by attacks from the Defending Pok\u00e9mon is reduced by 60 (before applying Weakness and Resistance).", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Darkness"], "name": "Buster Swing", "text": "This attack's damage isn't affected by Resistance.", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dark Wing Flaps", "text": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Scratch", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Nasty Plot", "text": "Search your deck for a card and put it into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Payback", "text": "If your opponent has only 1 Prize card left, this attack does 40 damage plus 40 more damage and discard the top 3 cards from your opponent's deck.", "damage": "40+", "convertedEnergyCost": 2}
+
+{"cost": ["Fighting", "Fighting", "Darkness", "Darkness"], "name": "Ground Burn", "text": "Each player discards the top card of his or her deck. This attack does 80 damage plus 20 more damage for each Energy card discarded in this way.", "damage": "80+", "convertedEnergyCost": 4}
+
+{"cost": ["Free"], "name": "Call for Family", "text": "Search your deck for up to 2 basic Pok\u00e9mon SP and put them onto your Bench. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Team Attack", "text": "Does 10 damage plus 10 more damage for each Pok\u00e9mon SP you have in play.", "damage": "10+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Endless Darkness", "text": "The Defending Pok\u00e9mon is now Asleep. Flip 2 coins instead of 1 between turns. If either of them is tails, the Defending Pok\u00e9mon is still Asleep. If both of them are tails, the Defending Pok\u00e9mon is Knocked Out.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Nyan Roll", "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pok\u00e9mon during your opponent's next turn.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Nightmare", "text": "Your opponent's Active Pok\u00e9mon is now Asleep.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Damage Play", "text": "Move as many damage counters on your opponent's Benched Pok\u00e9mon as you like to any of your opponent's other Pok\u00e9mon in any way you like.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Retaliate", "text": "If any of your Pok\u00e9mon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 60 more damage.", "damage": "30+", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Mach Claw", "text": "This attack's damage isn't affected by Resistance.", "damage": "60", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Oblivion Wing", "text": "Attach a Darkness Energy card from your discard pile to 1 of your Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Darkness Blade", "text": "Flip a coin. If tails, this Pok\u00e9mon can't attack during your next turn.", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Supernatural", "text": "Look at your opponent's hand. You may use the effect of a Supporter card you find there as the effect of this attack. (The Supporter card remains in your opponent's hand.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Dark Bind", "text": "You may discard a Darkness Energy card attached to Sableye. If you do, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Scratch", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Tail Rap", "text": "Flip 2 coins. This attack does 20 damage for each heads.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Smash Turn", "text": "You may switch Crawdaunt G with 1 of your Benched Pok\u00e9mon.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Hyper Beam", "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pok\u00e9mon.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Torment", "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks. That Pok\u00e9mon can't use that attack during your opponent's next turn.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Slash", "text": "", "damage": "60", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Gnaw and Run", "text": "Switch Stunky with 1 of your Benched Pok\u00e9mon.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Double Scratch", "text": "Flip 2 coins. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Call for Family", "text": "Search your deck for a Basic Pok\u00e9mon and put it onto your Bench. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Headbutt", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Surprise Attack", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless"], "name": "Scout", "text": "Your opponent reveals his or her hand.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Fasten Claws", "text": "Flip a coin. If heads, this attack does 10 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Free"], "name": "Scorpion Grapple", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed. If tails, the Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "10", "convertedEnergyCost": 0}
+
+{"cost": ["Colorless", "Colorless"], "name": "Cross Poison", "text": "Flip 4 coins. This attack does 20 damage times the number of heads. If 2 or more of them are heads, the Defending Pok\u00e9mon is now Poisoned.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Derail", "text": "Discard all Special Energy cards attached to the Defending Pok\u00e9mon.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Free"], "name": "Impersonate", "text": "Search your deck for a Supporter card and discard it. Shuffle your deck afterward. Then, use the effect of that card as the effect of this attack.", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness"], "name": "Overconfident", "text": "If the Defending Pok\u00e9mon has fewer remaining HP than Sableye, this attack's base damage is 40.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Free"], "name": "Swarm", "text": "Search your deck for Murkrow and put it onto your Bench. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Colorless", "Colorless"], "name": "Hide Crowd", "text": "Switch Murkrow with 1 of your Benched Pok\u00e9mon.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Bite", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Darkness Fang", "text": "", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Dark Slumber", "text": "At the end of your opponent's next turn, the Defending Pok\u00e9mon is now Asleep.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dark Resolve", "text": "If the Defending Pok\u00e9mon is Asleep, remove 4 damage counters from Darkrai.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Hexed Mirror", "text": "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless"], "name": "Confuse Ray", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Confused.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Junk Hunt", "text": "Put 2 Item cards from your discard pile into your hand.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Corner", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Lunge", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Paralyzing Gaze", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Shadow Bind", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Rising Lunge", "text": "Flip a coin. If heads, this attack does 20 more damage.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Scratch", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Flash Claw", "text": "Your opponent discards a card from his or her hand.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Icy Wind", "text": "Your opponent's Active Pok\u00e9mon is now Asleep.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Scratch", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Collect", "text": "Draw a card.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Spray Fluid", "text": "", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Push Down", "text": "Your opponent switches his or her Active Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Acid Spray", "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Surprise Attack", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Moonless Madness", "text": "Your opponent's Active Pok\u00e9mon is now Confused.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Dark Edge", "text": "Discard an Energy attached to this Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Dark Clamp", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Double Swing", "text": "Flip 2 coins. This attack does 60 damage times the number of heads.", "damage": "60\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Riot", "text": "Does 30 damage plus 10 more damage for each Pok\u00e9mon that isn't an Evolved Pok\u00e9mon in play (both yours and your opponent's).", "damage": "30+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Crunch", "text": "Until the end of your next turn, if an attack damages the Defending Pok\u00e9mon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Colorless"], "name": "Flamethrower", "text": "Discard 1 Energy card attached to Houndoom or this attack does nothing.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Quick Attack", "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 30 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies or any other effects on that Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Leer", "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Cutting Wind", "text": "", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Slam", "text": "Flip 2 coins. This attack does 30 times the number of heads.", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Trample", "text": "For each Benched Pok\u00e9mon in play (yours and your opponent's), flip a coin. If heads, this attack does 30 damage to that Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "50", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless"], "name": "Bite", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 30 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9mon Powers or any other effects on the Defending Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Derail", "text": "Discard a Special Energy attached to your opponent's Active Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Pin Missile", "text": "Flip 3 coins. This attack does 40 damage times the number of heads.", "damage": "40\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Mind Jack", "text": "This attack does 30 more damage for each of your opponent's Benched Pok\u00e9mon.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Foul Play", "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks and use it as this attack.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Chemical Breath", "text": "This attack does 50 more damage for each Special Condition affecting your opponent's Active Pok\u00e9mon.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Gunk Shot", "text": "Your opponent's Active Pok\u00e9mon is now Poisoned.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Fire Counterattack", "text": "If your opponent has any Fighting Pok\u00e9mon in play, this attack does 20 damage plus 60 more damage.", "damage": "20+", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness"], "name": "Dark Roar", "text": "Your opponent discards a card from his or her hand.", "damage": "50", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Crunch", "text": "Until the end of your next turn, if an attack damages the Defending Pok\u00e9mon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Colorless"], "name": "Flamethrower", "text": "Discard 1 Energy card attached to Houndoom or this attack does nothing.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Free"], "name": "Switcheroo", "text": "Move a Pok\u00e9mon Tool card attached to 1 of your opponent's Pok\u00e9mon to another of your opponent's Pok\u00e9mon (excluding Pok\u00e9mon that already has a Pok\u00e9mon Tool attached to it). (If an effect of this attack is prevented, this attack does nothing.)", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness", "Colorless"], "name": "Flap", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Feint Attack", "text": "Does 30 damage to 1 of your opponent's Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, or any other effects on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Claw Rend", "text": "If the Defending Pok\u00e9mon already has any damage counters on it, this attack does 30 more damage.", "damage": "50+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Slam", "text": "Flip 2 coins. This attack does 30 times the number of heads.", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Trample", "text": "For each Benched Pok\u00e9mon in play (yours and your opponent's), flip a coin. If heads, this attack does 30 damage to that Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "50", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless"], "name": "Quick Attack", "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Pursuit", "text": "During your opponent's next turn, if the Defending Pok\u00e9mon tries to retreat, do 10 damage to it. (Don't apply Weakness and Resistance.)", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Smokescreen", "text": "If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Slash", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Jump On", "text": "Flip a coin. If heads, this attack does 10 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Clobber", "text": "You may discard an Item card from your hand. If you do, this attack does 40 more damage.", "damage": "30+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Hammer Arm", "text": "Discard the top card of your opponent's deck.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Mean Look", "text": "The Defending Pok\u00e9mon can't retreat as long as Murkrow remains your Active Pok\u00e9mon. (Benching or evolving either Pok\u00e9mon ends this effect.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 20 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9mon Powers, or any other effects on the Defending Pok\u00e9mon.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Sharp Fang", "text": "", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Fire Fang", "text": "Your opponent's Active Pok\u00e9mon is now Burned.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Puncturing Fangs", "text": "This attack's damage isn't affected by Resistance.", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Rear Kick", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Darkness Fang", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Captivate", "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pok\u00e9mon with the Defending Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Second Bite", "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pok\u00e9mon.", "damage": "40+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Megaton Fang", "text": "Discard a card from your hand. If you can't discard a card, this attack does nothing.", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness", "Colorless"], "name": "Scratch and Draw", "text": "If any Stadium card with Holon in its name is in play, draw 3 cards.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Metal", "Colorless"], "name": "Deceive", "text": "Your opponent chooses 1 of his or her Pok\u00e9mon. Put 4 damage counters on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Shadow Bind", "text": "The Defending Pok\u00e9mon can't retreat until the end of your opponent's next turn.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Fire"], "name": "Dark Flame", "text": "Discard 1 Energy card attached to Houndoom or this attack does nothing. If there are any Energy cards in your discard pile, attach 1 of them to Houndoom.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Black Fang", "text": "Flip a number of coins equal to the number of Energy attached to Houndoom. This attack does 30 damage plus 10 more damage for each heads.", "damage": "30+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Crunch", "text": "If an attack does damage to the Defending Pok\u00e9mon (after applying Weakness and Resistance), that attack does 40 more damage to that Pok\u00e9mon until the end of your next turn.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Sharp Fang", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Swipe", "text": "Flip a coin. If heads, discard all Trainer cards attached to your opponent's Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Quick Attack", "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Slash", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Limitation", "text": "Your opponent can't play any Supporter cards from his or her hand during your opponent's next turn.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Conform", "text": "If you have the same number of cards in your hand as your opponent, your opponent's Active Pok\u00e9mon is now Confused.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Free"], "name": "Gnaw", "text": "", "damage": "20", "convertedEnergyCost": 0}
+
+{"cost": ["Colorless", "Colorless"], "name": "Low Kick", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness"], "name": "Machine Gun Headbutt", "text": "Flip 3 coins. This attack does 50 damage times the number of heads. This Pok\u00e9mon is now Confused.", "damage": "50\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Whiny Voice", "text": "Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into his or her deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Dark Edge", "text": "Discard an Energy attached to this Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Dirty Trick", "text": "Flip a coin. If heads, discard an Energy card attached to 1 of your opponent's Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness"], "name": "Razor Wind", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Wings of Disaster", "text": "This attack does 20 damage to each of your opponent's Pok\u00e9mon. This attack's damage isn't affected by Weakness and Resistance. Then, discard all Pok\u00e9mon Tool cards attached to each of your opponent's Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Bone Rush", "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads.", "damage": "30\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Dark Pulse", "text": "Does 10 more damage for each Darkness Energy attached to all of your Pok\u00e9mon.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Foresight", "text": "Look at the top 5 cards of either player's deck and put them back on top of that player's deck in any order.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Overrun", "text": "Choose 1 of your opponent's Benched Pok\u00e9mon. This attack does 20 damage to that Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "10", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Corner", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Jet Headbutt", "text": "", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Venoshock", "text": "If your opponent's Active Pok\u00e9mon is Poisoned, this attack does 40 more damage.", "damage": "20+", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Venomous Fang", "text": "Your opponent's Active Pok\u00e9mon is now Poisoned.", "damage": "80", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness"], "name": "Dark Penalty", "text": "If the Defending Pok\u00e9mon has no Pok\u00e9mon Tool card attached to it, this attack does nothing.", "damage": "90", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Fury Swipes", "text": "Flip 3 coins. This attack does 30 damage times the number of heads.", "damage": "30\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Paralyzing Gaze", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Knock Off", "text": "Choose 1 card from your opponent's hand without looking and discard it.", "damage": "10", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Dark Cutter", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Abyssal Sleep", "text": "Your opponent's Active Pok\u00e9mon is now Asleep. Your opponent flips 2 coins instead of 1 between turns. If either of them is tails, that Pok\u00e9mon is still Asleep.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Entangling Control", "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with his or her Active Pok\u00e9mon. The new Active Pok\u00e9mon is now Confused.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Trash Tentacle", "text": "Put a card from your discard pile into your hand.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Torpedo Dive", "text": "This attack does 10 damage to each of your opponent's Benched Pok\u00e9mon for each Colorless in that Pok\u00e9mon's Retreat Cost. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "120", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Target Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 30 damage to that Pok\u00e9mon. If that Pok\u00e9mon already has any damage counters on it, this attack does 50 damage instead. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Blade Arms", "text": "", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Spinning Tail", "text": "This attack does 30 damage to each of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless", "Colorless"], "name": "Bite Off", "text": "If your opponent's Active Pok\u00e9mon is a Pok\u00e9mon-GX or a Pok\u00e9mon-{EX}, this attack does 100 more damage.", "damage": "130+", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Howl in the Dark", "text": "Search your deck for up to 2 Darkness Pok\u00e9mon, reveal them, and put them into your hand. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Bite", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Bite", "text": "", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Dark Fang", "text": "Discard a random card from your opponent's hand.", "damage": "50", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Destroyer King", "text": "This attack does 60 more damage for each damage counter on your opponent's Active Pok\u00e9mon.", "damage": "110+", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless"], "name": "Bubblebeam", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Cross-Cut", "text": "If the Defending Pok\u00e9mon is an Evolved Pok\u00e9mon, this attack does 40 damage plus 20 more damage.", "damage": "40+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Seek Out", "text": "Search your deck for any 1 card and put it into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Pull Away", "text": "If your opponent has 5 or more cards in his or her hand, your opponent discards a number of cards until your opponent has 4 cards left in his or her hand.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Shakedown", "text": "Flip a coin. If heads, choose 1 card from your opponent's hand without looking and discard it.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Shadow Seeker", "text": "This attack does 30 more damage for each Colorless in your opponent's Active Pok\u00e9mon's Retreat Cost.", "damage": "30+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Spirit Compressor", "text": "Search your deck for up to 4 Pok\u00e9mon and discard them. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless"], "name": "Spooky Shot", "text": "", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Shadow Drain", "text": "Heal from this Pok\u00e9mon the same amount of damage you did to the Defending Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Slashing Strike", "text": "This Pok\u00e9mon can't use Slashing Strike during your next turn.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Confuse Ray", "text": "The Defending Pok\u00e9mon is now Confused.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Shadow Shutdown", "text": "Flip 2 coins. If both of them are heads, discard all Energy attached to the Defending Pok\u00e9mon.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Dark Clamp", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Bombast", "text": "Does 40 damage times the number of Prize cards you have taken.", "damage": "40\u00d7", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness"], "name": "Acid Spray", "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pok\u00e9mon.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Hide in Shadows", "text": "Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Taunt", "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with their Active Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Night Punishment", "text": "This attack does 20 damage for each Pok\u00e9mon in your discard pile. You can't do more than 200 damage in this way.", "damage": "20\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Oblivion Wing", "text": "Attach a Darkness Energy card from your discard pile to 1 of your Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Darkness Blade", "text": "Flip a coin. If tails, this Pok\u00e9mon can't attack during your next turn.", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Bite", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Poison Tentacles", "text": "The Defending Pok\u00e9mon is now Poisoned.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Mud Shot", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Collect", "text": "Draw a card.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Corkscrew Punch", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless"], "name": "Double Hit", "text": "Flip 2 coins. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Strength", "text": "", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Paralyzing Gaze", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Smash Kick", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Destructive Roar", "text": "Flip a coin. If heads, discard 1 Energy card attached to 1 of your opponent's Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Tail Slap", "text": "", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless", "Colorless"], "name": "Gigacrush", "text": "Each player discards the top 3 cards from his or her deck.", "damage": "60", "convertedEnergyCost": 5}
+
+{"cost": ["Lightning", "Colorless", "Colorless"], "name": "Thunderous Blow", "text": "Does 40 damage plus 10 more damage for each Lightning Energy attached to Rocket's Raikou ex.", "damage": "40+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Focus Energy", "text": "During your next turn, Carvanha's Bite attack's base damage is 40.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Bite", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Rob", "text": "Look at your opponent's hand. Choose all Technical Machine and Pok\u00e9mon Tool cards there and put them into his or her deck. Your opponent shuffles the deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Claw", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Hypnoblast", "text": "Your opponent's Active Pok\u00e9mon is now Asleep.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Nightmare Mambo", "text": "If your opponent's Active Pok\u00e9mon is Asleep, this attack does 60 more damage.", "damage": "60+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Trash Crash", "text": "Discard an Item card from your hand. If you do, this attack does 60 damage to 1 of your opponent's Pok\u00e9mon. This damage isn't affected by Weakness or Resistance.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Brave Bird", "text": "This Pok\u00e9mon does 30 damage to itself.", "damage": "120", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Gentle Bite", "text": "During your opponent's next turn, any damage done by attacks from the Defending Pok\u00e9mon is reduced by 60 (before applying Weakness and Resistance).", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness"], "name": "Mach Claw", "text": "This attack's damage isn't affected by Resistance.", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Endless Darkness", "text": "The Defending Pok\u00e9mon is now Asleep. Flip 2 coins instead of 1 between turns. If either of them is tails, the Defending Pok\u00e9mon is still Asleep. If both of them are tails, the Defending Pok\u00e9mon is Knocked Out.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Double Scratch", "text": "Flip 2 coins. This attack does 10 damage times the number of heads.", "damage": "10\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Beat Up", "text": "Flip a coin for each of your Pok\u00e9mon in play (including Sneasel ex). This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Water"], "name": "Spacial Rend", "text": "Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. If there is any Stadium card in play, discard it.", "damage": "80", "convertedEnergyCost": 1}
+
+{"cost": ["Metal", "Metal", "Metal"], "name": "Roar of Time", "text": "Search your discard pile for 3 Pok\u00e9mon, show them to your opponent, and put them on top of your deck. Shuffle your deck afterward. (If you don't have 3 Pok\u00e9mon in your discard pile, this attack does nothing.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Free"], "name": "Reach Over", "text": "Search your deck for an Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness", "Darkness", "Darkness"], "name": "Darkness Pursuit", "text": "If the Defending Pok\u00e9mon is Cresselia, this attack's base damage is 100.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Darkness Roar", "text": "You may have your opponent switch the Defending Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Sleep Hole", "text": "If the Defending Pok\u00e9mon is Asleep, this attack does 40 damage plus 40 more damage. If the Defending Pok\u00e9mon is not Asleep, that Pok\u00e9mon is now Asleep.", "damage": "40+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Headbutt", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Crushing Blow", "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pok\u00e9mon.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Tighten Up", "text": "Your opponent discards 2 cards from their hand.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Tantrum", "text": "This Pok\u00e9mon is now Confused.", "damage": "170", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness"], "name": "Dark Fang", "text": "Choose 1 card from your opponent's hand without looking and discard it.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Colorless"], "name": "Black Fire", "text": "You may discard a Fire or Darkness Energy attached to Houndoom. If you discard a Fire Energy, the Defending Pok\u00e9mon is now Burned. If you discard a Darkness Energy, this attack does 40 damage plus 30 more damage.", "damage": "40+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Derail", "text": "Discard a Special Energy from your opponent's Active Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness"], "name": "Clutch", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "60", "convertedEnergyCost": 2}
+
+{"cost": ["Fighting", "Colorless"], "name": "Lunge", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "50", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Icy Wind", "text": "Your opponent's Active Pok\u00e9mon is now Asleep.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Evil Admonition", "text": "This attack does 50 damage for each of your opponent's Pok\u00e9mon that has an Ability.", "damage": "50\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Pin Missile", "text": "Flip 3 coins. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Needle Arm", "text": "If the Defending Pok\u00e9mon already has any damage counters on it, this attack does 50 damage plus 20 more damage.", "damage": "50+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Slash", "text": "", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Charge Order", "text": "This attack does 10 damage times the number of your Pawniard.", "damage": "10\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless"], "name": "Roar", "text": "Your opponent switches the Defending Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon, if any.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Ambush", "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Pull Out", "text": "Search your discard pile for any 1 card, show it to your opponent, and put it on top of your deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Dark Hand", "text": "If you have more cards in your hand than your opponent, this attack does 20 damage plus 30 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Sand Dive", "text": "Flip a coin. If heads, prevent all damage done to this Pok\u00e9mon by attacks during your opponent's next turn.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Corkscrew Punch", "text": "", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Night Spear", "text": "Does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Brutal Bash", "text": "Does 20 damage times the number of Darkness Pok\u00e9mon you have in play.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness"], "name": "Dark Rush", "text": "Does 20 damage times the number of damage counters on this Pok\u00e9mon.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Hypnoblast", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Asleep.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Double Scratch", "text": "Flip 2 coins. This attack does 10 damage times the number of heads.", "damage": "10\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Bad News", "text": "If the number of cards in your opponent's hand is at least 6, choose a number of cards there, without looking, until your opponent has 5 cards left. Have your opponent discard the cards you chose.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Prize Count", "text": "If you have more Prize cards left than your opponent, this attack does 20 damage plus 20 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Water"], "name": "Slash", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Bite Away", "text": "Flip a coin. If heads, choose a card from your opponent's hand without looking and discard it.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 20 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Colorless", "Colorless"], "name": "Flamethrower", "text": "Discard a Fire Energy card attached to Houndoom.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Fighting"], "name": "Overrun", "text": "Choose 1 of your opponent's Benched Pok\u00e9mon. This attack does 10 damage to that Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Bite Off", "text": "If the Defending Pok\u00e9mon is Pok\u00e9mon-ex, this attack does 40 damage plus 40 more damage.", "damage": "40+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Fury Swipes", "text": "Flip 3 coins. This attack does 10 damage times the number of heads.", "damage": "10\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness"], "name": "Beat Up", "text": "Flip a coin for each of your Pok\u00e9mon in play (including this one). This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Aqua Call", "text": "Search your deck for Pok\u00e9mon that has Team Aqua in its name, show up to 3 of them to your opponent, and put them into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Colorless"], "name": "Wave Splash", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Tail Crush", "text": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage.", "damage": "40+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Hyper Beam", "text": "Discard an Energy card attached to the Defending Pok\u00e9mon.", "damage": "80", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness"], "name": "Fire Counterattack", "text": "If your opponent has any Fighting Pok\u00e9mon in play, this attack does 20 damage plus 60 more damage.", "damage": "20+", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness"], "name": "Dark Roar", "text": "Your opponent discards a card from his or her hand.", "damage": "50", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 40 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Darkness Wing", "text": "If the Defending Pok\u00e9mon would be Knocked Out by damage from this attack, you may search your discard pile for any 1 card, show it to your opponent, and put it into your hand.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Toxic Fang", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Poisoned. Put 2 damage counters instead of 1 on that Pok\u00e9mon between turns.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Land Crush", "text": "", "damage": "80", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Lost Crisis", "text": "Choose 2 Energy attached to Darkrai & Cresselia LEGEND and put them in the Lost Zone. If any of your opponent's Pok\u00e9mon would be Knocked Out by damage from this attack, put that Pok\u00e9mon and all cards attached to it in the Lost Zone instead of discarding it.", "damage": "100", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic"], "name": "Moon's Invite", "text": "Move as many damage counters on your opponent's Pok\u00e9mon as you like to any of your opponent's other Pok\u00e9mon in any way you like.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless"], "name": "Roar", "text": "Your opponent switches the Defending Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon, if any.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Colorless"], "name": "Aqua Crush", "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pok\u00e9mon.", "damage": "10", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Stampede", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Ram", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Water"], "name": "Sharp Fin", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Rage", "text": "Does 10 damage plus 10 more damage for each damage counter on Carvanha.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Super Psy Bolt", "text": "", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Darkness Howl", "text": "This attack does 20 damage to each Pok\u00e9mon in play (both yours and your opponent's) (excluding any Darkness Pok\u00e9mon). (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Power Claw", "text": "This attack's damage isn't affected by Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on the Defending Pok\u00e9mon.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Megaton Tail", "text": "Discard the top 3 cards of your deck.", "damage": "120", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dark Clamp", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Snarl", "text": "Flip a coin. If heads, this attack does 10 damage to the Defending Pok\u00e9mon. If tails, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Vicious Claw", "text": "Choose 1 Pok\u00e9mon from your hand and put it in the Lost Zone. (If you can't put a Pok\u00e9mon in the Lost Zone, this attack does nothing.)", "damage": "70", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Roar", "text": "Your opponent switches the Defending Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Ambush", "text": "Flip a coin. If heads, this attack does 10 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 20 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Mach Claw", "text": "This attack's damage isn't affected by Resistance.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Sharp Claws", "text": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Future Sight", "text": "Look at the top 4 cards of either player's deck and put them back in any order.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Doom News", "text": "Put all Energy attached to this Pok\u00e9mon into your hand. At the end of your opponent's next turn, the Defending Pok\u00e9mon will be Knocked Out.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Drag Off", "text": "Before doing damage, you may switch 1 of your opponent's Benched Pok\u00e9mon with the Defending Pok\u00e9mon. If you do, this attack does 20 damage to the new Defending Pok\u00e9mon. Your opponent chooses the Defending Pok\u00e9mon to switch.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Darkness Blast", "text": "You may discard a Darkness Energy attached to Sharpedo ex. If you do, this attack does 60 damage plus 20 more damage and discard 1 Energy card attached to the Defending Pok\u00e9mon.", "damage": "60+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Disable", "text": "Choose 1 of the Defending Pok\u00e9mon's attacks. That Pok\u00e9mon can't use that attack during your opponent's next turn.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Metal"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 30 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Ambush", "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Lonely Fang", "text": "This attack does 30 damage plus 20 damage times the number of your opponent's Benched Pok\u00e9mon minus the number of your Benched Pok\u00e9mon. (For example, if your opponent has 3 Benched Pok\u00e9mon and you have 1, this attack will do 30 damage plus 40 more damage.", "damage": "30+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Linear Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 30 damage to that Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Dark Horn", "text": "You may discard a Basic Pok\u00e9mon or Evolution card from your hand. If you do, choose 1 of your opponent's Benched Pok\u00e9mon and do 20 damage to that Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Surprise", "text": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Sharp Fang", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Free"], "name": "Fury Swipes", "text": "Flip 3 coins. This attack does 10 damage for each heads.", "damage": "10\u00d7", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness"], "name": "Slash", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Metal", "Colorless"], "name": "Pay Day", "text": "Draw a card.", "damage": "10", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Lightning"], "name": "Dragon Rage", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Pound", "text": "", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Plunder", "text": "Before doing damage, discard all Trainer cards attached to the Defending Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Plunder", "text": "Before doing damage, discard all Trainer cards attached to the Defending Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dark Burst", "text": "If Sidney's Stadium is in play, this attack does 50 damage plus 20 more damage.", "damage": "50+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Pin Missile", "text": "Flip 4 coins. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Fake Out", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Gentle Slap", "text": "", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Tight Jaw", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Darkness Charge", "text": "Put 1 damage counter on Sharpedo.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Gnaw", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Grind", "text": "Does 10 damage plus 10 more damage for each Energy attached to Dark Tyranitar.", "damage": "10+", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Spinning Tail", "text": "Does 20 damage to each of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless", "Colorless"], "name": "Bite Off", "text": "If the Defending Pok\u00e9mon is Pok\u00e9mon-ex, this attack does 70 damage plus 50 more damage.", "damage": "70+", "convertedEnergyCost": 5}
+
+{"cost": ["Water", "Lightning"], "name": "Double Wing Attack", "text": "Does 30 damage to each Defending Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Claw Swipe", "text": "", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Slash", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Psychic"], "name": "Darkness Switch", "text": "Discard an Energy card attached to Rocket's Mewtwo ex, and then switch all damage counters on Rocket's Mewtwo ex with those on the Defending Pok\u00e9mon. (If an effect of this attack is prevented, this attack does nothing.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Psychic", "Colorless", "Colorless"], "name": "Hypnoblast", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Asleep.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Psychic", "Colorless", "Colorless", "Colorless"], "name": "Psyburn", "text": "", "damage": "70", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness", "Colorless"], "name": "Quick Attack", "text": "Flip a coin. If heads, this attack does 20 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Hail", "text": "This attack does 10 damage to each of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Vilify", "text": "Discard as many Pok\u00e9mon as you like from your hand. This attack does 30 damage times the number of Pok\u00e9mon you discarded.", "damage": "30\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Icy Wind", "text": "The Defending Pok\u00e9mon is now Asleep.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Water", "Colorless"], "name": "Hyper Splash", "text": "If the Defending Pok\u00e9mon is a Stage 2 Evolved Pok\u00e9mon, this attack does 50 damage plus 40 more damage.", "damage": "50+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Snatch and Run", "text": "Search your deck for a Pok\u00e9mon Tool card or Rocket's Secret Machine card, show it to your opponent, and put it into your hand. If you do, you may switch Rocket's Meowth with 1 of your Benched Pok\u00e9mon. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Miraculous Comeback", "text": "Flip a coin for each Pok\u00e9mon in play (both yours and your opponent's). This attack does 10 damage times the number of heads. Rocket's Meowth does 10 damage times the number of tails to itself.", "damage": "10\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Mind Jack", "text": "Does 20 more damage for each of your opponent's Benched Pok\u00e9mon.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Fearsome Shadow", "text": "Your opponent reveals his or her hand.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Shadow Bind", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Piston Headbutt", "text": "Move an Energy attached to the Defending Pok\u00e9mon to 1 of your opponent's Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Hammer In", "text": "", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Slash", "text": "", "damage": "40", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dragon Slayer", "text": "If the Defending Pok\u00e9mon is a Dragon Pok\u00e9mon, this attack does 40 more damage.", "damage": "80+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Cut Down", "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Slicing Blade", "text": "", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Slam", "text": "Flip 2 coins. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Scratch", "text": "", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting", "Fighting", "Colorless", "Colorless"], "name": "Critical Crush", "text": "Discard 2 Basic Energy cards attached to Tyranitar ex or this attack does nothing.", "damage": "80", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness", "Colorless"], "name": "Push Aside", "text": "Look at your opponent's hand and choose 1 Basic Pok\u00e9mon or Evolution card you find there. Your opponent puts it at the bottom of his or her deck.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Supernatural Power", "text": "If you have the same number of cards in your hand as your opponent, this attack does 40 damage plus 40 more damage.", "damage": "40+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Call for Family", "text": "Search your deck for a card named Murkrow and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Flock Attack", "text": "Flip a number of coins equal to the number of Murkrows on your Bench. This attack does 10 damage plus 10 more damage for each heads.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Darkness"], "name": "Baleful Night", "text": "This attack does 30 damage to each of your opponent's Benched Pok\u00e9mon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "120", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Limitation", "text": "Your opponent can't play any Supporter cards from their hand during their next turn.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless"], "name": "Scratch", "text": "", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Stun Gas", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Poisoned. If tails, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Fury Swipes", "text": "Flip 3 coins. This attack does 30 damage times the number of heads.", "damage": "30\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Mean Look", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Darkness"], "name": "Abyssal Sleep", "text": "Your opponent's Active Pok\u00e9mon is now Asleep. Your opponent flips 2 coins instead of 1 between turns. If either of them is tails, that Pok\u00e9mon is still Asleep.", "damage": "120", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Baleful Wind", "text": "Choose a card from your opponent's hand without looking and discard it. If you discarded a Trainer, Supporter, or Stadium card, choose 1 more card from your opponent's hand without looking and discard it.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Dark Raid", "text": "If you played Absol from your hand during this turn, this attack's base damage is 40 instead of 10.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Colorless", "Colorless"], "name": "Strike Wound", "text": "If the Defending Pok\u00e9mon has 2 or more damage counters on it, this attack does 60 damage plus 20 more damage. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on that Pok\u00e9mon.", "damage": "60+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Rummage", "text": "Look at the top 5 cards of your deck. Choose as many Trainer cards as you like, show them to your opponent, and put them into your hand. Put the other cards back on top of your deck. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Shadow Sneak", "text": "If you and your opponent have a different number of Prize cards left, this attack does 20 damage plus 20 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Grind", "text": "Does 20 damage times the amount of Energy attached to Tyranitar.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Darkness", "Darkness"], "name": "Spinning Tail", "text": "This attack does 30 damage to each of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 5}
+
+{"cost": ["Darkness"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 20 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Doom News", "text": "Return all Energy cards attached to Absol G to your hand. The Defending Pok\u00e9mon is Knocked Out at the end of your opponent's next turn.", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Free"], "name": "Scratch", "text": "", "damage": "10", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness", "Colorless"], "name": "Astonish", "text": "Choose 1 card from your opponent's hand without looking. Look at that card you chose, then have your opponent shuffle that card into his or her deck.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Black Cry", "text": "The Defending Pok\u00e9mon can't retreat or use any Pok\u00e9-Powers during your opponent's next turn.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Darkness Fang", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Whirlwind", "text": "Your opponent switches the Defending Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Shed Skin", "text": "Heal 40 damage from this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness"], "name": "Lunge", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Dark Cutter", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Abyssal Sleep", "text": "Your opponent's Active Pok\u00e9mon is now Asleep. Your opponent flips 2 coins instead of 1 between turns. If either of them is tails, that Pok\u00e9mon is still Asleep.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Upper Hand", "text": "Choose 1 of the Defending Pok\u00e9mon's attacks. That Pok\u00e9mon can't use that attack during your opponent's next turn.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 40 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Spit Acid", "text": "The Defending Pok\u00e9mon is now Burned. Flip a coin. If heads, the Defending Pok\u00e9mon is also Paralyzed.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "High Jump Kick", "text": "", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Tail Trickery", "text": "The Defending Pok\u00e9mon is now Confused.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Assist", "text": "Flip a coin. If heads, choose 1 of your Benched Pok\u00e9mon's attacks and use it as this attack.", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Corkscrew Punch", "text": "", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Razor Wind", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Roll Up", "text": "Flip 3 coins. If any of them are heads, your opponent reveals his or her hand. Then, for each heads, discard a card from your opponent's hand.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Otherworldly Return", "text": "Put a Trainer card from your discard pile into your hand.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Energy Loop", "text": "Return 2 Energy attached to Deoxys to your hand.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Nasty Plot", "text": "Search your deck for a card and put it into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Foul Play", "text": "Choose 1 of the Defending Pok\u00e9mon's attacks and use it as this attack.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Darkness"], "name": "Berserker Blade", "text": "Does 40 damage to 2 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "60", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Silent Claw", "text": "Your opponent reveals his or her hand. Discard a Supporter card you find there. Use the effect of that card as the effect of this attack.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Fake Out", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Kick Away", "text": "Your opponent switches the Defending Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Reinforced Headbutt", "text": "If this Pok\u00e9mon has a Pok\u00e9mon Tool card attached to it, this attack does 50 more damage.", "damage": "50+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Moonlight Fang", "text": "During your opponent's next turn, prevent all effects, including damage, done to Umbreon by attacks from your opponent's Pok\u00e9mon that has any Pok\u00e9-Powers or Pok\u00e9-Bodies.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Quick Blow", "text": "Flip a coin. If heads, this attack does 30 damage plus 30 more damage.", "damage": "30+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Jump On", "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.", "damage": "10+", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Sharp Fang", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Hyper Claws", "text": "If the Defending Pok\u00e9mon is a Stage 2 Evolved Pok\u00e9mon, this attack does 50 damage plus 40 more damage.", "damage": "50+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Strip Bare", "text": "Flip 2 coins. If both of them are heads, your opponent discards all cards from his or her hand.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Rage", "text": "Does 50 damage plus 10 more damage for each damage counter on Sharpedo.", "damage": "50+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Self Charge", "text": "Attach a Darkness Energy card from your hand to Nuzleaf.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Corkscrew Punch", "text": "", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Poison Claws", "text": "The Defending Pok\u00e9mon is now Poisoned.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Plunder", "text": "Before doing damage, discard all Trainer cards attached to the Defending Pok\u00e9mon.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Aqua Impact", "text": "This attack does 20 more damage for each Colorless in your opponent's Active Pok\u00e9mon's Retreat Cost.", "damage": "60+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "False Accusation", "text": "This attack does 20 more damage for each card in your opponent's hand.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Obsidian Fang", "text": "Before doing damage, discard all Pok\u00e9mon Tool cards from your opponent's Active Pok\u00e9mon.", "damage": "120", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Drag Off", "text": "Before doing damage, you may switch 1 of your opponent's Benched Pok\u00e9mon with the Defending Pok\u00e9mon. If you do, this attack does 10 damage to the new Defending Pok\u00e9mon. Your opponent chooses the Defending Pok\u00e9mon to switch.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dark Ring", "text": "Does 30 damage plus 10 more damage for each of your Darkness Pok\u00e9mon in play.\"", "damage": "30+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Plasma", "text": "Search your discard pile for a Lightning Energy card and attach it to Rocket's Zapdos ex.\"", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning", "Lightning", "Colorless"], "name": "Raging Thunder", "text": "This attack does 30 damage to 1 of your Pok\u00e9mon.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Fighting"], "name": "Shatter", "text": "Discard any Stadium card in play.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Derail", "text": "Discard a Special Energy card, if any, attached to the Defending Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Fighting", "Darkness", "Colorless"], "name": "Mix-Up", "text": "Your opponent discards the top card of his or her deck.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Fighting", "Darkness", "Darkness", "Colorless"], "name": "Losing Control", "text": "Discard the top 3 cards of your deck.", "damage": "120", "convertedEnergyCost": 4}
+
+{"cost": ["Free"], "name": "Focus Energy", "text": "During your next turn, this Pok\u00e9mon's Bite attack's base damage is 60.", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness"], "name": "Bite", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Free"], "name": "Division", "text": "Search your deck for Alolan Grimer and put it onto your Bench. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Colorless", "Colorless"], "name": "Slippery Sludge", "text": "Your opponent's Active Pok\u00e9mon is now Confused.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Chemical Breath", "text": "This attack does 70 more damage for each Special Condition affecting your opponent's Active Pok\u00e9mon.", "damage": "10+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Crunch", "text": "Discard an Energy from your opponent's Active Pok\u00e9mon.", "damage": "120", "convertedEnergyCost": 4}
+
+{"cost": ["Free"], "name": "Tri Hazard-GX", "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with their Active Pok\u00e9mon. The new Active Pok\u00e9mon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness", "Colorless"], "name": "Hypnoblast", "text": "Your opponent's Active Pok\u00e9mon is now Asleep.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Dark Raid", "text": "If your opponent has already used their GX attack, this attack does 80 more damage.", "damage": "80+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Constrict", "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Tackle", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Ambush", "text": "Flip a coin. If heads, this attack does 10 more damage.", "damage": "10+", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Wing Attack", "text": "", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Bite", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Lunge", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Crunch", "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Darkness Fang", "text": "", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "B Cancel", "text": "Your opponent can't play any Pok\u00e9mon from his or her hand to evolve the Defending Pok\u00e9mon during his or her next turn.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Confuse Ray", "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Confused.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dark Cleave", "text": "This attack's damage isn't affected by Resistance.", "damage": "130", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dead End-GX", "text": "If your opponent's Active Pok\u00e9mon is affected by a Special Condition, that Pok\u00e9mon is Knocked Out. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Fake Out", "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "MAXamar", "text": "Flip a coin for each Energy attached to this Pok\u00e9mon. This attack does 60 damage times the number of heads.", "damage": "60\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dark Cleave", "text": "This attack's damage isn't affected by Resistance.", "damage": "130", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dead End-GX", "text": "If your opponent's Active Pok\u00e9mon is affected by a Special Condition, that Pok\u00e9mon is Knocked Out. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Nasty Plot", "text": "Search your deck for a card and put it into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Foul Play", "text": "Choose 1 of the Defending Pok\u00e9mon's attacks and use it as this attack.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Punishment", "text": "If the Defending Pok\u00e9mon is a Stage 2 Pok\u00e9mon, this attack does 20 more damage.", "damage": "20+", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Snarl", "text": "During your opponent's next turn, damage from the Defending Pok\u00e9mon attacks is reduced by 20.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Paralyzing Gaze", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "High Jump Kick", "text": "", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Night Spear", "text": "Does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Hide in Shadows", "text": "You may switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Dark Hole", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Asleep.", "damage": "90", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless"], "name": "Shadow Drain", "text": "Heal from this Pok\u00e9mon the same amount of damage you did to the Defending Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Slashing Strike", "text": "This Pok\u00e9mon can't use Slashing Strike during your next turn.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "MAXamar", "text": "Flip a coin for each Energy attached to this Pok\u00e9mon. This attack does 60 damage times the number of heads.", "damage": "60\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Rage", "text": "Does 20 damage plus 10 more damage for each damage counter on Skuntank.", "damage": "20+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Hunt", "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with his or her Active Pok\u00e9mon. This attack does 30 damage to the new Active Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Jagged Fang", "text": "Discard an Energy attached to this Pok\u00e9mon. Then, discard an Energy attached to your opponent's Active Pok\u00e9mon.", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Crabhammer", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dark Destruction", "text": "You may discard an Energy from this Pok\u00e9mon. If you do, discard an Energy from your opponent's Active Pok\u00e9mon.", "damage": "120", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Slam", "text": "Flip 2 coins. This attack does 60 damage for each heads.", "damage": "60\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Trample", "text": "For each Benched Pok\u00e9mon (both yours and your opponent's), flip a coin. If heads, this attack does 60 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness or Resistance.", "damage": "120", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Disable", "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks. That Pok\u00e9mon can't use that attack during your opponent's next turn.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Hunt", "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with his or her Active Pok\u00e9mon. This attack does 30 damage to the new Active Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Jagged Fang", "text": "Discard an Energy attached to this Pok\u00e9mon. Then, discard an Energy attached to your opponent's Active Pok\u00e9mon.", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Stampede", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Ram", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Rip Claw", "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Doom Crush", "text": "Discard a Darkness Energy from this Pok\u00e9mon.", "damage": "120", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Hone Claws", "text": "During your next turn, this Pok\u00e9mon's Slash attack's base damage is 80.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Slash", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Free"], "name": "Call for the Boss", "text": "Search your deck for Alolan Raticate or Alolan Raticate-GX, reveal it, and put it into your hand. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Colorless", "Colorless"], "name": "Gnaw", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Free"], "name": "Chuck Away", "text": "Discard up to 2 cards from your hand. This attack does 40 damage for each card you discarded in this way.", "damage": "40\u00d7", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Hyper Fang", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "150", "convertedEnergyCost": 3}
+
+{"cost": ["Free"], "name": "Item Maniac-GX", "text": "Search your deck for up to 6 Item cards, reveal them, and put them into your hand. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness", "Colorless"], "name": "Headbutt", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Surprise Attack", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Headbutt", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Double Hit", "text": "Flip 2 coins. This attack does 60 damage for each heads.", "damage": "60\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Eat Sloppily", "text": "Discard the top 5 cards of your deck. If any of those cards are Energy cards, attach them to this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Colorless", "Colorless"], "name": "Tyrannical Hole", "text": "", "damage": "180", "convertedEnergyCost": 5}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Darkness", "Darkness"], "name": "Glutton-GX", "text": "If your opponent's Pok\u00e9mon is Knocked Out by damage from this attack, take 2 more Prize cards. (You can't use more than 1 GX attack in a game.)", "damage": "100", "convertedEnergyCost": 5}
+
+{"cost": ["Darkness"], "name": "Eat Sloppily", "text": "Discard the top 5 cards of your deck. If any of those cards are Energy cards, attach them to this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Colorless", "Colorless"], "name": "Tyrannical Hole", "text": "", "damage": "180", "convertedEnergyCost": 5}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Darkness", "Darkness"], "name": "Glutton-GX", "text": "If your opponent's Pok\u00e9mon is Knocked Out by damage from this attack, take 2 more Prize cards. (You can't use more than 1 GX attack in a game.)", "damage": "100", "convertedEnergyCost": 5}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dark Destruction", "text": "You may discard an Energy from this Pok\u00e9mon. If you do, discard an Energy from your opponent's Active Pok\u00e9mon.", "damage": "120", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Absorb Vitality", "text": "Heal from this Pok\u00e9mon the same amount of damage you did to your opponent's Active Pok\u00e9mon.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Sonic Evil", "text": "This attack's damage isn't affected by Weakness or Resistance.", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Doom Count-GX", "text": "If your opponent's Active Pok\u00e9mon has exactly 4 damage counters on it, that Pok\u00e9mon is Knocked Out. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Absorb Vitality", "text": "Heal from this Pok\u00e9mon the same amount of damage you did to your opponent's Active Pok\u00e9mon.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Sonic Evil", "text": "This attack's damage isn't affected by Weakness or Resistance.", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Doom Count-GX", "text": "If your opponent's Active Pok\u00e9mon has exactly 4 damage counters on it, that Pok\u00e9mon is Knocked Out. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Cursed Drop", "text": "Put 3 damage counters on your opponent's Pok\u00e9mon in any way you like.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Dangerous Head", "text": "If your opponent's Active Pok\u00e9mon is a Basic Pok\u00e9mon, this attack does 50 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Hammer In", "text": "", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Strafe", "text": "You may switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Oblivion Wing", "text": "Attach a Darkness Energy card from your discard pile to 1 of your Benched Pok\u00e9mon.", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Evil Orders", "text": "Search your deck for a number of cards up to the number of your Benched Pok\u00e9mon and put them into your hand. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Endeavor", "text": "Flip 2 coins. This attack does 30 more damage for each heads.", "damage": "60+", "convertedEnergyCost": 3}
+
+{"cost": ["Free"], "name": "Taunt", "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with their Active Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness"], "name": "Claw Rend", "text": "If your opponent's Active Pok\u00e9mon already has any damage counters on it, this attack does 30 more damage.", "damage": "30+", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Strafe", "text": "You may switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Shadow Bullet", "text": "This attack does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Dark Call-GX", "text": "Discard 2 Energy from your opponent's Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Gnaw Through", "text": "Discard all Pok\u00e9mon Tool cards from your opponent's Active Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Bite", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Gnaw", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Crunch", "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Knock Off", "text": "Discard a random card from your opponent's hand.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Darkness Fang", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Strafe", "text": "You may switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Shadow Bullet", "text": "This attack does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Dark Call-GX", "text": "Discard 2 Energy from your opponent's Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Strafe", "text": "You may switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Shadow Bullet", "text": "This attack does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Dark Call-GX", "text": "Discard 2 Energy from your opponent's Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Sneaky Smash", "text": "You can use this attack only if you go second, and only on your first turn. Discard an Energy from 1 of your opponent's Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Ambush", "text": "Flip a coin. If heads, this attack does 20 more damage.", "damage": "10+", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Gas Bond", "text": "Both Active Pok\u00e9mon are now Confused.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Rip and Run", "text": "Discard a random card from your opponent's hand. Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Speed Dive", "text": "", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Bite", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Colorless", "Colorless"], "name": "Mystic Fang", "text": "If the Defending Pok\u00e9mon is Pok\u00e9mon-ex, the Defending Pok\u00e9mon is now Confused.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Double Scratch", "text": "Flip 2 coins. This attack does 10 damage times the number of heads.", "damage": "10\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Tail Slap", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Darkness Call", "text": "Your opponent switches the Defending Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon, if any.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting", "Colorless"], "name": "Sharp Fang", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Shakedown", "text": "Choose a card from your opponent's hand without looking and discard it.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Colorless", "Colorless"], "name": "Dark Fire", "text": "You may discard a Fire Energy or Darkness Energy attached to Dark Houndoom. If you do, this attack does 40 damage plus 20 more damage.\"", "damage": "40+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Dark Seed", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn. Put 5 damage counters on the Defending Pok\u00e9mon at the end of your opponent's next turn.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Spread Poison", "text": "The Defending Pok\u00e9mon is now Poisoned. This attack does 20 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "10", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Colorless"], "name": "Double Tackle", "text": "Does 20 damage to each Defending Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Lightning", "Colorless", "Colorless"], "name": "Crushing Blow", "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pok\u00e9mon.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Dark Aid", "text": "Search your discard pile for Pok\u00e9mon Tool cards and Rocket's Secret Machine cards. You may either show 1 Pok\u00e9mon Tool card or Rocket's Secret Machine card to your opponent and put it into your hand, or show a combination of 3 Pok\u00e9mon Tool cards or Rocket's Secret Machine cards to your opponent and shuffle them into your deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Psychic", "Colorless"], "name": "Amnesia", "text": "Choose 1 of the Defending Pok\u00e9mon's attacks. That Pok\u00e9mon can't use that attack during your opponent's next turn.", "damage": "10", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Freeze Solid", "text": "Search your discard pile for a Water Energy card and attach it to Rocket's Articuno ex.\"", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Water", "Colorless"], "name": "Ice Wing", "text": "", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Energy Link", "text": "Search your discard pile for an Energy card and attach it to Rocket's Entei ex.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Fire", "Colorless"], "name": "Volcanic Ash", "text": "Discard 2 Energy attached to Rocket's Entei ex and then choose 1 of your opponent's Pok\u00e9mon. This attack does 60 damage to that Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Fighting"], "name": "Mach Punch", "text": "Does 10 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting", "Fighting", "Colorless"], "name": "Magnum Punch", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Colorless"], "name": "Fire Dance", "text": "Search your discard pile for a Fire Energy card and attach it to 1 of your Pok\u00e9mon.\"", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Fire", "Colorless"], "name": "Combustion", "text": "", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Rotating Claws", "text": "You may discard an Energy card attached to Rocket's Scizor ex. If you do, search your discard pile for an Energy card (excluding the one you discarded) and attach it to Rocket's Scizor ex.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Bounce", "text": "After your attack, you may switch Rocket's Scyther ex with 1 of your Benched Pok\u00e9mon.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Slashing Strike", "text": "Rocket's Scyther ex can't use Slashing Strike during your next turn.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Poison Claws", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Poisoned.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless", "Colorless", "Colorless"], "name": "Collapse", "text": "Rocket's Snorlax ex is now Asleep.", "damage": "60", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness"], "name": "Oblivion Wing", "text": "Attach a Darkness Energy card from your discard pile to 1 of your Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Darkness Blade", "text": "Flip a coin. If tails, this Pok\u00e9mon can't attack during your next turn.", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Evil Ball", "text": "This attack does 20 more damage times the amount of Energy attached to both Active Pok\u00e9mon.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Y Cyclone", "text": "Move an Energy from this Pok\u00e9mon to 1 of your Benched Pok\u00e9mon.", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Hypnoblast", "text": "Your opponent's Active Pok\u00e9mon is now Asleep.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Deep Wind", "text": "If your opponent's Active Pok\u00e9mon is Asleep, this attack does 60 more damage and heal 30 damage from this Pok\u00e9mon.", "damage": "60\uff0b", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Shadow Bullet", "text": "This attack does 20 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "60", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Dark Fang", "text": "Flip a coin. If heads, discard a random card from your opponent's hand.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dark Edge", "text": "During your opponent's next turn, any damage done by attacks from the Defending Pok\u00e9mon is reduced by 20 (before applying Weakness and Resistance).", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Evil Ball", "text": "This attack does 20 more damage times the amount of Energy attached to both Active Pok\u00e9mon.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Y Cyclone", "text": "Move an Energy from this Pok\u00e9mon to 1 of your Benched Pok\u00e9mon.", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Torpedo Dive", "text": "This attack does 10 damage to each of your opponent's Benched Pok\u00e9mon for each Colorless in that Pok\u00e9mon's Retreat Cost. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "120", "convertedEnergyCost": 3}
+
+{"cost": ["Free"], "name": "Spoil the Fun", "text": "If you go second, this attack does 60 more damage during your first turn.", "damage": "10+", "convertedEnergyCost": 1}
+
+{"cost": ["Free"], "name": "Empty Threat", "text": "This attack does 30 less damage times the amount of Energy attached to your opponent's Active Pok\u00e9mon.", "damage": "90-", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Retaliate", "text": "If any of your Pok\u00e9mon were Knocked Out by damage from an opponent's attack during their last turn, this attack does 90 more damage.", "damage": "30+", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Dark Cutter", "text": "", "damage": "60", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Riotous Beating", "text": "This attack does 20 damage for each of your Pok\u00e9mon in play.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness"], "name": "Trickster-GX", "text": "Choose 1 of your opponent's Pok\u00e9mon's attacks and use it as this attack. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Hammer In", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Break Ground", "text": "This attack does 10 damage to each of your Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness"], "name": "Bewitching Eyes", "text": "Choose a Supporter card from your opponent's discard pile and use it as the effect of this attack.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Furtive Drop", "text": "Put 3 damage counters on your opponent's Active Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Colorless"], "name": "Fireworks", "text": "Flip a coin. If tails, discard a Energy card attached to Houndoom.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Dark Impact", "text": "The Defending Pok\u00e9mon can't use any Pok\u00e9-Powers untill the end of your opponent's next turn.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Colorless"], "name": "Fireworks", "text": "Flip a coin. If tails, discard 1 Energy card attached to Houndoom.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Dark Impact", "text": "The Defending Pok\u00e9mon can't use any Pok\u00e9-Powers until the end of your opponent's next turn.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Destructive Roar", "text": "Flip a coin. If heads, discard 1 Energy card attached to 1 of your opponent's Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Tail Slap", "text": "", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless", "Colorless"], "name": "Gigacrush", "text": "Each player discards the top 3 cards from his or her deck.", "damage": "60", "convertedEnergyCost": 5}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Shadow Bind", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Feint Attack", "text": "Choose 1 of your opponent's Pok\u00e9mon. This attack does 20 damage to that Pok\u00e9mon. This attack's damage isn't affected by Weakness, Resistance, Pok\u00e9-Powers, Pok\u00e9-Bodies, or any other effects on that Pok\u00e9mon.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Scratch", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Slash", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Taunt", "text": "Switch the Defending Pok\u00e9mon with 1 of your opponent's Benched Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Sucker Punch", "text": "If this Pok\u00e9mon has any Darkness Energy attached to it, this attack does 30 more damage.", "damage": "30+", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Headbutt", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Nasty Plot", "text": "Search your deck for a card and put it into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Foul Play", "text": "Choose 1 of the Defending Pok\u00e9mon's attacks and use it as this attack.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Blindside", "text": "Does 50 damage to 1 of your opponent's Pok\u00e9mon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Punishment", "text": "If the Defending Pok\u00e9mon is a Stage 2 Pok\u00e9mon, this attack does 60 more damage.", "damage": "40+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Ambush", "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Lonely Fang", "text": "This attack does 30 damage plus 20 damage times the number of your opponent's Benched Pok\u00e9mon minus the number of your Benched Pok\u00e9mon. (For example, if your opponent has 3 Benched Pok\u00e9mon and you have 1, this attack will do 30 damage plus 40 more damage.", "damage": "30+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Sharp Claws", "text": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Evil Eye", "text": "Choose 1 of your opponent's Pok\u00e9mon. Put a damage counter on that Pok\u00e9mon.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Blindside", "text": "Choose 1 of your opponent's Pok\u00e9mon that has a damage counter on it. This attack does 20 damage to that Pok\u00e9mon. Don't apply Weakness and Resistance.", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Air Crash", "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Wings of Destruction", "text": "If your opponent has Xerneas (including Xerneas-EX) in play, this attack does 40 more damage.", "damage": "80\uff0b", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Darkness", "Darkness"], "name": "Dark Mountain", "text": "Discard the top 2 cards of your deck. This attack does 50 more damage for each Supporter card discarded in this way.", "damage": "150+", "convertedEnergyCost": 5}
+
+{"cost": ["Darkness"], "name": "Ink Spit", "text": "If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Rogue Ring", "text": "Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Darkness"], "name": "Dark Strike", "text": "This Pok\u00e9mon can't use Dark Strike during your next turn.", "damage": "160", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Darkness"], "name": "Devilish Hands-GX", "text": "Choose 1 of your opponent's Pok\u00e9mon-GX or Pok\u00e9mon-{EX} 6 times. (You can choose the same Pok\u00e9mon more than once.) For each time you chose a Pok\u00e9mon, do 30 damage to it. This damage isn't affected by Weakness or Resistance. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Crushing Punch", "text": "Discard a Special Energy from your opponent's Active Pok\u00e9mon.", "damage": "130", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Darkest Tornado-GX", "text": "This attack does 50 more damage for each damage counter on this Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "10+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Rogue Ring", "text": "Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Darkness"], "name": "Dark Strike", "text": "This Pok\u00e9mon can't use Dark Strike during your next turn.", "damage": "160", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Darkness"], "name": "Devilish Hands-GX", "text": "Choose 1 of your opponent's Pok\u00e9mon-GX or Pok\u00e9mon-{EX} 6 times. (You can choose the same Pok\u00e9mon more than once.) For each time you chose a Pok\u00e9mon, do 30 damage to it. This damage isn't affected by Weakness or Resistance. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Crushing Punch", "text": "Discard a Special Energy from your opponent's Active Pok\u00e9mon.", "damage": "130", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Darkest Tornado-GX", "text": "This attack does 50 more damage for each damage counter on this Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "10+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Strafe", "text": "You may switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Shadow Bullet", "text": "This attack does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Dark Call-GX", "text": "Discard 2 Energy from your opponent's Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Free"], "name": "Scratch", "text": "", "damage": "10", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness", "Darkness"], "name": "Fake Out", "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Free"], "name": "Enhanced Fang", "text": "If this Pok\u00e9mon has a Pok\u00e9mon Tool card attached to it, this attack does 50 more damage.", "damage": "10+", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness"], "name": "Hyper Fang", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "60", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dark Cleave", "text": "This attack's damage isn't affected by Resistance.", "damage": "130", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dead End-GX", "text": "If your opponent's Active Pok\u00e9mon is affected by a Special Condition, that Pok\u00e9mon is Knocked Out. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Psybeam", "text": "Your opponent's Active Pok\u00e9mon is now Confused.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Energy Slosh", "text": "You may move all Energy from this Pok\u00e9mon to 1 of your Benched Pok\u00e9mon.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Chemical Breath", "text": "This attack does 70 more damage for each Special Condition affecting your opponent's Active Pok\u00e9mon.", "damage": "10+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Crunch", "text": "Discard an Energy from your opponent's Active Pok\u00e9mon.", "damage": "120", "convertedEnergyCost": 4}
+
+{"cost": ["Free"], "name": "Tri Hazard-GX", "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with their Active Pok\u00e9mon. The new Active Pok\u00e9mon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Chemical Breath", "text": "This attack does 70 more damage for each Special Condition affecting your opponent's Active Pok\u00e9mon.", "damage": "10+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless", "Colorless"], "name": "Crunch", "text": "Discard an Energy from your opponent's Active Pok\u00e9mon.", "damage": "120", "convertedEnergyCost": 4}
+
+{"cost": ["Free"], "name": "Tri Hazard-GX", "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with their Active Pok\u00e9mon. The new Active Pok\u00e9mon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Colorless"], "name": "Fury Swipes", "text": "Flip 3 coins. This attack does 10 damage for each heads.", "damage": "10\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness"], "name": "Beat Up", "text": "Flip a coin for each Pok\u00e9mon you have in play. This attack does 30 damage for each heads.", "damage": "30\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Eat Sloppily", "text": "Discard the top 5 cards of your deck. If any of those cards are Energy cards, attach them to this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Colorless", "Colorless"], "name": "Tyrannical Hole", "text": "", "damage": "180", "convertedEnergyCost": 5}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Darkness", "Darkness"], "name": "Glutton-GX", "text": "If your opponent's Pok\u00e9mon is Knocked Out by damage from this attack, take 2 more Prize cards. (You can't use more than 1 GX attack in a game.)", "damage": "100", "convertedEnergyCost": 5}
+
+{"cost": ["Darkness"], "name": "Eat Sloppily", "text": "Discard the top 5 cards of your deck. If any of those cards are Energy cards, attach them to this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Colorless", "Colorless"], "name": "Tyrannical Hole", "text": "", "damage": "180", "convertedEnergyCost": 5}
+
+{"cost": ["Darkness", "Darkness", "Darkness", "Darkness", "Darkness"], "name": "Glutton-GX", "text": "If your opponent's Pok\u00e9mon is Knocked Out by damage from this attack, take 2 more Prize cards. (You can't use more than 1 GX attack in a game.)", "damage": "100", "convertedEnergyCost": 5}
+
+{"cost": ["Darkness", "Colorless"], "name": "Untamed Punch", "text": "If this Pok\u00e9mon has any damage counters on it, this attack does 50 more damage, and both Active Pok\u00e9mon are now Confused.", "damage": "50+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Double Stomp", "text": "Flip 2 coins. This attack does 40 more damage for each heads.", "damage": "80+", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Absorb Vitality", "text": "Heal from this Pok\u00e9mon the same amount of damage you did to your opponent's Active Pok\u00e9mon.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Sonic Evil", "text": "This attack's damage isn't affected by Weakness or Resistance.", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Doom Count-GX", "text": "If your opponent's Active Pok\u00e9mon has exactly 4 damage counters on it, that Pok\u00e9mon is Knocked Out. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Whirlwind", "text": "Your opponent switches their Active Pok\u00e9mon with 1 of their Benched Pok\u00e9mon.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness"], "name": "Feint Attack", "text": "This attack does 30 damage to 1 of your opponent's Pok\u00e9mon. This damage isn't affected by Weakness, Resistance, or any other effects on that Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Raven's Claw", "text": "This attack does 10 more damage for each damage counter on all of your opponent's Pok\u00e9mon.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Sky Uppercut", "text": "This attack's damage isn't affected by Resistance.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless", "Colorless"], "name": "Magnum Punch", "text": "", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dusty Ruckus", "text": "This attack does 30 damage to each of your opponent's Benched Basic Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "130", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Lay the Smackdown-GX", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "220", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dusty Ruckus", "text": "This attack does 30 damage to each of your opponent's Benched Basic Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "130", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Lay the Smackdown-GX", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "220", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Dusty Ruckus", "text": "This attack does 30 damage to each of your opponent's Benched Basic Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "130", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Lay the Smackdown-GX", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "220", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Riotous Beating", "text": "This attack does 20 damage for each of your Pok\u00e9mon in play.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness"], "name": "Trickster-GX", "text": "Choose 1 of your opponent's Pok\u00e9mon's attacks and use it as this attack. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Free"], "name": "Nasty Plot", "text": "Flip a coin. If heads, search your deck for a card and put it into your hand. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Darkness"], "name": "Scratch", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Darkness", "Colorless"], "name": "Sticky Smokescreen", "text": "If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips 2 coins. If either of them is tails, that attack does nothing.", "damage": "50", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Darkness", "Colorless"], "name": "Hammer In", "text": "", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Darkness"], "name": "Disaster Wing", "text": "Discard the top card of your opponent's deck. If that card is a Trainer card, this attack does 80 more damage.", "damage": "80\uff0b", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless"], "name": "Evil Ball", "text": "This attack does 20 more damage times the amount of Energy attached to both Active Pok\u00e9mon.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Y Cyclone", "text": "Move an Energy from this Pok\u00e9mon to 1 of your Benched Pok\u00e9mon.", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Shadow Cage", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "60", "convertedEnergyCost": 3}
+
