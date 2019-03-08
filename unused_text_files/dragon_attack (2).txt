@@ -1,0 +1,964 @@
+{"cost": ["Colorless", "Colorless"], "name": "Guard Press", "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 20 (after applying Weakness and Resistance).", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Fire", "Water", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "90", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Slash", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Water", "Lightning", "Colorless"], "name": "Black Ballista", "text": "Discard 3 Energy attached to this Pok\u00e9mon.", "damage": "200", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Slash", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Water", "Colorless"], "name": "White Inferno", "text": "Does 10 more damage for each damage counter on this Pok\u00e9mon.", "damage": "100+", "convertedEnergyCost": 4}
+
+{"cost": ["Lightning", "Colorless", "Colorless"], "name": "Hyper Beam", "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pok\u00e9mon.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Grass", "Colorless", "Colorless", "Colorless"], "name": "Hurricane Tail", "text": "Flip 4 coins. This attack does 60 damage times the number of heads.", "damage": "60\u00d7", "convertedEnergyCost": 4}
+
+{"cost": ["Water", "Colorless"], "name": "Sky Blade", "text": "If Latias is on your Bench, this attack does 20 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Colorless", "Colorless"], "name": "Speed Wing", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Fighting"], "name": "Signs of Evolution", "text": "Flip a coin. If heads, search your deck for Fraxure, reveal it, and put it into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Metal"], "name": "Scratch", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Axe Slugger", "text": "If the Defending Pok\u00e9mon is a Colorless Pok\u00e9mon, this attack does 60 more damage.", "damage": "60+", "convertedEnergyCost": 2}
+
+{"cost": ["Fighting", "Metal", "Colorless", "Colorless"], "name": "Dragon Pulse", "text": "Discard the top card of your deck.", "damage": "100", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Psychic", "Colorless", "Colorless"], "name": "Blizzard", "text": "Does 10 damage to each of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "90", "convertedEnergyCost": 4}
+
+{"cost": ["Fighting", "Colorless"], "name": "Dual Chop", "text": "Flip 2 coins. This attack does 30 damage times the number of heads.", "damage": "30\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Fighting", "Colorless"], "name": "Power Blast", "text": "Discard an Energy attached to this Pok\u00e9mon.", "damage": "120", "convertedEnergyCost": 3}
+
+{"cost": ["Grass", "Lightning"], "name": "Wrap", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Metal", "Colorless"], "name": "Scratch", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Fighting", "Colorless", "Colorless"], "name": "Sharp Fang", "text": "", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Tail Whap", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Grass", "Lightning", "Colorless"], "name": "Dragon Pulse", "text": "Discard the top card of your deck.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Knock Away", "text": "Flip a coin. If heads, this attack does 20 more damage.", "damage": "10+", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Water", "Colorless"], "name": "Rollout", "text": "", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Fighting", "Fighting", "Colorless"], "name": "Crimson Edge", "text": "This Pok\u00e9mon does 10 damage to itself for each damage counter on it.", "damage": "180", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Brat Snack", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting", "Metal", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Metal", "Colorless"], "name": "Glide", "text": "", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Tackle", "text": "", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fighting"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on the Defending Pok\u00e9mon.", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Crunch", "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Darkness", "Darkness"], "name": "Dragon Claw", "text": "", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Celestial Roar", "text": "Discard the top 3 cards of your deck. If any of those cards are Energy cards, attach them to this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Lightning"], "name": "Dragon Burst", "text": "Discard all basic Fire Energy or all basic Lightning Energy attached to this Pok\u00e9mon. This attack does 60 damage times the number of Energy cards you discarded.", "damage": "60\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Fighting"], "name": "Mach Cut", "text": "Discard a Special Energy attached to the Defending Pok\u00e9mon.", "damage": "60", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fighting"], "name": "Dragonblade", "text": "Discard the top 2 cards of your deck.", "damage": "100", "convertedEnergyCost": 2}
+
+{"cost": ["Grass", "Psychic", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on the Defending Pok\u00e9mon.", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Grass", "Psychic", "Colorless", "Colorless"], "name": "Dragon Pulse", "text": "Discard the top 3 cards of your deck.", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic", "Darkness", "Darkness", "Colorless"], "name": "Dragonblast", "text": "Discard 2 Darkness Energy attached to this Pok\u00e9mon.", "damage": "140", "convertedEnergyCost": 4}
+
+{"cost": ["Lightning", "Colorless"], "name": "Dual Claw", "text": "Flip 2 coins. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Lightning", "Colorless", "Colorless"], "name": "Flash Freeze", "text": "Discard an Energy attached to this Pok\u00e9mon.", "damage": "100", "convertedEnergyCost": 4}
+
+{"cost": ["Grass"], "name": "Hook", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning", "Colorless"], "name": "Slam", "text": "Flip 2 coins. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Fire"], "name": "Shatter", "text": "Discard any Stadium card in play.", "damage": "60", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Colorless", "Colorless"], "name": "Power Howl", "text": "This attack does 20 damage times the number of cards in your opponent's hand.", "damage": "20\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Water", "Colorless"], "name": "Steam Blast", "text": "Discard 3 Energy attached to this Pok\u00e9mon.", "damage": "170", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Fire", "Lightning", "Colorless"], "name": "Dragon Strike", "text": "Flip a coin. If tails, this Pok\u00e9mon can't use Dragon Strike during your next turn.", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Fire", "Fire", "Lightning", "Colorless"], "name": "Bright Wing", "text": "Discard a Fire Energy attached to this Pok\u00e9mon.", "damage": "110", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic"], "name": "Fast Raid", "text": "If you go first, you can use this attack on your first turn.", "damage": "40", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Psychic", "Psychic", "Colorless"], "name": "Light Pulse", "text": "Prevent all effects of your opponent's attacks, except damage, done to this Pok\u00e9mon during your opponent's next turn.", "damage": "110", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic", "Darkness", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness"], "name": "Guard Press", "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 10 (after applying Weakness and Resistance).", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Psychic", "Colorless", "Colorless"], "name": "Headbutt", "text": "", "damage": "30", "convertedEnergyCost": 3}
+
+{"cost": ["Lightning"], "name": "Dragon Pulse", "text": "Discard the top 2 cards of your deck.", "damage": "40", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Lightning", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on the Defending Pok\u00e9mon.", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Grass", "Fighting", "Colorless", "Colorless"], "name": "Flying Beatdown", "text": "You may discard a Grass Energy and a Fighting Energy attached to this Pok\u00e9mon. If you do, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "80", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic", "Darkness", "Darkness", "Colorless"], "name": "Calamity Blast", "text": "Discard 3 Energy attached to this Pok\u00e9mon. This attack does 50 damage to 2 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "150", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Gooey", "text": "Heal 10 damage from this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fairy"], "name": "Tackle", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Tight Jaw", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Water", "Colorless"], "name": "Dragon Tail", "text": "Flip 2 coins. This attack does 80 damage times the number of heads.", "damage": "80\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Speed Dive", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Metal", "Colorless"], "name": "Cleave", "text": "Flip 2 coins. If both of them are heads, discard all Energy attached to the Defending Pok\u00e9mon.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Tackle", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fighting"], "name": "Gnaw", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Tackle", "text": "", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fighting"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on the Defending Pok\u00e9mon.", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Fighting"], "name": "Mach Cut", "text": "Discard a Special Energy attached to the Defending Pok\u00e9mon.", "damage": "60", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fighting"], "name": "Dragonblade", "text": "Discard the top 2 cards of your deck.", "damage": "100", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Deep Growl", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Psychic", "Colorless"], "name": "Power Breath", "text": "Discard an Energy attached to this Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Crunch", "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Darkness", "Darkness"], "name": "Dragon Claw", "text": "", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Colorless", "Colorless"], "name": "Dragon Stream", "text": "Flip a coin. If heads, attach a basic Energy card from your discard pile to this Pok\u00e9mon.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Water", "Colorless"], "name": "Ice Burn", "text": "Discard 2 Fire Energy attached to this Pok\u00e9mon. The Defending Pok\u00e9mon is now Burned.", "damage": "150", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Strafe", "text": "You may switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Grass", "Water", "Colorless", "Colorless"], "name": "Dimension Heal", "text": "Heal from this Pok\u00e9mon 20 damage for each Plasma Energy attached to this Pok\u00e9mon.", "damage": "80", "convertedEnergyCost": 4}
+
+{"cost": ["Grass"], "name": "Shed Skin", "text": "Heal 20 damage from this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning", "Colorless"], "name": "Tail Smack", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Dragon Vortex", "text": "Does 20 damage times the number of Water Energy cards and Lightning Energy cards in your discard pile. Then, shuffle all of those cards back into your deck.", "damage": "20\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Water"], "name": "Tri Bullet", "text": "This attack does 30 damage to 3 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Psychic", "Colorless"], "name": "Mach Flight", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Psychic", "Colorless"], "name": "Luster Purge", "text": "Discard all Energy attached to this Pok\u00e9mon.", "damage": "150", "convertedEnergyCost": 3}
+
+{"cost": ["Lightning", "Colorless", "Colorless"], "name": "Dragon Fang", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Lightning", "Lightning", "Colorless"], "name": "Freeze Shock", "text": "This Pok\u00e9mon can't attack during your next turn.", "damage": "150", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Gooey", "text": "Heal 10 damage from this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fairy"], "name": "Tackle", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Lightning"], "name": "Energy Stream", "text": "Attach a basic Energy card from your discard pile to this Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Lightning", "Lightning", "Colorless"], "name": "Electric Ball", "text": "", "damage": "100", "convertedEnergyCost": 4}
+
+{"cost": ["Water", "Psychic", "Colorless"], "name": "Sonic Ace", "text": "Discard 2 Energy attached to this Pok\u00e9mon. This attack does 120 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Paralyzing Gaze", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting", "Metal"], "name": "Dragon Claw", "text": "", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Grass"], "name": "Quick Turn", "text": "Flip 2 coins. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting", "Colorless", "Colorless"], "name": "Sand Pulse", "text": "Does 10 damage to each of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Colorless"], "name": "Damage Rush", "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Water", "Colorless", "Colorless"], "name": "Cold Fire", "text": "Flip a coin. If heads, this attack does 40 more damage.", "damage": "80+", "convertedEnergyCost": 4}
+
+{"cost": ["Fire", "Colorless", "Colorless"], "name": "Dragon Stream", "text": "Flip a coin. If heads, attach a basic Energy card from your discard pile to this Pok\u00e9mon.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Water", "Colorless"], "name": "Ice Burn", "text": "Discard 2 Fire Energy attached to this Pok\u00e9mon. The Defending Pok\u00e9mon is now Burned.", "damage": "150", "convertedEnergyCost": 4}
+
+{"cost": ["Fighting"], "name": "Sand-Attack", "text": "If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Colorless"], "name": "Knock Away", "text": "Flip a coin. If heads, this attack does 20 more damage.", "damage": "10+", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Colorless", "Colorless"], "name": "Dragon Stream", "text": "Flip a coin. If heads, attach a basic Energy card from your discard pile to this Pok\u00e9mon.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Water", "Colorless"], "name": "Ice Burn", "text": "Discard 2 Fire Energy attached to this Pok\u00e9mon. The Defending Pok\u00e9mon is now Burned.", "damage": "150", "convertedEnergyCost": 4}
+
+{"cost": ["Grass", "Grass", "Lightning"], "name": "Jet Sonic", "text": "You may discard an Energy attached to this Pok\u00e9mon. If you do, this attack does 40 more damage.", "damage": "80+", "convertedEnergyCost": 3}
+
+{"cost": ["Psychic"], "name": "Severe Poison", "text": "Your opponent's Active Pok\u00e9mon is now Poisoned. Put 4 damage counters instead of 1 on that Pok\u00e9mon between turns.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Psychic"], "name": "Dragon Pulse", "text": "Discard the top card of your deck.", "damage": "60", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Big Storm", "text": "Discard any Stadium card in play.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Colorless", "Colorless", "Colorless"], "name": "Dragon Trail", "text": "This attack does 30 more damage for each basic Lightning Energy attached to this Pok\u00e9mon.", "damage": "60+", "convertedEnergyCost": 4}
+
+{"cost": ["Metal"], "name": "Extra Chop", "text": "This Pok\u00e9mon does 10 damage to itself.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting", "Metal", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Sharp Fang", "text": "", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting", "Metal", "Colorless"], "name": "Dragon Slayer", "text": "If your opponent's Active Pok\u00e9mon is a Dragon Pok\u00e9mon, this attack does 40 more damage (before applying Weakness and Resistance).", "damage": "60+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Dragon Dance", "text": "As long as this Haxorus is your Active Pok\u00e9mon, each of its attacks does 100 more damage (before applying Weakness and Resistance). You can't add more than 100 damage in this way.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless"], "name": "Sharp Fang", "text": "", "damage": "60", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting", "Metal"], "name": "Dragon Pulse", "text": "Discard the top 3 cards of your deck.", "damage": "130", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Tuning", "text": "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Psychic", "Darkness", "Colorless"], "name": "Air Slash", "text": "Discard an Energy attached to this Pok\u00e9mon.", "damage": "120", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Big Storm", "text": "Discard any Stadium card in play.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Colorless", "Colorless", "Colorless"], "name": "Dragon Trail", "text": "This attack does 30 more damage for each basic Lightning Energy attached to this Pok\u00e9mon.", "damage": "60+", "convertedEnergyCost": 4}
+
+{"cost": ["Water"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Lightning"], "name": "Twister", "text": "Flip 2 coins. For each heads, discard an Energy attached to your opponent's Active Pok\u00e9mon. If both of them are tails, this attack does nothing.", "damage": "70", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Darkness", "Colorless"], "name": "Synchro Woofer", "text": "If you have the same number of cards in your hand as your opponent, this attack does 80 more damage.", "damage": "70+", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Proud Fang", "text": "If your opponent has any Pok\u00e9mon BREAK in play, this attack does 60 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Water", "Colorless"], "name": "Giga Claw", "text": "Flip 2 coins. If both of them are tails, this attack does nothing.", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Double Hit", "text": "Flip 2 coins. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Psychic", "Darkness", "Colorless"], "name": "Power Breath", "text": "Discard an Energy attached to this Pok\u00e9mon.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Cruel Fang", "text": "During your opponent's next turn, any damage done by attacks from the Defending Pok\u00e9mon is reduced by 40 (before applying Weakness and Resistance).", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Darkness", "Colorless"], "name": "Dark Burn", "text": "Discard as many Darkness Energy attached to your Pok\u00e9mon as you like. This attack does 50 damage times the amount of Darkness Energy you discarded in this way.", "damage": "50\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Fighting", "Metal"], "name": "Lunge", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Jet Headbutt", "text": "", "damage": "40", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fighting", "Colorless"], "name": "Sand Tomb", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Tackle", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fighting"], "name": "Gnaw", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness", "Colorless", "Colorless"], "name": "Consume", "text": "Heal from this Pok\u00e9mon the same amount of damage you did to the Defending Pok\u00e9mon.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Psychic", "Darkness", "Colorless", "Colorless"], "name": "Destructor Beam", "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pok\u00e9mon.", "damage": "90", "convertedEnergyCost": 4}
+
+{"cost": ["Fire", "Water", "Colorless", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "100", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic", "Darkness", "Colorless", "Colorless"], "name": "Crazy Headbutt", "text": "Discard an Energy attached to this Pok\u00e9mon.", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Fire", "Fire", "Darkness", "Colorless", "Colorless"], "name": "Wild Blaze", "text": "Discard the top 5 cards of your deck.", "damage": "300", "convertedEnergyCost": 5}
+
+{"cost": ["Water", "Psychic", "Colorless"], "name": "Poison Breath", "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Poisoned.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Metal", "Colorless"], "name": "Glide", "text": "", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Colorless"], "name": "Continuous Headbutt", "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads.", "damage": "30\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic"], "name": "Fast Raid", "text": "If you go first, you can use this attack on your first turn.", "damage": "40", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Psychic", "Psychic", "Colorless"], "name": "Light Pulse", "text": "Prevent all effects of your opponent's attacks, except damage, done to this Pok\u00e9mon during your opponent's next turn.", "damage": "110", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic", "Darkness", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Lightning"], "name": "Dragon Pulse", "text": "Discard the top 2 cards of your deck.", "damage": "40", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Lightning", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on the Defending Pok\u00e9mon.", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Darkness", "Colorless", "Colorless"], "name": "Wild Blaze", "text": "Discard the top 5 cards of your deck.", "damage": "300", "convertedEnergyCost": 5}
+
+{"cost": ["Colorless", "Colorless"], "name": "Revenge", "text": "If any of your Pok\u00e9mon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 70 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Water", "Colorless", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "80", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Gooey", "text": "Heal 30 damage from this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fairy", "Colorless"], "name": "Gentle Slap", "text": "", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Colorless"], "name": "Damage Rush", "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Water", "Colorless", "Colorless"], "name": "Cold Fire", "text": "Flip a coin. If heads, this attack does 40 more damage.", "damage": "80+", "convertedEnergyCost": 4}
+
+{"cost": ["Water", "Psychic", "Colorless"], "name": "Sonic Ace", "text": "Discard 2 Energy attached to this Pok\u00e9mon. This attack does 120 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Headbutt", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Water"], "name": "Dragon Claw", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Fire", "Lightning", "Colorless"], "name": "Dragon Strike", "text": "Flip a coin. If tails, this Pok\u00e9mon can't use Dragon Strike during your next turn.", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Glide", "text": "", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Psychic", "Colorless", "Colorless"], "name": "Sky Blade", "text": "If Latias is on your Bench, this attack does 50 more damage.", "damage": "70+", "convertedEnergyCost": 4}
+
+{"cost": ["Fire", "Colorless", "Colorless"], "name": "Hyper Beam", "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Water", "Colorless"], "name": "Flare Blizzard", "text": "This Pok\u00e9mon can't use Flare Blizzard during your next turn.", "damage": "120", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Song of Echoes", "text": "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of Benched Pok\u00e9mon (both yours and your opponent's).", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Metal"], "name": "Midnight Eyes", "text": "Your opponent's Active Pok\u00e9mon is now Asleep.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Colorless"], "name": "Dual Claw", "text": "Flip 2 coins. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Lightning", "Colorless", "Colorless"], "name": "Dragon Blast", "text": "Discard 1 Fire Energy and 1 Lightning Energy attached to this Pok\u00e9mon.", "damage": "120", "convertedEnergyCost": 4}
+
+{"cost": ["Grass"], "name": "Signs of Evolution", "text": "Search your deck for a Dratini, a Dragonair, and a Dragonite, reveal them, and put them into your hand. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning"], "name": "Tail Smack", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Grass", "Grass", "Lightning"], "name": "Jet Sonic", "text": "You may discard an Energy attached to this Pok\u00e9mon. If you do, this attack does 40 more damage.", "damage": "80+", "convertedEnergyCost": 3}
+
+{"cost": ["Metal", "Metal", "Psychic", "Psychic"], "name": "Shining Burst", "text": "If the total of both players' remaining Prize cards is 6 or less, discard all Energy from this Pok\u00e9mon, and this attack does 100 more damage.", "damage": "100+", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Charge Energy", "text": "Search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Grass", "Fighting"], "name": "Vibration", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Rainbow Shower", "text": "Attach as many basic Energy cards as you like from your hand to your Pok\u00e9mon in any way you like.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Grass", "Fighting", "Colorless"], "name": "Sand Sweep", "text": "Heal 30 damage from each of your Pok\u00e9mon that has any Energy attached to it.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Water", "Colorless", "Colorless"], "name": "Savage Wing", "text": "Discard as many basic Fire Energy attached to this Pok\u00e9mon as you like. This attack does 40 more damage for each Energy card discarded in this way.", "damage": "100+", "convertedEnergyCost": 4}
+
+{"cost": ["Water", "Fairy", "Colorless"], "name": "Heavy Whip", "text": "Flip a coin. If heads, this attack does 40 more damage.", "damage": "80+", "convertedEnergyCost": 3}
+
+{"cost": ["Psychic", "Darkness", "Colorless"], "name": "Boomburst", "text": "This attack does 30 damage to each of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Grass"], "name": "Shed Skin", "text": "Heal 30 damage from this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Grass", "Lightning", "Colorless"], "name": "Slam", "text": "Flip 2 coins. This attack does 60 damage times the number of heads.", "damage": "60\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Grass", "Lightning", "Colorless"], "name": "Mach Press", "text": "Flip 2 coins. If both of them are heads, your opponent's Active Pok\u00e9mon is now Paralyzed.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Lightning"], "name": "Wrapped in Wind", "text": "Attach up to 2 basic Energy cards from your hand to this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Grass", "Grass", "Grass", "Lightning", "Colorless"], "name": "Heavy Impact", "text": "", "damage": "150", "convertedEnergyCost": 5}
+
+{"cost": ["Colorless"], "name": "Bubble", "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fairy"], "name": "Melt", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Leer", "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Water"], "name": "Almost Flight", "text": "This Pok\u00e9mon does 10 damage to itself.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Water", "Colorless"], "name": "Rolling Tackle", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Fire", "Lightning", "Colorless"], "name": "Dragon Ascent", "text": "Discard 2 Energy attached to this Pok\u00e9mon.", "damage": "300", "convertedEnergyCost": 5}
+
+{"cost": ["Water", "Fighting"], "name": "Dragonslice", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Darkness"], "name": "Deep Growl", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Psychic", "Colorless"], "name": "Power Breath", "text": "Discard an Energy attached to this Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Draw In", "text": "Attach 2 Darkness Energy cards from your discard pile to this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Psychic", "Darkness", "Colorless"], "name": "Dragon Headbutt", "text": "", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Celestial Roar", "text": "Discard the top 3 cards of your deck. If any of those cards are Energy cards, attach them to this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Lightning"], "name": "Dragon Burst", "text": "Discard all basic Fire Energy or all basic Lightning Energy attached to this Pok\u00e9mon. This attack does 60 damage times the number of Energy cards you discarded.", "damage": "60\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Grass", "Psychic", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on the Defending Pok\u00e9mon.", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Grass", "Psychic", "Colorless", "Colorless"], "name": "Dragon Pulse", "text": "Discard the top 3 cards of your deck.", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic", "Darkness"], "name": "Gnaw Off", "text": "Flip a coin. If heads, this attack does 10 more damage.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Darkness"], "name": "Slam", "text": "Flip 2 coins. This attack does 30 damage times the number of heads.", "damage": "30\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Fairy", "Colorless", "Colorless"], "name": "Dragon Pulse", "text": "Discard the top card of your deck.", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Strong Bond", "text": "Search your deck for a Supporter card named Iris, reveal it, and put it into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting", "Metal"], "name": "Dragon Claw", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Psychic", "Psychic", "Colorless"], "name": "Buster Purge", "text": "Discard 3 Energy from this Pok\u00e9mon.", "damage": "240", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic"], "name": "Aero Unit-GX", "text": "Attach 5 basic Energy cards from your discard pile to your Pok\u00e9mon in any way you like. If this Pok\u00e9mon has at least 1 extra Energy attached to it (in addition to this attack's cost), prevent all effects of attacks, including damage, done to it during your opponent's next turn. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Grass"], "name": "Tropical Shake", "text": "This attack does 20 more damage for each type of basic Energy card in your discard pile. You can't add more than 100 damage in this way.", "damage": "20+", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Deafen", "text": "Your opponent can't play any Item cards from his or her hand during his or her next turn.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Grass", "Lightning", "Colorless", "Colorless"], "name": "Healwing", "text": "Heal 30 damage from this Pok\u00e9mon.", "damage": "90", "convertedEnergyCost": 4}
+
+{"cost": ["Fire", "Psychic", "Colorless"], "name": "Barrier Break", "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pok\u00e9mon.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Grass"], "name": "Hypnotic Gaze", "text": "The Defending Pok\u00e9mon is now Asleep.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning"], "name": "Tail Whap", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting"], "name": "Ascension", "text": "Search your deck for a card that evolves from this Pok\u00e9mon and put it onto this Pok\u00e9mon to evolve it. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Gnaw", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Grass"], "name": "Healing Melody", "text": "Heal 10 damage from each of your Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning", "Colorless"], "name": "Slam", "text": "Flip 2 coins. This attack does 30 damage times the number of heads.", "damage": "30\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Headbutt", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Water"], "name": "Dragon Claw", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Water", "Colorless", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on the Defending Pok\u00e9mon.", "damage": "90", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Energy Assist", "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Psychic"], "name": "Sky Heal", "text": "If Latios is on your Bench, heal 20 damage from this Pok\u00e9mon.", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Lightning"], "name": "Dragon Pulse", "text": "Discard the top 2 cards of your deck.", "damage": "40", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Lightning", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on the Defending Pok\u00e9mon.", "damage": "90", "convertedEnergyCost": 3}
+
+{"cost": ["Fighting", "Metal", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Free"], "name": "Paradise Draw", "text": "You may discard any number of cards from your hand. Then, draw cards until you have 6 cards in your hand.", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Grass", "Colorless"], "name": "Egg Splat", "text": "Discard any number of Exeggcute from your hand. This attack does 60 damage for each card you discarded in this way.", "damage": "60\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Lightning"], "name": "Dragon Rage", "text": "Flip 2 coins. If either of them is tails, this attack does nothing.", "damage": "60", "convertedEnergyCost": 1}
+
+{"cost": ["Water"], "name": "Rain Splash", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Lightning"], "name": "Twister", "text": "Flip 2 coins. For each heads, discard an Energy from your opponent's Active Pok\u00e9mon. If both of them are tails, this attack does nothing.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Lightning", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "120", "convertedEnergyCost": 3}
+
+{"cost": ["Lightning", "Colorless", "Colorless"], "name": "Thunder Nail", "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Lightning", "Lightning", "Colorless"], "name": "Frozen Slice", "text": "This Pok\u00e9mon does 20 damage to itself.", "damage": "120", "convertedEnergyCost": 4}
+
+{"cost": ["Fighting", "Metal", "Metal", "Colorless"], "name": "Dragon Impact", "text": "Discard 3 Energy attached to this Pok\u00e9mon.", "damage": "190", "convertedEnergyCost": 4}
+
+{"cost": ["Water"], "name": "Rain Splash", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Flail", "text": "This attack does 10 damage for each damage counter on this Pok\u00e9mon.", "damage": "10\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Knock Away", "text": "Flip a coin. If heads, this attack does 20 more damage.", "damage": "10+", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Water", "Colorless"], "name": "Rollout", "text": "", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Water", "Colorless", "Colorless"], "name": "Gaia Crush", "text": "Discard any Stadium card in play.", "damage": "100", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic", "Metal", "Colorless"], "name": "Reverse Edge", "text": "Flip a coin. If heads, put a card from your discard pile into your hand.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless", "Colorless", "Colorless"], "name": "Fast Forward", "text": "For each Plasma Energy attached to this Pok\u00e9mon, discard the top card of your opponent's deck.", "damage": "90", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Strafe", "text": "You may switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Grass", "Water", "Colorless", "Colorless"], "name": "Dimension Heal", "text": "Heal from this Pok\u00e9mon 20 damage for each Plasma Energy attached to this Pok\u00e9mon.", "damage": "80", "convertedEnergyCost": 4}
+
+{"cost": ["Metal"], "name": "Dragonaxe", "text": "Does 40 damage times the amount of Metal Energy attached to this Pok\u00e9mon.", "damage": "40\u00d7", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting", "Metal"], "name": "Strike of the Champion", "text": "If the Defending Pok\u00e9mon is a Team Plasma Pok\u00e9mon, it is Knocked Out. (If the Defending Pok\u00e9mon is not a Team Plasma Pok\u00e9mon, this attack does nothing.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Fire"], "name": "Big Swing", "text": "Flip 2 coins. If either of them is tails, this attack does nothing.", "damage": "40", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Colorless", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on the Defending Pok\u00e9mon.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Amass", "text": "Search your deck for a basic Energy card and attach it to this Pok\u00e9mon. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Power Cyclone", "text": "Move an Energy from this Pok\u00e9mon to 1 of your Benched Pok\u00e9mon.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Power Whip", "text": "This attack does 20 damage times the amount of Energy attached to this Pok\u00e9mon to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fairy", "Colorless"], "name": "Beat Slider", "text": "Your opponent switches their Active Pok\u00e9mon with 1 of their Benched Pok\u00e9mon.", "damage": "130", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Adamantine Press", "text": "During your opponent's next turn, this Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance).", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning", "Fighting", "Colorless", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Lightning", "Fighting", "Colorless", "Colorless"], "name": "Ultra Uppercut-GX", "text": "(You can't use more than 1 GX attack in a game.)", "damage": "240", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic", "Metal", "Colorless"], "name": "Reverse Edge", "text": "Flip a coin. If heads, put a card from your discard pile into your hand.", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless", "Colorless", "Colorless"], "name": "Fast Forward", "text": "For each Plasma Energy attached to this Pok\u00e9mon, discard the top card of your opponent's deck.", "damage": "90", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Dreamy Mist", "text": "Attach a basic Energy card from your discard pile to each of your Basic Benched Dragon Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning"], "name": "Wrap", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Grass", "Colorless", "Colorless"], "name": "Tail Smack", "text": "", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Grass", "Lightning"], "name": "Dragon Wave", "text": "Discard a Grass Energy and a Lightning Energy from this Pok\u00e9mon.", "damage": "130", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless", "Colorless", "Colorless", "Colorless"], "name": "Giant Tail", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "200", "convertedEnergyCost": 5}
+
+{"cost": ["Fire", "Psychic", "Colorless"], "name": "Barrier Break", "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pok\u00e9mon.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Psychic", "Colorless"], "name": "Mach Flight", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Psychic", "Colorless"], "name": "Luster Purge", "text": "Discard all Energy attached to this Pok\u00e9mon.", "damage": "150", "convertedEnergyCost": 3}
+
+{"cost": ["Psychic", "Darkness", "Darkness", "Colorless"], "name": "Dragonblast", "text": "Discard 2 Darkness Energy attached to this Pok\u00e9mon.", "damage": "140", "convertedEnergyCost": 4}
+
+{"cost": ["Fighting"], "name": "Mach Cut", "text": "Discard a Special Energy attached to the Defending Pok\u00e9mon.", "damage": "60", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fighting"], "name": "Dragonblade", "text": "Discard the top 2 cards of your deck.", "damage": "100", "convertedEnergyCost": 2}
+
+{"cost": ["Lightning", "Colorless", "Colorless"], "name": "Dragon Fang", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Lightning", "Lightning", "Colorless"], "name": "Freeze Shock", "text": "This Pok\u00e9mon can't attack during your next turn.", "damage": "150", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Roar", "text": "Your opponent switches his or her Active Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Psychic", "Darkness"], "name": "Headbutt Bounce", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Grass", "Fighting", "Colorless", "Colorless"], "name": "Flying Beatdown", "text": "You may discard a Grass Energy and a Fighting Energy attached to this Pok\u00e9mon. If you do, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "80", "convertedEnergyCost": 4}
+
+{"cost": ["Lightning", "Colorless", "Colorless"], "name": "Dragon Fang", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Lightning", "Lightning", "Colorless"], "name": "Freeze Shock", "text": "This Pok\u00e9mon can't attack during your next turn.", "damage": "150", "convertedEnergyCost": 4}
+
+{"cost": ["Water", "Metal", "Colorless"], "name": "Glide", "text": "", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Lightning", "Colorless", "Colorless"], "name": "Dragon Fang", "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Lightning", "Lightning", "Colorless"], "name": "Freeze Shock", "text": "This Pok\u00e9mon can't attack during your next turn.", "damage": "150", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless"], "name": "War Cry", "text": "If you have fewer Pok\u00e9mon in play than your opponent, this attack does 90 more damage.", "damage": "30+", "convertedEnergyCost": 2}
+
+{"cost": ["Lightning", "Fighting", "Colorless"], "name": "Clanging Scales", "text": "During your opponent's next turn, this Pok\u00e9mon takes 30 more damage from attacks (after applying Weakness and Resistance).", "damage": "130", "convertedEnergyCost": 3}
+
+{"cost": ["Grass"], "name": "Tropical Head", "text": "This attack does 20 damage times the amount of Energy attached to this Pok\u00e9mon to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Grass", "Colorless", "Colorless", "Colorless"], "name": "Dragon Hammer", "text": "Your opponent's Active Pok\u00e9mon is now Confused.", "damage": "120", "convertedEnergyCost": 4}
+
+{"cost": ["Grass", "Colorless", "Colorless", "Colorless"], "name": "Tower-Go-Round-GX", "text": "Move any number of Energy from your Pok\u00e9mon to your other Pok\u00e9mon in any way you like. (You can't use more than 1 GX attack in a game.)", "damage": "180", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Land Crush", "text": "", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Fairy", "Colorless", "Colorless"], "name": "Core Enforcer", "text": "Discard a Darkness Energy and a Fairy Energy from this Pok\u00e9mon.", "damage": "150", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness", "Colorless"], "name": "Distort", "text": "Your opponent can't play any Item cards from their hand during their next turn.", "damage": "50", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Darkness", "Colorless"], "name": "Sonic Volume", "text": "Your opponent can't play any Special Energy cards from their hand during their next turn.", "damage": "120", "convertedEnergyCost": 3}
+
+{"cost": ["Psychic", "Darkness", "Colorless"], "name": "Boomburst-GX", "text": "This attack does 50 damage to each of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.) (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Celestial Roar", "text": "Discard the top 3 cards of your deck. If any of those cards are Energy cards, attach them to this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Lightning"], "name": "Dragon Burst", "text": "Discard all basic Fire Energy or all basic Lightning Energy attached to this Pok\u00e9mon. This attack does 60 damage times the number of Energy cards you discarded.", "damage": "60\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Metal", "Colorless"], "name": "Armor Press", "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 20 (after applying Weakness and Resistance).", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Fighting", "Metal", "Colorless"], "name": "Dual Chop", "text": "Flip 2 coins. This attack does 90 damage times the number of heads.", "damage": "90\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Lightning", "Colorless"], "name": "Dual Claw", "text": "Flip 2 coins. This attack does 20 damage times the number of heads.", "damage": "20\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Lightning", "Colorless", "Colorless"], "name": "Flash Freeze", "text": "Discard an Energy attached to this Pok\u00e9mon.", "damage": "100", "convertedEnergyCost": 4}
+
+{"cost": ["Fire", "Colorless", "Colorless"], "name": "Dragon Stream", "text": "Flip a coin. If heads, attach a basic Energy card from your discard pile to this Pok\u00e9mon.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Water", "Colorless"], "name": "Ice Burn", "text": "Discard 2 Fire Energy attached to this Pok\u00e9mon. The Defending Pok\u00e9mon is now Burned.", "damage": "150", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Taunt", "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with the Defending Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Water", "Colorless"], "name": "Boost Claw", "text": "During your next turn, each of this Pok\u00e9mon's attacks does 30 more damage (before applying Weakness and Resistance).", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Gooey", "text": "Heal 30 damage from this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fairy", "Colorless"], "name": "Gentle Slap", "text": "", "damage": "40", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Fairy", "Colorless"], "name": "Soaking Horn", "text": "If this Pok\u00e9mon was healed during this turn, this attack does 80 more damage.", "damage": "80+", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Colorless"], "name": "Absorb", "text": "Heal 30 damage from this Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Fairy", "Colorless"], "name": "Hammer In", "text": "", "damage": "50", "convertedEnergyCost": 3}
+
+{"cost": ["Psychic", "Metal"], "name": "Photon Geyser", "text": "Discard all basic Psychic Energy from this Pok\u00e9mon. This attack does 80 more damage for each card you discarded in this way.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Metal"], "name": "Sky-Scorching Light-GX", "text": "You can use this attack only if the total of both players' remaining Prize cards is 6 or less. Put 6 damage counters on each of your opponent's Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Lightning", "Fighting"], "name": "Dragon Claw", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Free"], "name": "Exeggutor's Paradise", "text": "For each of your Benched Exeggcute, search your deck for an Alolan Exeggutor or Alolan Exeggutor-GX and put it onto that Exeggcute to evolve it. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 0}
+
+{"cost": ["Grass", "Colorless", "Colorless"], "name": "Draco Meteor Barrage", "text": "Flip a coin for each Grass Energy attached to this Pok\u00e9mon. This attack does 80 damage for each heads.", "damage": "80\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Water"], "name": "Spatial Control", "text": "Move any number of Energy from your Benched Pok\u00e9mon to this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Hydro Pressure", "text": "This attack does 20 more damage times the amount of Water Energy attached to this Pok\u00e9mon.", "damage": "60+", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Water", "Water", "Colorless", "Colorless"], "name": "Zero Vanish-GX", "text": "Shuffle all Energy from each of your opponent's Pok\u00e9mon into their deck. (You can't use more than 1 GX attack in a game.)", "damage": "150", "convertedEnergyCost": 5}
+
+{"cost": ["Metal"], "name": "Overclock", "text": "Draw cards until you have 6 cards in your hand.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Metal", "Colorless", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Metal", "Metal", "Metal", "Colorless", "Colorless"], "name": "Timeless-GX", "text": "Take another turn after this one. (Skip the between-turns step.) (You can't use more than 1 GX attack in a game.)", "damage": "150", "convertedEnergyCost": 5}
+
+{"cost": ["Colorless"], "name": "Gather Strength", "text": "Search your deck for up to 4 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Water", "Lightning"], "name": "Dragon Blast", "text": "Discard a Water Energy and a Lightning Energy attached to this Pok\u00e9mon.", "damage": "150", "convertedEnergyCost": 3}
+
+{"cost": ["Water"], "name": "Rock Head", "text": "During your opponent's next turn, this Pok\u00e9mon takes 10 less damage from attacks (after applying Weakness and Resistance).", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Colorless"], "name": "Reckless Charge", "text": "This Pok\u00e9mon does 10 damage to itself.", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Dragon Fleet", "text": "This attack does 50 damage for each of your Evolution Dragon Pok\u00e9mon in play.", "damage": "50\u00d7", "convertedEnergyCost": 2}
+
+{"cost": ["Grass", "Lightning", "Colorless"], "name": "Dragon Break", "text": "This attack does 30 damage times the amount of basic Grass and basic Lightning Energy attached to your Pok\u00e9mon.", "damage": "30\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Grass"], "name": "Tempest-GX", "text": "Discard your hand and draw 10 cards. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Grass", "Lightning", "Colorless"], "name": "Dragon Break", "text": "This attack does 30 damage times the amount of basic Grass and basic Lightning Energy attached to your Pok\u00e9mon.", "damage": "30\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Grass"], "name": "Tempest-GX", "text": "Discard your hand and draw 10 cards. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting"], "name": "Iron Defense", "text": "Flip a coin. If heads, prevent all damage done to this Pok\u00e9mon by attacks during your opponent's next turn.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning", "Colorless"], "name": "Tackle", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Lightning"], "name": "Wrap", "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Colorless"], "name": "Tail Whap", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Dragon Tail", "text": "Flip 2 coins. This attack does 60 damage for each heads.", "damage": "60\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Lightning", "Colorless", "Colorless"], "name": "Waterfall", "text": "", "damage": "80", "convertedEnergyCost": 4}
+
+{"cost": ["Fighting", "Colorless"], "name": "Sonic Edge", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "50", "convertedEnergyCost": 2}
+
+{"cost": ["Fighting", "Fighting", "Colorless"], "name": "Sand Tomb", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "110", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Risky Kick", "text": "Flip a coin. If tails, this attack does nothing.", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Water"], "name": "Dragon Eye", "text": "Your opponent's Active Pok\u00e9mon is now Asleep.", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Rollout", "text": "", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Water", "Colorless", "Colorless"], "name": "Bright Flame", "text": "Discard 2 Energy from this Pok\u00e9mon.", "damage": "200", "convertedEnergyCost": 4}
+
+{"cost": ["Fire", "Colorless", "Colorless"], "name": "Flame Jet-GX", "text": "This attack does 120 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.) (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Water", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Lightning", "Colorless", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Lightning", "Lightning", "Colorless", "Colorless"], "name": "Bolt Strike", "text": "Flip a coin. If tails, this Pok\u00e9mon does 50 damage to itself.", "damage": "150", "convertedEnergyCost": 4}
+
+{"cost": ["Fighting"], "name": "Rumble", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting", "Colorless", "Colorless"], "name": "Raging Blade", "text": "If this Pok\u00e9mon has any damage counters on it, this attack does 60 more damage.", "damage": "60+", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Fire"], "name": "Explosive Jet", "text": "Discard any amount of Fire Energy from your Pok\u00e9mon. This attack does 50 damage for each card you discarded in this way.", "damage": "50\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Lightning"], "name": "Rigidify", "text": "During your opponent's next turn, this Pok\u00e9mon takes 20 less damage from attacks (after applying Weakness and Resistance).", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Fighting", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Guard Press", "text": "During your opponent's next turn, this Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance).", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Lightning", "Fighting", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "70", "convertedEnergyCost": 3}
+
+{"cost": ["Lightning", "Colorless"], "name": "Guard Press", "text": "During your opponent's next turn, this Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance).", "damage": "60", "convertedEnergyCost": 2}
+
+{"cost": ["Fighting", "Colorless", "Colorless"], "name": "Raging Uppercut", "text": "If this Pok\u00e9mon has 8 or more damage counters on it, this attack does 120 more damage.", "damage": "90+", "convertedEnergyCost": 3}
+
+{"cost": ["Fairy", "Colorless"], "name": "Bright Tone", "text": "During your opponent's next turn, prevent all damage done to this Pok\u00e9mon by attacks from Pok\u00e9mon-GX and Pok\u00e9mon-EX.", "damage": "50", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Fairy", "Colorless"], "name": "Sonic Edge", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "110", "convertedEnergyCost": 3}
+
+{"cost": ["Fairy", "Colorless"], "name": "Euphoria-GX", "text": "Your opponent's Active Pok\u00e9mon is now Asleep. Heal all damage from all of your Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Water"], "name": "Raging Blade", "text": "If this Pok\u00e9mon has any damage counters on it, this attack does 50 more damage.", "damage": "30+", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Water", "Colorless", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "100", "convertedEnergyCost": 4}
+
+{"cost": ["Grass", "Lightning", "Colorless"], "name": "Dragon Break", "text": "This attack does 30 damage times the amount of basic Grass and basic Lightning Energy attached to your Pok\u00e9mon.", "damage": "30\u00d7", "convertedEnergyCost": 3}
+
+{"cost": ["Grass"], "name": "Tempest-GX", "text": "Discard your hand and draw 10 cards. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Grass"], "name": "Tropical Head", "text": "This attack does 20 damage times the amount of Energy attached to this Pok\u00e9mon to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Grass", "Colorless", "Colorless", "Colorless"], "name": "Dragon Hammer", "text": "Your opponent's Active Pok\u00e9mon is now Confused.", "damage": "120", "convertedEnergyCost": 4}
+
+{"cost": ["Grass", "Colorless", "Colorless", "Colorless"], "name": "Tower-Go-Round-GX", "text": "Move any number of Energy from your Pok\u00e9mon to your other Pok\u00e9mon in any way you like. (You can't use more than 1 GX attack in a game.)", "damage": "180", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Headbutt", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning", "Fighting"], "name": "Gentle Slap", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Noble Roar", "text": "Your opponent switches their Active Pok\u00e9mon with 1 of their Benched Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning", "Fighting"], "name": "Dragon Claw", "text": "", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Lightning"], "name": "Dragon Claw", "text": "", "damage": "70", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Lightning", "Colorless", "Colorless"], "name": "Giga Impact", "text": "This Pok\u00e9mon can't attack during your next turn.", "damage": "200", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Dragonporter-GX", "text": "Put 3 Dragon Pok\u00e9mon from your discard pile onto your Bench. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Pierce", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Fairy", "Colorless"], "name": "Bright Tone", "text": "During your opponent's next turn, prevent all damage done to this Pok\u00e9mon by attacks from Pok\u00e9mon-GX and Pok\u00e9mon-EX.", "damage": "50", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Fairy", "Colorless"], "name": "Sonic Edge", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "110", "convertedEnergyCost": 3}
+
+{"cost": ["Fairy", "Colorless"], "name": "Euphoria-GX", "text": "Your opponent's Active Pok\u00e9mon is now Asleep. Heal all damage from all of your Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless", "Colorless"], "name": "Outrage", "text": "This attack does 10 more damage for each damage counter on this Pok\u00e9mon.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Water", "Colorless"], "name": "Frost Spear", "text": "This attack does 20 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Fire"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "40", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Water", "Colorless"], "name": "Raging Blade", "text": "If this Pok\u00e9mon has any damage counters on it, this attack does 80 more damage.", "damage": "80+", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Water", "Colorless"], "name": "Dragon Nova-GX", "text": "Your opponent's Active Pok\u00e9mon is now Burned and Paralyzed. (You can't use more than 1 GX attack in a game.)", "damage": "200", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Dragon Wisdom", "text": "Attach a basic Energy card from your discard pile to 1 of your Dragon Pok\u00e9mon.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Hyper Voice", "text": "", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Lightning"], "name": "Dragon Claw", "text": "", "damage": "70", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Lightning", "Colorless", "Colorless"], "name": "Giga Impact", "text": "This Pok\u00e9mon can't attack during your next turn.", "damage": "200", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Dragonporter-GX", "text": "Put 3 Dragon Pok\u00e9mon from your discard pile onto your Bench. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Fairy", "Colorless"], "name": "Bright Tone", "text": "During your opponent's next turn, prevent all damage done to this Pok\u00e9mon by attacks from Pok\u00e9mon-GX and Pok\u00e9mon-EX.", "damage": "50", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Fairy", "Colorless"], "name": "Sonic Edge", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "110", "convertedEnergyCost": 3}
+
+{"cost": ["Fairy", "Colorless"], "name": "Euphoria-GX", "text": "Your opponent's Active Pok\u00e9mon is now Asleep. Heal all damage from all of your Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Water", "Colorless", "Colorless"], "name": "Bright Flame", "text": "Discard 2 Energy from this Pok\u00e9mon.", "damage": "200", "convertedEnergyCost": 4}
+
+{"cost": ["Fire", "Colorless", "Colorless"], "name": "Flame Jet-GX", "text": "This attack does 120 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.) (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Fire"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "40", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Water", "Colorless"], "name": "Raging Blade", "text": "If this Pok\u00e9mon has any damage counters on it, this attack does 80 more damage.", "damage": "80+", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Water", "Colorless"], "name": "Dragon Nova-GX", "text": "Your opponent's Active Pok\u00e9mon is now Burned and Paralyzed. (You can't use more than 1 GX attack in a game.)", "damage": "200", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic", "Metal"], "name": "Photon Geyser", "text": "Discard all basic Psychic Energy from this Pok\u00e9mon. This attack does 80 more damage for each card you discarded in this way.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Metal"], "name": "Sky-Scorching Light-GX", "text": "You can use this attack only if the total of both players' remaining Prize cards is 6 or less. Put 6 damage counters on each of your opponent's Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Lightning"], "name": "Dragon Pulse", "text": "Discard the top 2 cards of your deck.", "damage": "40", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Lightning", "Lightning", "Colorless"], "name": "Sky Judgment", "text": "Discard 3 Energy from this Pok\u00e9mon.", "damage": "190", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic", "Metal"], "name": "Photon Geyser", "text": "Discard all basic Psychic Energy from this Pok\u00e9mon. This attack does 80 more damage for each card you discarded in this way.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Metal"], "name": "Sky-Scorching Light GX", "text": "You can use this attack only if the total of both players' remaining Prize cards is 6 or less. Put 6 damage counters on each of your opponent's Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Energy Extract", "text": "Search your deck for a basic Energy card and attach it to this Pok\u00e9mon. Then, shuffle your deck.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Psychic", "Colorless", "Colorless"], "name": "Luster Purge", "text": "Flip a coin. If tails, discard all Energy attached to this Pok\u00e9mon.", "damage": "140", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless"], "name": "Hypnoblast", "text": "Your opponent's Active Pok\u00e9mon is now Asleep.", "damage": "30", "convertedEnergyCost": 2}
+
+{"cost": ["Fire", "Psychic", "Colorless"], "name": "Mist Ball", "text": "Flip a coin. If tails, discard a Fire Energy and a Psychic Energy from this Pok\u00e9mon.", "damage": "110", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Water", "Colorless", "Colorless"], "name": "Bright Flame", "text": "Discard 2 Energy from this Pok\u00e9mon.", "damage": "200", "convertedEnergyCost": 4}
+
+{"cost": ["Fire", "Colorless", "Colorless"], "name": "Flame Jet GX", "text": "This attack does 120 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.) (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Dragon's Wish", "text": "During your next turn, you may attach any number of Energy cards from your hand to your Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Grass", "Lightning", "Colorless"], "name": "Tail Smack", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless"], "name": "Quick Dive", "text": "This attack does 50 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Fighting", "Colorless", "Colorless"], "name": "Royal Blades", "text": "If you played Cynthia from your hand during this turn, this attack does 100 more damage.", "damage": "100+", "convertedEnergyCost": 3}
+
+{"cost": ["Fighting"], "name": "Ascension", "text": "Search your deck for a card that evolves from this Pok\u00e9mon and put it onto this Pok\u00e9mon to evolve it. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless"], "name": "Slash", "text": "", "damage": "40", "convertedEnergyCost": 2}
+
+{"cost": ["Water"], "name": "Spatial Control", "text": "Move any number of Energy from your Benched Pok\u00e9mon to this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Hydro Pressure", "text": "This attack does 20 more damage times the amount of Water Energy attached to this Pok\u00e9mon.", "damage": "60+", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Water", "Water", "Colorless", "Colorless"], "name": "Zero Vanish-GX", "text": "Shuffle all Energy from each of your opponent's Pok\u00e9mon into their deck. (You can't use more than 1 GX attack in a game.)", "damage": "150", "convertedEnergyCost": 5}
+
+{"cost": ["Metal"], "name": "Overclock", "text": "Draw cards until you have 6 cards in your hand.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Metal", "Colorless", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Metal", "Metal", "Metal", "Colorless", "Colorless"], "name": "Timeless-GX", "text": "Take another turn after this one. (Skip the between-turns step.) (You can't use more than 1 GX attack in a game.)", "damage": "150", "convertedEnergyCost": 5}
+
+{"cost": ["Water"], "name": "Spatial Control", "text": "Move any number of Energy from your Benched Pok\u00e9mon to this Pok\u00e9mon.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Hydro Pressure", "text": "This attack does 20 more damage times the amount of Water Energy attached to this Pok\u00e9mon.", "damage": "60+", "convertedEnergyCost": 3}
+
+{"cost": ["Water", "Water", "Water", "Colorless", "Colorless"], "name": "Zero Vanish-GX", "text": "Shuffle all Energy from each of your opponent's Pok\u00e9mon into their deck. (You can't use more than 1 GX attack in a game.)", "damage": "150", "convertedEnergyCost": 5}
+
+{"cost": ["Colorless"], "name": "Gather Strength", "text": "Search your deck for up to 4 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Water", "Lightning"], "name": "Dragon Blast", "text": "Discard a Water Energy and a Lightning Energy attached to this Pok\u00e9mon.", "damage": "150", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Call for Goons", "text": "Search your deck for up to 3 Basic Pok\u00e9mon and put them onto your Bench. Shuffle your deck afterward.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Water", "Colorless", "Colorless"], "name": "Dragon Pulse", "text": "Discard the top card of your deck.", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Fire", "Fire", "Lightning", "Colorless"], "name": "Dragon Pulse", "text": "Discard the top 3 cards of your deck.", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Grass", "Psychic", "Colorless", "Colorless"], "name": "Chaos Wheel", "text": "Your opponent can't play any Pok\u00e9mon Tool, Special Energy, or Stadium cards from his or her hand during his or her next turn.", "damage": "100", "convertedEnergyCost": 4}
+
+{"cost": ["Fairy", "Colorless"], "name": "Stampede", "text": "", "damage": "10", "convertedEnergyCost": 2}
+
+{"cost": ["Grass", "Psychic", "Colorless", "Colorless"], "name": "Chaos Wheel", "text": "Your opponent can't play any Pok\u00e9mon Tool, Special Energy, or Stadium cards from his or her hand during his or her next turn.", "damage": "100", "convertedEnergyCost": 4}
+
+{"cost": ["Grass", "Fighting", "Colorless"], "name": "Sand Tomb", "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Sand Attack", "text": "If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.", "damage": "20", "convertedEnergyCost": 1}
+
+{"cost": ["Grass", "Fighting", "Colorless"], "name": "Super Vibration", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Land Crush", "text": "", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Fairy", "Colorless", "Colorless"], "name": "Core Enforcer", "text": "Discard a Darkness Energy and a Fairy Energy from this Pok\u00e9mon.", "damage": "150", "convertedEnergyCost": 4}
+
+{"cost": ["Water", "Psychic", "Colorless"], "name": "Poison Breath", "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Poisoned.", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Fighting"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fighting", "Fighting", "Colorless"], "name": "Hyper Beam", "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon.", "damage": "100", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless"], "name": "Liquid Blow", "text": "This attack does 20 damage to 1 of your opponent's Pok\u00e9mon for each Colorless in its Retreat Cost. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Fairy", "Colorless", "Colorless"], "name": "Shining Breath", "text": "During your opponent's next turn, this Pok\u00e9mon can't be affected by any Special Conditions.", "damage": "110", "convertedEnergyCost": 4}
+
+{"cost": ["Water", "Psychic", "Psychic", "Colorless"], "name": "Buster Purge", "text": "Discard 3 Energy from this Pok\u00e9mon.", "damage": "240", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic"], "name": "Aero Unit-GX", "text": "Attach 5 basic Energy cards from your discard pile to your Pok\u00e9mon in any way you like. If this Pok\u00e9mon has at least 1 extra Energy attached to it (in addition to this attack's cost), prevent all effects of attacks, including damage, done to it during your opponent's next turn. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Psychic", "Psychic", "Colorless"], "name": "Buster Purge", "text": "Discard 3 Energy from this Pok\u00e9mon.", "damage": "240", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic"], "name": "Aero Unit-GX", "text": "Attach 5 basic Energy cards from your discard pile to your Pok\u00e9mon in any way you like. If this Pok\u00e9mon has at least 1 extra Energy attached to it (in addition to this attack's cost), prevent all effects of attacks, including damage, done to it during your opponent's next turn. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless"], "name": "Amass", "text": "Search your deck for a basic Energy card and attach it to this Pok\u00e9mon. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Power Cyclone", "text": "Move an Energy from this Pok\u00e9mon to 1 of your Benched Pok\u00e9mon.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Adamantine Press", "text": "During your opponent's next turn, this Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance).", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning", "Fighting", "Colorless", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Lightning", "Fighting", "Colorless", "Colorless"], "name": "Ultra Uppercut-GX", "text": "(You can't use more than 1 GX attack in a game.)", "damage": "240", "convertedEnergyCost": 4}
+
+{"cost": ["Darkness", "Colorless"], "name": "Distort", "text": "Your opponent can't play any Item cards from their hand during their next turn.", "damage": "50", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Darkness", "Colorless"], "name": "Sonic Volume", "text": "Your opponent can't play any Special Energy cards from their hand during their next turn.", "damage": "120", "convertedEnergyCost": 3}
+
+{"cost": ["Psychic", "Darkness", "Colorless"], "name": "Boomburst-GX", "text": "This attack does 50 damage to each of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.) (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Darkness", "Colorless"], "name": "Distort", "text": "Your opponent can't play any Item cards from their hand during their next turn.", "damage": "50", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Darkness", "Colorless"], "name": "Sonic Volume", "text": "Your opponent can't play any Special Energy cards from their hand during their next turn.", "damage": "120", "convertedEnergyCost": 3}
+
+{"cost": ["Psychic", "Darkness", "Colorless"], "name": "Boomburst-GX", "text": "This attack does 50 damage to each of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.) (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Grass"], "name": "Tropical Head", "text": "This attack does 20 damage times the amount of Energy attached to this Pok\u00e9mon to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Grass", "Colorless", "Colorless", "Colorless"], "name": "Dragon Hammer", "text": "Your opponent's Active Pok\u00e9mon is now Confused.", "damage": "120", "convertedEnergyCost": 4}
+
+{"cost": ["Grass", "Colorless", "Colorless", "Colorless"], "name": "Tower-Go-Round-GX", "text": "Move any number of Energy from your Pok\u00e9mon to your other Pok\u00e9mon in any way you like. (You can't use more than 1 GX attack in a game.)", "damage": "180", "convertedEnergyCost": 4}
+
+{"cost": ["Fairy"], "name": "Ram", "text": "", "damage": "10", "convertedEnergyCost": 1}
+
+{"cost": ["Psychic", "Metal"], "name": "Photon Geyser", "text": "Discard all basic Psychic Energy from this Pok\u00e9mon. This attack does 80 more damage for each card you discarded in this way.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Metal"], "name": "Sky-Scorching Light-GX", "text": "You can use this attack only if the total of both players' remaining Prize cards is 6 or less. Put 6 damage counters on each of your opponent's Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Metal"], "name": "Photon Geyser", "text": "Discard all basic Psychic Energy from this Pok\u00e9mon. This attack does 80 more damage for each card you discarded in this way.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Psychic", "Metal"], "name": "Sky-Scorching Light-GX", "text": "You can use this attack only if the total of both players' remaining Prize cards is 6 or less. Put 6 damage counters on each of your opponent's Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Bubble", "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fairy"], "name": "Tackle", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Division", "text": "Search your deck for up to 2 Sliggoo and put them onto your Bench. Then, shuffle your deck.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Fairy"], "name": "Tackle", "text": "", "damage": "20", "convertedEnergyCost": 2}
+
+{"cost": ["Colorless"], "name": "Headbutt", "text": "", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning", "Fighting", "Colorless"], "name": "Dragon Claw", "text": "", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Colorless"], "name": "Adamantine Press", "text": "During your opponent's next turn, this Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance).", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning", "Fighting", "Colorless", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Lightning", "Fighting", "Colorless", "Colorless"], "name": "Ultra Uppercut-GX", "text": "(You can't use more than 1 GX attack in a game.)", "damage": "240", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless"], "name": "Adamantine Press", "text": "During your opponent's next turn, this Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance).", "damage": "30", "convertedEnergyCost": 1}
+
+{"cost": ["Lightning", "Fighting", "Colorless", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "130", "convertedEnergyCost": 4}
+
+{"cost": ["Lightning", "Fighting", "Colorless", "Colorless"], "name": "Ultra Uppercut-GX", "text": "(You can't use more than 1 GX attack in a game.)", "damage": "240", "convertedEnergyCost": 4}
+
+{"cost": ["Fire"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "40", "convertedEnergyCost": 1}
+
+{"cost": ["Fire", "Water", "Colorless"], "name": "Raging Blade", "text": "If this Pok\u00e9mon has any damage counters on it, this attack does 80 more damage.", "damage": "80+", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Fire", "Water", "Colorless"], "name": "Dragon Nova GX", "text": "Your opponent's Active Pok\u00e9mon is now Burned and Paralyzed. (You can't use more than 1 GX attack in a game.)", "damage": "200", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless"], "name": "Outrage", "text": "This attack does 10 more damage for each damage counter on this Pok\u00e9mon.", "damage": "20+", "convertedEnergyCost": 2}
+
+{"cost": ["Water", "Water", "Colorless"], "name": "Frost Spear", "text": "This attack does 20 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)", "damage": "100", "convertedEnergyCost": 3}
+
+{"cost": ["Lightning"], "name": "Dragon Claw", "text": "", "damage": "70", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Lightning", "Colorless", "Colorless"], "name": "Giga Impact", "text": "This Pok\u00e9mon can't attack during your next turn.", "damage": "200", "convertedEnergyCost": 4}
+
+{"cost": ["Colorless", "Colorless", "Colorless"], "name": "Dragonporter-GX", "text": "Put 3 Dragon Pok\u00e9mon from your discard pile onto your Bench. (You can't use more than 1 GX attack in a game.)", "damage": "", "convertedEnergyCost": 3}
+
+{"cost": ["Metal"], "name": "Overclock", "text": "Draw cards until you have 6 cards in your hand.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Metal", "Colorless", "Colorless"], "name": "Shred", "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.", "damage": "80", "convertedEnergyCost": 3}
+
+{"cost": ["Metal", "Metal", "Metal", "Colorless", "Colorless"], "name": "Timeless-GX", "text": "Take another turn after this one. (Skip the between-turns step.) (You can't use more than 1 GX attack in a game.)", "damage": "150", "convertedEnergyCost": 5}
+
+{"cost": ["Grass", "Fighting", "Fighting", "Colorless"], "name": "Spiral Buzz", "text": "Flip a coin until you get tails. This attack does 30 more damage for each heads.", "damage": "80+", "convertedEnergyCost": 4}
+
+{"cost": ["Psychic"], "name": "Fast Raid", "text": "If you go first, you can use this attack on your first turn.", "damage": "40", "convertedEnergyCost": 1}
+
+{"cost": ["Water", "Psychic", "Psychic", "Colorless"], "name": "Light Pulse", "text": "Prevent all effects of your opponent's attacks, except damage, done to this Pok\u00e9mon during your opponent's next turn.", "damage": "110", "convertedEnergyCost": 4}
+
+{"cost": ["Fire"], "name": "Eon Connection", "text": "Draw a card. If Latios is on your Bench, draw 1 more card.", "damage": "", "convertedEnergyCost": 1}
+
+{"cost": ["Psychic", "Colorless", "Colorless"], "name": "Speed Wing", "text": "", "damage": "60", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Colorless", "Colorless"], "name": "Beastly Fang", "text": "This attack does 50 more damage for each of your opponent's Pok\u00e9mon-EX.", "damage": "10+", "convertedEnergyCost": 3}
+
+{"cost": ["Fire", "Water", "Colorless", "Colorless"], "name": "Dragon Strike", "text": "This Pok\u00e9mon can't use Dragon Strike during your next turn.", "damage": "130", "convertedEnergyCost": 4}
+
