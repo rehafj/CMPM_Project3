@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\mirek\\Documents\\GitHub\\CMPM_Project3\\multi-class-text-classification-cnn\\trained_model_1552077940\\checkpoints\\model-3000"
+all_model_checkpoint_paths: "C:\\Users\\mirek\\Documents\\GitHub\\CMPM_Project3\\multi-class-text-classification-cnn\\trained_model_1552077940\\checkpoints\\model-2000"
+all_model_checkpoint_paths: "C:\\Users\\mirek\\Documents\\GitHub\\CMPM_Project3\\multi-class-text-classification-cnn\\trained_model_1552077940\\checkpoints\\model-2200"
+all_model_checkpoint_paths: "C:\\Users\\mirek\\Documents\\GitHub\\CMPM_Project3\\multi-class-text-classification-cnn\\trained_model_1552077940\\checkpoints\\model-2400"
+all_model_checkpoint_paths: "C:\\Users\\mirek\\Documents\\GitHub\\CMPM_Project3\\multi-class-text-classification-cnn\\trained_model_1552077940\\checkpoints\\model-2800"
+all_model_checkpoint_paths: "C:\\Users\\mirek\\Documents\\GitHub\\CMPM_Project3\\multi-class-text-classification-cnn\\trained_model_1552077940\\checkpoints\\model-3000"

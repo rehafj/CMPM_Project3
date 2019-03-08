@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\mirek\\Documents\\GitHub\\CMPM_Project3\\multi-class-text-classification-cnn\\trained_model_1552077750\\checkpoints\\model-200"
+all_model_checkpoint_paths: "C:\\Users\\mirek\\Documents\\GitHub\\CMPM_Project3\\multi-class-text-classification-cnn\\trained_model_1552077750\\checkpoints\\model-200"
