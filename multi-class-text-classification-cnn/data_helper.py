@@ -25,8 +25,8 @@ def clean_str(s):
 
 def load_data_and_labels(filename):
 	"""Load sentences and labels"""
-	df = pd.read_csv(filename, compression='zip', dtype={'consumer_complaint_narrative': object})
-	selected = ['product', 'consumer_complaint_narrative']
+	df = pd.read_csv(filename, compression='zip', dtype={'description': object})
+	selected = ['type', 'description']
 	non_selected = list(set(df.columns) - set(selected))
 
 	df = df.drop(non_selected, axis=1) # Drop non selected columns
