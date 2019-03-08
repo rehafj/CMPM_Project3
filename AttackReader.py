@@ -130,9 +130,10 @@ for card in cards:
                     f.write(json.dumps(attack["damage"]))
                 f.write("\n")
                 f.close()
-        else: # water
+        if (card_type == "Water"):
             for attack in card.attacks:
                 f = open("water_attack.txt", "a")
+                f.write(card_type + ",")
                 if "cost" in attack:
                     f.write('\"' + json.dumps(attack["cost"]).replace('\"', '\'') + '\",')
                 if "text" in attack:
