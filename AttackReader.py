@@ -15,7 +15,10 @@ for card in cards:
             for attack in card.attacks:
                 f = open("colorless_attack.txt", "a")
                 f.write(card_type + ",")
-                f.write('\"' + json.dumps(attack["cost"]).replace('\"', '\'') + '\",')
+                if "cost" in attack:
+                    f.write('\"' + json.dumps(attack["cost"]).replace('\"', '\'') + '\",')
+                if "name" in attack:
+                    f.write(json.dumps(attack["name"]) +  ',')
                 if "text" in attack:
                     f.write(json.dumps(attack["text"]) +  ',')
                 if "damage" in attack:
@@ -28,6 +31,8 @@ for card in cards:
                 f.write("Psychic,")
                 if "cost" in attack:
                     f.write('\"' + json.dumps(attack["cost"]).replace('\"', '\'') + '\",')
+                if "name" in attack:
+                    f.write(json.dumps(attack["name"]) +  ',')
                 if "text" in attack:
                     f.write(json.dumps(attack["text"]) +  ',')
                 if "damage" in attack:
@@ -40,6 +45,8 @@ for card in cards:
                 f.write("Water,")
                 if "cost" in attack:
                     f.write('\"' + json.dumps(attack["cost"]).replace('\"', '\'') + '\",')
+                if "name" in attack:
+                    f.write(json.dumps(attack["name"]) +  ',')
                 if "text" in attack:
                     f.write(json.dumps(attack["text"]) +  ',')
                 if "damage" in attack:
@@ -52,6 +59,8 @@ for card in cards:
                 f.write("Colorless,")
                 if "cost" in attack:
                     f.write('\"' + json.dumps(attack["cost"]).replace('\"', '\'') + '\",')
+                if "name" in attack:
+                    f.write(json.dumps(attack["name"]) +  ',')
                 if "text" in attack:
                     f.write(json.dumps(attack["text"]) +  ',')
                 if "damage" in attack:
@@ -64,6 +73,8 @@ for card in cards:
                 f.write(card_type + ",")
                 if "cost" in attack:
                     f.write('\"' + json.dumps(attack["cost"]).replace('\"', '\'') + '\",')
+                if "name" in attack:
+                    f.write(json.dumps(attack["name"]) +  ',')
                 if "text" in attack:
                     f.write(json.dumps(attack["text"]) +  ',')
                 if "damage" in attack:
@@ -76,6 +87,8 @@ for card in cards:
                 f.write(card_type + ",")
                 if "cost" in attack:
                     f.write('\"' + json.dumps(attack["cost"]).replace('\"', '\'') + '\",')
+                if "name" in attack:
+                    f.write(json.dumps(attack["name"]) +  ',')
                 if "text" in attack:
                     f.write(json.dumps(attack["text"]) +  ',')
                 if "damage" in attack:
@@ -88,6 +101,8 @@ for card in cards:
                 f.write(card_type + ",")
                 if "cost" in attack:
                     f.write('\"' + json.dumps(attack["cost"]).replace('\"', '\'') + '\",')
+                if "name" in attack:
+                    f.write(json.dumps(attack["name"]) +  ',')
                 if "text" in attack:
                     f.write(json.dumps(attack["text"]) +  ',')
                 if "damage" in attack:
@@ -100,6 +115,8 @@ for card in cards:
                 f.write(card_type + ",")
                 if "cost" in attack:
                     f.write('\"' + json.dumps(attack["cost"]).replace('\"', '\'') + '\",')
+                if "name" in attack:
+                    f.write(json.dumps(attack["name"]) +  ',')
                 if "text" in attack:
                     f.write(json.dumps(attack["text"]) +  ',')
                 if "damage" in attack:
@@ -112,6 +129,8 @@ for card in cards:
                 f.write("Fighting,")
                 if "cost" in attack:
                     f.write('\"' + json.dumps(attack["cost"]) + '\",')
+                if "name" in attack:
+                    f.write(json.dumps(attack["name"]) +  ',')
                 if "text" in attack:
                     f.write(json.dumps(attack["text"]) +  ',')
                 if "damage" in attack:
@@ -124,6 +143,8 @@ for card in cards:
                 f.write(card_type + ",")
                 if "cost" in attack:
                     f.write('\"' + json.dumps(attack["cost"]).replace('\"', '\'') + '\",')
+                if "name" in attack:
+                    f.write(json.dumps(attack["name"]) +  ',')
                 if "text" in attack:
                     f.write(json.dumps(attack["text"]) +  ',')
                 if "damage" in attack:
@@ -136,6 +157,8 @@ for card in cards:
                 f.write(card_type + ",")
                 if "cost" in attack:
                     f.write('\"' + json.dumps(attack["cost"]).replace('\"', '\'') + '\",')
+                if "name" in attack:
+                    f.write(json.dumps(attack["name"]) +  ',')
                 if "text" in attack:
                     f.write(json.dumps(attack["text"]) +  ',')
                 if "damage" in attack:
