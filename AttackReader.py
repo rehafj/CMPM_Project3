@@ -22,6 +22,7 @@ def setCardType(type):
     else:
         return type
 
+# writes the attacks to file
 def writeCard(card, card_type):
     for attack in card.attacks:
         f.write(card_type + ",\"")
@@ -35,14 +36,13 @@ def writeCard(card, card_type):
             f.write(json.dumps(attack["damage"]).replace('\"', ''))
         f.write("\"\n")
 
+# Calls the API for each card, sees if they have an attack, and if so call other functions
 if __name__ == "__main__":
     cards = Card.where(supertype='pokemon') # for each card that is a pokemon
     f = open("attacks.txt", "a")
-
-    # Calls the API for each card, sees if they have an attack, and if so write it to file
     for card in cards:
         card_type = card.types[0] # take only the primary type
         if card.attacks is not None: # Check to make sure card has attacks
-            #card_type = setCardType(card_type)
+            card_type = setCardType(card_type)
             writeCard(card, card_type)
     f.close()
