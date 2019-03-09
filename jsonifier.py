@@ -1,3 +1,8 @@
+###
+### Takes a list of pokemon attacks as created by AttackReader.py
+### and converts them to JSON (for text classifier validation)
+###
+
 import glob
 import os
 

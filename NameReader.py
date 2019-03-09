@@ -1,6 +1,6 @@
-#
-# Outputs a list of pokemon names 
-#
+###
+### Outputs a list of pokemon names to file
+###
 
 import json
 

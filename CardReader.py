@@ -1,5 +1,7 @@
-# Takes a list of cards and outputs their images to a local direectory
-# naming the card the same as the pokemon's card ID
+###
+### Takes a list of cards and outputs their images to a local direectory
+### naming the card the same as the pokemon's card ID
+###
 
 import requests
 import shutil
