@@ -9,18 +9,6 @@ from pokemontcgsdk import Type
 from pokemontcgsdk import Supertype
 from pokemontcgsdk import Subtype
 
-if __name__ == "__main__":
-    cards = Card.where(supertype='pokemon') # for each card that is a pokemon
-    f = open("attacks.txt", "a")
-
-    # Calls the API for each card, sees if they have an attack, and if so write it to file
-    for card in cards:
-        card_type = card.types[0] # take only the primary type
-        if card.attacks is not None: # Check to make sure card has attacks
-            card_type = setCardType(card_type)
-            writeCard(card, card_type)
-    f.close()
-
 # Reduces the number of card types for better training
 def setCardType(type):
     if (type == "Darkness"):
@@ -46,3 +34,15 @@ def writeCard(card, card_type):
         if "damage" in attack:
             f.write(json.dumps(attack["damage"]).replace('\"', ''))
         f.write("\"\n")
+
+if __name__ == "__main__":
+    cards = Card.where(supertype='pokemon') # for each card that is a pokemon
+    f = open("attacks.txt", "a")
+
+    # Calls the API for each card, sees if they have an attack, and if so write it to file
+    for card in cards:
+        card_type = card.types[0] # take only the primary type
+        if card.attacks is not None: # Check to make sure card has attacks
+            #card_type = setCardType(card_type)
+            writeCard(card, card_type)
+    f.close()

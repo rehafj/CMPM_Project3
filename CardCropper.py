@@ -1,3 +1,6 @@
+# Takes a list of card images in a directory and crops them down to
+# just the image of the pokemon
+
 import glob
 import os
 
