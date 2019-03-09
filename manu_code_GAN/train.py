@@ -2,7 +2,8 @@ import tensorflow as tf
 import numpy as np
 
 from utils import *
-from model import *
+# from model import *
+from pokeModel import *
 
 def train(celeb_images):
     tf.reset_default_graph()
@@ -13,8 +14,8 @@ def train(celeb_images):
 
     z_data = tf.placeholder(tf.float32, [None, z_size])
     real_data = tf.placeholder(tf.float32, [None, IMAGE_HEIGHT, IMAGE_WIDTH, N_CHANNEL])
-    
-    Gz = Generator(z_data)
+    # Gz = Generator(z_data ) # for original model 
+    Gz = Generator(z_data, 100, tf.bool ) #100 and tf bool are values assigned in original tutorual
     Dx, D_logit_real = Discriminator(real_data)
     Dg, D_logit_fake = Discriminator(Gz, reuse=True)
 
@@ -32,19 +33,19 @@ def train(celeb_images):
 
     d_optimizer = tf.train.AdamOptimizer(LEARNING_RATE, beta1=0.5).minimize(d_loss, var_list=d_vars, global_step=global_step)
     g_optimizer = tf.train.AdamOptimizer(LEARNING_RATE, beta1=0.5).minimize(g_loss, var_list=g_vars)
-    
+
 
     with tf.Session() as sess:
         sess.run(tf.global_variables_initializer())
-        
+
         saver = initialize(sess)
 
         initial_step = global_step.eval()
-    
+
         for index in range(initial_step, N_ITERATION):
             # print("Iteration "+ str(index))
             random_indices = get_random_indices(celeb_images.shape[0], BATCH_SIZE)
-            
+
             noise = np.random.normal(0, 1, size=[BATCH_SIZE, z_size]).astype(np.float32)
             real_image = np.take(celeb_images, random_indices, 0)
 
@@ -68,4 +69,3 @@ if __name__ == "__main__":
     print(celeb_images.shape)
 
     train(celeb_images)
-    
