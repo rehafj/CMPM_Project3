@@ -14,8 +14,8 @@ from utils import *
 slim = tf.contrib.slim
 
 HEIGHT, WIDTH, CHANNEL = 128, 128, 3
-BATCH_SIZE = 64
-EPOCH = 5000
+BATCH_SIZE = 5 # was 64
+EPOCH = 200 #was 5k size issue - stack says to resize based on batch and epoch so they are < input
 version = 'newPokemon'
 newPoke_path = './' + version
 
