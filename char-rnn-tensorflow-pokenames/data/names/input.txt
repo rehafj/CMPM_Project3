@@ -153,7 +153,7 @@ Minccino
 Seedot
 Slugma
 M Swampert-EX
-Beedrill δ
+Beedrill
 Skarmory ex
 Slugma
 Sudowoodo
@@ -174,11 +174,11 @@ Gible
 Munchlax
 Tentacruel
 Magneton
-Starmie δ
+Starmie
 Grimer
 Blastoise-EX
 Monferno
-Mightyena δ
+Mightyena
 Muk
 Omanyte
 Tangela
@@ -191,7 +191,7 @@ Tangrowth
 Horsea
 Seaking
 Deoxys ex
-Dragonair δ
+Dragonair
 Raticate
 Silcoon
 Misty's Staryu
@@ -200,12 +200,12 @@ Rapidash
 Scyther
 Unown C
 Slowbro
-Bagon δ
+Bagon
 Ditto
 Bidoof
 Flaaffy
 Flareon
-Dratini δ
+Dratini
 Togetic
 Buizel
 Holon's Voltorb
@@ -290,14 +290,14 @@ Team Magma's Mightyena
 Forretress
 Empoleon
 Totodile
-Ampharos δ
-Heracross δ
+Ampharos
+Heracross
 Volcanion
 Gyarados
 Swellow
 Feebas
 Meganium
-Nidoqueen δ
+Nidoqueen
 Raichu
 Pikachu-EX
 Whiscash
@@ -306,8 +306,8 @@ Hitmonlee
 Mareep
 Mudkip
 Mismagius
-Ninetales δ
-Snorlax δ
+Ninetales
+Snorlax
 Scizor
 Spoink
 Venusaur-EX
@@ -324,23 +324,23 @@ Hoothoot
 Chesnaught
 Onix
 Beautifly
-Togetic δ
+Togetic
 Carnivine
-Typhlosion δ
-Arbok δ
-Cloyster δ
-Dewgong δ
+Typhlosion
+Arbok
+Cloyster
+Dewgong
 Machop
 Spewpa
 Kingdra ex
 Gengar
-Gligar δ
+Gligar
 Espeon ex
 Vivillon
-Ledian δ
+Ledian
 Scyther
 Abra
-Treecko δ
+Treecko
 Skiddo
 Skitty
 Drowzee
@@ -348,24 +348,24 @@ Dark Electrode
 Mr. Mime
 Walrein
 Gogoat
-Lickitung δ
+Lickitung
 Magcargo
 Woobat
-Bayleef δ
-Flaaffy δ
+Bayleef
+Flaaffy
 Braixen
 Delphox
-Nidorina δ
+Nidorina
 Nidorina
 Charmander
 Larvitar
 Fletchinder
-Ledyba δ
-Pupitar δ
+Ledyba
+Pupitar
 Ralts
-Totodile δ
+Totodile
 Charmeleon
-Vulpix δ
+Vulpix
 Talonflame
 Grotle
 M Blastoise-EX
@@ -408,7 +408,7 @@ Unown
 Inkay
 Piplup
 Torchic
-Altaria ex δ
+Altaria ex
 Porygon2
 Malamar
 Fearow
@@ -441,7 +441,7 @@ Xerneas
 Clefable
 Tauros
 Ralts
-Dragonite ex δ
+Dragonite ex
 Wooper
 Relicanth
 Team Magma's Lairon
@@ -450,7 +450,7 @@ Delcatty
 Mareanie
 Cool Porygon
 Machoke
-Salamence ex δ
+Salamence ex
 Skitty
 Swablu
 Venusaur-EX
@@ -459,7 +459,7 @@ Magnemite
 Patrat
 Dodrio
 Team Aqua's Walrein
-Tyranitar ex δ
+Tyranitar ex
 Emolga-EX
 Magmar
 Togetic
@@ -470,7 +470,7 @@ Yveltal-EX
 Grumpig
 Hariyama
 Xerneas-EX
-Charizard Star δ
+Charizard Star
 Ursaring
 Machop
 Garchomp-EX
@@ -485,7 +485,7 @@ Team Aqua's Carvanha
 Hitmonchan
 Taillow
 Whismur
-Feraligatr δ
+Feraligatr
 Serperior
 Pansage
 Petilil
@@ -505,12 +505,12 @@ Lucario
 Joltik
 Rhyhorn
 Camerupt ex
-Meganium δ
+Meganium
 Yanmega
 Milotic ex
 Kyogre
 Torkoal
-Milotic δ
+Milotic
 Mr. Mime-GX
 Nidoran♀
 Zorua
@@ -518,43 +518,43 @@ Patrat
 Patrat
 Crawdaunt
 Ponyta
-Pinsir δ
+Pinsir
 Jynx
 Girafarig
 Nosepass
 Porygon
 Cosmog
 Skorupi
-Mantine δ
+Mantine
 Meditite
 Ninjask
 Azumarill
-Tropius δ
+Tropius
 Wartortle
 Onix
 Salamence
 Aerodactyl-EX
-Xatu δ
+Xatu
 Regirock ex
 Grovyle
-Kirlia δ
+Kirlia
 Mewtwo
-Nidorino δ
-Swellow δ
+Nidorino
+Swellow
 Swablu
 Grubbin
 Trapinch
 Registeel ex
 Buizel
-Chikorita δ
+Chikorita
 Salamence
-Dratini δ
+Dratini
 Keldeo
 Farfetch'd
-Elekid δ
-Nidoran♂ δ
-Seel δ
-Wooper δ
+Elekid
+Nidoran♂
+Seel
+Wooper
 Butterfree
 Celebi
 Cosmoem
@@ -573,18 +573,18 @@ Exeggutor
 Hoopa
 Dark Gyarados
 Horsea
-Gardevoir ex δ
+Gardevoir ex
 Regigigas
 Buizel
 Seadra
 Primeape
 Grovyle
-Latios ex δ
+Latios ex
 Marowak
 Houndour
 Petilil
-Rayquaza ex δ
-Mew Star δ
+Rayquaza ex
+Mew Star
 Electrode
 Snorunt
 Nidoking
@@ -750,7 +750,7 @@ Gothorita
 Pansear
 Fennekin
 Wurmple
-Flareon δ
+Flareon
 Hoppip
 Piplup
 Cubone
@@ -808,7 +808,7 @@ Zweilous
 Murkrow
 Swablu
 Seaking
-Mewtwo δ
+Mewtwo
 Sandslash
 Audino
 Braviary
@@ -857,7 +857,7 @@ Cacnea
 Ho-Oh-EX
 Seviper
 Duskull
-Starmie δ
+Starmie
 Mew-EX
 Gulpin
 Registeel-EX
@@ -907,7 +907,7 @@ Sandslash
 Blastoise ex
 Joltik
 Treecko
-Pupitar δ
+Pupitar
 Snorunt
 Ditto
 Zigzagoon
@@ -970,7 +970,7 @@ Moltres ex
 Simisage
 Swadloon
 Voltorb
-Ekans δ
+Ekans
 Zapdos ex
 Alolan Exeggutor
 Misdreavus
@@ -1474,7 +1474,7 @@ Dragonite-EX
 Growlithe
 Blastoise
 Solrock
-Shelgon δ
+Shelgon
 Froslass
 Palkia
 Butterfree
@@ -1919,7 +1919,7 @@ Zoroark
 Ducklett
 Corsola
 Altaria
-Jynx δ
+Jynx
 Sabrina's Slowpoke
 Gible
 Pawniard
@@ -1927,22 +1927,22 @@ Lickitung
 Gabite
 Sabrina's Venonat
 Munna
-Cradily δ
+Cradily
 Murkrow
 Garchomp
 Deino
 Natu
-Togepi δ
-Vibrava δ
+Togepi
+Vibrava
 Zweilous
-Bagon δ
+Bagon
 Ampharos
 White Kyurem-EX
 Aegislash
 Beedrill
-Mareep δ
-Natu δ
-Shellder δ
+Mareep
+Natu
+Shellder
 Archen
 Psyduck
 Swablu
@@ -1963,9 +1963,9 @@ Shuckle
 Slurpuff
 Flareon
 Bouffalant
-Gloom δ
+Gloom
 Pupitar
-Pidgeotto δ
+Pidgeotto
 Doduo
 Reshiram
 Dodrio
@@ -2917,7 +2917,7 @@ Glalie
 Voltorb
 Corsola
 Bergmite
-Rayquaza δ
+Rayquaza
 Mawile
 Gyarados
 Riolu
@@ -3386,7 +3386,7 @@ Latias ex
 M Manectric-EX
 Moltres
 M Manectric-EX
-Quagsire δ
+Quagsire
 Light Dragonair
 Lugia
 Blaziken
@@ -3401,29 +3401,29 @@ Light Ledian
 Raichu
 Slaking
 Electabuzz
-Horsea δ
+Horsea
 Ledian
 Unown
 Lanturn
-Quilava δ
+Quilava
 Charizard-EX
-Shelgon δ
+Shelgon
 Light Machamp
 Unown [H]
 Mewtwo
-Cyndaquil δ
+Cyndaquil
 Unown [W]
-Horsea δ
+Horsea
 Raikou
 Staryu
 Charizard-EX
-Larvitar δ
+Larvitar
 Dark Flaaffy
 Rapidash
 Sudowoodo
 Mawile
 Swinub
-Swablu δ
+Swablu
 Mankey
 Sentret
 Feebas
@@ -4000,7 +4000,7 @@ Pachirisu
 Paras
 Voltorb
 Charmeleon
-Charmeleon δ
+Charmeleon
 Magearna-EX
 Lt. Surge's Fearow
 Lurantis-GX
@@ -4140,8 +4140,8 @@ Litleo
 Primarina-GX
 Krookodile-EX
 Slowking
-Persian δ
-Trapinch δ
+Persian
+Trapinch
 Emolga
 Snorunt
 Hippowdon 4
@@ -4270,7 +4270,7 @@ Espeon
 Stantler
 Igglybuff
 Unown [B]
-Blastoise δ
+Blastoise
 White Kyurem
 Drowzee
 Entei
@@ -4278,7 +4278,7 @@ Misdreavus
 Omastar
 Unown [Y]
 Celebi
-Charizard δ
+Charizard
 Aron
 Flareon 4
 M Aerodactyl-EX
@@ -4287,9 +4287,9 @@ Shellos East Sea
 Silcoon
 Swalot
 Aipom
-Grovyle δ
+Grovyle
 Chinchou
-Kingler δ
+Kingler
 Farfetch'd
 Geodude
 Alolan Rattata
@@ -4546,7 +4546,7 @@ Tornadus
 Sealeo
 Jolteon-EX
 Torkoal
-Raichu δ
+Raichu
 Helioptile
 Riolu
 Dusknoir
@@ -4558,12 +4558,12 @@ Scrafty
 Goodra
 Pidgeot
 Furfrou
-Bellossom δ
+Bellossom
 Florges
 Feraligatr
 Accelgor
 Magmar
-Mewtwo δ
+Mewtwo
 Drapion
 Regirock
 Minun
@@ -4577,7 +4577,7 @@ Mew
 Team Magma's Numel
 Gothitelle
 Golett
-Chimecho δ
+Chimecho
 Raichu
 Mienshao
 Bronzor
@@ -4600,7 +4600,7 @@ Venusaur
 Chinchou
 Vileplume
 Blastoise
-Exeggutor δ
+Exeggutor
 Persian
 Spinda
 Keldeo
@@ -4656,7 +4656,7 @@ Sealeo
 Groudon ex
 Staryu
 Sliggoo
-Sceptile ex δ
+Sceptile ex
 Shiftry ex
 Shelgon
 Bulbasaur
@@ -4740,7 +4740,7 @@ Lairon
 Tynamo
 Lugia-EX
 Tynamo
-Primeape δ
+Primeape
 Espeon
 Slowking
 Goldeen
@@ -4840,8 +4840,8 @@ Ralts
 Machamp
 Geodude
 Froakie
-Lileep δ
-Oddish δ
+Lileep
+Oddish
 Golurk
 Staryu
 Sylveon
@@ -4857,13 +4857,13 @@ Phanpy
 Crobat ex
 Pawniard
 Blissey
-Pidgey δ
+Pidgey
 Jumpluff
 Golem
 Golem-EX
 Poochyena
 Escavalier
-Psyduck δ
+Psyduck
 Pikachu
 Cobalion
 Arcanine
@@ -4891,7 +4891,7 @@ Vileplume
 Leavanny
 Karrablast
 Salamence ex
-Larvitar δ
+Larvitar
 Altaria
 Meowth
 Rapidash
@@ -4933,15 +4933,15 @@ M Gengar-EX
 Nidorino
 Aron
 Raikou-EX
-Croconaw δ
-Dragonair δ
-Electabuzz δ
-Nidoran♀ δ
+Croconaw
+Dragonair
+Electabuzz
+Nidoran♀
 Carvanha
 Gulpin
 Toxicroak
 Buneary
-Taillow δ
+Taillow
 Tornadus-EX
 Gastly
 Sneasel
@@ -5058,7 +5058,7 @@ Gyarados
 Misdreavus
 Lileep
 Lileep
-Dragonite δ
+Dragonite
 Fletchling
 Lombre
 Venusaur
@@ -5103,7 +5103,7 @@ Shellder
 Cacnea
 Delibird
 Stantler
-Gardevoir δ
+Gardevoir
 Burmy Sandy Cloak
 Corsola
 Mareep
@@ -5113,7 +5113,7 @@ Duskull
 Dodrio
 Kyogre-EX
 Vanillite
-Jolteon δ
+Jolteon
 Smeargle
 Darkrai
 Darkrai
@@ -5137,8 +5137,8 @@ Poliwag
 Unown [E]
 Raticate
 Unown [U]
-Latios δ
-Metagross δ
+Latios
+Metagross
 Victini
 Pancham
 Natu
@@ -5156,18 +5156,18 @@ Zigzagoon
 Houndoom
 Vulpix
 Pidgey
-Rayquaza δ
+Rayquaza
 Nidoran♂
 Baltoy
 Regigigas
 Swellow
 Shaymin-EX
 Hypno
-Azumarill δ
+Azumarill
 Rayquaza-EX
 Heatran
 Rotom
-Salamence δ
+Salamence
 Shaymin-EX
 Octillery
 Azurill
@@ -5253,7 +5253,7 @@ Shaymin
 Vivillon
 Regigigas
 Ivysaur
-Sandslash δ
+Sandslash
 Suicune
 Tauros
 Vaporeon
@@ -5297,18 +5297,18 @@ Beldum
 Cofagrigus
 Nidoking
 Magneton
-Metang δ
+Metang
 Dragonite
 Latias-EX
 Raticate
 Eevee
-Shelgon δ
-Beldum δ
+Shelgon
+Beldum
 Nuzleaf
 Sandshrew
 Litleo
 Drifblim
-Dratini δ
+Dratini
 Snover
 Shinx
 Gastrodon
@@ -5515,7 +5515,7 @@ Togepi
 Growlithe
 Mawile
 Houndoom
-Pelipper δ
+Pelipper
 Ledyba
 Sunkern
 Phanpy
@@ -5829,7 +5829,7 @@ Lucario
 Poliwrath
 Stantler
 Slowking
-Bagon δ
+Bagon
 Ludicolo
 Zubat
 Metagross
@@ -5893,11 +5893,11 @@ Squirtle
 Sableye
 Tauros
 Torchic
-Cacturne δ
+Cacturne
 Cloyster
 Dusclops
 Farfetch'd
-Fearow δ
+Fearow
 Raichu BREAK
 Gulpin
 Ivysaur
@@ -5914,19 +5914,19 @@ Magneton
 Kyogre ex
 Zubat
 Primeape
-Crobat δ
-Espeon δ
+Crobat
+Espeon
 Tangela
 Ursaring
 Teddiursa
-Latias δ
-Marowak δ
+Latias
+Marowak
 Kakuna
 Metapod
 Stufful
-Tyranitar δ
-Umbreon δ
-Vaporeon δ
+Tyranitar
+Umbreon
+Vaporeon
 Nidorina
 Nidorino
 Hypno
@@ -5935,7 +5935,7 @@ Raticate
 Wishiwashi-GX
 Swellow
 Venomoth
-Dragonair δ
+Dragonair
 Jolteon
 Ursaring
 Wartortle
@@ -5944,7 +5944,7 @@ Houndoom
 Dark Weezing
 Wigglytuff
 Ditto
-Eevee δ
+Eevee
 Ledian
 Metagross-GX
 Scyther
@@ -5963,47 +5963,47 @@ Kommo-o-GX
 Claydol
 Jigglypuff
 Ponyta
-Nidoking δ
+Nidoking
 Squirtle
 Virizion-EX
 Duskull
 Poochyena
 Genesect-EX
 Charizard ex
-Seadra δ
-Vibrava δ
+Seadra
+Vibrava
 Kirlia
-Ralts δ
-Seadra δ
-Smeargle δ
+Ralts
+Seadra
+Smeargle
 Larvitar
 Pupitar
 Electrode ex
 Gyarados ex
-Trapinch δ
+Trapinch
 Mr. Mime ex
 Jirachi-EX
 Alolan Meowth
 Dark Primeape
 Mr. Mime ex
 Dialga-EX
-Kingdra ex δ
+Kingdra ex
 Venusaur ex
 Virizion
 Porygon
 Snubbull
-Deoxys δ
+Deoxys
 Weedle
 Articuno ex
 Turtonator-GX
 Incineroar-GX
-Deoxys δ
-Deoxys δ
-Omastar δ
+Deoxys
+Deoxys
+Omastar
 Kakuna
 Beedrill
 Blaziken
-Latias δ
+Latias
 Baltoy
 Heatran
 Registeel
@@ -6015,10 +6015,10 @@ Holon's Castform
 Cacnea
 Cacturne
 Manectric
-Sharpedo δ
+Sharpedo
 Wobbuffet
-Magikarp δ
-Meowth δ
+Magikarp
+Meowth
 Pikachu
 Palkia-GX
 Flareon
@@ -6143,7 +6143,7 @@ Wormadam Sandy Cloak
 Kyurem
 Cleffa
 Pawniard
-Trapinch δ
+Trapinch
 Giovanni's Machoke
 Chinchou
 Beedrill G
@@ -6193,18 +6193,18 @@ Pinsir
 Metagross
 Haunter
 Deoxys ex
-Smoochum δ
-Latias ex δ
+Smoochum
+Latias ex
 Solrock
-Flygon ex δ
+Flygon ex
 Rocket's Mewtwo ex
 Koga's Zubat
 Lt. Surge's Pikachu
 Deoxys-EX
 Barboach
 Numel
-Pichu δ
-Pikachu δ
+Pichu
+Pikachu
 Mankey
 Zapdos
 Golem
@@ -6226,7 +6226,7 @@ Slugma
 Gengar & Mimikyu-GX
 Registeel Star
 Regice Star
-Pikachu δ
+Pikachu
 Misty's Horsea
 Rocket's Suicune ex
 Omastar
@@ -6329,7 +6329,7 @@ Meowth
 Seel
 Rattata
 Squirtle
-Feebas δ
+Feebas
 Omastar
 Starmie
 Staryu
@@ -7003,7 +7003,7 @@ Flygon
 Black Kyurem-EX
 Raticate
 Farfetch'd
-Charmander δ
+Charmander
 Golurk
 Altaria
 Chikorita
@@ -7020,37 +7020,37 @@ Spritzee
 Aromatisse
 Ho-Oh-EX
 Wigglytuff ex
-Armaldo δ
+Armaldo
 M Gyarados-EX
 Espeon-EX
 Ho-Oh-EX
 Parasect
 Chespin
 Conkeldurr
-Deoxys δ
+Deoxys
 M Glalie-EX
 Simipour
 Vanillish
 Vanilluxe
 Pikachu
 Raichu
-Flygon δ
-Gyarados δ
+Flygon
+Gyarados
 Magnezone
 Stunfisk
 Dedenne
 M Mewtwo-EX
 Ralts
-Kabutops δ
+Kabutops
 Beheeyem
 Marowak BREAK
 Gallade
 Bronzor
 Snubbull
 Flabébé
-Kingdra δ
-Latias δ
-Latios δ
+Kingdra
+Latias
+Latios
 Starly
 Staraptor
 Braviary
@@ -7058,20 +7058,20 @@ Tangrowth
 Mewtwo-EX
 M Mewtwo-EX
 Mewtwo-EX
-Pidgeot δ
+Pidgeot
 Corphish
-Vileplume δ
+Vileplume
 Zoroark
 Azumarill
 Panpour
 Eelektross
-Latios δ
+Latios
 Slowking
 Wobbuffet
 Duskull
 Sandygast
 Nosepass
-Rayquaza δ
+Rayquaza
 Carbink
 Hydreigon
 Kyogre ex
@@ -7079,25 +7079,25 @@ Groudon ex
 Torkoal
 Lucario
 Kirlia
-Aerodactyl δ
-Golduck δ
+Aerodactyl
+Golduck
 Treecko
 Bouffalant
-Seadra δ
-Vibrava δ
+Seadra
+Vibrava
 Whiscash
 Weedle
 Kakuna
-Anorith δ
-Carvanha δ
+Anorith
+Carvanha
 Grovyle
-Exeggcute δ
-Horsea δ
-Kabuto δ
+Exeggcute
+Horsea
+Kabuto
 Mudkip
-Mankey δ
+Mankey
 Torchic
-Omanyte δ
+Omanyte
 Torchic
 Treecko
 Pansage
@@ -7143,7 +7143,7 @@ Palkia
 Raikou
 Pikachu Star
 Mightyena ex
-Gyarados Star δ
+Gyarados Star
 Marshtomp
 Pikachu
 Piloswine
@@ -7183,7 +7183,7 @@ Sharpedo
 Alolan Exeggutor-GX
 Flygon
 Dugtrio
-Ludicolo δ
+Ludicolo
 Blastoise
 Combusken
 Grumpig
@@ -7221,7 +7221,7 @@ Incineroar-GX
 Psyduck
 Charjabug
 Drowzee
-Pikachu δ
+Pikachu
 Arcanine
 Cosmoem
 Hariyama
@@ -7298,7 +7298,7 @@ Swablu
 Minun
 Plusle
 Donphan
-Deoxys δ
+Deoxys
 Bastiodon
 Pachirisu
 Rampardos
