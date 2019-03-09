@@ -32,6 +32,8 @@ def test(image_path):
     for index, label in enumerate(labels):
         print(label +' - '+ str(round(test_output[0][index]* 100,2))+'%' )
 
+    return label
+
 if __name__ == "__main__":
     image_path = sys.argv[1]
     test(image_path)
