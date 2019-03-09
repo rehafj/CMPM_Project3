@@ -14,8 +14,8 @@ from utils import *
 slim = tf.contrib.slim
 
 HEIGHT, WIDTH, CHANNEL = 128, 128, 3
-BATCH_SIZE = 5 # was 64
-EPOCH = 200 #was 5k size issue - stack says to resize based on batch and epoch so they are < input
+BATCH_SIZE = 1#3 # 5 was 64
+EPOCH = 1 #200 was 5k size issue - stack says to resize based on batch and epoch so they are < input
 version = 'newPokemon'
 newPoke_path = './' + version
 
@@ -54,12 +54,25 @@ def process_data():
     image = tf.cast(image, tf.float32)
     image = image / 255.0
 
+
+# from online fourm In general: the calculation formula for capacity is:  capacity= min_after_dequeue+3* batch_size
+# maybe keep old valyes but delete  num_threads = 4 according to online fourm
+
+
+    # iamges_batch = tf.train.shuffle_batch( #from tf site
+    #       [image],
+    #       batch_size=32,
+    #       num_threads=4,
+    #       capacity=50000,
+    #       min_after_dequeue=10000)
+
     iamges_batch = tf.train.shuffle_batch(
                                     [image], batch_size = BATCH_SIZE,
-                                    num_threads = 4, capacity = 200 + 3* BATCH_SIZE,
-                                    min_after_dequeue = 200)
-    num_images = len(images)
+                                    capacity = 200 + 3* BATCH_SIZE,
+                                    min_after_dequeue = 0)# 0 values here were  200 removed num_threads = 4
 
+
+    num_images = len(images)
     return iamges_batch, num_images
 
 def generator(input, random_dim, is_train, reuse=False):
@@ -212,7 +225,7 @@ def train():
         print("Running epoch {}/{}...".format(i, EPOCH))
         for j in range(batch_num):
             print(j)
-            d_iters = 5
+            d_iters = 5 #i think this is the iterations for the discriminator and generator
             g_iters = 1
 
             train_noise = np.random.uniform(-1.0, 1.0, size=[batch_size, random_dim]).astype(np.float32)
