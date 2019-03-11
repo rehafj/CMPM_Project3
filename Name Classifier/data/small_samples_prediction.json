@@ -1,0 +1,502 @@
+[
+    {
+        "type": "Psychic",
+        "description": "['Colorless', 'Colorless', 'Colorless'],Power Lariat,'This attack does 50 more damage for each Evolution Pok\u00e9mon on your Bench.',10+",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Colorless'],Slap,'',30",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Water",
+        "description": "['Water', 'Water', 'Water', 'Water', 'Water'],Super Splash,'',180",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Water",
+        "description": "['Water'],Towering Splash GX,'If this Pok\u00e9mon has at least 7 extra Water Energy attached to it (in addition to this attack's cost), this attack does 100 damage to each of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.) (You can't use more than 1 GX attack in a game.)',10",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Fire",
+        "description": "['Fire'],Heat Stage,'You may attach up to 3 Fire Energy cards from your hand to your Pok\u00e9mon in any way you like.',30",
+        "new_prediction": "Fire"
+    },
+    {
+        "type": "Fire",
+        "description": "['Fire', 'Fire', 'Colorless'],Bright Flame,'Discard 2 Fire Energy from this Pok\u00e9mon.',190",
+        "new_prediction": "Fire"
+    },
+    {
+        "type": "Fire",
+        "description": "['Fire'],Power Burner GX,'This attack does 20 damage for each Fire Energy card in your discard pile. (You can't use more than 1 GX attack in a game.)',20x",
+        "new_prediction": "Fire"
+    },
+    {
+        "type": "Lightning",
+        "description": "['Lightning'],Electrobullet,'This attack does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)',30",
+        "new_prediction": "Lightning"
+    },
+    {
+        "type": "Lightning",
+        "description": "['Lightning', 'Colorless'],Head Bolt,'',110",
+        "new_prediction": "Lightning"
+    },
+    {
+        "type": "Lightning",
+        "description": "['Lightning', 'Colorless'],Swift Run GX,'Prevent all effects of attacks, including damage, done to this Pok\u00e9mon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)',110",
+        "new_prediction": "Lightning"
+    },
+    {
+        "type": "Grass",
+        "description": "['Grass'],Continuous Eggsplosion,'Flip a coin until you get tails. This attack does 20 damage for each heads.',20\u00d7",
+        "new_prediction": "Grass"
+    },
+    {
+        "type": "Grass",
+        "description": "['Grass'],Inviting Poison,'Switch 1 of your opponent's Benched Pok\u00e9mon with their Active Pok\u00e9mon. The new Active Pok\u00e9mon is now Poisoned.',",
+        "new_prediction": "Grass"
+    },
+    {
+        "type": "Grass",
+        "description": "['Grass', 'Grass', 'Colorless'],Flower Tornado,'Move any number of Grass Energy from your Pok\u00e9mon to your other Pok\u00e9mon in any way you like.',100",
+        "new_prediction": "Grass"
+    },
+    {
+        "type": "Grass",
+        "description": "['Colorless', 'Colorless'],Tackle,'',20",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Grass",
+        "description": "['Grass', 'Grass', 'Colorless'],Razor Leaf,'',50",
+        "new_prediction": "Grass"
+    },
+    {
+        "type": "Grass",
+        "description": "['Grass', 'Colorless', 'Colorless'],Special Mow,'Discard a Special Energy from your opponent's Active Pok\u00e9mon.',60",
+        "new_prediction": "Grass"
+    },
+    {
+        "type": "Water",
+        "description": "['Water', 'Colorless', 'Colorless'],Frost Bullet,'This attack does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)',90",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Water",
+        "description": "['Water', 'Colorless', 'Colorless'],Polar Spear-GX,'This attack does 50 damage for each damage counter on your opponent's Active Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)',50\u00d7",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Water",
+        "description": "['Water', 'Colorless', 'Colorless'],Wash Arrow,'This attack does 50 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)',",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Lightning",
+        "description": "['Colorless'],Disconnect,'Your opponent can't play any Item cards from their hand during their next turn.',30",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Colorless'],Lightless World,'Put 2 Supporter cards from your discard pile into your hand.',",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Colorless'],Terrify,'If the Defending Pok\u00e9mon is a Basic Pok\u00e9mon, it can't attack during your opponent's next turn.',10",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Colorless'],Teleport,'Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.',",
+        "new_prediction": "Grass"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Psychic'],Full Moon Star,'For each of your opponent's Pok\u00e9mon in play, attach a Psychic Energy card from your discard pile to your Pok\u00e9mon in any way you like.',",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Psychic', 'Psychic', 'Psychic', 'Psychic'],Psystorm,'This attack does 20 damage times the amount of Energy attached to all Pok\u00e9mon.',20\u00d7",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Colorless', 'Colorless'],Photon Wave,'During your opponent's next turn, any damage done by attacks from the Defending Pok\u00e9mon is reduced by 30 (before applying Weakness and Resistance).',30",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Psychic', 'Psychic', 'Colorless', 'Colorless'],Psyburn,120",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Psychic', 'Psychic', 'Psychic'],Dark Flash,'This attack's damage isn't affected by Resistance.',120",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Psychic', 'Psychic', 'Psychic'],Moon's Eclipse-GX,'You can use this attack only if you have more Prize cards remaining than your opponent. Prevent all effects of attacks, including damage, done to this Pok\u00e9mon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)',180",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Fighting', 'Colorless'],Rock Hurl,'This attack's damage isn't affected by Resistance.',40",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Darkness', 'Colorless'],Sticky Smokescreen,'If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips 2 coins. If either of them is tails, that attack does nothing.',50",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Darkness', 'Darkness', 'Colorless'],Hammer In,'',100",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal'],Ram,'',20",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Metal', 'Colorless'],Zap Cannon,'This Pok\u00e9mon can't use Zap Cannon during your next turn.',80",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal'],Hypnosis,'Your opponent's Active Pok\u00e9mon is now Asleep.',",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Colorless', 'Colorless'],Spinning Attack,'',20",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal'],Radiant Star,'For each of your opponent's Pok\u00e9mon in play, attach a Metal Energy card from your discard pile to your Pok\u00e9mon in any way you like.',",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Metal', 'Metal', 'Metal'],Corona Impact,'This Pok\u00e9mon can't attack during your next turn.',160",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Colorless', 'Colorless', 'Colorless'],Claw Slash,'',60",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Metal', 'Metal', 'Colorless'],Meteor Tempest,'Discard 3 Energy from this Pok\u00e9mon.',220",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Metal', 'Metal'],Sun's Eclipse-GX,'You can use this attack only if you have more Prize cards remaining than your opponent. (You can't use more than 1 GX attack in a game.)',250",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Colorless', 'Colorless'],Rolling Attack,'',60",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Colorless'],Flickering Spores,'Your opponent's Active Pok\u00e9mon is now Asleep.',",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Fairy'],Ram,'',10",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Fairy'],Psywave,'This attack does 20 damage times the amount of Energy attached to your opponent's Active Pok\u00e9mon.',20\u00d7",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Fairy', 'Colorless'],Magical Swap,'Move any number of damage counters on your opponent's Pok\u00e9mon to their other Pok\u00e9mon in any way you like.',",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Water",
+        "description": "['Metal'],Overclock,'Draw cards until you have 6 cards in your hand.',",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Water",
+        "description": "['Metal', 'Colorless', 'Colorless'],Shred,'This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon.',80",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Water",
+        "description": "['Metal', 'Metal', 'Metal', 'Colorless', 'Colorless'],Timeless-GX,'Take another turn after this one. (Skip the between-turns step.) (You can't use more than 1 GX attack in a game.)',150",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Colorless', 'Colorless'],Lap Up,'Draw 3 cards.',",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Colorless', 'Colorless', 'Colorless'],Slam,'Flip 2 coins. This attack does 50 damage for each heads.',50\u00d7",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Colorless', 'Colorless'],Palette of Friends,'This attack does 10 damage for each different type of Pok\u00e9mon on your Bench.',10\u00d7",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Colorless', 'Colorless', 'Colorless'],Turbo Drive,'Attach a basic Energy card from your discard pile to 1 of your Benched Pok\u00e9mon.',120",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Colorless', 'Colorless', 'Colorless'],Rebel-GX,'This attack does 50 damage for each of your opponent's Benched Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)',50\u00d7",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Grass",
+        "description": "['Grass'],Fast Raid,'If you go first, you can use this attack on your first turn.',30",
+        "new_prediction": "Grass"
+    },
+    {
+        "type": "Grass",
+        "description": "['Grass', 'Grass'],Cruel Spike,'Your opponent's Active Pok\u00e9mon is now Confused.',60",
+        "new_prediction": "Grass"
+    },
+    {
+        "type": "Grass",
+        "description": "['Grass', 'Grass'],Beauty-GX,'This attack does 50 damage for each Prize card your opponent has taken. (You can't use more than 1 GX attack in a game.)',50\u00d7",
+        "new_prediction": "Grass"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Colorless', 'Colorless'],Rocket Fall,'This attack does 30 more damage for each Colorless in your opponent's Active Pok\u00e9mon's Retreat Cost.',30+",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Colorless', 'Colorless', 'Colorless'],Moon Press,'',130",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Colorless', 'Colorless', 'Colorless'],Blaster-GX,'Turn all of your Prize cards face up. (Those Prize cards remain face up for the rest of the game.) (You can't use more than 1 GX attack in a game.)',180",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Colorless', 'Colorless', 'Colorless'],Claw Slash,'',60",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Metal', 'Metal', 'Colorless'],Meteor Tempest,'Discard 3 Energy from this Pok\u00e9mon.',220",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Metal', 'Metal'],Sun's Eclipse-GX,'You can use this attack only if you have more Prize cards remaining than your opponent. (You can't use more than 1 GX attack in a game.)',250",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Grass",
+        "description": "['Grass', 'Colorless', 'Colorless'],Solar Beam,'',110",
+        "new_prediction": "Grass"
+    },
+    {
+        "type": "Grass",
+        "description": "['Grass'],Grand Bloom-GX,'For each of your Benched Basic Pok\u00e9mon, search your deck for a card that evolves from that Pok\u00e9mon and put it onto that Pok\u00e9mon to evolve it. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)',",
+        "new_prediction": "Grass"
+    },
+    {
+        "type": "Water",
+        "description": "['Water', 'Colorless', 'Colorless'],Frost Bullet,'This attack does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)',90",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Water",
+        "description": "['Water', 'Colorless', 'Colorless'],Polar Spear-GX,'This attack does 50 damage for each damage counter on your opponent's Active Pok\u00e9mon. (You can't use more than 1 GX attack in a game.)',50\u00d7",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Colorless', 'Colorless'],Rocket Fall,'This attack does 30 more damage for each Colorless in your opponent's Active Pok\u00e9mon's Retreat Cost.',30+",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Colorless', 'Colorless', 'Colorless'],Moon Press,'',130",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Colorless', 'Colorless', 'Colorless'],Blaster-GX,'Turn all of your Prize cards face up. (Those Prize cards remain face up for the rest of the game.) (You can't use more than 1 GX attack in a game.)',180",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Colorless'],Magnetic Laser,'You may move a Metal Energy from 1 of your Benched Pok\u00e9mon to this Pok\u00e9mon.',20",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Fighting",
+        "description": "['Metal', 'Metal', 'Colorless', 'Colorless'],Squared Attack,'Flip 4 coins. This attack does 50 damage times the number of heads.',50\u00d7",
+        "new_prediction": "Fighting"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Colorless', 'Colorless'],Moonblast,'During your opponent's next turn, any damage done by attacks from the Defending Pok\u00e9mon is reduced by 20 (before applying Weakness and Resistance).',20",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Fairy', 'Fairy', 'Colorless'],Luminous Swirl,'Flip 2 coins. This attack does 40 more damage for each heads.',80+",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Lightning",
+        "description": "['Lightning', 'Colorless', 'Colorless'],Hyper Beam,'Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon.',60",
+        "new_prediction": "Lightning"
+    },
+    {
+        "type": "Water",
+        "description": "['Colorless', 'Colorless'],Full Retaliation,'This attack does 30 more damage for each damage counter on each of your Benched Magikarp.',30+",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Water",
+        "description": "['Water', 'Water', 'Colorless', 'Colorless'],Thrash,'Flip a coin. If heads, this attack does 30 more damage. If tails, this Pok\u00e9mon does 30 damage to itself.',100+",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Water",
+        "description": "['Grass', 'Fighting', 'Fighting', 'Colorless'],Spiral Buzz,'Flip a coin until you get tails. This attack does 30 more damage for each heads.',80+",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Darkness', 'Darkness'],Disaster Wing,'Discard the top card of your opponent's deck. If that card is a Trainer card, this attack does 80 more damage.',80\uff0b",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Colorless', 'Colorless'],Mega Ascension,'Search your deck for M Rayquaza-EX, reveal it, and put it into your hand. Shuffle your deck afterward.',",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Colorless', 'Colorless', 'Colorless', 'Colorless'],Aeroscream,'Flip a coin. If tails, discard 2 Energy attached to this Pok\u00e9mon.',130",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Water",
+        "description": "['Psychic'],Fast Raid,'If you go first, you can use this attack on your first turn.',40",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Water",
+        "description": "['Water', 'Psychic', 'Psychic', 'Colorless'],Light Pulse,'Prevent all effects of your opponent's attacks, except damage, done to this Pok\u00e9mon during your opponent's next turn.',110",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Water",
+        "description": "['Fire'],Eon Connection,'Draw a card. If Latios is on your Bench, draw 1 more card.',",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Water",
+        "description": "['Psychic', 'Colorless', 'Colorless'],Speed Wing,'',60",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Lightning",
+        "description": "['Colorless'],Iron Tail,'Flip a coin until you get tails. This attack does 30 damage times the number of heads.',30\u00d7",
+        "new_prediction": "Lightning"
+    },
+    {
+        "type": "Lightning",
+        "description": "['Lightning', 'Colorless', 'Colorless'],Overspark,'Discard all Lightning Energy attached to this Pok\u00e9mon. This attack does 50 damage times the number of Energy cards you discarded.',50\u00d7",
+        "new_prediction": "Lightning"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Psychic'],Shatter Shot,'This attack does 30 damage times the amount of Psychic Energy attached to this Pok\u00e9mon.',30\u00d7",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Water",
+        "description": "['Water', 'Colorless', 'Colorless'],Berserker Splash,'This attack does 10 damage to each Benched Pok\u00e9mon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)',80",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Water",
+        "description": "['Water', 'Colorless', 'Colorless', 'Colorless'],Aqua Tail,'Flip a coin for each Water Energy attached to this Pok\u00e9mon. This attack does 30 more damage for each heads.',90+",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Fairy', 'Colorless', 'Colorless'],Break Through,'This attack does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)',60",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Fairy', 'Fairy', 'Colorless', 'Colorless'],X Blast,'This Pok\u00e9mon can't use X Blast during your next turn.',140",
+        "new_prediction": "Colorless"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Darkness', 'Colorless'],Evil Ball,'This attack does 20 more damage times the amount of Energy attached to both Active Pok\u00e9mon.',20+",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Darkness', 'Colorless', 'Colorless'],Y Cyclone,'Move an Energy from this Pok\u00e9mon to 1 of your Benched Pok\u00e9mon.',90",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Grass",
+        "description": "['Colorless'],Double Scrapper,'Discard up to 2 Pok\u00e9mon Tool cards attached to your opponent's Pok\u00e9mon.',",
+        "new_prediction": "Grass"
+    },
+    {
+        "type": "Grass",
+        "description": "['Grass', 'Colorless'],Pin Missile,'Flip 4 coins. This attack does 40 damage times the number of heads.',40\u00d7",
+        "new_prediction": "Grass"
+    },
+    {
+        "type": "Water",
+        "description": "['Fire', 'Colorless', 'Colorless'],Beastly Fang,'This attack does 50 more damage for each of your opponent's Pok\u00e9mon-EX.',10+",
+        "new_prediction": "Fire"
+    },
+    {
+        "type": "Water",
+        "description": "['Fire', 'Water', 'Colorless', 'Colorless'],Dragon Strike,'This Pok\u00e9mon can't use Dragon Strike during your next turn.',130",
+        "new_prediction": "Water"
+    },
+    {
+        "type": "Psychic",
+        "description": "['Darkness', 'Colorless', 'Colorless'],Shadow Cage,'The Defending Pok\u00e9mon can't retreat during your opponent's next turn.',60",
+        "new_prediction": "Psychic"
+    },
+    {
+        "type": "Colorless",
+        "description": "['Colorless', 'Colorless', 'Colorless', 'Colorless'],Body Slam,'Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.',50",
+        "new_prediction": "Colorless"
+    }
+]
