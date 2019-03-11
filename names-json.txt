@@ -16,11 +16,11 @@
 		"name": "Hariyamaex"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Xerneas"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aggron"
 	},
 	{
@@ -44,15 +44,15 @@
 		"name": "Magneton"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Inkay"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mightyena"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Pawniard"
 	},
 	{
@@ -76,7 +76,7 @@
 		"name": "Magmar"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lairon"
 	},
 	{
@@ -84,7 +84,7 @@
 		"name": "Dusknoir"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Swirlix"
 	},
 	{
@@ -96,7 +96,7 @@
 		"name": "Snorlax"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Poochyena"
 	},
 	{
@@ -124,7 +124,7 @@
 		"name": "Lucario"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metang"
 	},
 	{
@@ -164,7 +164,7 @@
 		"name": "Carnivine"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magnezone"
 	},
 	{
@@ -188,7 +188,7 @@
 		"name": "Crustle"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Forretress"
 	},
 	{
@@ -268,7 +268,7 @@
 		"name": "Roserade"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Skuntank"
 	},
 	{
@@ -320,11 +320,11 @@
 		"name": "Jolteon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Cobalion-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Druddigon"
 	},
 	{
@@ -348,11 +348,11 @@
 		"name": "Dustox"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "BlackKyurem-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "WhiteKyurem-EX"
 	},
 	{
@@ -368,7 +368,7 @@
 		"name": "Magnemite"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Forretress"
 	},
 	{
@@ -380,7 +380,7 @@
 		"name": "Floatzel"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Poochyena"
 	},
 	{
@@ -392,7 +392,7 @@
 		"name": "Nidorino"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Krokorok"
 	},
 	{
@@ -400,11 +400,11 @@
 		"name": "Hariyama"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Honchkrow"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Honchkrow"
 	},
 	{
@@ -436,7 +436,7 @@
 		"name": "Snorunt"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
@@ -444,7 +444,7 @@
 		"name": "Spheal"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
@@ -456,7 +456,7 @@
 		"name": "Torchic"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zorua"
 	},
 	{
@@ -480,7 +480,7 @@
 		"name": "Lombre"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Bisharp"
 	},
 	{
@@ -492,7 +492,7 @@
 		"name": "Primeape"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klang"
 	},
 	{
@@ -508,7 +508,7 @@
 		"name": "Vigoroth"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klinklang"
 	},
 	{
@@ -540,7 +540,7 @@
 		"name": "Pachirisu"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Weavile"
 	},
 	{
@@ -552,7 +552,7 @@
 		"name": "UnownP"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Absolex"
 	},
 	{
@@ -564,7 +564,7 @@
 		"name": "Riolu"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metagrossex"
 	},
 	{
@@ -572,7 +572,7 @@
 		"name": "Rayquaza-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lairon"
 	},
 	{
@@ -580,7 +580,7 @@
 		"name": "Corphish"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Shiftryex"
 	},
 	{
@@ -624,7 +624,7 @@
 		"name": "Beedrillδ"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmoryex"
 	},
 	{
@@ -636,7 +636,7 @@
 		"name": "Sudowoodo"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Weavile"
 	},
 	{
@@ -656,7 +656,7 @@
 		"name": "Wynaut"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klink"
 	},
 	{
@@ -680,7 +680,7 @@
 		"name": "Machoke"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metang"
 	},
 	{
@@ -700,7 +700,7 @@
 		"name": "Tentacruel"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magneton"
 	},
 	{
@@ -720,7 +720,7 @@
 		"name": "Monferno"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mightyenaδ"
 	},
 	{
@@ -888,11 +888,11 @@
 		"name": "Zygarde"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonite"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
@@ -904,7 +904,7 @@
 		"name": "Aipom"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latios"
 	},
 	{
@@ -912,7 +912,7 @@
 		"name": "Meditite"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Axew"
 	},
 	{
@@ -932,7 +932,7 @@
 		"name": "Roselia"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Haxorus"
 	},
 	{
@@ -944,15 +944,15 @@
 		"name": "Breloom"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneasel"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kyurem"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Stunky"
 	},
 	{
@@ -1056,7 +1056,7 @@
 		"name": "TeamAqua'sMuk"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndour"
 	},
 	{
@@ -1068,7 +1068,7 @@
 		"name": "Magneton"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
@@ -1080,7 +1080,7 @@
 		"name": "Slakoth"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "TeamAqua'sPoochyena"
 	},
 	{
@@ -1088,7 +1088,7 @@
 		"name": "Giovanni'sMachop"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
@@ -1116,19 +1116,19 @@
 		"name": "Slugma"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "TeamMagma'sPoochyena"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "TeamAqua'sMightyena"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneasel"
 	},
 	{
@@ -1144,7 +1144,7 @@
 		"name": "LatiasStar"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
@@ -1152,11 +1152,11 @@
 		"name": "Teddiursa"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "TeamMagma'sMightyena"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Forretress"
 	},
 	{
@@ -1196,7 +1196,7 @@
 		"name": "Meganium"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Nidoqueenδ"
 	},
 	{
@@ -1240,7 +1240,7 @@
 		"name": "Snorlaxδ"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor"
 	},
 	{
@@ -1276,7 +1276,7 @@
 		"name": "Lotad"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Shiftry"
 	},
 	{
@@ -1356,7 +1356,7 @@
 		"name": "Vivillon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Ledianδ"
 	},
 	{
@@ -1428,7 +1428,7 @@
 		"name": "Delphox"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Nidorinaδ"
 	},
 	{
@@ -1448,7 +1448,7 @@
 		"name": "Fletchinder"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Ledybaδ"
 	},
 	{
@@ -1492,7 +1492,7 @@
 		"name": "RaikouStar"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelixex"
 	},
 	{
@@ -1500,7 +1500,7 @@
 		"name": "Staryu"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -1528,7 +1528,7 @@
 		"name": "Zapdos"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sPersianex"
 	},
 	{
@@ -1584,7 +1584,7 @@
 		"name": "Unown"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Krokorok"
 	},
 	{
@@ -1612,7 +1612,7 @@
 		"name": "Unown"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Krookodile"
 	},
 	{
@@ -1628,7 +1628,7 @@
 		"name": "Unown"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Inkay"
 	},
 	{
@@ -1648,7 +1648,7 @@
 		"name": "Porygon2"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Malamar"
 	},
 	{
@@ -1656,7 +1656,7 @@
 		"name": "Fearow"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal"
 	},
 	{
@@ -1672,7 +1672,7 @@
 		"name": "Brionne"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal-EX"
 	},
 	{
@@ -1696,7 +1696,7 @@
 		"name": "Magneton"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bisharp"
 	},
 	{
@@ -1708,7 +1708,7 @@
 		"name": "Unown"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Wigglytuff"
 	},
 	{
@@ -1732,11 +1732,11 @@
 		"name": "Primeape"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Mr.Mime"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Aromatisse"
 	},
 	{
@@ -1756,7 +1756,7 @@
 		"name": "Marill"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Xerneas"
 	},
 	{
@@ -1872,7 +1872,7 @@
 		"name": "Roserade"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal-EX"
 	},
 	{
@@ -1884,11 +1884,11 @@
 		"name": "Hariyama"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Xerneas-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "CharizardStarδ"
 	},
 	{
@@ -1900,7 +1900,7 @@
 		"name": "Machop"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Garchomp-EX"
 	},
 	{
@@ -1920,7 +1920,7 @@
 		"name": "Lanturn"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dratini"
 	},
 	{
@@ -1932,7 +1932,7 @@
 		"name": "Plusle"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "TeamAqua'sCarvanha"
 	},
 	{
@@ -1984,7 +1984,7 @@
 		"name": "Electabuzz"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Fraxure"
 	},
 	{
@@ -2060,7 +2060,7 @@
 		"name": "Nidoran♀"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zorua"
 	},
 	{
@@ -2124,7 +2124,7 @@
 		"name": "Azumarill"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Tropiusδ"
 	},
 	{
@@ -2144,7 +2144,7 @@
 		"name": "Aerodactyl-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Xatuδ"
 	},
 	{
@@ -2164,7 +2164,7 @@
 		"name": "Mewtwo"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Nidorinoδ"
 	},
 	{
@@ -2184,7 +2184,7 @@
 		"name": "Trapinch"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Registeelex"
 	},
 	{
@@ -2216,7 +2216,7 @@
 		"name": "Elekidδ"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Nidoran♂δ"
 	},
 	{
@@ -2388,7 +2388,7 @@
 		"name": "Corphish"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonair"
 	},
 	{
@@ -2396,7 +2396,7 @@
 		"name": "Horsea"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Probopass"
 	},
 	{
@@ -2412,7 +2412,7 @@
 		"name": "Barboach"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndour"
 	},
 	{
@@ -2420,7 +2420,7 @@
 		"name": "Kabuto"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Shelgon"
 	},
 	{
@@ -2428,11 +2428,11 @@
 		"name": "Bulbasaur"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Excadrill"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "MGarchomp-EX"
 	},
 	{
@@ -2540,7 +2540,7 @@
 		"name": "Salamence"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Marill"
 	},
 	{
@@ -2936,7 +2936,7 @@
 		"name": "Poliwhirl"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sandile"
 	},
 	{
@@ -2964,7 +2964,7 @@
 		"name": "Ho-Ohex"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aegislash"
 	},
 	{
@@ -2976,7 +2976,7 @@
 		"name": "Drifblim"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "BastiodonGL"
 	},
 	{
@@ -3100,7 +3100,7 @@
 		"name": "UnownH"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
@@ -3124,7 +3124,7 @@
 		"name": "Sawk"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Snubbull"
 	},
 	{
@@ -3136,11 +3136,11 @@
 		"name": "Stunfisk"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Inkay"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Honchkrow"
 	},
 	{
@@ -3152,15 +3152,15 @@
 		"name": "Gothita"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Skuntank"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aggron"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Registeel-EX"
 	},
 	{
@@ -3168,7 +3168,7 @@
 		"name": "Raikou&SuicuneLEGEND"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Axew"
 	},
 	{
@@ -3192,7 +3192,7 @@
 		"name": "Gothitelle"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Durant"
 	},
 	{
@@ -3212,11 +3212,11 @@
 		"name": "Claydol"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Altaria"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Gabite"
 	},
 	{
@@ -3224,11 +3224,11 @@
 		"name": "Staravia"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Zweilous"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
@@ -3260,11 +3260,11 @@
 		"name": "Flareon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Honedge"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lairon"
 	},
 	{
@@ -3284,7 +3284,7 @@
 		"name": "LightLanturn"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Xerneas-EX"
 	},
 	{
@@ -3292,11 +3292,11 @@
 		"name": "Shelgon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Probopass"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Krookodile"
 	},
 	{
@@ -3316,11 +3316,11 @@
 		"name": "Bagon"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Rayquaza-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Garchomp"
 	},
 	{
@@ -3336,15 +3336,15 @@
 		"name": "BurmyTrashCloak"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Giratina-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Hydreigon"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Vullaby"
 	},
 	{
@@ -3364,11 +3364,11 @@
 		"name": "Magikarp"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klink"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
@@ -3416,7 +3416,7 @@
 		"name": "Bouffalant"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "BlackKyurem"
 	},
 	{
@@ -3448,7 +3448,7 @@
 		"name": "Gulpin"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Registeel-EX"
 	},
 	{
@@ -3712,7 +3712,7 @@
 		"name": "Treecko"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "MTyranitar-EX"
 	},
 	{
@@ -3820,7 +3820,7 @@
 		"name": "Charmander"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metang"
 	},
 	{
@@ -3868,7 +3868,7 @@
 		"name": "Numel"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Flabébé"
 	},
 	{
@@ -3948,7 +3948,7 @@
 		"name": "Exeggutor"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scraggy"
 	},
 	{
@@ -3972,7 +3972,7 @@
 		"name": "Persian"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
@@ -3984,7 +3984,7 @@
 		"name": "Gothorita"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Whimsicott"
 	},
 	{
@@ -4168,11 +4168,11 @@
 		"name": "Mienfoo"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai&CresseliaLEGEND"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar-EX"
 	},
 	{
@@ -4216,7 +4216,7 @@
 		"name": "Sandslash"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndour"
 	},
 	{
@@ -4320,7 +4320,7 @@
 		"name": "Omanyte"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Snubbull"
 	},
 	{
@@ -4364,7 +4364,7 @@
 		"name": "Gliscor"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Guzzlord"
 	},
 	{
@@ -4416,11 +4416,11 @@
 		"name": "Kricketune"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scrafty"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bisharp"
 	},
 	{
@@ -4500,7 +4500,7 @@
 		"name": "Pikachu"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Granbull"
 	},
 	{
@@ -4516,11 +4516,11 @@
 		"name": "Furfrou"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Absol"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Togetic"
 	},
 	{
@@ -4552,15 +4552,15 @@
 		"name": "Lanturn"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AbsolG"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aggron"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Togekiss"
 	},
 	{
@@ -4608,7 +4608,7 @@
 		"name": "Blaziken"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dratini"
 	},
 	{
@@ -4624,7 +4624,7 @@
 		"name": "Cradily"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Salamence"
 	},
 	{
@@ -4644,7 +4644,7 @@
 		"name": "Delcatty"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Rayquaza-EX"
 	},
 	{
@@ -4676,7 +4676,7 @@
 		"name": "Kabutops"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Reshiram"
 	},
 	{
@@ -4688,7 +4688,7 @@
 		"name": "Jynx"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Whimsicott"
 	},
 	{
@@ -4752,7 +4752,7 @@
 		"name": "Gigalith"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Shiftry"
 	},
 	{
@@ -4788,7 +4788,7 @@
 		"name": "Victreebel"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latios-EX"
 	},
 	{
@@ -4796,7 +4796,7 @@
 		"name": "Wooper"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Hydreigon-EX"
 	},
 	{
@@ -4824,7 +4824,7 @@
 		"name": "Gyarados"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aggron"
 	},
 	{
@@ -4844,7 +4844,7 @@
 		"name": "Drowzee"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Absol"
 	},
 	{
@@ -4876,7 +4876,7 @@
 		"name": "Delcatty"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magneton"
 	},
 	{
@@ -4904,7 +4904,7 @@
 		"name": "Dustox"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Purrloin"
 	},
 	{
@@ -4916,7 +4916,7 @@
 		"name": "Wailord"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Deino"
 	},
 	{
@@ -4936,7 +4936,7 @@
 		"name": "Rufflet"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zorua"
 	},
 	{
@@ -4992,19 +4992,19 @@
 		"name": "Weezing"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zoroark"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sandile"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Vullaby"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -5012,7 +5012,7 @@
 		"name": "Chimchar"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Rayquaza"
 	},
 	{
@@ -5036,7 +5036,7 @@
 		"name": "Delcatty"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Ferroseed"
 	},
 	{
@@ -5052,15 +5052,15 @@
 		"name": "Grovyle"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zweilous"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Ferrothorn"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Hydreigon"
 	},
 	{
@@ -5084,11 +5084,11 @@
 		"name": "Pikachu"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klang"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Swirlix"
 	},
 	{
@@ -5108,7 +5108,7 @@
 		"name": "Rapidash"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klinklang"
 	},
 	{
@@ -5124,7 +5124,7 @@
 		"name": "Magcargo"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Cobalion-EX"
 	},
 	{
@@ -5136,7 +5136,7 @@
 		"name": "Magneton"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mightyena"
 	},
 	{
@@ -5212,7 +5212,7 @@
 		"name": "Wailmer"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
@@ -5264,7 +5264,7 @@
 		"name": "Kecleon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lairon"
 	},
 	{
@@ -5280,7 +5280,7 @@
 		"name": "Mudkip"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Poochyena"
 	},
 	{
@@ -5372,7 +5372,7 @@
 		"name": "Weepinbell"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
@@ -5624,7 +5624,7 @@
 		"name": "Mewtwoex"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Vullaby"
 	},
 	{
@@ -5644,7 +5644,7 @@
 		"name": "Groudon-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai-EX"
 	},
 	{
@@ -5712,7 +5712,7 @@
 		"name": "Cyndaquil"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zoroark"
 	},
 	{
@@ -5764,7 +5764,7 @@
 		"name": "Onix"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Clefairy"
 	},
 	{
@@ -5788,7 +5788,7 @@
 		"name": "DarkVaporeon"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Flygon"
 	},
 	{
@@ -5804,7 +5804,7 @@
 		"name": "Jynx"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Wigglytuff"
 	},
 	{
@@ -5844,7 +5844,7 @@
 		"name": "Jolteon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Mawile"
 	},
 	{
@@ -5932,7 +5932,7 @@
 		"name": "Charizard"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "BronzongG"
 	},
 	{
@@ -5976,7 +5976,7 @@
 		"name": "Petilil"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Marill"
 	},
 	{
@@ -6036,7 +6036,7 @@
 		"name": "Helioptile"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -6068,7 +6068,7 @@
 		"name": "Grotle"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "HydreigonBREAK"
 	},
 	{
@@ -6140,7 +6140,7 @@
 		"name": "Kabuto"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
@@ -6176,7 +6176,7 @@
 		"name": "Raichu"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Spiritomb"
 	},
 	{
@@ -6192,7 +6192,7 @@
 		"name": "Cyndaquil"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "DarkSteelix"
 	},
 	{
@@ -6204,7 +6204,7 @@
 		"name": "Grovyle"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lucario"
 	},
 	{
@@ -6224,7 +6224,7 @@
 		"name": "Gulpin"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mightyena"
 	},
 	{
@@ -6292,11 +6292,11 @@
 		"name": "Zangoose"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "WormadamTrashCloak"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzor"
 	},
 	{
@@ -6396,7 +6396,7 @@
 		"name": "FlareonStar"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aggronex"
 	},
 	{
@@ -6548,7 +6548,7 @@
 		"name": "Victini"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Bisharp"
 	},
 	{
@@ -6572,11 +6572,11 @@
 		"name": "Gurdurr"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "HonchkrowG"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Pawniard"
 	},
 	{
@@ -6604,7 +6604,7 @@
 		"name": "Kakuna"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Hydreigon"
 	},
 	{
@@ -6616,7 +6616,7 @@
 		"name": "Ponyta"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bisharp"
 	},
 	{
@@ -6628,7 +6628,7 @@
 		"name": "Salamence"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Arceus"
 	},
 	{
@@ -6696,7 +6696,7 @@
 		"name": "Nidorino"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
@@ -6704,7 +6704,7 @@
 		"name": "Furret"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "MAltaria-EX"
 	},
 	{
@@ -6724,7 +6724,7 @@
 		"name": "Noctowl"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Cottonee"
 	},
 	{
@@ -6836,7 +6836,7 @@
 		"name": "Nidoking"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar"
 	},
 	{
@@ -7024,7 +7024,7 @@
 		"name": "Kadabra"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Goomy"
 	},
 	{
@@ -7064,7 +7064,7 @@
 		"name": "Raichu"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "DialgaG"
 	},
 	{
@@ -7084,7 +7084,7 @@
 		"name": "Luvdisc"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Drapion"
 	},
 	{
@@ -7260,7 +7260,7 @@
 		"name": "Golem"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Druddigon"
 	},
 	{
@@ -7364,7 +7364,7 @@
 		"name": "Erika'sClefairy"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar"
 	},
 	{
@@ -7376,7 +7376,7 @@
 		"name": "Shinx"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "DarkraiG"
 	},
 	{
@@ -7532,7 +7532,7 @@
 		"name": "Rhyhorn"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Jirachi"
 	},
 	{
@@ -7580,11 +7580,11 @@
 		"name": "Conkeldurr"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sableye"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Shiftry"
 	},
 	{
@@ -7612,7 +7612,7 @@
 		"name": "Bellsprout"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Inkay"
 	},
 	{
@@ -7632,19 +7632,19 @@
 		"name": "Wartortle"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zorua"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Malamar"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aggron"
 	},
 	{
@@ -7660,7 +7660,7 @@
 		"name": "BurmyPlantCloak"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory-EX"
 	},
 	{
@@ -7668,7 +7668,7 @@
 		"name": "Gyarados"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zoroark"
 	},
 	{
@@ -7680,7 +7680,7 @@
 		"name": "Corsola"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Altaria"
 	},
 	{
@@ -7692,11 +7692,11 @@
 		"name": "Sabrina'sSlowpoke"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Gible"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Pawniard"
 	},
 	{
@@ -7704,7 +7704,7 @@
 		"name": "Lickitung"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Gabite"
 	},
 	{
@@ -7716,19 +7716,19 @@
 		"name": "Munna"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Cradilyδ"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Garchomp"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Deino"
 	},
 	{
@@ -7744,7 +7744,7 @@
 		"name": "Vibravaδ"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Zweilous"
 	},
 	{
@@ -7756,11 +7756,11 @@
 		"name": "Ampharos"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "WhiteKyurem-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aegislash"
 	},
 	{
@@ -7772,7 +7772,7 @@
 		"name": "Mareepδ"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Natuδ"
 	},
 	{
@@ -7800,7 +7800,7 @@
 		"name": "Minccino"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
@@ -7836,7 +7836,7 @@
 		"name": "Shellder"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Drapion4"
 	},
 	{
@@ -7848,7 +7848,7 @@
 		"name": "Shuckle"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Slurpuff"
 	},
 	{
@@ -7936,11 +7936,11 @@
 		"name": "Bulbasaur"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Palkia-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndour"
 	},
 	{
@@ -7972,7 +7972,7 @@
 		"name": "Hippowdon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lairon"
 	},
 	{
@@ -7992,7 +7992,7 @@
 		"name": "Trapinch"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory-EX"
 	},
 	{
@@ -8004,7 +8004,7 @@
 		"name": "Chikorita"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
@@ -8164,7 +8164,7 @@
 		"name": "Ninetales"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metagross"
 	},
 	{
@@ -8256,7 +8256,7 @@
 		"name": "Krabby"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneasel"
 	},
 	{
@@ -8292,7 +8292,7 @@
 		"name": "Sabrina'sAbra"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Nuzleaf"
 	},
 	{
@@ -8312,7 +8312,7 @@
 		"name": "Arceus"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -8324,7 +8324,7 @@
 		"name": "Butterfree"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Forretress"
 	},
 	{
@@ -8344,7 +8344,7 @@
 		"name": "Makuhita"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Arceus"
 	},
 	{
@@ -8372,7 +8372,7 @@
 		"name": "Gligar"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Jirachi"
 	},
 	{
@@ -8404,7 +8404,7 @@
 		"name": "Lopunny"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Krokorok"
 	},
 	{
@@ -8428,11 +8428,11 @@
 		"name": "Regice"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Registeel"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndour"
 	},
 	{
@@ -8452,7 +8452,7 @@
 		"name": "Sealeo"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Pawniard"
 	},
 	{
@@ -8472,11 +8472,11 @@
 		"name": "Rattata"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Deino"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Ferroseed"
 	},
 	{
@@ -8488,7 +8488,7 @@
 		"name": "Spheal"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dratini"
 	},
 	{
@@ -8556,7 +8556,7 @@
 		"name": "Larvitar"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kingdra"
 	},
 	{
@@ -8564,7 +8564,7 @@
 		"name": "Ampharos"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latios-EX"
 	},
 	{
@@ -8652,7 +8652,7 @@
 		"name": "Uxie"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Weavile"
 	},
 	{
@@ -8704,7 +8704,7 @@
 		"name": "Castform"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "BlackKyurem-EX"
 	},
 	{
@@ -8736,7 +8736,7 @@
 		"name": "Bellossom"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "SteelixGL"
 	},
 	{
@@ -8748,7 +8748,7 @@
 		"name": "Tangela"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Togepi"
 	},
 	{
@@ -8784,7 +8784,7 @@
 		"name": "Mothim"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scraggy"
 	},
 	{
@@ -8800,7 +8800,7 @@
 		"name": "Tropius"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Inkay"
 	},
 	{
@@ -8824,11 +8824,11 @@
 		"name": "Stunfisk"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Klefki"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Goomy"
 	},
 	{
@@ -8864,7 +8864,7 @@
 		"name": "Marowak"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Zekrom"
 	},
 	{
@@ -8896,7 +8896,7 @@
 		"name": "Camerupt"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Carvanha"
 	},
 	{
@@ -8912,7 +8912,7 @@
 		"name": "Darumaka"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metang"
 	},
 	{
@@ -8920,7 +8920,7 @@
 		"name": "Eevee"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "MLatios-EX"
 	},
 	{
@@ -8936,7 +8936,7 @@
 		"name": "Charizard-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "ForretressG"
 	},
 	{
@@ -8976,7 +8976,7 @@
 		"name": "Dewott"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mightyena"
 	},
 	{
@@ -9044,7 +9044,7 @@
 		"name": "Serperior"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom4"
 	},
 	{
@@ -9080,7 +9080,7 @@
 		"name": "Machamp"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
@@ -9244,7 +9244,7 @@
 		"name": "Axew"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Beldum"
 	},
 	{
@@ -9360,15 +9360,15 @@
 		"name": "Gliscor"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Fraxure"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Meowth(DeltaSpecies)"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Pikachu(DeltaSpecies)"
 	},
 	{
@@ -9404,7 +9404,7 @@
 		"name": "Nidoran♀"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndour"
 	},
 	{
@@ -9432,7 +9432,7 @@
 		"name": "Larvitar"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zoroark-GX"
 	},
 	{
@@ -9452,7 +9452,7 @@
 		"name": "Starmie"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Purrloin"
 	},
 	{
@@ -9464,7 +9464,7 @@
 		"name": "Zubat"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Poochyena"
 	},
 	{
@@ -9472,7 +9472,7 @@
 		"name": "Hitmonchan"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mandibuzz"
 	},
 	{
@@ -9480,7 +9480,7 @@
 		"name": "Aerodactyl"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor"
 	},
 	{
@@ -9496,11 +9496,11 @@
 		"name": "Shinx"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Vibrava"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneasel"
 	},
 	{
@@ -9508,7 +9508,7 @@
 		"name": "Nidorino"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "WhiteKyurem"
 	},
 	{
@@ -9520,7 +9520,7 @@
 		"name": "Palpitoad"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "WhiteKyurem-EX"
 	},
 	{
@@ -9552,7 +9552,7 @@
 		"name": "Swinub"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -9624,7 +9624,7 @@
 		"name": "Lillipup"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Nuzleaf"
 	},
 	{
@@ -9636,7 +9636,7 @@
 		"name": "Pachirisu"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
@@ -9696,7 +9696,7 @@
 		"name": "Lopunny"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Florges-EX"
 	},
 	{
@@ -9704,7 +9704,7 @@
 		"name": "Seedot"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Gible"
 	},
 	{
@@ -9716,7 +9716,7 @@
 		"name": "Flareon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Forretress"
 	},
 	{
@@ -9804,7 +9804,7 @@
 		"name": "Pelipper(DeltaSpecies)"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Zangoose(DeltaSpecies)"
 	},
 	{
@@ -9836,7 +9836,7 @@
 		"name": "Cresselia"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
@@ -9860,7 +9860,7 @@
 		"name": "Eevee"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "WhiteKyurem-EX"
 	},
 	{
@@ -9876,7 +9876,7 @@
 		"name": "Tornadus"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Sylveon-EX"
 	},
 	{
@@ -9888,7 +9888,7 @@
 		"name": "Quilava"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon-EX"
 	},
 	{
@@ -9908,7 +9908,7 @@
 		"name": "GolduckBREAK"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonite-EX"
 	},
 	{
@@ -9996,7 +9996,7 @@
 		"name": "UnownG"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar"
 	},
 	{
@@ -10016,11 +10016,11 @@
 		"name": "Slowking"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Togekiss-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragalge"
 	},
 	{
@@ -10032,7 +10032,7 @@
 		"name": "Cloyster"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mandibuzz"
 	},
 	{
@@ -10060,7 +10060,7 @@
 		"name": "Torterra"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzor"
 	},
 	{
@@ -10124,7 +10124,7 @@
 		"name": "Weedle"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Deino"
 	},
 	{
@@ -10200,7 +10200,7 @@
 		"name": "Raichu"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "BronzongBREAK"
 	},
 	{
@@ -10216,7 +10216,7 @@
 		"name": "Sigilyph"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor"
 	},
 	{
@@ -10228,7 +10228,7 @@
 		"name": "Meowstic"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Slurpuff"
 	},
 	{
@@ -10240,7 +10240,7 @@
 		"name": "Caterpie"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lucario"
 	},
 	{
@@ -10256,19 +10256,19 @@
 		"name": "Timburr"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Genesect-EX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Jigglypuff"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Wigglytuff"
 	},
 	{
@@ -10280,7 +10280,7 @@
 		"name": "Espurr"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Diancie-EX"
 	},
 	{
@@ -10292,7 +10292,7 @@
 		"name": "Virizion"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Purrloin"
 	},
 	{
@@ -10320,15 +10320,15 @@
 		"name": "Xatu"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Ferroseed"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Ferrothorn"
 	},
 	{
@@ -10348,7 +10348,7 @@
 		"name": "Lickilicky"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Clefairy"
 	},
 	{
@@ -10368,11 +10368,11 @@
 		"name": "Glameow"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kingdra-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Poochyena"
 	},
 	{
@@ -10384,7 +10384,7 @@
 		"name": "Delibird"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai-EX"
 	},
 	{
@@ -10416,7 +10416,7 @@
 		"name": "Hitmonchan"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor-EX"
 	},
 	{
@@ -10452,11 +10452,11 @@
 		"name": "Tangrowth"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "UmbreonStar"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "MScizor-EX"
 	},
 	{
@@ -10536,7 +10536,7 @@
 		"name": "Tynamo"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klink"
 	},
 	{
@@ -10648,7 +10648,7 @@
 		"name": "Vivillon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Mawile"
 	},
 	{
@@ -10712,7 +10712,7 @@
 		"name": "Vanillite"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Durant"
 	},
 	{
@@ -10760,7 +10760,7 @@
 		"name": "Mr.Mime"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scraggy"
 	},
 	{
@@ -10820,7 +10820,7 @@
 		"name": "Magneton"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Mawile"
 	},
 	{
@@ -10844,7 +10844,7 @@
 		"name": "Haunter"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Stunky"
 	},
 	{
@@ -10948,7 +10948,7 @@
 		"name": "Pancham"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Spritzee"
 	},
 	{
@@ -10964,7 +10964,7 @@
 		"name": "Unown"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal"
 	},
 	{
@@ -10980,15 +10980,15 @@
 		"name": "FlyingPikachu"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Mr.Mime"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Floette"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix"
 	},
 	{
@@ -10996,11 +10996,11 @@
 		"name": "Nidorina"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Xerneas"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Axew"
 	},
 	{
@@ -11012,7 +11012,7 @@
 		"name": "Trubbish"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Fraxure"
 	},
 	{
@@ -11024,7 +11024,7 @@
 		"name": "Froakie"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Haxorus"
 	},
 	{
@@ -11040,7 +11040,7 @@
 		"name": "Alakazam-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Noivern"
 	},
 	{
@@ -11060,7 +11060,7 @@
 		"name": "UnownF"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Weavile"
 	},
 	{
@@ -11068,7 +11068,7 @@
 		"name": "Garchomp"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon-EX"
 	},
 	{
@@ -11132,7 +11132,7 @@
 		"name": "Noibat"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aggron"
 	},
 	{
@@ -11200,11 +11200,11 @@
 		"name": "Electivire"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Genesect-EX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "MAltaria-EX"
 	},
 	{
@@ -11212,7 +11212,7 @@
 		"name": "Hypno"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kingdra-EX"
 	},
 	{
@@ -11268,11 +11268,11 @@
 		"name": "Altaria-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Pangoro"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Mawile"
 	},
 	{
@@ -11280,7 +11280,7 @@
 		"name": "Regirock-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "MScizor-EX"
 	},
 	{
@@ -11288,7 +11288,7 @@
 		"name": "Riolu"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzong"
 	},
 	{
@@ -11372,7 +11372,7 @@
 		"name": "Lunatone"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Honchkrow"
 	},
 	{
@@ -11424,7 +11424,7 @@
 		"name": "Ekans"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Jigglypuff"
 	},
 	{
@@ -11460,7 +11460,7 @@
 		"name": "Timburr"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Jigglypuff"
 	},
 	{
@@ -11472,7 +11472,7 @@
 		"name": "Slugma"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zorua"
 	},
 	{
@@ -11492,7 +11492,7 @@
 		"name": "Watchog"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Doublade"
 	},
 	{
@@ -11504,11 +11504,11 @@
 		"name": "Raichu"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Spritzee"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Swirlix"
 	},
 	{
@@ -11544,7 +11544,7 @@
 		"name": "Chimchar"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzong"
 	},
 	{
@@ -11552,7 +11552,7 @@
 		"name": "Monferno"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar"
 	},
 	{
@@ -11560,7 +11560,7 @@
 		"name": "Abomasnow"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Azumarill"
 	},
 	{
@@ -11604,7 +11604,7 @@
 		"name": "Mantine"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bastiodon"
 	},
 	{
@@ -11680,7 +11680,7 @@
 		"name": "Rayquazaδ"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Mawile"
 	},
 	{
@@ -11712,7 +11712,7 @@
 		"name": "Mareep"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "WeavileG"
 	},
 	{
@@ -11756,7 +11756,7 @@
 		"name": "Mr.Mime"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Mr.Mime"
 	},
 	{
@@ -11832,7 +11832,7 @@
 		"name": "Hoopa"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kingdra"
 	},
 	{
@@ -11844,11 +11844,11 @@
 		"name": "Arbok"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "NoivernBREAK"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai"
 	},
 	{
@@ -11900,7 +11900,7 @@
 		"name": "Landorus"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneasel"
 	},
 	{
@@ -11908,7 +11908,7 @@
 		"name": "Mankey"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Spiritomb"
 	},
 	{
@@ -11920,19 +11920,19 @@
 		"name": "Piplup"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Bisharp"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Pawniard"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Durant"
 	},
 	{
@@ -11952,7 +11952,7 @@
 		"name": "Kirlia"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sableye"
 	},
 	{
@@ -11960,7 +11960,7 @@
 		"name": "Staryu"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix-EX"
 	},
 	{
@@ -11968,7 +11968,7 @@
 		"name": "Exploud"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Shieldon"
 	},
 	{
@@ -11984,7 +11984,7 @@
 		"name": "Omastar"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bastiodon"
 	},
 	{
@@ -12004,7 +12004,7 @@
 		"name": "Ducklett"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klinklang"
 	},
 	{
@@ -12032,7 +12032,7 @@
 		"name": "Dratini"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magearna-EX"
 	},
 	{
@@ -12044,7 +12044,7 @@
 		"name": "Venipede"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Gardevoir-EX"
 	},
 	{
@@ -12076,7 +12076,7 @@
 		"name": "Claydol"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Klefki"
 	},
 	{
@@ -12084,7 +12084,7 @@
 		"name": "Lucario"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Ferrothorn"
 	},
 	{
@@ -12112,11 +12112,11 @@
 		"name": "Gabite"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Purrloin"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "CrawdauntG"
 	},
 	{
@@ -12128,7 +12128,7 @@
 		"name": "Unown?"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "XerneasBREAK"
 	},
 	{
@@ -12140,15 +12140,15 @@
 		"name": "Minccino"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Druddigon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Beldum"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Liepard"
 	},
 	{
@@ -12168,7 +12168,7 @@
 		"name": "Zebstrika"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Zweilous"
 	},
 	{
@@ -12184,7 +12184,7 @@
 		"name": "Hitmonchan"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lairon"
 	},
 	{
@@ -12212,7 +12212,7 @@
 		"name": "Nosepass"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Hydreigon"
 	},
 	{
@@ -12280,7 +12280,7 @@
 		"name": "Remoraid"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Axew"
 	},
 	{
@@ -12292,7 +12292,7 @@
 		"name": "Bulbasaur"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metagross"
 	},
 	{
@@ -12308,7 +12308,7 @@
 		"name": "Octillery"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix-EX"
 	},
 	{
@@ -12324,7 +12324,7 @@
 		"name": "Turtonator"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "MSteelix-EX"
 	},
 	{
@@ -12352,7 +12352,7 @@
 		"name": "Torkoal"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "MGardevoir-EX"
 	},
 	{
@@ -12388,7 +12388,7 @@
 		"name": "Omanyte"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Gardevoir-EX"
 	},
 	{
@@ -12408,7 +12408,7 @@
 		"name": "Dusknoir"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
@@ -12440,7 +12440,7 @@
 		"name": "Sandslash"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Stunky"
 	},
 	{
@@ -12456,7 +12456,7 @@
 		"name": "Staryu"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scraggy"
 	},
 	{
@@ -12480,7 +12480,7 @@
 		"name": "Nosepass"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Vullaby"
 	},
 	{
@@ -12496,7 +12496,7 @@
 		"name": "Piloswine"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Empoleon"
 	},
 	{
@@ -12524,7 +12524,7 @@
 		"name": "Koffing"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzor"
 	},
 	{
@@ -12552,7 +12552,7 @@
 		"name": "Entei"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Purrloin"
 	},
 	{
@@ -12564,7 +12564,7 @@
 		"name": "Bronzong"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Drapion"
 	},
 	{
@@ -12576,7 +12576,7 @@
 		"name": "Mewtwo"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klinklang"
 	},
 	{
@@ -12592,7 +12592,7 @@
 		"name": "Gyarados"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Durant"
 	},
 	{
@@ -12640,7 +12640,7 @@
 		"name": "Staraptor"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix"
 	},
 	{
@@ -12828,11 +12828,11 @@
 		"name": "Vileplume"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sableye"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
@@ -12892,7 +12892,7 @@
 		"name": "Golett"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Garchomp"
 	},
 	{
@@ -12928,11 +12928,11 @@
 		"name": "Pikachu"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndour"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
@@ -12952,7 +12952,7 @@
 		"name": "Drowzee"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Gible"
 	},
 	{
@@ -12968,7 +12968,7 @@
 		"name": "Drifblim"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Hydreigon"
 	},
 	{
@@ -13080,7 +13080,7 @@
 		"name": "Houndour"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Mawile"
 	},
 	{
@@ -13136,7 +13136,7 @@
 		"name": "DarkEspeon"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai"
 	},
 	{
@@ -13156,7 +13156,7 @@
 		"name": "Exeggcute"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Registeel"
 	},
 	{
@@ -13196,7 +13196,7 @@
 		"name": "Zapdos"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metang"
 	},
 	{
@@ -13204,7 +13204,7 @@
 		"name": "Rattata"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor"
 	},
 	{
@@ -13276,7 +13276,7 @@
 		"name": "DarkPorygon2"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Clefable"
 	},
 	{
@@ -13372,7 +13372,7 @@
 		"name": "Watchog"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Salamence"
 	},
 	{
@@ -13692,7 +13692,7 @@
 		"name": "Sudowoodo"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Mawile"
 	},
 	{
@@ -13724,7 +13724,7 @@
 		"name": "Serperior"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzor"
 	},
 	{
@@ -13860,7 +13860,7 @@
 		"name": "Sealeo"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Spiritomb"
 	},
 	{
@@ -13884,7 +13884,7 @@
 		"name": "Heatmor"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Cobalion"
 	},
 	{
@@ -13892,11 +13892,11 @@
 		"name": "Gloom"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sableye"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndour"
 	},
 	{
@@ -13988,11 +13988,11 @@
 		"name": "Toxicroak-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zorua"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scraggy"
 	},
 	{
@@ -14004,11 +14004,11 @@
 		"name": "Rockruff"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klink"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bisharp"
 	},
 	{
@@ -14024,7 +14024,7 @@
 		"name": "Golem"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneasel"
 	},
 	{
@@ -14036,7 +14036,7 @@
 		"name": "Haxorus"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneasel"
 	},
 	{
@@ -14044,7 +14044,7 @@
 		"name": "MVenusaur-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Stunky"
 	},
 	{
@@ -14056,11 +14056,11 @@
 		"name": "Whismur"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "AlolanNinetales"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Hydreigon"
 	},
 	{
@@ -14080,7 +14080,7 @@
 		"name": "Ledyba"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Skuntank"
 	},
 	{
@@ -14112,19 +14112,19 @@
 		"name": "ナッシー[Exeggutor]"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sandile"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zorua"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "FlorgesBREAK"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Krokorok"
 	},
 	{
@@ -14136,7 +14136,7 @@
 		"name": "Rampardos"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Flabébé"
 	},
 	{
@@ -14168,7 +14168,7 @@
 		"name": "Magikarp"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Floette"
 	},
 	{
@@ -14188,7 +14188,7 @@
 		"name": "Hariyama"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Floette"
 	},
 	{
@@ -14256,7 +14256,7 @@
 		"name": "Scyther"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metagross"
 	},
 	{
@@ -14276,7 +14276,7 @@
 		"name": "Shaymin"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Carbink"
 	},
 	{
@@ -14284,7 +14284,7 @@
 		"name": "Pikachu"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
@@ -14320,7 +14320,7 @@
 		"name": "Natu"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "MCharizard-EX"
 	},
 	{
@@ -14328,7 +14328,7 @@
 		"name": "Venonat"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragalge"
 	},
 	{
@@ -14356,7 +14356,7 @@
 		"name": "Gloom"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Altaria"
 	},
 	{
@@ -14376,7 +14376,7 @@
 		"name": "ButterfreeFB"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
@@ -14412,7 +14412,7 @@
 		"name": "Bewear"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix"
 	},
 	{
@@ -14480,7 +14480,7 @@
 		"name": "ShiningRaichu"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metagross-GX"
 	},
 	{
@@ -14488,7 +14488,7 @@
 		"name": "Raikou"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Honchkrow"
 	},
 	{
@@ -14504,11 +14504,11 @@
 		"name": "Kingdra"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "ShiningSteelix"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "ShiningTyranitar"
 	},
 	{
@@ -14520,7 +14520,7 @@
 		"name": "Solosis"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Bagon"
 	},
 	{
@@ -14576,11 +14576,11 @@
 		"name": "Shedinja"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latios-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Hydreigon-EX"
 	},
 	{
@@ -14624,7 +14624,7 @@
 		"name": "Xatu"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Forretress"
 	},
 	{
@@ -14676,7 +14676,7 @@
 		"name": "Burmy"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
@@ -14720,7 +14720,7 @@
 		"name": "Tynamo"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Absol"
 	},
 	{
@@ -14728,7 +14728,7 @@
 		"name": "Pupitar"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Rayquaza"
 	},
 	{
@@ -14756,11 +14756,11 @@
 		"name": "Oddish"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Mimikyu"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magnemite"
 	},
 	{
@@ -14768,7 +14768,7 @@
 		"name": "Politoed"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Vullaby"
 	},
 	{
@@ -14808,7 +14808,7 @@
 		"name": "Simisear"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor"
 	},
 	{
@@ -14836,11 +14836,11 @@
 		"name": "Giovanni'sNidoqueen"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -14872,15 +14872,15 @@
 		"name": "Hippopotas"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Cacturne"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zoroark"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "ZoroarkBREAK"
 	},
 	{
@@ -14892,19 +14892,19 @@
 		"name": "MCharizard-EX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Granbull"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Ralts"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Aromatisse"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Ferrothorn"
 	},
 	{
@@ -14924,7 +14924,7 @@
 		"name": "Ursaring"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Pawniard"
 	},
 	{
@@ -14932,7 +14932,7 @@
 		"name": "Smeargle"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "MCharizard-EX"
 	},
 	{
@@ -14984,7 +14984,7 @@
 		"name": "Genesect"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanGrimer"
 	},
 	{
@@ -15004,11 +15004,11 @@
 		"name": "Golbat"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Forretress"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanMuk"
 	},
 	{
@@ -15032,7 +15032,7 @@
 		"name": "Gallade-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
@@ -15084,7 +15084,7 @@
 		"name": "Pyroar"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bisharp"
 	},
 	{
@@ -15192,11 +15192,11 @@
 		"name": "Aerodactyl"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Forretress"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
@@ -15212,7 +15212,7 @@
 		"name": "Ursaring"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Ferroseed"
 	},
 	{
@@ -15224,7 +15224,7 @@
 		"name": "Joltik"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
@@ -15236,7 +15236,7 @@
 		"name": "Spoink"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Liepard"
 	},
 	{
@@ -15252,7 +15252,7 @@
 		"name": "Kabutops"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Cobalion"
 	},
 	{
@@ -15264,7 +15264,7 @@
 		"name": "Weezing"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magnemite"
 	},
 	{
@@ -15292,7 +15292,7 @@
 		"name": "Brock'sSandslash"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Clefairy"
 	},
 	{
@@ -15328,7 +15328,7 @@
 		"name": "Ditto"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Excadrill"
 	},
 	{
@@ -15340,11 +15340,11 @@
 		"name": "DarkMuk"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magnezone"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar"
 	},
 	{
@@ -15356,7 +15356,7 @@
 		"name": "Dragonite"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -15412,7 +15412,7 @@
 		"name": "Lt.Surge'sRaticate"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Stunky"
 	},
 	{
@@ -15428,11 +15428,11 @@
 		"name": "Sabrina'sHaunter"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Forretress"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Durant"
 	},
 	{
@@ -15448,7 +15448,7 @@
 		"name": "Metapod"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Spritzee"
 	},
 	{
@@ -15460,11 +15460,11 @@
 		"name": "Hitmonchan"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Druddigon"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Sliggoo"
 	},
 	{
@@ -15484,7 +15484,7 @@
 		"name": "Raichu"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Mawile"
 	},
 	{
@@ -15584,7 +15584,7 @@
 		"name": "Raticate"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Cobalion"
 	},
 	{
@@ -15668,7 +15668,7 @@
 		"name": "Croagunk"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "MGardevoir-EX"
 	},
 	{
@@ -15760,7 +15760,7 @@
 		"name": "Pansage"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zorua"
 	},
 	{
@@ -15804,11 +15804,11 @@
 		"name": "Magneton"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Pangoro"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
@@ -15880,7 +15880,7 @@
 		"name": "Croconaw"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "WhiteKyurem"
 	},
 	{
@@ -15952,7 +15952,7 @@
 		"name": "MimeJr."
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "TeamAqua'sSharpedo"
 	},
 	{
@@ -16012,7 +16012,7 @@
 		"name": "Charmeleonδ"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magearna-EX"
 	},
 	{
@@ -16396,11 +16396,11 @@
 		"name": "Budew"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndour"
 	},
 	{
@@ -16444,7 +16444,7 @@
 		"name": "Poliwrath"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "MLatios-EX"
 	},
 	{
@@ -16504,7 +16504,7 @@
 		"name": "Gardevoir"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Purrloin"
 	},
 	{
@@ -16560,7 +16560,7 @@
 		"name": "Primarina-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Krookodile-EX"
 	},
 	{
@@ -16568,7 +16568,7 @@
 		"name": "Slowking"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Persianδ"
 	},
 	{
@@ -16600,7 +16600,7 @@
 		"name": "Sawk"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Bagon"
 	},
 	{
@@ -16636,7 +16636,7 @@
 		"name": "Cinccino"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lairon"
 	},
 	{
@@ -16644,11 +16644,11 @@
 		"name": "Phanpy"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Poochyena"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
@@ -16660,7 +16660,7 @@
 		"name": "Lanturn"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sharpedo"
 	},
 	{
@@ -16812,11 +16812,11 @@
 		"name": "Jynx"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneasel"
 	},
 	{
@@ -16904,7 +16904,7 @@
 		"name": "Electivire"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sableye"
 	},
 	{
@@ -16928,7 +16928,7 @@
 		"name": "Ho-OhLEGEND"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magnemite"
 	},
 	{
@@ -16980,7 +16980,7 @@
 		"name": "Octillery"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Malamar"
 	},
 	{
@@ -17012,7 +17012,7 @@
 		"name": "Starmie"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
@@ -17028,7 +17028,7 @@
 		"name": "AmbipomG"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor"
 	},
 	{
@@ -17044,7 +17044,7 @@
 		"name": "Reshiram"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Rayquaza-EX"
 	},
 	{
@@ -17052,7 +17052,7 @@
 		"name": "Piloswine"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latios"
 	},
 	{
@@ -17092,7 +17092,7 @@
 		"name": "Blastoiseδ"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "WhiteKyurem"
 	},
 	{
@@ -17124,7 +17124,7 @@
 		"name": "Charizardδ"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
@@ -17176,7 +17176,7 @@
 		"name": "Geodude"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanRattata"
 	},
 	{
@@ -17208,7 +17208,7 @@
 		"name": "Solrock"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Jirachi"
 	},
 	{
@@ -17216,7 +17216,7 @@
 		"name": "Riolu"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Carbink"
 	},
 	{
@@ -17236,7 +17236,7 @@
 		"name": "Paras"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Altaria"
 	},
 	{
@@ -17472,7 +17472,7 @@
 		"name": "Torterra"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Floette"
 	},
 	{
@@ -17504,15 +17504,15 @@
 		"name": "Wigglytuff"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Solgaleo-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Rayquaza"
 	},
 	{
@@ -17520,7 +17520,7 @@
 		"name": "Hawlucha-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scrafty"
 	},
 	{
@@ -17532,7 +17532,7 @@
 		"name": "ShellosEastSea"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dratini"
 	},
 	{
@@ -17540,7 +17540,7 @@
 		"name": "Volcanion"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Clefairy"
 	},
 	{
@@ -17564,7 +17564,7 @@
 		"name": "Spheal"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Clefable"
 	},
 	{
@@ -17584,7 +17584,7 @@
 		"name": "Poliwag"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Klefki"
 	},
 	{
@@ -17608,7 +17608,7 @@
 		"name": "Tentacruel"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonite-EX"
 	},
 	{
@@ -17624,7 +17624,7 @@
 		"name": "Voltorb"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "UltraNecrozma"
 	},
 	{
@@ -17636,7 +17636,7 @@
 		"name": "Pidgey"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Vibrava"
 	},
 	{
@@ -17648,7 +17648,7 @@
 		"name": "Ninetales"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Flygon"
 	},
 	{
@@ -17704,7 +17704,7 @@
 		"name": "Noibat"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix"
 	},
 	{
@@ -17864,7 +17864,7 @@
 		"name": "Swinub"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zorua"
 	},
 	{
@@ -17872,11 +17872,11 @@
 		"name": "Vanillish"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "MSalamence-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzong"
 	},
 	{
@@ -17888,7 +17888,7 @@
 		"name": "Snorlax"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Florges"
 	},
 	{
@@ -17900,7 +17900,7 @@
 		"name": "Pikachu"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix"
 	},
 	{
@@ -17936,7 +17936,7 @@
 		"name": "Luxio"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Nuzleaf"
 	},
 	{
@@ -17972,7 +17972,7 @@
 		"name": "Staravia"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "MandibuzzBREAK"
 	},
 	{
@@ -18012,7 +18012,7 @@
 		"name": "Shinx"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Xerneas"
 	},
 	{
@@ -18024,7 +18024,7 @@
 		"name": "Blastoise-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aggronex"
 	},
 	{
@@ -18032,7 +18032,7 @@
 		"name": "Gastly"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magnemite"
 	},
 	{
@@ -18064,7 +18064,7 @@
 		"name": "Misdreavus"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magearna"
 	},
 	{
@@ -18148,7 +18148,7 @@
 		"name": "Sawk"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mandibuzz"
 	},
 	{
@@ -18156,7 +18156,7 @@
 		"name": "Beautifly"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klink"
 	},
 	{
@@ -18172,7 +18172,7 @@
 		"name": "Ninjask"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Shieldon"
 	},
 	{
@@ -18192,7 +18192,7 @@
 		"name": "Torkoal"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Raichuδ"
 	},
 	{
@@ -18220,15 +18220,15 @@
 		"name": "Luxray"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Absol"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scrafty"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Goodra"
 	},
 	{
@@ -18244,7 +18244,7 @@
 		"name": "Bellossomδ"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Florges"
 	},
 	{
@@ -18264,7 +18264,7 @@
 		"name": "Mewtwoδ"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Drapion"
 	},
 	{
@@ -18276,7 +18276,7 @@
 		"name": "Minun"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Weavile"
 	},
 	{
@@ -18288,7 +18288,7 @@
 		"name": "Amaura"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sableye"
 	},
 	{
@@ -18316,7 +18316,7 @@
 		"name": "Golett"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Chimechoδ"
 	},
 	{
@@ -18328,7 +18328,7 @@
 		"name": "Mienshao"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzor"
 	},
 	{
@@ -18344,7 +18344,7 @@
 		"name": "Claydol"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Sylveon"
 	},
 	{
@@ -18368,7 +18368,7 @@
 		"name": "Donphan"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Noivern"
 	},
 	{
@@ -18492,7 +18492,7 @@
 		"name": "Meloetta"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai"
 	},
 	{
@@ -18516,7 +18516,7 @@
 		"name": "RampardosGL"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Jirachi"
 	},
 	{
@@ -18532,7 +18532,7 @@
 		"name": "Nidoran♂"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonair"
 	},
 	{
@@ -18564,11 +18564,11 @@
 		"name": "Tympole"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonite"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Malamar"
 	},
 	{
@@ -18580,7 +18580,7 @@
 		"name": "Scizor4"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonite"
 	},
 	{
@@ -18604,11 +18604,11 @@
 		"name": "Magneton"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "MSharpedo-EX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Cottonee"
 	},
 	{
@@ -18628,7 +18628,7 @@
 		"name": "Staryu"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Sliggoo"
 	},
 	{
@@ -18636,7 +18636,7 @@
 		"name": "Sceptileexδ"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Shiftryex"
 	},
 	{
@@ -18660,7 +18660,7 @@
 		"name": "Eevee"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Bagon"
 	},
 	{
@@ -18668,7 +18668,7 @@
 		"name": "Machop"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magnemite"
 	},
 	{
@@ -18680,7 +18680,7 @@
 		"name": "Accelgor"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Shelgon"
 	},
 	{
@@ -18708,7 +18708,7 @@
 		"name": "Fearow"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar"
 	},
 	{
@@ -18728,7 +18728,7 @@
 		"name": "Altaria"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "MRayquaza-EX"
 	},
 	{
@@ -18756,7 +18756,7 @@
 		"name": "Camerupt"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Poochyena"
 	},
 	{
@@ -18792,7 +18792,7 @@
 		"name": "Machamp-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mightyena"
 	},
 	{
@@ -18804,7 +18804,7 @@
 		"name": "Prinplup"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "MTyranitar-EX"
 	},
 	{
@@ -18812,7 +18812,7 @@
 		"name": "Beautifly"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Crawdaunt"
 	},
 	{
@@ -18836,7 +18836,7 @@
 		"name": "Drifblim"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mightyena"
 	},
 	{
@@ -18888,7 +18888,7 @@
 		"name": "Duskull"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mightyena"
 	},
 	{
@@ -18952,7 +18952,7 @@
 		"name": "Pelipper"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lairon"
 	},
 	{
@@ -18996,7 +18996,7 @@
 		"name": "PrimalKyogre-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
@@ -19004,7 +19004,7 @@
 		"name": "MRayquaza-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Absol"
 	},
 	{
@@ -19016,7 +19016,7 @@
 		"name": "Yamask"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
@@ -19136,7 +19136,7 @@
 		"name": "Diglett"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Spiritomb"
 	},
 	{
@@ -19152,7 +19152,7 @@
 		"name": "StaraptorFB"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -19164,11 +19164,11 @@
 		"name": "Venusaur"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Krookodile"
 	},
 	{
@@ -19248,7 +19248,7 @@
 		"name": "Mew-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Stunky"
 	},
 	{
@@ -19256,7 +19256,7 @@
 		"name": "Reuniclus"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lairon"
 	},
 	{
@@ -19276,7 +19276,7 @@
 		"name": "Gigalith"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zorua"
 	},
 	{
@@ -19284,15 +19284,15 @@
 		"name": "Conkeldurr"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Gabite"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Deino"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Zweilous"
 	},
 	{
@@ -19300,7 +19300,7 @@
 		"name": "Swablu"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zoroark"
 	},
 	{
@@ -19312,11 +19312,11 @@
 		"name": "Conkeldurr"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Rayquaza-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Giratina-EX"
 	},
 	{
@@ -19328,15 +19328,15 @@
 		"name": "Stunfisk"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Floette"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Poochyena"
 	},
 	{
@@ -19368,7 +19368,7 @@
 		"name": "Froakie"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Lileepδ"
 	},
 	{
@@ -19384,7 +19384,7 @@
 		"name": "Staryu"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Sylveon"
 	},
 	{
@@ -19392,7 +19392,7 @@
 		"name": "Graveler"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Vullaby"
 	},
 	{
@@ -19400,7 +19400,7 @@
 		"name": "Dewgong"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zweilous"
 	},
 	{
@@ -19416,7 +19416,7 @@
 		"name": "Donphan"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Escavalier"
 	},
 	{
@@ -19428,7 +19428,7 @@
 		"name": "Crobatex"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Pawniard"
 	},
 	{
@@ -19452,11 +19452,11 @@
 		"name": "Golem-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Poochyena"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Escavalier"
 	},
 	{
@@ -19468,7 +19468,7 @@
 		"name": "Pikachu"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Cobalion"
 	},
 	{
@@ -19496,7 +19496,7 @@
 		"name": "Herdier"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Clefairy"
 	},
 	{
@@ -19512,7 +19512,7 @@
 		"name": "Castform"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Cobalion"
 	},
 	{
@@ -19520,7 +19520,7 @@
 		"name": "Tentacruel"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar"
 	},
 	{
@@ -19528,7 +19528,7 @@
 		"name": "Kirlia"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Mr.Mime"
 	},
 	{
@@ -19592,7 +19592,7 @@
 		"name": "Ambipom"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sRaikouex"
 	},
 	{
@@ -19688,7 +19688,7 @@
 		"name": "Poliwrath"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
@@ -19732,7 +19732,7 @@
 		"name": "Nidorino"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
@@ -19752,11 +19752,11 @@
 		"name": "Electabuzzδ"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Nidoran♀δ"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Carvanha"
 	},
 	{
@@ -19784,7 +19784,7 @@
 		"name": "Gastly"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneasel"
 	},
 	{
@@ -19808,7 +19808,7 @@
 		"name": "Cranidos"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Shieldon"
 	},
 	{
@@ -19840,7 +19840,7 @@
 		"name": "Arceus"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Honchkrow"
 	},
 	{
@@ -19892,7 +19892,7 @@
 		"name": "Infernape"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mandibuzz"
 	},
 	{
@@ -19916,7 +19916,7 @@
 		"name": "Machoke"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Liepard"
 	},
 	{
@@ -19964,7 +19964,7 @@
 		"name": "Mew"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Escavalier"
 	},
 	{
@@ -20028,19 +20028,19 @@
 		"name": "Shelgon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Deino"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Zweilous"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
@@ -20064,7 +20064,7 @@
 		"name": "Electrike"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Goodra"
 	},
 	{
@@ -20116,7 +20116,7 @@
 		"name": "Baltoy"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai"
 	},
 	{
@@ -20124,7 +20124,7 @@
 		"name": "Delcatty"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Ralts"
 	},
 	{
@@ -20140,7 +20140,7 @@
 		"name": "Archeops"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneaselex"
 	},
 	{
@@ -20152,11 +20152,11 @@
 		"name": "Electabuzz"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Cutiefly"
 	},
 	{
@@ -20200,7 +20200,7 @@
 		"name": "Feebas"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lairon"
 	},
 	{
@@ -20212,15 +20212,15 @@
 		"name": "Glameow"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Flabébé"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Sylveon-EX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Diancie"
 	},
 	{
@@ -20268,7 +20268,7 @@
 		"name": "Articuno"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Gardevoir-EX"
 	},
 	{
@@ -20316,7 +20316,7 @@
 		"name": "Golem"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "MGardevoir-EX"
 	},
 	{
@@ -20332,11 +20332,11 @@
 		"name": "Magneton"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Mawile"
 	},
 	{
@@ -20352,7 +20352,7 @@
 		"name": "Arbok"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
@@ -20368,7 +20368,7 @@
 		"name": "Jynx"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
@@ -20392,7 +20392,7 @@
 		"name": "Latias"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metang"
 	},
 	{
@@ -20468,11 +20468,11 @@
 		"name": "Smeargle"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai"
 	},
 	{
@@ -20504,7 +20504,7 @@
 		"name": "Unown[A]"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scrafty"
 	},
 	{
@@ -20596,7 +20596,7 @@
 		"name": "Mewtwo"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Pangoro"
 	},
 	{
@@ -20608,7 +20608,7 @@
 		"name": "Rhyperior"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Togekiss"
 	},
 	{
@@ -20620,7 +20620,7 @@
 		"name": "Zigzagoon"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
@@ -20696,11 +20696,11 @@
 		"name": "Mesprit"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Axew"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "SkarmoryFB"
 	},
 	{
@@ -20716,7 +20716,7 @@
 		"name": "Chatot"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Beldum"
 	},
 	{
@@ -20768,7 +20768,7 @@
 		"name": "Phanpy"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magnezone"
 	},
 	{
@@ -20792,7 +20792,7 @@
 		"name": "Fletchling"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal"
 	},
 	{
@@ -20828,7 +20828,7 @@
 		"name": "Haunter"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lairon"
 	},
 	{
@@ -20840,7 +20840,7 @@
 		"name": "Tentacruel"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latias&Latios-GX"
 	},
 	{
@@ -20908,7 +20908,7 @@
 		"name": "ShellosWestSea"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "AlolanExeggutor"
 	},
 	{
@@ -20924,7 +20924,7 @@
 		"name": "Seviper"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Holon'sMagneton"
 	},
 	{
@@ -20936,7 +20936,7 @@
 		"name": "Porygon2"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "TeamMagma'sMightyena"
 	},
 	{
@@ -20972,7 +20972,7 @@
 		"name": "Mew"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Weavile"
 	},
 	{
@@ -20980,7 +20980,7 @@
 		"name": "Palkia"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
@@ -20996,7 +20996,7 @@
 		"name": "Shroomish"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magnemite"
 	},
 	{
@@ -21092,11 +21092,11 @@
 		"name": "Drifloon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Shieldon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bastiodon"
 	},
 	{
@@ -21120,7 +21120,7 @@
 		"name": "Zubat"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Cacturne"
 	},
 	{
@@ -21132,7 +21132,7 @@
 		"name": "Sceptile"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Heatran"
 	},
 	{
@@ -21152,7 +21152,7 @@
 		"name": "Ditto"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Weavile"
 	},
 	{
@@ -21200,11 +21200,11 @@
 		"name": "Metangδ"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonite"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latias-EX"
 	},
 	{
@@ -21260,7 +21260,7 @@
 		"name": "Shroomish"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Pawniard"
 	},
 	{
@@ -21268,7 +21268,7 @@
 		"name": "ProbopassG"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klang"
 	},
 	{
@@ -21304,7 +21304,7 @@
 		"name": "Arcanine"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Poochyena"
 	},
 	{
@@ -21336,7 +21336,7 @@
 		"name": "Luxio"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sableye"
 	},
 	{
@@ -21344,7 +21344,7 @@
 		"name": "Gengar-EX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Clefable"
 	},
 	{
@@ -21484,7 +21484,7 @@
 		"name": "Magmar"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
@@ -21556,7 +21556,7 @@
 		"name": "Palpitoad"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sandile"
 	},
 	{
@@ -21576,11 +21576,11 @@
 		"name": "Porygon2"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zoroark"
 	},
 	{
@@ -21604,7 +21604,7 @@
 		"name": "Eevee"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
@@ -21628,7 +21628,7 @@
 		"name": "Genesect"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai"
 	},
 	{
@@ -21688,7 +21688,7 @@
 		"name": "Arceus"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dratini"
 	},
 	{
@@ -21704,11 +21704,11 @@
 		"name": "Slowpoke"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Gible"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Gible"
 	},
 	{
@@ -21744,11 +21744,11 @@
 		"name": "Sunflora"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonair"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Bagon"
 	},
 	{
@@ -21764,7 +21764,7 @@
 		"name": "Feebas"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Salamence"
 	},
 	{
@@ -21780,7 +21780,7 @@
 		"name": "Aurorus"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latias"
 	},
 	{
@@ -21812,7 +21812,7 @@
 		"name": "Remoraid"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Rayquaza"
 	},
 	{
@@ -21828,7 +21828,7 @@
 		"name": "Buneary"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Fraxure"
 	},
 	{
@@ -21876,7 +21876,7 @@
 		"name": "Regirock-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Wormadam"
 	},
 	{
@@ -21884,7 +21884,7 @@
 		"name": "Mudkip"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Stunky"
 	},
 	{
@@ -21904,7 +21904,7 @@
 		"name": "Tangela"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Absol"
 	},
 	{
@@ -21980,7 +21980,7 @@
 		"name": "Sunflora"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "WormadamTrashCloak"
 	},
 	{
@@ -22004,7 +22004,7 @@
 		"name": "KyogreStar"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Carvanha"
 	},
 	{
@@ -22060,11 +22060,11 @@
 		"name": "Growlithe"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Mawile"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
@@ -22124,7 +22124,7 @@
 		"name": "TeamMagma'sRhydon"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "TeamMagma'sMightyena"
 	},
 	{
@@ -22240,7 +22240,7 @@
 		"name": "Doublade"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
@@ -22308,7 +22308,7 @@
 		"name": "Corphish"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneasel"
 	},
 	{
@@ -22348,7 +22348,7 @@
 		"name": "TeamAqua'sManectric"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "TeamAqua'sMightyena"
 	},
 	{
@@ -22432,7 +22432,7 @@
 		"name": "TeamMagma'sBaltoy"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "AlolanExeggutor"
 	},
 	{
@@ -22460,7 +22460,7 @@
 		"name": "Chikorita"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar"
 	},
 	{
@@ -22492,7 +22492,7 @@
 		"name": "Horsea"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dratini"
 	},
 	{
@@ -22508,11 +22508,11 @@
 		"name": "Mankey"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dratini"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonair"
 	},
 	{
@@ -22548,7 +22548,7 @@
 		"name": "Hoothoot"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
@@ -22560,7 +22560,7 @@
 		"name": "Leafeon"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonite"
 	},
 	{
@@ -22568,7 +22568,7 @@
 		"name": "Jigglypuff"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metagross"
 	},
 	{
@@ -22576,7 +22576,7 @@
 		"name": "Eevee"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Honchkrow"
 	},
 	{
@@ -22632,7 +22632,7 @@
 		"name": "Spinarak"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Drapion"
 	},
 	{
@@ -22720,7 +22720,7 @@
 		"name": "Tauros"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzor"
 	},
 	{
@@ -22760,7 +22760,7 @@
 		"name": "Drifloon"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai&CresseliaLEGEND"
 	},
 	{
@@ -22832,7 +22832,7 @@
 		"name": "Typhlosion"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "TeamAqua'sPoochyena"
 	},
 	{
@@ -22904,11 +22904,11 @@
 		"name": "Swampert"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zorua"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Carvanha"
 	},
 	{
@@ -22932,7 +22932,7 @@
 		"name": "Politoed"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Hoopa"
 	},
 	{
@@ -22940,7 +22940,7 @@
 		"name": "Zangoose"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar"
 	},
 	{
@@ -22948,11 +22948,11 @@
 		"name": "Victreebel"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "TeamMagma'sPoochyena"
 	},
 	{
@@ -22980,7 +22980,7 @@
 		"name": "Dratini"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Absol"
 	},
 	{
@@ -23000,11 +23000,11 @@
 		"name": "TeamMagma'sRhyhorn"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndour"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lairon"
 	},
 	{
@@ -23032,11 +23032,11 @@
 		"name": "Lucario"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aggron"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
@@ -23104,7 +23104,7 @@
 		"name": "Swellow"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "MDiancie-EX"
 	},
 	{
@@ -23140,7 +23140,7 @@
 		"name": "Minun"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Jirachi-EX"
 	},
 	{
@@ -23152,15 +23152,15 @@
 		"name": "Meditite"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "BlackKyurem"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Tyrantrum-EX"
 	},
 	{
@@ -23204,7 +23204,7 @@
 		"name": "Machamp-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -23212,7 +23212,7 @@
 		"name": "Meloetta"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Goomy"
 	},
 	{
@@ -23220,7 +23220,7 @@
 		"name": "Lunala"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Klefki"
 	},
 	{
@@ -23260,7 +23260,7 @@
 		"name": "Barboach"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -23272,7 +23272,7 @@
 		"name": "Gliscor"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Forretress"
 	},
 	{
@@ -23304,7 +23304,7 @@
 		"name": "Misdreavus"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Absol"
 	},
 	{
@@ -23348,7 +23348,7 @@
 		"name": "Altariaex"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Jirachi"
 	},
 	{
@@ -23368,7 +23368,7 @@
 		"name": "Lombre"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Solgaleo"
 	},
 	{
@@ -23380,7 +23380,7 @@
 		"name": "Weezing"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Cottonee"
 	},
 	{
@@ -23400,15 +23400,15 @@
 		"name": "Glalie"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Escavalier"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Shelgon"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Salamence"
 	},
 	{
@@ -23420,7 +23420,7 @@
 		"name": "Taillow"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sharpedoex"
 	},
 	{
@@ -23452,11 +23452,11 @@
 		"name": "Groudon"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dialga-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Palkia-EX"
 	},
 	{
@@ -23472,7 +23472,7 @@
 		"name": "Electrode"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Haxorus"
 	},
 	{
@@ -23496,7 +23496,7 @@
 		"name": "Rapidash"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Druddigon"
 	},
 	{
@@ -23540,7 +23540,7 @@
 		"name": "Marshtomp"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Drampa"
 	},
 	{
@@ -23548,7 +23548,7 @@
 		"name": "Kadabra"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Goodra"
 	},
 	{
@@ -23568,7 +23568,7 @@
 		"name": "Squirtle"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sableye"
 	},
 	{
@@ -23708,7 +23708,7 @@
 		"name": "Tyranitarδ"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreonδ"
 	},
 	{
@@ -23768,7 +23768,7 @@
 		"name": "Volbeat"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
@@ -23784,7 +23784,7 @@
 		"name": "Ditto"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Eeveeδ"
 	},
 	{
@@ -23792,7 +23792,7 @@
 		"name": "Ledian"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metagross-GX"
 	},
 	{
@@ -23824,7 +23824,7 @@
 		"name": "GroudonStar"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "MetagrossStar"
 	},
 	{
@@ -23844,7 +23844,7 @@
 		"name": "Pikachu"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kommo-o-GX"
 	},
 	{
@@ -23860,7 +23860,7 @@
 		"name": "Ponyta"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Nidokingδ"
 	},
 	{
@@ -23876,7 +23876,7 @@
 		"name": "Duskull"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Poochyena"
 	},
 	{
@@ -23936,11 +23936,11 @@
 		"name": "Mr.Mimeex"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Jirachi-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanMeowth"
 	},
 	{
@@ -23952,7 +23952,7 @@
 		"name": "Mr.Mimeex"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dialga-EX"
 	},
 	{
@@ -23972,11 +23972,11 @@
 		"name": "Porygon"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Snubbull"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Deoxysδ"
 	},
 	{
@@ -24032,7 +24032,7 @@
 		"name": "Heatran"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Registeel"
 	},
 	{
@@ -24076,11 +24076,11 @@
 		"name": "Wobbuffet"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magikarpδ"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Meowthδ"
 	},
 	{
@@ -24120,7 +24120,7 @@
 		"name": "Glaceon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix"
 	},
 	{
@@ -24136,7 +24136,7 @@
 		"name": "Mew"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "DarkDragonair"
 	},
 	{
@@ -24172,7 +24172,7 @@
 		"name": "Helioptile"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Nuzleaf"
 	},
 	{
@@ -24296,7 +24296,7 @@
 		"name": "Dusclops"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mightyena"
 	},
 	{
@@ -24316,7 +24316,7 @@
 		"name": "Anorith"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Cacturne"
 	},
 	{
@@ -24340,11 +24340,11 @@
 		"name": "Medicham"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Nuzleaf"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sharpedo"
 	},
 	{
@@ -24352,7 +24352,7 @@
 		"name": "Shelgon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Beldum"
 	},
 	{
@@ -24364,7 +24364,7 @@
 		"name": "Seismitoad"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Carvanha"
 	},
 	{
@@ -24448,11 +24448,11 @@
 		"name": "Koga'sMuk"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "DarkTyranitar"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "DarkDragonite"
 	},
 	{
@@ -24540,7 +24540,7 @@
 		"name": "Froakie"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Honedge"
 	},
 	{
@@ -24576,7 +24576,7 @@
 		"name": "Cleffa"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Pawniard"
 	},
 	{
@@ -24628,7 +24628,7 @@
 		"name": "BurmySandyCloak"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Flabébé"
 	},
 	{
@@ -24684,7 +24684,7 @@
 		"name": "Loudred"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lairon"
 	},
 	{
@@ -24744,11 +24744,11 @@
 		"name": "Persian"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Holon'sMagnemite"
 	},
 	{
@@ -24796,7 +24796,7 @@
 		"name": "Flygonexδ"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sMewtwoex"
 	},
 	{
@@ -24820,11 +24820,11 @@
 		"name": "Numel"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Pichuδ"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Pikachuδ"
 	},
 	{
@@ -24844,11 +24844,11 @@
 		"name": "Hariyama"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneasel"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Weavile"
 	},
 	{
@@ -24904,7 +24904,7 @@
 		"name": "Gengar&Mimikyu-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "RegisteelStar"
 	},
 	{
@@ -24912,7 +24912,7 @@
 		"name": "RegiceStar"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Pikachuδ"
 	},
 	{
@@ -24920,7 +24920,7 @@
 		"name": "Misty'sHorsea"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sSuicuneex"
 	},
 	{
@@ -24936,7 +24936,7 @@
 		"name": "Kirlia"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
@@ -24980,7 +24980,7 @@
 		"name": "Misty'sPsyduck"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sMeowth"
 	},
 	{
@@ -25024,7 +25024,7 @@
 		"name": "Sabrina'sPorygon"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Absol"
 	},
 	{
@@ -25064,7 +25064,7 @@
 		"name": "Erika'sDragonair"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -25084,7 +25084,7 @@
 		"name": "Wailmer"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor"
 	},
 	{
@@ -25196,7 +25196,7 @@
 		"name": "Gyarados"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
@@ -25224,7 +25224,7 @@
 		"name": "Jirachi"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Krookodile"
 	},
 	{
@@ -25252,7 +25252,7 @@
 		"name": "Feraligatr"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Granbull"
 	},
 	{
@@ -25292,7 +25292,7 @@
 		"name": "Brock'sGraveler"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Heatran"
 	},
 	{
@@ -25340,7 +25340,7 @@
 		"name": "Staryu"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latias◇"
 	},
 	{
@@ -25352,7 +25352,7 @@
 		"name": "Sandslash"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Bisharp"
 	},
 	{
@@ -25384,7 +25384,7 @@
 		"name": "Seadra"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Bisharp"
 	},
 	{
@@ -25400,11 +25400,11 @@
 		"name": "Snorlax"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Deino"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix"
 	},
 	{
@@ -25448,7 +25448,7 @@
 		"name": "Cleffa"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonair"
 	},
 	{
@@ -25632,7 +25632,7 @@
 		"name": "Entei"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonite"
 	},
 	{
@@ -25780,11 +25780,11 @@
 		"name": "Erika'sGloom"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitarex"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Chimecho(DeltaSpecies)"
 	},
 	{
@@ -25804,7 +25804,7 @@
 		"name": "Crobat"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Forretress"
 	},
 	{
@@ -25884,7 +25884,7 @@
 		"name": "Misty'sPsyduck"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Shiftry"
 	},
 	{
@@ -25924,7 +25924,7 @@
 		"name": "Rhyhorn"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "DuskManeNecrozma"
 	},
 	{
@@ -25992,7 +25992,7 @@
 		"name": "Porygon2"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Beldum"
 	},
 	{
@@ -26044,7 +26044,7 @@
 		"name": "Spinarak"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
@@ -26052,7 +26052,7 @@
 		"name": "Toxicroak"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metang"
 	},
 	{
@@ -26172,7 +26172,7 @@
 		"name": "Brock'sSandshrew"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latias-EX"
 	},
 	{
@@ -26180,7 +26180,7 @@
 		"name": "Dugtrio"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latios-EX"
 	},
 	{
@@ -26320,11 +26320,11 @@
 		"name": "Erika'sBellsprout"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Hydreigon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "DarkScizor"
 	},
 	{
@@ -26344,11 +26344,11 @@
 		"name": "DarkForretress"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Garchomp"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "BlackKyurem-EX"
 	},
 	{
@@ -26420,7 +26420,7 @@
 		"name": "Bellossom"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix"
 	},
 	{
@@ -26484,7 +26484,7 @@
 		"name": "Nosepass"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
@@ -26552,7 +26552,7 @@
 		"name": "Tentacool"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "YveltalBREAK"
 	},
 	{
@@ -26576,7 +26576,7 @@
 		"name": "Infernape"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "MSteelix-EX"
 	},
 	{
@@ -26624,7 +26624,7 @@
 		"name": "Meloetta-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Registeelex"
 	},
 	{
@@ -26672,7 +26672,7 @@
 		"name": "Voltorb"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Azumarill"
 	},
 	{
@@ -26692,7 +26692,7 @@
 		"name": "Espeon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor"
 	},
 	{
@@ -26724,11 +26724,11 @@
 		"name": "Giratina◇"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Xerneas"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Beldum"
 	},
 	{
@@ -26744,7 +26744,7 @@
 		"name": "Mamoswine"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sableye"
 	},
 	{
@@ -26792,7 +26792,7 @@
 		"name": "Vanilluxe"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Deino"
 	},
 	{
@@ -26800,7 +26800,7 @@
 		"name": "Litwick"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Skuntank"
 	},
 	{
@@ -26820,7 +26820,7 @@
 		"name": "Lapras"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
@@ -26864,7 +26864,7 @@
 		"name": "Frillish"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai◇"
 	},
 	{
@@ -26892,7 +26892,7 @@
 		"name": "DeoxysDefenseForme"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Heatran"
 	},
 	{
@@ -27044,7 +27044,7 @@
 		"name": "Dedenne"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Mr.Mime"
 	},
 	{
@@ -27068,7 +27068,7 @@
 		"name": "Muk"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "MGardevoir-EX"
 	},
 	{
@@ -27128,7 +27128,7 @@
 		"name": "Metapod"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Absol"
 	},
 	{
@@ -27152,7 +27152,7 @@
 		"name": "Ponyta"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sharpedo"
 	},
 	{
@@ -27184,7 +27184,7 @@
 		"name": "Heracross"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sableye"
 	},
 	{
@@ -27228,7 +27228,7 @@
 		"name": "Lumineon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magnezone"
 	},
 	{
@@ -27308,7 +27308,7 @@
 		"name": "Sunkern"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar"
 	},
 	{
@@ -27328,7 +27328,7 @@
 		"name": "Haunter"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magneton"
 	},
 	{
@@ -27356,7 +27356,7 @@
 		"name": "Donphan"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AbsolG"
 	},
 	{
@@ -27408,11 +27408,11 @@
 		"name": "RoseradeC"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Mawile"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "SableyeG"
 	},
 	{
@@ -27540,7 +27540,7 @@
 		"name": "Chimecho"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metang"
 	},
 	{
@@ -27552,7 +27552,7 @@
 		"name": "Walrein"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreonex"
 	},
 	{
@@ -27572,7 +27572,7 @@
 		"name": "Unown"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Shiftry"
 	},
 	{
@@ -27596,7 +27596,7 @@
 		"name": "Relicanth"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scraggy"
 	},
 	{
@@ -27608,7 +27608,7 @@
 		"name": "Unown"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzong"
 	},
 	{
@@ -27624,7 +27624,7 @@
 		"name": "MiloticC"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Beldum"
 	},
 	{
@@ -27664,7 +27664,7 @@
 		"name": "Hoopa-EX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Gardevoir-EX"
 	},
 	{
@@ -27696,7 +27696,7 @@
 		"name": "Celebi"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai"
 	},
 	{
@@ -27728,7 +27728,7 @@
 		"name": "Shaymin-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Nuzleaf"
 	},
 	{
@@ -27744,7 +27744,7 @@
 		"name": "Slowking"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix"
 	},
 	{
@@ -27788,7 +27788,7 @@
 		"name": "Heatran"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Probopass"
 	},
 	{
@@ -27816,7 +27816,7 @@
 		"name": "Aerodactyl"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzong"
 	},
 	{
@@ -27828,11 +27828,11 @@
 		"name": "Swalot"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzong"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzor"
 	},
 	{
@@ -27920,11 +27920,11 @@
 		"name": "Totodile"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scrafty"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klink"
 	},
 	{
@@ -27996,19 +27996,19 @@
 		"name": "Mienfoo"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Liepard"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Flygon"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "BlackKyurem-EX"
 	},
 	{
@@ -28028,7 +28028,7 @@
 		"name": "Golurk"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Altaria"
 	},
 	{
@@ -28056,27 +28056,27 @@
 		"name": "Doublade"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Nuzleaf"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Shiftry"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metagrossex"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor-EX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Spritzee"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Aromatisse"
 	},
 	{
@@ -28116,7 +28116,7 @@
 		"name": "Conkeldurr"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Deoxysδ"
 	},
 	{
@@ -28188,15 +28188,15 @@
 		"name": "Gallade"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzor"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Snubbull"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Flabébé"
 	},
 	{
@@ -28252,7 +28252,7 @@
 		"name": "Vileplumeδ"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zoroark"
 	},
 	{
@@ -28300,7 +28300,7 @@
 		"name": "Carbink"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Hydreigon"
 	},
 	{
@@ -28320,7 +28320,7 @@
 		"name": "Lucario"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Kirlia"
 	},
 	{
@@ -28360,7 +28360,7 @@
 		"name": "Kakuna"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Anorithδ"
 	},
 	{
@@ -28424,11 +28424,11 @@
 		"name": "Torchic"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Liepard"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "BlackKyurem-EX"
 	},
 	{
@@ -28452,7 +28452,7 @@
 		"name": "Cleffa"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scrafty"
 	},
 	{
@@ -28484,7 +28484,7 @@
 		"name": "Kyogre"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -28492,7 +28492,7 @@
 		"name": "Ampharos"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
@@ -28512,7 +28512,7 @@
 		"name": "Pidgeot"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
@@ -28532,7 +28532,7 @@
 		"name": "Chikorita"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndour"
 	},
 	{
@@ -28544,7 +28544,7 @@
 		"name": "Mareep"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klang"
 	},
 	{
@@ -28576,7 +28576,7 @@
 		"name": "PikachuStar"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mightyenaex"
 	},
 	{
@@ -28636,7 +28636,7 @@
 		"name": "Whismur"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aggron"
 	},
 	{
@@ -28660,19 +28660,19 @@
 		"name": "Jirachi"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aron"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Registeel"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Beldum"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzong"
 	},
 	{
@@ -28680,7 +28680,7 @@
 		"name": "Ditto"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kommo-o"
 	},
 	{
@@ -28700,7 +28700,7 @@
 		"name": "Electivire"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metang"
 	},
 	{
@@ -28724,11 +28724,11 @@
 		"name": "Nidoqueen"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sharpedo"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "AlolanExeggutor-GX"
 	},
 	{
@@ -28772,7 +28772,7 @@
 		"name": "Lombre"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Nuzleaf"
 	},
 	{
@@ -28788,7 +28788,7 @@
 		"name": "Mamoswine"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Skuntank"
 	},
 	{
@@ -28804,7 +28804,7 @@
 		"name": "Charmander"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Jigglypuff"
 	},
 	{
@@ -28824,11 +28824,11 @@
 		"name": "Shiinotic"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Granbull"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Ribombee"
 	},
 	{
@@ -28840,11 +28840,11 @@
 		"name": "Decidueye"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Kirlia"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Morelull"
 	},
 	{
@@ -28892,7 +28892,7 @@
 		"name": "Drowzee"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Pikachuδ"
 	},
 	{
@@ -28908,15 +28908,15 @@
 		"name": "Hariyama"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sharpedo"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Krookodile"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "AlolanDugtrio"
 	},
 	{
@@ -29032,11 +29032,11 @@
 		"name": "DarkMarowak"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sSneaselex"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sZapdosex"
 	},
 	{
@@ -29076,15 +29076,15 @@
 		"name": "Delcatty"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "DialgaG"
 	},
 	{
@@ -29100,7 +29100,7 @@
 		"name": "SkuntankG"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bastiodon"
 	},
 	{
@@ -29136,7 +29136,7 @@
 		"name": "Seviper"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Shieldon"
 	},
 	{
@@ -29204,7 +29204,7 @@
 		"name": "Deoxysδ"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bastiodon"
 	},
 	{
@@ -29252,7 +29252,7 @@
 		"name": "Oshawott"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Probopass"
 	},
 	{
@@ -29320,7 +29320,7 @@
 		"name": "Meganiumex"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizorex"
 	},
 	{
@@ -29328,7 +29328,7 @@
 		"name": "Typhlosionex"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitarex"
 	},
 	{
@@ -29544,15 +29544,15 @@
 		"name": "Pumpkaboo"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanRattata"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanGrimer"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanMuk-GX"
 	},
 	{
@@ -29560,15 +29560,15 @@
 		"name": "Gligar"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Inkay"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Gardevoir-GX"
 	},
 	{
@@ -29580,11 +29580,11 @@
 		"name": "Boldore"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Shiinotic"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Zygarde"
 	},
 	{
@@ -29608,11 +29608,11 @@
 		"name": "Stufful"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Poochyena"
 	},
 	{
@@ -29624,11 +29624,11 @@
 		"name": "Horsea"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mightyena"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Spiritomb"
 	},
 	{
@@ -29636,15 +29636,15 @@
 		"name": "Marshadow-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Purrloin"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Malamar-EX"
 	},
 	{
@@ -29652,15 +29652,15 @@
 		"name": "TapuBulu-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzong"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga-EX"
 	},
 	{
@@ -29672,15 +29672,15 @@
 		"name": "Necrozma-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Heatran"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Noivern-GX"
 	},
 	{
@@ -29692,7 +29692,7 @@
 		"name": "Tepig"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zoroark"
 	},
 	{
@@ -29708,7 +29708,7 @@
 		"name": "Ducklett"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zoroark"
 	},
 	{
@@ -29724,7 +29724,7 @@
 		"name": "Samurott"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scraggy"
 	},
 	{
@@ -29776,11 +29776,11 @@
 		"name": "Kyurem"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Rayquaza-EX"
 	},
 	{
@@ -29800,11 +29800,11 @@
 		"name": "Empoleon"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Haxorus"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "BlackKyurem"
 	},
 	{
@@ -29812,7 +29812,7 @@
 		"name": "Keldeo-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "WhiteKyurem-EX"
 	},
 	{
@@ -29828,11 +29828,11 @@
 		"name": "Ampharos"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Cobalion"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai"
 	},
 	{
@@ -29856,7 +29856,7 @@
 		"name": "Landorus"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Druddigon"
 	},
 	{
@@ -29888,7 +29888,7 @@
 		"name": "Glaceon"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -29916,7 +29916,7 @@
 		"name": "Pheromosa"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aegislash-EX"
 	},
 	{
@@ -29940,11 +29940,11 @@
 		"name": "Delphox"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aegislash-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klefki"
 	},
 	{
@@ -29964,7 +29964,7 @@
 		"name": "Clawitzer"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Swirlix"
 	},
 	{
@@ -29992,11 +29992,11 @@
 		"name": "Espurr"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Slurpuff"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Dedenne"
 	},
 	{
@@ -30008,11 +30008,11 @@
 		"name": "Manaphy"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Diancie"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Sliggoo"
 	},
 	{
@@ -30076,11 +30076,11 @@
 		"name": "Loudred"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Floette"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Sylveon"
 	},
 	{
@@ -30092,15 +30092,15 @@
 		"name": "Regigigas"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Flabébé"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Florges"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Goodra"
 	},
 	{
@@ -30116,7 +30116,7 @@
 		"name": "Diggersby"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Sliggoo"
 	},
 	{
@@ -30136,11 +30136,11 @@
 		"name": "MGengar-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Malamar-EX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Florges-EX"
 	},
 	{
@@ -30148,11 +30148,11 @@
 		"name": "MManectric-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "UltraNecrozma-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga-EX"
 	},
 	{
@@ -30160,7 +30160,7 @@
 		"name": "Cherrim"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Xerneas-GX"
 	},
 	{
@@ -30248,11 +30248,11 @@
 		"name": "Lucario"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Skuntank"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bastiodon"
 	},
 	{
@@ -30300,19 +30300,19 @@
 		"name": "Sceptile"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metang"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Probopass"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Clefable"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Sylveon-GX"
 	},
 	{
@@ -30324,7 +30324,7 @@
 		"name": "Shroomish"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Jangmo-o"
 	},
 	{
@@ -30588,15 +30588,15 @@
 		"name": "Electrike"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "AlolanDugtrio"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "AlolanDiglett"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magnezone"
 	},
 	{
@@ -30616,7 +30616,7 @@
 		"name": "Nidoran♀"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "AlolanExeggutor"
 	},
 	{
@@ -30676,11 +30676,11 @@
 		"name": "Solrock"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Palkia-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dialga-GX"
 	},
 	{
@@ -30740,7 +30740,7 @@
 		"name": "Illumise"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sharpedo-EX"
 	},
 	{
@@ -30764,7 +30764,7 @@
 		"name": "Torchic"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Crawdaunt"
 	},
 	{
@@ -30816,15 +30816,15 @@
 		"name": "Clamperl"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Hydreigon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "MAggron-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Honedge"
 	},
 	{
@@ -30844,7 +30844,7 @@
 		"name": "Voltorb"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Doublade"
 	},
 	{
@@ -30872,7 +30872,7 @@
 		"name": "Vileplume"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Gardevoir-EX"
 	},
 	{
@@ -30892,11 +30892,11 @@
 		"name": "Solrock"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "MGardevoir-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kingdra"
 	},
 	{
@@ -30964,19 +30964,19 @@
 		"name": "Wailord-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sableye"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Bagon"
 	},
 	{
@@ -30984,27 +30984,27 @@
 		"name": "PrimalKyogre-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sharpedo-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Beldum"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Beldum"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metagross"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Bagon"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Gardevoir-EX"
 	},
 	{
@@ -31012,19 +31012,19 @@
 		"name": "Mew"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Solgaleo"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Celesteela"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Kartana"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Stakataka-GX"
 	},
 	{
@@ -31036,11 +31036,11 @@
 		"name": "Onix"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latios◇"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Rayquaza-GX"
 	},
 	{
@@ -31104,11 +31104,11 @@
 		"name": "Butterfree"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Stakataka-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Rayquaza-GX"
 	},
 	{
@@ -31160,7 +31160,7 @@
 		"name": "TapuLele"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Xerneas-EX"
 	},
 	{
@@ -31200,7 +31200,7 @@
 		"name": "Mewtwo"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zorua"
 	},
 	{
@@ -31216,7 +31216,7 @@
 		"name": "Venusaur-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Solgaleo-GX"
 	},
 	{
@@ -31396,7 +31396,7 @@
 		"name": "Mankey"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Jangmo-o"
 	},
 	{
@@ -31472,7 +31472,7 @@
 		"name": "Slowpoke"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Xerneas"
 	},
 	{
@@ -31576,43 +31576,43 @@
 		"name": "Salazzle"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dratini"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dratini"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonair"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Vibrava"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Flygon"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Bagon"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Shelgon"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Salamence-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Druddigon"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Zekrom"
 	},
 	{
@@ -31620,27 +31620,27 @@
 		"name": "Swablu"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zoroark"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Zygarde"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Turtonator"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Jangmo-o"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Hakamo-o"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kommo-o"
 	},
 	{
@@ -31652,7 +31652,7 @@
 		"name": "Kingdra-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Altaria-GX"
 	},
 	{
@@ -31660,7 +31660,7 @@
 		"name": "TapuKoko"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Solgaleo-GX"
 	},
 	{
@@ -31712,7 +31712,7 @@
 		"name": "Ho-Oh-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Morelull"
 	},
 	{
@@ -31792,11 +31792,11 @@
 		"name": "Passimian"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneasel"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Diancie"
 	},
 	{
@@ -31816,7 +31816,7 @@
 		"name": "Lycanroc-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Gardevoir-GX"
 	},
 	{
@@ -31892,11 +31892,11 @@
 		"name": "Palossand-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanRattata"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanRaticate-GX"
 	},
 	{
@@ -31904,19 +31904,19 @@
 		"name": "Pelipper"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metang"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Jirachi◇"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Shelgon"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Salamence"
 	},
 	{
@@ -31948,15 +31948,15 @@
 		"name": "Salandit"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Stakataka-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Rayquaza-GX"
 	},
 	{
@@ -32068,23 +32068,23 @@
 		"name": "Stufful"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Deino"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zweilous"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Guzzlord-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Escavalier"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Kartana-GX"
 	},
 	{
@@ -32092,15 +32092,15 @@
 		"name": "Salazzle"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "AlolanExeggutor-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Jangmo-o"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Hakamo-o"
 	},
 	{
@@ -32140,7 +32140,7 @@
 		"name": "Buzzwole-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Guzzlord-GX"
 	},
 	{
@@ -32172,31 +32172,31 @@
 		"name": "Quagsire"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Hydreigon"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonite-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Altaria"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Altaria-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kyurem"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "WhiteKyurem-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Drampa"
 	},
 	{
@@ -32208,7 +32208,7 @@
 		"name": "Reshiram-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonite-GX"
 	},
 	{
@@ -32216,19 +32216,19 @@
 		"name": "Reshiram-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Altaria-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Salamence-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "WhiteKyurem-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "UltraNecrozma-GX"
 	},
 	{
@@ -32260,7 +32260,7 @@
 		"name": "Zygarde"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal-GX"
 	},
 	{
@@ -32268,7 +32268,7 @@
 		"name": "Gible"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Xerneas-GX"
 	},
 	{
@@ -32288,11 +32288,11 @@
 		"name": "Zygarde-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Xerneas-GX"
 	},
 	{
@@ -32300,7 +32300,7 @@
 		"name": "Zygarde-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal-GX"
 	},
 	{
@@ -32352,7 +32352,7 @@
 		"name": "Sudowoodo"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Comfey"
 	},
 	{
@@ -32372,7 +32372,7 @@
 		"name": "Toxapex-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Sylveon-GX"
 	},
 	{
@@ -32472,19 +32472,19 @@
 		"name": "Marshadow"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Spiritomb"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scrafty"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "ShiningRayquaza"
 	},
 	{
@@ -32508,7 +32508,7 @@
 		"name": "Bruxish"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "UltraNecrozma-GX"
 	},
 	{
@@ -32528,11 +32528,11 @@
 		"name": "Kyogre"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Celesteela"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latios"
 	},
 	{
@@ -32540,7 +32540,7 @@
 		"name": "Reshiram-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Heatran"
 	},
 	{
@@ -32564,7 +32564,7 @@
 		"name": "Tornadus-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latias"
 	},
 	{
@@ -32588,7 +32588,7 @@
 		"name": "Pinsir"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Salamence-GX"
 	},
 	{
@@ -32720,43 +32720,43 @@
 		"name": "Palossand"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanRaticate"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanPersian"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Carvanha"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sandile"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Krokorok"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "AlolanDiglett"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Cutiefly"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Ribombee"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonair"
 	},
 	{
@@ -32792,11 +32792,11 @@
 		"name": "Lunala-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Solgaleo-GX"
 	},
 	{
@@ -32816,11 +32816,11 @@
 		"name": "Espeon-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Solgaleo-GX"
 	},
 	{
@@ -32868,27 +32868,27 @@
 		"name": "Giratina"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneasel"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Stunky"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzong"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Shiinotic"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Garchomp"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Honchkrow"
 	},
 	{
@@ -32904,11 +32904,11 @@
 		"name": "Leafeon-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Gabite"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Palkia-GX"
 	},
 	{
@@ -32932,15 +32932,15 @@
 		"name": "TeamAqua'sCrawdaunt"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "DuskManeNecrozma-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dialga-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Palkia-GX"
 	},
 	{
@@ -32972,7 +32972,7 @@
 		"name": "Hippowdon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magnemite"
 	},
 	{
@@ -33000,7 +33000,7 @@
 		"name": "Lunala-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Solgaleo-GX"
 	},
 	{
@@ -33052,7 +33052,7 @@
 		"name": "Wurmple"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "TeamAqua'sMightyena"
 	},
 	{
@@ -33148,7 +33148,7 @@
 		"name": "Lapras"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "TeamAqua'sPoochyena"
 	},
 	{
@@ -33192,7 +33192,7 @@
 		"name": "Chinchou"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "TeamMagma'sPoochyena"
 	},
 	{
@@ -33224,7 +33224,7 @@
 		"name": "DarkAmpharos"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Cobalion-GX"
 	},
 	{
@@ -33236,7 +33236,7 @@
 		"name": "DarkCrobat"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "DarkHoundoom"
 	},
 	{
@@ -33260,7 +33260,7 @@
 		"name": "Togetic"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "DarkRaticate"
 	},
 	{
@@ -33308,7 +33308,7 @@
 		"name": "DarkArbok"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "DarkDragonair"
 	},
 	{
@@ -33320,7 +33320,7 @@
 		"name": "DarkGolbat"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Honedge"
 	},
 	{
@@ -33340,11 +33340,11 @@
 		"name": "DarkPupitar"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Doublade"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Durant"
 	},
 	{
@@ -33356,7 +33356,7 @@
 		"name": "Mantine"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sWobbuffet"
 	},
 	{
@@ -33364,7 +33364,7 @@
 		"name": "Hoppip"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Wigglytuff"
 	},
 	{
@@ -33388,7 +33388,7 @@
 		"name": "Slowpoke"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Dedenne"
 	},
 	{
@@ -33400,7 +33400,7 @@
 		"name": "Zubat"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sArticunoex"
 	},
 	{
@@ -33408,19 +33408,19 @@
 		"name": "Chansey"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sEnteiex"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sHitmonchanex"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sMoltresex"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sScizorex"
 	},
 	{
@@ -33432,11 +33432,11 @@
 		"name": "Ho-Oh"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sScytherex"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Rocket'sSnorlaxex"
 	},
 	{
@@ -33444,11 +33444,11 @@
 		"name": "Charmeleon"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal-EX"
 	},
 	{
@@ -33456,7 +33456,7 @@
 		"name": "Tangela"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Honedge"
 	},
 	{
@@ -33472,7 +33472,7 @@
 		"name": "Gogoat"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Genesect-GX"
 	},
 	{
@@ -33484,11 +33484,11 @@
 		"name": "Greninja-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Greninja"
 	},
 	{
@@ -33524,7 +33524,7 @@
 		"name": "Typhlosion"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kingdra"
 	},
 	{
@@ -33564,19 +33564,19 @@
 		"name": "Pangoro"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Salamence"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Absol-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Rayquaza"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Jirachi"
 	},
 	{
@@ -33588,7 +33588,7 @@
 		"name": "Pikachu"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Mawile-EX"
 	},
 	{
@@ -33600,7 +33600,7 @@
 		"name": "Shaymin"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Genesect"
 	},
 	{
@@ -33624,7 +33624,7 @@
 		"name": "Shaymin-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal-EX"
 	},
 	{
@@ -33660,7 +33660,7 @@
 		"name": "Mew"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Genesect"
 	},
 	{
@@ -33676,11 +33676,11 @@
 		"name": "MCamerupt-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "MSharpedo-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Ferroseed"
 	},
 	{
@@ -33816,11 +33816,11 @@
 		"name": "Pupitar"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanMeowth"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanPersian"
 	},
 	{
@@ -33840,11 +33840,11 @@
 		"name": "Charmander"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "AlolanDugtrio"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga"
 	},
 	{
@@ -33860,11 +33860,11 @@
 		"name": "Charizard"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magearna"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Marill"
 	},
 	{
@@ -33872,23 +33872,23 @@
 		"name": "Vulpix"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Ralts"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Gardevoir"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Carbink"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Xerneas◇"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Cutiefly"
 	},
 	{
@@ -33896,11 +33896,11 @@
 		"name": "Ninetales"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Shiinotic"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "TapuLele"
 	},
 	{
@@ -33960,11 +33960,11 @@
 		"name": "Virizion-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "AlolanNinetales-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Mimikyu-GX"
 	},
 	{
@@ -34008,23 +34008,23 @@
 		"name": "Donphan"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Forretress"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Cobalion"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Azumarill"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Snubbull"
 	},
 	{
@@ -34064,15 +34064,15 @@
 		"name": "Sigilyph-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Genesect-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "AlolanNinetales-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Mimikyu-GX"
 	},
 	{
@@ -34104,7 +34104,7 @@
 		"name": "Staryu"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zoroark-GX"
 	},
 	{
@@ -34276,19 +34276,19 @@
 		"name": "Golurk"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sableye"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Beldum"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metagross"
 	},
 	{
@@ -34296,23 +34296,23 @@
 		"name": "Galvantula"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Registeel"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Ralts"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Gardevoir"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Giratina-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Goomy"
 	},
 	{
@@ -34340,7 +34340,7 @@
 		"name": "Hoopa-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Giratina-EX"
 	},
 	{
@@ -34392,7 +34392,7 @@
 		"name": "Exeggutor"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
@@ -34412,7 +34412,7 @@
 		"name": "Kingdra"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
@@ -34420,7 +34420,7 @@
 		"name": "Hypno"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magneton"
 	},
 	{
@@ -34440,11 +34440,11 @@
 		"name": "Octillery"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magneton"
 	},
 	{
@@ -34496,11 +34496,11 @@
 		"name": "Togetic"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -34568,7 +34568,7 @@
 		"name": "Hitmonchan"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndour"
 	},
 	{
@@ -34780,31 +34780,31 @@
 		"name": "Krokorok"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Purrloin"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Liepard"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Scraggy"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zoroark"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Mandibuzz"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klang"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klinklang"
 	},
 	{
@@ -34992,19 +34992,19 @@
 		"name": "Groudon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aggron-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aegislash"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Azumarill"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Flygon"
 	},
 	{
@@ -35024,7 +35024,7 @@
 		"name": "Bidoof"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Vibrava"
 	},
 	{
@@ -35040,11 +35040,11 @@
 		"name": "PrimalGroudon-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aggron-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "MAggron-EX"
 	},
 	{
@@ -35092,7 +35092,7 @@
 		"name": "Flareon"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Houndoom"
 	},
 	{
@@ -35132,7 +35132,7 @@
 		"name": "Magneton"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magneton"
 	},
 	{
@@ -35184,7 +35184,7 @@
 		"name": "Vaporeon"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon"
 	},
 	{
@@ -35244,7 +35244,7 @@
 		"name": "Meowth"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
@@ -35272,7 +35272,7 @@
 		"name": "Shuckle"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
@@ -35340,7 +35340,7 @@
 		"name": "Tsareena"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Zygarde"
 	},
 	{
@@ -35364,11 +35364,11 @@
 		"name": "Pikachu"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragalge"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Slurpuff"
 	},
 	{
@@ -35380,11 +35380,11 @@
 		"name": "Charizard-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "MMetagross-EX"
 	},
 	{
@@ -35392,7 +35392,7 @@
 		"name": "Hoopa"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzong"
 	},
 	{
@@ -35420,7 +35420,7 @@
 		"name": "Groudon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Jirachi"
 	},
 	{
@@ -35440,11 +35440,11 @@
 		"name": "Mew-EX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "MMawile-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Jirachi"
 	},
 	{
@@ -35452,11 +35452,11 @@
 		"name": "Moltres"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Garchomp-EX"
 	},
 	{
@@ -35472,23 +35472,23 @@
 		"name": "Zygarde"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magearna"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magearna-EX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Klefki"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "AlolanNinetales"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Mimikyu"
 	},
 	{
@@ -35496,7 +35496,7 @@
 		"name": "CrobatBREAK"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aegislash"
 	},
 	{
@@ -35516,19 +35516,19 @@
 		"name": "Regice"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Inkay"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metagross"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Kirlia"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Goodra"
 	},
 	{
@@ -35564,27 +35564,27 @@
 		"name": "Nidorina"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Hoopa-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Incineroar-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Skarmory"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Jirachi"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzor"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzong"
 	},
 	{
@@ -35636,23 +35636,23 @@
 		"name": "Ampharos-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Hoopa-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Incineroar-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Cobalion-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latias&Latios-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latias&Latios-GX"
 	},
 	{
@@ -35660,7 +35660,7 @@
 		"name": "Eevee&Snorlax-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Drampa"
 	},
 	{
@@ -35680,7 +35680,7 @@
 		"name": "TapuBulu-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Umbreon-GX"
 	},
 	{
@@ -35696,7 +35696,7 @@
 		"name": "Komala"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanMeowth"
 	},
 	{
@@ -35704,7 +35704,7 @@
 		"name": "Buzzwole-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kommo-o-GX"
 	},
 	{
@@ -35740,11 +35740,11 @@
 		"name": "Eevee-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Meltan"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Melmetal-GX"
 	},
 	{
@@ -35896,23 +35896,23 @@
 		"name": "Marshadow-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanRaticate"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Darkrai-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Malamar"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Ribombee"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Noivern-GX"
 	},
 	{
@@ -35944,11 +35944,11 @@
 		"name": "Machamp-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanMuk-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Noivern-GX"
 	},
 	{
@@ -35964,11 +35964,11 @@
 		"name": "Machamp-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanMuk-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Gardevoir-GX"
 	},
 	{
@@ -36024,11 +36024,11 @@
 		"name": "Baltoy"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Sneasel"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor-GX"
 	},
 	{
@@ -36044,7 +36044,7 @@
 		"name": "Banette-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor-GX"
 	},
 	{
@@ -36100,27 +36100,27 @@
 		"name": "Primeape"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Guzzlord-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Mawile"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Lairon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Aggron"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Jigglypuff"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Wigglytuff"
 	},
 	{
@@ -36136,11 +36136,11 @@
 		"name": "Buzzwole-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Guzzlord-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Kartana-GX"
 	},
 	{
@@ -36148,11 +36148,11 @@
 		"name": "Gyarados-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Kartana-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "AlolanExeggutor-GX"
 	},
 	{
@@ -36212,27 +36212,27 @@
 		"name": "Buzzwole"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Pangoro"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Empoleon"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Dedenne"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Goomy"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "UltraNecrozma-GX"
 	},
 	{
@@ -36252,11 +36252,11 @@
 		"name": "Lucario-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Dialga-GX"
 	},
 	{
@@ -36268,7 +36268,7 @@
 		"name": "Lucario-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "UltraNecrozma-GX"
 	},
 	{
@@ -36360,43 +36360,43 @@
 		"name": "Mudsdale"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Murkrow"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Honchkrow"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Pangoro"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Beldum"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metagross-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Clefairy"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Whimsicott"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Goomy"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Sliggoo"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Hakamo-o"
 	},
 	{
@@ -36404,7 +36404,7 @@
 		"name": "Decidueye-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kommo-o-GX"
 	},
 	{
@@ -36464,11 +36464,11 @@
 		"name": "Lycanroc-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Sylveon-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kommo-o-GX"
 	},
 	{
@@ -36556,35 +36556,35 @@
 		"name": "Onix"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "AlolanDiglett"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Steelix"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Scizor"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Genesect-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "AlolanNinetales-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Mimikyu-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "TapuFini"
 	},
 	{
@@ -36616,7 +36616,7 @@
 		"name": "Sigilyph-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar-GX"
 	},
 	{
@@ -36628,7 +36628,7 @@
 		"name": "Magcargo-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Tyranitar-GX"
 	},
 	{
@@ -36648,7 +36648,7 @@
 		"name": "Torracat"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Zoroark-GX"
 	},
 	{
@@ -36704,7 +36704,7 @@
 		"name": "TapuKoko-GX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "AlolanMeowth"
 	},
 	{
@@ -36720,7 +36720,7 @@
 		"name": "Pheromosa-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Celesteela-GX"
 	},
 	{
@@ -36728,7 +36728,7 @@
 		"name": "Xurkitree-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Registeel"
 	},
 	{
@@ -36760,7 +36760,7 @@
 		"name": "Lucario-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "DuskManeNecrozma-GX"
 	},
 	{
@@ -36776,7 +36776,7 @@
 		"name": "DawnWingsNecrozma"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "DuskManeNecrozma"
 	},
 	{
@@ -36784,7 +36784,7 @@
 		"name": "Naganadel-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "AlolanSandslash"
 	},
 	{
@@ -36792,11 +36792,11 @@
 		"name": "Zekrom-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "WhiteKyurem-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Kyurem"
 	},
 	{
@@ -36808,7 +36808,7 @@
 		"name": "Leafeon-GX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "TapuLele"
 	},
 	{
@@ -36816,7 +36816,7 @@
 		"name": "Kingdra-GX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dragonite-GX"
 	},
 	{
@@ -36832,7 +36832,7 @@
 		"name": "Nidoqueen"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Jirachi"
 	},
 	{
@@ -36900,39 +36900,39 @@
 		"name": "Passimian"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Skuntank"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magneton"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Bronzor"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Solgaleo◇"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "DuskManeNecrozma-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Magearna"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Morelull"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "TapuLele"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Dialga-GX"
 	},
 	{
@@ -36952,11 +36952,11 @@
 		"name": "Pheromosa-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Celesteela-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "DuskManeNecrozma-GX"
 	},
 	{
@@ -36968,15 +36968,15 @@
 		"name": "Glaceon-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Celesteela-GX"
 	},
 	{
-		"type": "Metal",
+		"type": "Fighting",
 		"name": "Metagross-EX"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Diancie-EX"
 	},
 	{
@@ -36988,11 +36988,11 @@
 		"name": "Gyarados"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Flygon-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "MAbsol-EX"
 	},
 	{
@@ -37000,11 +37000,11 @@
 		"name": "Rayquaza-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latios-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Latias"
 	},
 	{
@@ -37020,11 +37020,11 @@
 		"name": "Gyarados"
 	},
 	{
-		"type": "Fairy",
+		"type": "Colorless",
 		"name": "Xerneas-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Yveltal-EX"
 	},
 	{
@@ -37032,15 +37032,15 @@
 		"name": "Beedrill-EX"
 	},
 	{
-		"type": "Dragon",
+		"type": "Water",
 		"name": "Salamence-EX"
 	},
 	{
-		"type": "Darkness",
+		"type": "Psychic",
 		"name": "Absol"
 	},
 	{
 		"type": "Colorless",
 		"name": "Snorlax"
-	}
+	},
 ]

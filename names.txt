@@ -2,34 +2,34 @@ Fighting, Cubone
 Grass, Turtwig
 Grass, Bellossom
 Fighting, Hariyama ex
-Fairy, Xerneas
-Metal, Aggron
+Colorless, Xerneas
+Fighting, Aggron
 Grass, Skiddo
 Psychic, Misdreavus
 Water, Greninja
 Water, Clauncher
 Lightning, Magneton
-Darkness, Inkay
-Darkness, Mightyena
-Metal, Pawniard
+Psychic, Inkay
+Psychic, Mightyena
+Fighting, Pawniard
 Grass, Pineco
 Water, Glalie
 Fire, Volcanion
 Lightning, Ampharos-EX
 Fire, Magmar
-Metal, Lairon
+Fighting, Lairon
 Psychic, Dusknoir
-Fairy, Swirlix
+Colorless, Swirlix
 Colorless, Farfetch'd
 Colorless, Snorlax
-Darkness, Poochyena
+Psychic, Poochyena
 Lightning, Electivire
 Fire, Infernape
 Psychic, Unown
 Colorless, Delcatty ex
 Grass, Celebi Star
 Fighting, Lucario
-Metal, Metang
+Fighting, Metang
 Grass, Venusaur
 Colorless, Skitty
 Colorless, Bidoof
@@ -39,13 +39,13 @@ Grass, Caterpie
 Lightning, Luxray
 Fighting, Quagsire
 Grass, Carnivine
-Metal, Magnezone
+Fighting, Magnezone
 Fire, Charmander
 Colorless, Clefable
 Grass, Leafeon
 Water, Manaphy
 Grass, Crustle
-Metal, Forretress
+Fighting, Forretress
 Psychic, Deoxys
 Grass, Karrablast
 Fighting, Marowak
@@ -65,7 +65,7 @@ Psychic, Dusclops
 Grass, Cacnea
 Colorless, Togekiss
 Grass, Roserade
-Darkness, Skuntank
+Psychic, Skuntank
 Psychic, Shedinja
 Colorless, Dodrio
 Colorless, Staraptor
@@ -78,28 +78,28 @@ Colorless, Bibarel
 Lightning, Magnemite
 Water, Swanna
 Lightning, Jolteon
-Metal, Cobalion-EX
-Dragon, Druddigon
+Fighting, Cobalion-EX
+Water, Druddigon
 Psychic, Drapion
 Lightning, Chinchou
 Lightning, Raikou-EX
 Lightning, Eelektrik
 Grass, Dustox
-Dragon, Black Kyurem-EX
-Dragon, White Kyurem-EX
+Water, Black Kyurem-EX
+Water, White Kyurem-EX
 Grass, Leafeon
 Psychic, Cofagrigus
 Lightning, Magnemite
-Metal, Forretress
+Fighting, Forretress
 Water, Omanyte
 Water, Floatzel
-Darkness, Poochyena
+Psychic, Poochyena
 Psychic, Nidoran♂
 Psychic, Nidorino
-Darkness, Krokorok
+Psychic, Krokorok
 Fighting, Hariyama
-Darkness, Honchkrow
-Darkness, Honchkrow
+Psychic, Honchkrow
+Psychic, Honchkrow
 Grass, Seedot
 Grass, Heracross
 Fire, Magmortar
@@ -107,25 +107,25 @@ Colorless, Slakoth
 Colorless, Lopunny
 Grass, Serperior
 Water, Snorunt
-Metal, Skarmory
+Fighting, Skarmory
 Water, Spheal
-Metal, Skarmory
+Fighting, Skarmory
 Fighting, Machamp
 Fire, Torchic
-Darkness, Zorua
+Psychic, Zorua
 Fighting, Trapinch
 Fighting, Medicham
 Fire, Vulpix
 Colorless, Rayquaza
 Water, Lombre
-Darkness, Bisharp
+Psychic, Bisharp
 Colorless, Munchlax
 Fighting, Primeape
-Metal, Klang
+Fighting, Klang
 Water, Starmie
 Colorless, Pidgeotto
 Colorless, Vigoroth
-Metal, Klinklang
+Fighting, Klinklang
 Colorless, Tornadus-EX
 Lightning, Rotom
 Colorless, Noctowl
@@ -133,17 +133,17 @@ Grass, Vileplume
 Fire, Entei-EX
 Water, Omastar
 Lightning, Pachirisu
-Darkness, Weavile
+Psychic, Weavile
 Psychic, Toxicroak
 Psychic, Unown P
-Darkness, Absol ex
+Psychic, Absol ex
 Colorless, Happiny
 Fighting, Riolu
-Metal, Metagross ex
+Fighting, Metagross ex
 Colorless, Rayquaza-EX
-Metal, Lairon
+Fighting, Lairon
 Water, Corphish
-Darkness, Shiftry ex
+Psychic, Shiftry ex
 Lightning, Electrike
 Water, Goldeen
 Grass, Surskit
@@ -154,31 +154,31 @@ Grass, Seedot
 Fire, Slugma
 Water, M Swampert-EX
 Grass, Beedrill δ
-Metal, Skarmory ex
+Fighting, Skarmory ex
 Fire, Slugma
 Fighting, Sudowoodo
-Darkness, Weavile
+Psychic, Weavile
 Psychic, Nidoking
 Lightning, Magnemite
 Grass, Wurmple
 Psychic, Wynaut
-Metal, Klink
+Fighting, Klink
 Psychic, Tentacool
 Water, Walrein ex
 Fighting, Hippopotas
 Colorless, Eevee
 Fighting, Machoke
-Metal, Metang
+Fighting, Metang
 Water, Misty's Seadra
 Colorless, Gible
 Colorless, Munchlax
 Psychic, Tentacruel
-Metal, Magneton
+Fighting, Magneton
 Water, Starmie δ
 Psychic, Grimer
 Water, Blastoise-EX
 Fire, Monferno
-Darkness, Mightyena δ
+Psychic, Mightyena δ
 Psychic, Muk
 Water, Omanyte
 Grass, Tangela
@@ -220,23 +220,23 @@ Water, Sandshrew
 Water, Staryu
 Water, Misty's Seel
 Fighting, Zygarde
-Dragon, Dragonite
-Metal, Aron
+Water, Dragonite
+Fighting, Aron
 Water, Goldeen
 Colorless, Aipom
-Dragon, Latios
+Water, Latios
 Fighting, Meditite
-Dragon, Axew
+Water, Axew
 Fighting, Onix
 Psychic, Drifloon
 Fire, Ponyta
 Grass, Roselia
-Dragon, Haxorus
+Water, Haxorus
 Colorless, Eevee
 Fighting, Breloom
-Darkness, Sneasel
-Dragon, Kyurem
-Darkness, Stunky
+Psychic, Sneasel
+Water, Kyurem
+Psychic, Stunky
 Grass, Celebi
 Psychic, Gastly
 Psychic, Deoxys
@@ -262,32 +262,32 @@ Water, Team Aqua's Sealeo
 Lightning, Raichu
 Water, Team Aqua's Kyogre-ex
 Psychic, Team Aqua's Muk
-Darkness, Houndour
+Psychic, Houndour
 Grass, Shroomish
 Lightning, Magneton
-Darkness, Murkrow
+Psychic, Murkrow
 Fighting, Team Magma's Aron
 Colorless, Slakoth
-Darkness, Team Aqua's Poochyena
+Psychic, Team Aqua's Poochyena
 Fighting, Giovanni's Machop
-Darkness, Murkrow
+Psychic, Murkrow
 Grass, Pineco
 Psychic, Alolan Marowak
 Psychic, Starmie
 Water, Slowpoke
 Colorless, Snubbull
 Fire, Slugma
-Metal, Skarmory
-Darkness, Team Magma's Poochyena
-Darkness, Team Aqua's Mightyena
-Darkness, Sneasel
+Fighting, Skarmory
+Psychic, Team Magma's Poochyena
+Psychic, Team Aqua's Mightyena
+Psychic, Sneasel
 Colorless, Vibrava
 Fire, Ho-Oh BREAK
 Colorless, Latias Star
-Metal, Dialga
+Fighting, Dialga
 Colorless, Teddiursa
-Darkness, Team Magma's Mightyena
-Metal, Forretress
+Psychic, Team Magma's Mightyena
+Fighting, Forretress
 Water, Empoleon
 Water, Totodile
 Colorless, Ampharos δ
@@ -297,7 +297,7 @@ Water, Gyarados
 Colorless, Swellow
 Water, Feebas
 Grass, Meganium
-Metal, Nidoqueen δ
+Fighting, Nidoqueen δ
 Lightning, Raichu
 Lightning, Pikachu-EX
 Water, Whiscash
@@ -308,7 +308,7 @@ Water, Mudkip
 Psychic, Mismagius
 Psychic, Ninetales δ
 Grass, Snorlax δ
-Metal, Scizor
+Fighting, Scizor
 Psychic, Spoink
 Grass, Venusaur-EX
 Water, Corsola
@@ -317,7 +317,7 @@ Grass, Kakuna
 Grass, Illumise
 Colorless, Miltank
 Water, Lotad
-Darkness, Shiftry
+Psychic, Shiftry
 Psychic, Slowking
 Grass, Quilladin
 Colorless, Hoothoot
@@ -337,7 +337,7 @@ Psychic, Gengar
 Lightning, Gligar δ
 Psychic, Espeon ex
 Grass, Vivillon
-Metal, Ledian δ
+Fighting, Ledian δ
 Grass, Scyther
 Psychic, Abra
 Psychic, Treecko δ
@@ -355,12 +355,12 @@ Fighting, Bayleef δ
 Colorless, Flaaffy δ
 Fire, Braixen
 Fire, Delphox
-Metal, Nidorina δ
+Fighting, Nidorina δ
 Grass, Nidorina
 Fire, Charmander
 Fighting, Larvitar
 Fire, Fletchinder
-Metal, Ledyba δ
+Fighting, Ledyba δ
 Lightning, Pupitar δ
 Psychic, Ralts
 Lightning, Totodile δ
@@ -371,16 +371,16 @@ Grass, Grotle
 Water, M Blastoise-EX
 Water, Politoed ex
 Lightning, Raikou Star
-Metal, Steelix ex
+Fighting, Steelix ex
 Water, Staryu
-Darkness, Umbreon
+Psychic, Umbreon
 Fire, Charizard
 Water, Kyogre & Groudon LEGEND
 Water, Greninja
 Grass, Beedrill
 Fire, Blaziken
 Lightning, Zapdos
-Darkness, Rocket's Persian ex
+Psychic, Rocket's Persian ex
 Lightning, Pikachu
 Fighting, Riolu
 Grass, Celebi ex
@@ -394,50 +394,50 @@ Psychic, Trevenant
 Fighting, Lunatone
 Colorless, Buneary
 Psychic, Unown
-Darkness, Krokorok
+Psychic, Krokorok
 Grass, Shaymin
 Fire, Chimchar
 Grass, Sewaddle
 Water, Suicune
 Psychic, Trubbish
 Psychic, Unown
-Darkness, Krookodile
+Psychic, Krookodile
 Water, Blastoise
 Fighting, Machop
 Psychic, Unown
-Darkness, Inkay
+Psychic, Inkay
 Water, Piplup
 Fire, Torchic
 Water, Altaria ex δ
 Colorless, Porygon2
-Darkness, Malamar
+Psychic, Malamar
 Colorless, Fearow
-Darkness, Yveltal
+Psychic, Yveltal
 Colorless, Starly
 Water, Floatzel
 Water, Brionne
-Darkness, Yveltal-EX
+Psychic, Yveltal-EX
 Grass, Yanmega
 Lightning, Magnemite
 Psychic, Unown
 Lightning, Magnemite
 Lightning, Magneton
-Metal, Bisharp
+Fighting, Bisharp
 Psychic, Zubat
 Psychic, Unown
-Fairy, Wigglytuff
+Colorless, Wigglytuff
 Water, Kingdra
 Grass, Tangela
 Colorless, Exploud
 Psychic, Unown
 Fighting, Primeape
-Fairy, Mr. Mime
-Fairy, Aromatisse
+Colorless, Mr. Mime
+Colorless, Aromatisse
 Lightning, Manectric
 Fire, Slugma
 Fighting, Meditite
 Water, Marill
-Fairy, Xerneas
+Colorless, Xerneas
 Colorless, Clefable
 Colorless, Tauros
 Psychic, Ralts
@@ -466,22 +466,22 @@ Colorless, Togetic
 Colorless, Exploud
 Grass, Grovyle
 Grass, Roserade
-Darkness, Yveltal-EX
+Psychic, Yveltal-EX
 Psychic, Grumpig
 Fighting, Hariyama
-Fairy, Xerneas-EX
-Darkness, Charizard Star δ
+Colorless, Xerneas-EX
+Psychic, Charizard Star δ
 Colorless, Ursaring
 Fighting, Machop
-Dragon, Garchomp-EX
+Water, Garchomp-EX
 Colorless, Linoone
 Grass, Cacnea
 Fire, Charizard
 Lightning, Lanturn
-Dragon, Dratini
+Water, Dratini
 Grass, Grotle
 Lightning, Plusle
-Darkness, Team Aqua's Carvanha
+Psychic, Team Aqua's Carvanha
 Fighting, Hitmonchan
 Colorless, Taillow
 Colorless, Whismur
@@ -494,7 +494,7 @@ Fighting, Cubone
 Water, Squirtle
 Water, Bruxish
 Lightning, Electabuzz
-Dragon, Fraxure
+Water, Fraxure
 Fighting, Team Magma's Rhyhorn
 Lightning, Luxray
 Colorless, Tauros
@@ -513,7 +513,7 @@ Fire, Torkoal
 Fire, Milotic δ
 Psychic, Mr. Mime-GX
 Psychic, Nidoran♀
-Darkness, Zorua
+Psychic, Zorua
 Colorless, Patrat
 Colorless, Patrat
 Water, Crawdaunt
@@ -529,22 +529,22 @@ Lightning, Mantine δ
 Fighting, Meditite
 Grass, Ninjask
 Water, Azumarill
-Metal, Tropius δ
+Fighting, Tropius δ
 Water, Wartortle
 Fighting, Onix
 Colorless, Salamence
 Fighting, Aerodactyl-EX
-Darkness, Xatu δ
+Psychic, Xatu δ
 Fighting, Regirock ex
 Grass, Grovyle
 Fire, Kirlia δ
 Psychic, Mewtwo
-Darkness, Nidorino δ
+Psychic, Nidorino δ
 Fire, Swellow δ
 Colorless, Swablu
 Grass, Grubbin
 Fighting, Trapinch
-Metal, Registeel ex
+Fighting, Registeel ex
 Water, Buizel
 Fighting, Chikorita δ
 Colorless, Salamence
@@ -552,7 +552,7 @@ Grass, Dratini δ
 Water, Keldeo
 Colorless, Farfetch'd
 Fighting, Elekid δ
-Darkness, Nidoran♂ δ
+Psychic, Nidoran♂ δ
 Colorless, Seel δ
 Grass, Wooper δ
 Grass, Butterfree
@@ -595,18 +595,18 @@ Fighting, Nidoqueen
 Fighting, Hitmonlee
 Fighting, Hitmonchan
 Water, Corphish
-Dragon, Dragonair
+Water, Dragonair
 Water, Horsea
-Metal, Probopass
+Fighting, Probopass
 Fighting, Omanyte
 Fighting, Omastar
 Water, Barboach
-Darkness, Houndour
+Psychic, Houndour
 Fighting, Kabuto
-Dragon, Shelgon
+Water, Shelgon
 Grass, Bulbasaur
-Metal, Excadrill
-Dragon, M Garchomp-EX
+Fighting, Excadrill
+Water, M Garchomp-EX
 Water, Magikarp
 Water, Poliwrath
 Fighting, Golem
@@ -633,7 +633,7 @@ Grass, Roselia
 Fighting, Pupitar
 Fighting, Pancham
 Colorless, Salamence
-Fairy, Marill
+Colorless, Marill
 Grass, Carnivine
 Colorless, Dragonair
 Fire, Reshiram
@@ -732,17 +732,17 @@ Fighting, Rhyperior
 Lightning, Ampharos
 Psychic, Sigilyph
 Water, Poliwhirl
-Darkness, Sandile
+Psychic, Sandile
 Psychic, Spoink
 Lightning, Electrike
 Psychic, Drifloon
 Fire, Vulpix
 Colorless, Porygon
 Fire, Ho-Oh ex
-Metal, Aegislash
+Fighting, Aegislash
 Grass, Sceptile
 Psychic, Drifblim
-Metal, Bastiodon GL
+Fighting, Bastiodon GL
 Water, Froakie
 Psychic, Trubbish
 Psychic, Zubat
@@ -773,39 +773,39 @@ Lightning, Raikou & Suicune LEGEND
 Water, Palkia
 Grass, Roserade GL
 Psychic, Unown H
-Metal, Dialga
+Fighting, Dialga
 Grass, Shelmet
 Water, Delibird
 Grass, Maractus
 Fighting, Meloetta
 Fighting, Sawk
-Fairy, Snubbull
+Colorless, Snubbull
 Fire, Magmar
 Fighting, Stunfisk
-Darkness, Inkay
-Darkness, Honchkrow
+Psychic, Inkay
+Psychic, Honchkrow
 Water, Seismitoad
 Psychic, Gothita
-Darkness, Skuntank
-Metal, Aggron
-Metal, Registeel-EX
+Psychic, Skuntank
+Fighting, Aggron
+Fighting, Registeel-EX
 Lightning, Raikou & Suicune LEGEND
-Dragon, Axew
+Water, Axew
 Lightning, Manectric
 Water, Suicune & Entei LEGEND
 Colorless, Clefable
 Psychic, Dustox
 Psychic, Gothitelle
-Metal, Durant
+Fighting, Durant
 Psychic, Golurk
 Lightning, Electrode
 Colorless, Swablu
 Fighting, Claydol
-Dragon, Altaria
-Dragon, Gabite
+Water, Altaria
+Water, Gabite
 Colorless, Staravia
-Dragon, Zweilous
-Darkness, Murkrow
+Water, Zweilous
+Psychic, Murkrow
 Colorless, Swablu
 Water, Seaking
 Fire, Mewtwo δ
@@ -813,34 +813,34 @@ Fighting, Sandslash
 Colorless, Audino
 Colorless, Braviary
 Fire, Flareon
-Metal, Honedge
-Metal, Lairon
+Fighting, Honedge
+Fighting, Lairon
 Grass, Snivy
 Water, Mamoswine GL
 Fighting, Makuhita
 Lightning, Light Lanturn
-Fairy, Xerneas-EX
+Colorless, Xerneas-EX
 Colorless, Shelgon
-Metal, Probopass
-Darkness, Krookodile
+Fighting, Probopass
+Psychic, Krookodile
 Colorless, Dunsparce
 Colorless, Bibarel
 Colorless, Diggersby
 Colorless, Bagon
-Dragon, Rayquaza-EX
-Dragon, Garchomp
+Water, Rayquaza-EX
+Water, Garchomp
 Fighting, Sandslash
 Colorless, Buneary
 Grass, Burmy Trash Cloak
-Dragon, Giratina-EX
-Dragon, Hydreigon
-Darkness, Vullaby
+Water, Giratina-EX
+Water, Hydreigon
+Psychic, Vullaby
 Fire, Charmander
 Psychic, Gardevoir
 Water, Kyogre
 Water, Magikarp
-Metal, Klink
-Metal, Skarmory
+Fighting, Klink
+Fighting, Skarmory
 Psychic, Unown [X]
 Grass, Nidoran♀
 Colorless, Bibarel
@@ -852,7 +852,7 @@ Water, Pelipper
 Fighting, Geodude
 Colorless, Rattata
 Colorless, Bouffalant
-Dragon, Black Kyurem
+Water, Black Kyurem
 Grass, Cacnea
 Fire, Ho-Oh-EX
 Grass, Seviper
@@ -860,7 +860,7 @@ Psychic, Duskull
 Water, Starmie δ
 Psychic, Mew-EX
 Psychic, Gulpin
-Metal, Registeel-EX
+Fighting, Registeel-EX
 Psychic, Natu
 Colorless, Slakoth
 Colorless, Gible
@@ -926,7 +926,7 @@ Grass, Venonat
 Grass, Cacturne ex
 Colorless, Meowth
 Grass, Treecko
-Darkness, M Tyranitar-EX
+Psychic, M Tyranitar-EX
 Grass, Victreebel
 Grass, Seedot
 Psychic, Gengar ex
@@ -953,7 +953,7 @@ Psychic, Dusclops
 Colorless, Aipom
 Lightning, Electrode
 Fire, Charmander
-Metal, Metang
+Fighting, Metang
 Colorless, Kangaskhan
 Water, Seel
 Water, Swinub
@@ -965,7 +965,7 @@ Water, Feebas
 Colorless, Snorlax
 Water, Wingull
 Fire, Numel
-Fairy, Flabébé
+Colorless, Flabébé
 Fire, Moltres ex
 Grass, Simisage
 Grass, Swadloon
@@ -985,16 +985,16 @@ Grass, Leavanny
 Grass, Cottonee
 Grass, Shroomish
 Grass, Exeggutor
-Darkness, Scraggy
+Psychic, Scraggy
 Colorless, Fearow
 Grass, Petilil
 Fighting, Marowak
 Fighting, Primeape
 Colorless, Persian
-Darkness, Murkrow
+Psychic, Murkrow
 Water, Clauncher
 Psychic, Gothorita
-Fairy, Whimsicott
+Colorless, Whimsicott
 Fire, Darumaka
 Psychic, Skorupi
 Fighting, Hitmontop
@@ -1040,8 +1040,8 @@ Psychic, Poipole
 Psychic, Reuniclus
 Water, Swanna
 Fighting, Mienfoo
-Darkness, Darkrai & Cresselia LEGEND
-Darkness, Tyranitar-EX
+Psychic, Darkrai & Cresselia LEGEND
+Psychic, Tyranitar-EX
 Colorless, Meowth
 Psychic, Gengar
 Grass, Zubat
@@ -1052,7 +1052,7 @@ Colorless, Salamence
 Colorless, Eevee
 Lightning, Surfing Pikachu
 Fighting, Sandslash
-Darkness, Houndour
+Psychic, Houndour
 Grass, Tangrowth
 Water, Basculin
 Colorless, Meowth
@@ -1078,7 +1078,7 @@ Grass, Cascoon
 Lightning, Electrode
 Fire, Braixen
 Fighting, Omanyte
-Fairy, Snubbull
+Colorless, Snubbull
 Water, Poliwrath
 Grass, Dustox
 Water, Panpour
@@ -1089,7 +1089,7 @@ Grass, Shedinja
 Water, Cubchoo
 Psychic, Unown [I]
 Fighting, Gliscor
-Darkness, Guzzlord
+Psychic, Guzzlord
 Grass, Tropius
 Colorless, Dratini
 Water, Frogadier
@@ -1102,8 +1102,8 @@ Lightning, Emolga
 Grass, Meganium
 Grass, Seedot
 Grass, Kricketune
-Darkness, Scrafty
-Metal, Bisharp
+Psychic, Scrafty
+Fighting, Bisharp
 Lightning, Chinchou
 Psychic, Unown Y
 Psychic, Woobat
@@ -1123,12 +1123,12 @@ Lightning, Electrode
 Psychic, M Gallade-EX
 Fighting, Gliscor
 Lightning, Pikachu
-Fairy, Granbull
+Colorless, Granbull
 Fire, Growlithe
 Fighting, Binacle
 Colorless, Furfrou
-Darkness, Absol
-Fairy, Togetic
+Psychic, Absol
+Colorless, Togetic
 Colorless, Furfrou
 Psychic, Scolipede
 Water, Relicanth
@@ -1136,9 +1136,9 @@ Colorless, Aerodactyl
 Water, Blastoise
 Colorless, Patrat
 Lightning, Lanturn
-Darkness, Absol G
-Metal, Aggron
-Fairy, Togekiss
+Psychic, Absol G
+Fighting, Aggron
+Colorless, Togekiss
 Psychic, Sigilyph
 Psychic, Gothorita
 Colorless, Garchomp
@@ -1150,16 +1150,16 @@ Fire, Victini-EX
 Psychic, Ekans
 Psychic, Haunter
 Fire, Blaziken
-Dragon, Dratini
+Water, Dratini
 Psychic, Gothita
 Psychic, Gothita
 Grass, Cradily
-Dragon, Salamence
+Water, Salamence
 Grass, Ivysaur
 Colorless, Garchomp C
 Colorless, Rayquaza C
 Colorless, Delcatty
-Dragon, Rayquaza-EX
+Water, Rayquaza-EX
 Fire, Ponyta
 Psychic, Gardevoir
 Water, Kyogre
@@ -1167,10 +1167,10 @@ Lightning, Lanturn
 Psychic, Gengar
 Psychic, Giratina
 Fighting, Kabutops
-Dragon, Reshiram
+Water, Reshiram
 Water, Horsea
 Psychic, Jynx
-Fairy, Whimsicott
+Colorless, Whimsicott
 Colorless, Swellow
 Fighting, Machamp
 Psychic, Mew
@@ -1186,7 +1186,7 @@ Grass, Treecko
 Colorless, Unfezant
 Colorless, Fletchling
 Fighting, Gigalith
-Darkness, Shiftry
+Psychic, Shiftry
 Psychic, M Gallade-EX
 Fire, Heatmor
 Fighting, Excadrill
@@ -1195,21 +1195,21 @@ Fire, Chimchar
 Fighting, Nidoking
 Lightning, Lanturn
 Grass, Victreebel
-Dragon, Latios-EX
+Water, Latios-EX
 Water, Wooper
-Dragon, Hydreigon-EX
+Water, Hydreigon-EX
 Lightning, Mareep
 Fire, Chandelure
 Water, Wailord
 Water, Palpitoad
 Colorless, Gible
 Water, Gyarados
-Metal, Aggron
+Fighting, Aggron
 Grass, Cherubi
 Fighting, Excadrill
 Grass, Parasect
 Psychic, Drowzee
-Darkness, Absol
+Psychic, Absol
 Fighting, Lucario
 Water, Manaphy
 Fire, Blaziken
@@ -1217,22 +1217,22 @@ Water, Alomomola
 Fighting, Krookodile
 Grass, Jumpluff
 Colorless, Delcatty
-Metal, Magneton
+Fighting, Magneton
 Lightning, Emolga
 Fighting, Terrakion
 Grass, Kakuna
 Grass, Treecko
 Psychic, Nidoran♂
 Grass, Dustox
-Darkness, Purrloin
+Psychic, Purrloin
 Lightning, Thundurus-EX
 Water, Wailord
-Dragon, Deino
+Water, Deino
 Water, Gorebyss
 Fighting, Riolu
 Lightning, Pikachu
 Colorless, Rufflet
-Darkness, Zorua
+Psychic, Zorua
 Water, Sharpedo
 Water, Huntail
 Fighting, Onix
@@ -1246,43 +1246,43 @@ Grass, Cherubi
 Psychic, Wobbuffet
 Water, Suicune
 Grass, Weezing
-Darkness, Zoroark
-Darkness, Sandile
-Darkness, Vullaby
-Darkness, Umbreon
+Psychic, Zoroark
+Psychic, Sandile
+Psychic, Vullaby
+Psychic, Umbreon
 Fire, Chimchar
-Dragon, Rayquaza
+Water, Rayquaza
 Psychic, Lunatone
 Fire, Combusken
 Grass, Turtwig
 Grass, Serperior
 Colorless, Delcatty
-Metal, Ferroseed
+Fighting, Ferroseed
 Lightning, Flaaffy
 Lightning, Flaaffy
 Grass, Grovyle
-Darkness, Zweilous
-Metal, Ferrothorn
-Darkness, Hydreigon
+Psychic, Zweilous
+Fighting, Ferrothorn
+Psychic, Hydreigon
 Lightning, Manectric
 Water, Marshtomp
 Psychic, Dusclops
 Lightning, Elekid
 Lightning, Pikachu
-Metal, Klang
-Fairy, Swirlix
+Fighting, Klang
+Colorless, Swirlix
 Fire, Magmar
 Psychic, Giratina
 Water, Mantyke
 Fire, Rapidash
-Metal, Klinklang
+Fighting, Klinklang
 Psychic, Unown A
 Psychic, Unown B
 Fire, Magcargo
-Metal, Cobalion-EX
+Fighting, Cobalion-EX
 Grass, Combee
 Lightning, Magneton
-Darkness, Mightyena
+Psychic, Mightyena
 Psychic, Unown D
 Grass, Cherubi
 Colorless, Pidove
@@ -1301,7 +1301,7 @@ Colorless, Slakoth
 Colorless, Vigoroth
 Grass, Shaymin
 Water, Wailmer
-Metal, Aron
+Fighting, Aron
 Lightning, Electrike
 Grass, Cascoon
 Colorless, Cinccino
@@ -1314,11 +1314,11 @@ Fire, Ninetales
 Grass, Venusaur
 Psychic, Haunter
 Colorless, Kecleon
-Metal, Lairon
+Fighting, Lairon
 Water, Mudkip
 Lightning, Thundurus
 Water, Mudkip
-Darkness, Poochyena
+Psychic, Poochyena
 Lightning, Ampharos
 Psychic, Smoochum
 Fighting, Tyrogue
@@ -1341,7 +1341,7 @@ Lightning, Magnemite
 Colorless, Doduo
 Lightning, Chinchou
 Grass, Weepinbell
-Metal, Aron
+Fighting, Aron
 Grass, Wurmple
 Grass, Bellsprout
 Psychic, Dustox
@@ -1404,12 +1404,12 @@ Water, Magikarp
 Fighting, Rhyhorn
 Fire, Magmar ex
 Psychic, Mewtwo ex
-Darkness, Vullaby
+Psychic, Vullaby
 Colorless, Eevee
 Fighting, Armaldo
 Grass, Seedot
 Fighting, Groudon-EX
-Darkness, Darkrai-EX
+Psychic, Darkrai-EX
 Fighting, Diglett
 Psychic, Shuppet
 Psychic, Alakazam
@@ -1426,7 +1426,7 @@ Grass, Ledyba
 Water, Spheal
 Water, Starmie
 Fire, Cyndaquil
-Darkness, Zoroark
+Psychic, Zoroark
 Fire, Flareon
 Lightning, Jolteon
 Colorless, Whismur
@@ -1439,17 +1439,17 @@ Colorless, Raticate
 Fire, Charmeleon
 Psychic, Mewtwo-EX
 Fighting, Onix
-Fairy, Clefairy
+Colorless, Clefairy
 Colorless, M Pidgeot-EX
 Lightning, Dark Raichu
 Fighting, Hitmonlee
 Water, Wartortle
 Water, Dark Vaporeon
-Dragon, Flygon
+Water, Flygon
 Grass, Tangela
 Psychic, Gastly
 Water, Jynx
-Fairy, Wigglytuff
+Colorless, Wigglytuff
 Psychic, Gengar
 Psychic, Mewtwo-EX
 Water, Regice ex
@@ -1459,7 +1459,7 @@ Fighting, Hitmonlee
 Colorless, Pidgeot-EX
 Fire, Charmander
 Lightning, Jolteon
-Metal, Mawile
+Fighting, Mawile
 Grass, Chikorita
 Colorless, M Pidgeot-EX
 Colorless, Stoutland
@@ -1481,7 +1481,7 @@ Grass, Butterfree
 Grass, Muk
 Fighting, Cubone
 Fire, Charizard
-Metal, Bronzong G
+Fighting, Bronzong G
 Psychic, Swoobat
 Psychic, Venipede
 Colorless, Clefable
@@ -1492,7 +1492,7 @@ Fire, Arcanine
 Lightning, Zekrom-EX
 Water, Golduck
 Grass, Petilil
-Fairy, Marill
+Colorless, Marill
 Grass, Cacturne
 Fighting, Dugtrio
 Colorless, Kecleon
@@ -1507,7 +1507,7 @@ Psychic, Hypno
 Psychic, Zubat
 Psychic, Munna
 Lightning, Helioptile
-Darkness, Umbreon
+Psychic, Umbreon
 Fighting, Toxicroak
 Fire, Combusken
 Fire, Reshiram-EX
@@ -1515,7 +1515,7 @@ Fighting, Kabutops
 Fighting, Anorith
 Psychic, Gengar
 Grass, Grotle
-Dragon, Hydreigon BREAK
+Water, Hydreigon BREAK
 Water, Azumarill
 Grass, Foongus
 Lightning, Blitzle
@@ -1533,7 +1533,7 @@ Colorless, Lopunny
 Lightning, Eelektrik
 Grass, Nidoqueen
 Water, Kabuto
-Darkness, Murkrow
+Psychic, Murkrow
 Colorless, Bunnelby
 Grass, Volbeat
 Psychic, M Alakazam-EX
@@ -1542,19 +1542,19 @@ Psychic, Mew
 Fighting, Diglett
 Psychic, Wynaut
 Lightning, Raichu
-Darkness, Spiritomb
+Psychic, Spiritomb
 Grass, Lombre
 Psychic, Xatu
 Fire, Cyndaquil
-Metal, Dark Steelix
+Fighting, Dark Steelix
 Fire, Charmeleon
 Grass, Grovyle
-Metal, Lucario
+Fighting, Lucario
 Colorless, Dunsparce
 Grass, Grovyle
 Grass, Dark Ariados
 Psychic, Gulpin
-Darkness, Mightyena
+Psychic, Mightyena
 Psychic, Haunter
 Fire, Monferno
 Water, Beartic
@@ -1571,8 +1571,8 @@ Water, Magikarp
 Fighting, Larvitar
 Lightning, Magnemite
 Colorless, Zangoose
-Metal, Wormadam Trash Cloak
-Metal, Bronzor
+Fighting, Wormadam Trash Cloak
+Fighting, Bronzor
 Fighting, Sandshrew
 Grass, Spinarak
 Water, Remoraid
@@ -1597,7 +1597,7 @@ Fighting, Machop
 Colorless, Aerodactyl ex
 Fire, Growlithe
 Fire, Flareon Star
-Metal, Aggron ex
+Fighting, Aggron ex
 Fire, Ninetales
 Grass, Swadloon
 Lightning, Lanturn
@@ -1635,27 +1635,27 @@ Lightning, Tynamo
 Fire, Charizard
 Lightning, Stunfisk
 Psychic, Victini
-Darkness, Bisharp
+Psychic, Bisharp
 Fire, Entei
 Grass, Ivysaur
 Lightning, Pichu
 Psychic, Elgyem
 Fighting, Gurdurr
-Darkness, Honchkrow G
-Darkness, Pawniard
+Psychic, Honchkrow G
+Psychic, Pawniard
 Colorless, Pidgeot
 Fighting, Kabuto
 Fighting, Flygon
 Colorless, Bagon
 Psychic, Mew
 Grass, Kakuna
-Darkness, Hydreigon
+Psychic, Hydreigon
 Water, Psyduck
 Fire, Ponyta
-Metal, Bisharp
+Fighting, Bisharp
 Fire, Emboar
 Colorless, Salamence
-Darkness, Arceus
+Psychic, Arceus
 Water, Remoraid
 Fighting, Riolu
 Lightning, Chinchou
@@ -1672,14 +1672,14 @@ Colorless, Regigigas
 Fire, Rapidash
 Grass, Yanma
 Grass, Nidorino
-Metal, Skarmory
+Fighting, Skarmory
 Colorless, Furret
-Fairy, M Altaria-EX
+Colorless, M Altaria-EX
 Fire, Talonflame
 Grass, Swadloon
 Fighting, Primeape
 Colorless, Noctowl
-Fairy, Cottonee
+Colorless, Cottonee
 Colorless, Skitty
 Water, Shellder
 Water, Totodile
@@ -1707,7 +1707,7 @@ Grass, Mothim
 Fighting, Mankey
 Colorless, Pidgeot
 Psychic, Nidoking
-Darkness, Tyranitar
+Psychic, Tyranitar
 Grass, Nidoran♀
 Water, Qwilfish
 Water, Remoraid
@@ -1754,7 +1754,7 @@ Lightning, Jolteon
 Grass, Scyther
 Grass, Leavanny
 Psychic, Kadabra
-Dragon, Goomy
+Water, Goomy
 Grass, Roserade
 Grass, Yanma
 Water, Buizel
@@ -1764,12 +1764,12 @@ Fighting, Donphan
 Fire, Vulpix
 Colorless, Igglybuff
 Lightning, Raichu
-Metal, Dialga G
+Fighting, Dialga G
 Grass, Ivysaur
 Fighting, Machoke
 Fighting, Makuhita
 Water, Luvdisc
-Darkness, Drapion
+Psychic, Drapion
 Colorless, Kecleon
 Grass, Victreebel
 Fire, Victini
@@ -1813,7 +1813,7 @@ Water, Piplup
 Water, Seismitoad
 Grass, Scatterbug
 Fighting, Golem
-Dragon, Druddigon
+Water, Druddigon
 Water, Kingler
 Water, Kyurem
 Grass, Ekans
@@ -1839,10 +1839,10 @@ Lightning, Plusle
 Water, Cloyster
 Fire, Arcanine
 Colorless, Erika's Clefairy
-Darkness, Tyranitar
+Psychic, Tyranitar
 Water, Starmie
 Lightning, Shinx
-Darkness, Darkrai G
+Psychic, Darkrai G
 Water, Frogadier
 Lightning, Thundurus
 Grass, Venusaur
@@ -1881,7 +1881,7 @@ Psychic, Meloetta
 Grass, Skiploom
 Fighting, Dugtrio
 Fighting, Rhyhorn
-Metal, Jirachi
+Fighting, Jirachi
 Fighting, Gallade
 Fighting, Excadrill-EX
 Psychic, Smoochum
@@ -1893,62 +1893,62 @@ Psychic, Unown K
 Fighting, Gurdurr
 Grass, Skorupi
 Fighting, Conkeldurr
-Darkness, Sableye
-Darkness, Shiftry
+Psychic, Sableye
+Psychic, Shiftry
 Grass, Nidorina
 Fighting, Landorus
 Colorless, Lt. Surge's Spearow
 Psychic, Unown X
 Water, Glalie
 Grass, Bellsprout
-Darkness, Inkay
+Psychic, Inkay
 Fighting, Meloetta
 Grass, Oddish
 Lightning, Flaaffy
 Water, Wartortle
-Darkness, Darkrai-EX
-Darkness, Zorua
-Darkness, Malamar
-Metal, Aggron
+Psychic, Darkrai-EX
+Psychic, Zorua
+Psychic, Malamar
+Fighting, Aggron
 Fighting, Graveler
 Psychic, Haunter
 Grass, Burmy Plant Cloak
-Metal, Skarmory-EX
+Fighting, Skarmory-EX
 Water, Gyarados
-Darkness, Zoroark
+Psychic, Zoroark
 Water, Ducklett
 Water, Corsola
-Dragon, Altaria
+Water, Altaria
 Fire, Jynx δ
 Psychic, Sabrina's Slowpoke
-Dragon, Gible
-Metal, Pawniard
+Water, Gible
+Fighting, Pawniard
 Colorless, Lickitung
-Dragon, Gabite
+Water, Gabite
 Grass, Sabrina's Venonat
 Psychic, Munna
-Darkness, Cradily δ
-Darkness, Murkrow
-Dragon, Garchomp
-Dragon, Deino
+Psychic, Cradily δ
+Psychic, Murkrow
+Water, Garchomp
+Water, Deino
 Psychic, Natu
 Water, Togepi δ
 Psychic, Vibrava δ
-Dragon, Zweilous
+Water, Zweilous
 Water, Bagon δ
 Lightning, Ampharos
-Dragon, White Kyurem-EX
-Metal, Aegislash
+Water, White Kyurem-EX
+Fighting, Aegislash
 Grass, Beedrill
 Colorless, Mareep δ
-Darkness, Natu δ
+Psychic, Natu δ
 Fighting, Shellder δ
 Fighting, Archen
 Water, Psyduck
 Colorless, Swablu
 Grass, Ivysaur
 Colorless, Minccino
-Darkness, Houndoom
+Psychic, Houndoom
 Colorless, Cinccino
 Psychic, Ralts
 Colorless, Druddigon
@@ -1957,10 +1957,10 @@ Grass, Seviper
 Colorless, Zangoose
 Fire, Combusken
 Water, Shellder
-Darkness, Drapion 4
+Psychic, Drapion 4
 Water, Shellos East Sea
 Grass, Shuckle
-Fairy, Slurpuff
+Colorless, Slurpuff
 Fire, Flareon
 Colorless, Bouffalant
 Psychic, Gloom δ
@@ -1982,8 +1982,8 @@ Colorless, Furfrou
 Water, Piplup
 Grass, Heracross 4
 Grass, Bulbasaur
-Dragon, Palkia-EX
-Darkness, Houndour
+Water, Palkia-EX
+Psychic, Houndour
 Colorless, Doduo
 Grass, Sunkern
 Fighting, Stunfisk
@@ -1991,15 +1991,15 @@ Water, Blastoise-EX
 Water, Poliwag
 Psychic, Kirlia
 Fighting, Hippowdon
-Metal, Lairon
+Fighting, Lairon
 Psychic, Espeon
 Colorless, Teddiursa
 Grass, Caterpie
 Fighting, Trapinch
-Metal, Skarmory-EX
+Fighting, Skarmory-EX
 Colorless, Ursaring
 Grass, Chikorita
-Metal, Aron
+Fighting, Aron
 Colorless, Audino
 Fighting, Makuhita
 Fire, Numel
@@ -2039,7 +2039,7 @@ Water, Kingdra
 Colorless, Blaine's Doduo
 Water, Mamoswine
 Fire, Ninetales
-Metal, Metagross
+Fighting, Metagross
 Colorless, Teddiursa
 Water, Alomomola
 Colorless, Doduo
@@ -2062,7 +2062,7 @@ Fighting, Geodude
 Psychic, Spiritomb
 Grass, Koga's Weedle
 Water, Krabby
-Darkness, Sneasel
+Psychic, Sneasel
 Fighting, Armaldo
 Psychic, Espeon
 Water, Alomomola
@@ -2071,27 +2071,27 @@ Colorless, Fearow
 Fighting, Larvitar
 Water, Magikarp
 Psychic, Sabrina's Abra
-Darkness, Nuzleaf
+Psychic, Nuzleaf
 Colorless, Delcatty
 Water, Arceus
 Lightning, Arceus
 Psychic, Arceus
-Darkness, Umbreon
+Psychic, Umbreon
 Grass, Nidoran♂
 Grass, Butterfree
-Metal, Forretress
+Fighting, Forretress
 Fighting, Primeape
 Lightning, Lanturn
 Lightning, Joltik
 Fighting, Makuhita
-Metal, Arceus
+Fighting, Arceus
 Colorless, Eevee
 Colorless, Pidgey
 Fire, Flareon
 Grass, Gloom
 Fighting, Sandshrew
 Fighting, Gligar
-Metal, Jirachi
+Fighting, Jirachi
 Colorless, Rayquaza
 Grass, Pinsir
 Psychic, Girafarig
@@ -2099,28 +2099,28 @@ Grass, Spinarak
 Psychic, Woobat
 Water, Kyogre
 Colorless, Lopunny
-Darkness, Krokorok
+Psychic, Krokorok
 Grass, Sceptile
 Grass, Combee
 Lightning, Flaaffy
 Psychic, Wobbuffet
 Water, Regice
-Metal, Registeel
-Darkness, Houndour
+Fighting, Registeel
+Psychic, Houndour
 Fighting, Gligar
 Psychic, Whirlipede
 Fighting, Makuhita
 Water, Sealeo
-Darkness, Pawniard
+Psychic, Pawniard
 Grass, Pineco
 Colorless, Rattata
 Psychic, Scolipede
 Colorless, Rattata
-Darkness, Deino
-Metal, Ferroseed
+Psychic, Deino
+Fighting, Ferroseed
 Grass, Muk
 Water, Spheal
-Dragon, Dratini
+Water, Dratini
 Lightning, Minun
 Psychic, Ekans
 Fighting, Gurdurr
@@ -2137,9 +2137,9 @@ Fighting, Nidoking
 Fighting, Krookodile
 Grass, Caterpie
 Fighting, Larvitar
-Dragon, Kingdra
+Water, Kingdra
 Lightning, Ampharos
-Dragon, Latios-EX
+Water, Latios-EX
 Grass, Metapod
 Lightning, Raichu GL
 Water, Marill
@@ -2161,7 +2161,7 @@ Grass, Yanmega 4
 Fire, Fletchinder
 Fighting, Golem 4
 Psychic, Uxie
-Darkness, Weavile
+Psychic, Weavile
 Water, Glaceon
 Grass, Caterpie
 Grass, Venonat
@@ -2174,7 +2174,7 @@ Grass, Gloom
 Water, Poliwhirl
 Grass, Vileplume
 Colorless, Castform
-Dragon, Black Kyurem-EX
+Water, Black Kyurem-EX
 Fighting, Machamp GL
 Water, Castform Rain Form
 Grass, Nincada
@@ -2182,10 +2182,10 @@ Colorless, Aipom
 Psychic, Lugia
 Grass, Bellossom
 Grass, Bellossom
-Metal, Steelix GL
+Fighting, Steelix GL
 Water, Wingull
 Grass, Tangela
-Fairy, Togepi
+Colorless, Togepi
 Water, Croconaw
 Grass, Shuckle
 Water, Mudkip
@@ -2194,18 +2194,18 @@ Lightning, Electrike
 Psychic, Banette
 Grass, Scyther
 Grass, Mothim
-Darkness, Scraggy
+Psychic, Scraggy
 Psychic, Exeggutor
 Fighting, Gligar
 Grass, Tropius
-Darkness, Inkay
+Psychic, Inkay
 Fire, Vulpix
 Fire, Houndoom
 Grass, Tangrowth
 Grass, Scyther
 Fighting, Stunfisk
-Fairy, Klefki
-Dragon, Goomy
+Colorless, Klefki
+Water, Goomy
 Colorless, Vibrava
 Fighting, Whiscash 4
 Lightning, Luxio
@@ -2214,7 +2214,7 @@ Grass, Servine
 Grass, Whimsicott
 Fire, Charmander
 Fighting, Marowak
-Dragon, Zekrom
+Water, Zekrom
 Colorless, Spearow
 Colorless, Meowth
 Colorless, Altaria
@@ -2222,17 +2222,17 @@ Water, Totodile
 Colorless, M Rayquaza-EX
 Psychic, Slowpoke
 Fire, Camerupt
-Darkness, Carvanha
+Psychic, Carvanha
 Fire, Pignite
 Colorless, Blissey ex
 Fire, Darumaka
-Metal, Metang
+Fighting, Metang
 Colorless, Eevee
-Dragon, M Latios-EX
+Water, M Latios-EX
 Fire, Entei Star
 Fire, Darmanitan
 Fire, Charizard-EX
-Metal, Forretress G
+Fighting, Forretress G
 Grass, Butterfree
 Colorless, Snubbull
 Water, Psyduck
@@ -2242,7 +2242,7 @@ Grass, Spinarak
 Water, Delibird
 Grass, Oddish
 Water, Dewott
-Darkness, Mightyena
+Psychic, Mightyena
 Water, Light Azumarill
 Fighting, Gliscor 4
 Psychic, Unown
@@ -2259,7 +2259,7 @@ Grass, Sunkern
 Fighting, Wooper
 Colorless, Porygon
 Grass, Serperior
-Darkness, Houndoom 4
+Psychic, Houndoom 4
 Fire, Delphox
 Water, Dewgong
 Psychic, Duosion
@@ -2268,7 +2268,7 @@ Fighting, Machoke
 Lightning, Electrode
 Fighting, Machamp
 Fighting, Machamp
-Metal, Aron
+Fighting, Aron
 Grass, Kakuna
 Colorless, Persian
 Water, Omastar
@@ -2309,7 +2309,7 @@ Psychic, Cresselia-EX
 Grass, Jumpluff
 Psychic, Woobat
 Colorless, Axew
-Metal, Beldum
+Fighting, Beldum
 Psychic, Musharna
 Psychic, Grumpig
 Grass, Silcoon
@@ -2338,9 +2338,9 @@ Grass, Golbat
 Fighting, Hitmonlee
 Fighting, Dwebble
 Fighting, Gliscor
-Dragon, Fraxure
-Darkness, Meowth (Delta Species)
-Metal, Pikachu (Delta Species)
+Water, Fraxure
+Psychic, Meowth (Delta Species)
+Fighting, Pikachu (Delta Species)
 Fighting, Hitmontop
 Fire, Slugma
 Psychic, Unown
@@ -2349,36 +2349,36 @@ Psychic, Slowbro
 Lightning, Manectric
 Fire, Slugma
 Psychic, Nidoran♀
-Darkness, Houndour
+Psychic, Houndour
 Fighting, Mienshao
 Fighting, Geodude
 Grass, Venomoth
 Grass, Lileep
 Colorless, Dratini
 Fighting, Larvitar
-Darkness, Zoroark-GX
+Psychic, Zoroark-GX
 Fighting, Landorus-EX
 Psychic, Oddish
 Psychic, Nidoran♂
 Psychic, Starmie
-Darkness, Purrloin
+Psychic, Purrloin
 Psychic, Garbodor
 Grass, Zubat
-Darkness, Poochyena
+Psychic, Poochyena
 Fighting, Hitmonchan
-Darkness, Mandibuzz
+Psychic, Mandibuzz
 Fighting, Aerodactyl
-Metal, Scizor
+Fighting, Scizor
 Psychic, Nidorina
 Water, Poliwag
 Lightning, Shinx
-Dragon, Vibrava
-Darkness, Sneasel
+Water, Vibrava
+Psychic, Sneasel
 Psychic, Nidorino
-Dragon, White Kyurem
+Water, White Kyurem
 Fighting, Larvitar
 Water, Palpitoad
-Dragon, White Kyurem-EX
+Water, White Kyurem-EX
 Colorless, Rattata
 Fighting, Wormadam
 Fire, Combusken
@@ -2386,7 +2386,7 @@ Water, Staryu
 Colorless, Snorlax
 Psychic, Unown [T]
 Water, Swinub
-Darkness, Umbreon
+Psychic, Umbreon
 Grass, Venonat
 Colorless, Skitty
 Fire, Vulpix
@@ -2404,10 +2404,10 @@ Grass, Quilladin
 Colorless, Pidove
 Grass, Chesnaught
 Colorless, Lillipup
-Darkness, Nuzleaf
+Psychic, Nuzleaf
 Colorless, Porygon-Z
 Lightning, Pachirisu
-Darkness, Houndoom
+Psychic, Houndoom
 Water, Clawitzer
 Colorless, Herdier
 Water, Quagsire GL
@@ -2422,12 +2422,12 @@ Water, Frillish
 Colorless, Tranquill
 Colorless, Unfezant
 Colorless, Lopunny
-Fairy, Florges-EX
+Colorless, Florges-EX
 Grass, Seedot
-Dragon, Gible
+Water, Gible
 Fighting, Hawlucha
 Fire, Flareon
-Metal, Forretress
+Fighting, Forretress
 Fighting, Rhyperior
 Lightning, Zebstrika
 Grass, Grotle
@@ -2449,7 +2449,7 @@ Water, Froakie
 Psychic, Yamask
 Fighting, Zygarde
 Lightning, Pelipper (Delta Species)
-Metal, Zangoose (Delta Species)
+Fighting, Zangoose (Delta Species)
 Water, Keldeo-EX
 Colorless, Granbull
 Water, Articuno
@@ -2457,25 +2457,25 @@ Colorless, Snorlax
 Psychic, Cresselia-EX
 Fighting, Zygarde-EX
 Psychic, Cresselia
-Metal, Dialga
+Fighting, Dialga
 Fighting, Landorus-EX
 Fighting, Trapinch
 Fighting, Zygarde-EX
 Fighting, Kabutops
 Colorless, Eevee
-Dragon, White Kyurem-EX
+Water, White Kyurem-EX
 Grass, Leafeon
 Water, Squirtle
 Colorless, Tornadus
-Fairy, Sylveon-EX
+Colorless, Sylveon-EX
 Colorless, Linoone
 Fire, Quilava
-Darkness, Umbreon-EX
+Psychic, Umbreon-EX
 Grass, Turtwig
 Fighting, Terrakion
 Psychic, Trevenant
 Water, Golduck BREAK
-Dragon, Dragonite-EX
+Water, Dragonite-EX
 Water, Manaphy
 Psychic, Elgyem
 Water, Ludicolo
@@ -2497,23 +2497,23 @@ Fighting, Archeops
 Water, Cubchoo
 Water, Beartic
 Psychic, Unown G
-Darkness, Tyranitar
+Psychic, Tyranitar
 Colorless, Lickitung
 Lightning, Zapdos
 Lightning, Magneton
 Water, Slowking
-Fairy, Togekiss-EX
-Dragon, Dragalge
+Colorless, Togekiss-EX
+Water, Dragalge
 Grass, Tangela
 Water, Cloyster
-Darkness, Mandibuzz
+Psychic, Mandibuzz
 Lightning, Voltorb
 Lightning, Rotom
 Psychic, Espeon Star
 Psychic, Bronzong
 Colorless, Purugly
 Grass, Torterra
-Metal, Bronzor
+Fighting, Bronzor
 Lightning, Joltik
 Grass, Turtwig GL
 Water, Gyarados-EX
@@ -2529,7 +2529,7 @@ Fighting, Terrakion
 Lightning, Luxray
 Fire, Flareon
 Grass, Weedle
-Darkness, Deino
+Psychic, Deino
 Psychic, Drapion
 Psychic, Weezing
 Psychic, Ralts
@@ -2548,53 +2548,53 @@ Water, Marshtomp
 Psychic, Gallade
 Psychic, Garbodor
 Lightning, Raichu
-Metal, Bronzong BREAK
+Fighting, Bronzong BREAK
 Psychic, Garbodor
 Grass, Leafeon
 Psychic, Sigilyph
-Metal, Scizor
+Fighting, Scizor
 Lightning, Dedenne
 Psychic, Meowstic
-Fairy, Slurpuff
+Colorless, Slurpuff
 Colorless, Dodrio
 Grass, Caterpie
-Metal, Lucario
+Fighting, Lucario
 Fire, Moltres-EX
 Fighting, Phanpy
 Fighting, Timburr
-Metal, Steelix
-Metal, Genesect-EX
-Fairy, Jigglypuff
-Fairy, Wigglytuff
+Fighting, Steelix
+Fighting, Genesect-EX
+Colorless, Jigglypuff
+Colorless, Wigglytuff
 Colorless, Ambipom
 Psychic, Espurr
-Fairy, Diancie-EX
+Colorless, Diancie-EX
 Water, Corsola
 Grass, Virizion
-Darkness, Purrloin
+Psychic, Purrloin
 Fire, Blaziken
 Fighting, Diglett
 Psychic, Aegislash
 Grass, Grotle
 Fire, Lampent
 Psychic, Xatu
-Darkness, Darkrai-EX
-Metal, Ferroseed
-Metal, Ferrothorn
+Psychic, Darkrai-EX
+Fighting, Ferroseed
+Fighting, Ferrothorn
 Psychic, Xatu
 Fighting, Machoke
 Colorless, Buried Fossil
 Colorless, Lickilicky
-Fairy, Clefairy
+Colorless, Clefairy
 Colorless, Stantler
 Lightning, Flaaffy
 Fighting, Onix
 Colorless, Glameow
-Dragon, Kingdra-EX
-Darkness, Poochyena
+Water, Kingdra-EX
+Psychic, Poochyena
 Water, Gyarados-EX
 Water, Delibird
-Darkness, Darkrai-EX
+Psychic, Darkrai-EX
 Colorless, Aerodactyl
 Colorless, Lugia BREAK
 Colorless, Eevee
@@ -2602,7 +2602,7 @@ Colorless, Farfetch'd
 Lightning, Voltorb
 Colorless, Kangaskhan
 Fighting, Hitmonchan
-Metal, Scizor-EX
+Fighting, Scizor-EX
 Lightning, Manectric
 Fighting, Gligar
 Colorless, Hoothoot
@@ -2611,8 +2611,8 @@ Fire, Ho-Oh ex
 Grass, Scyther
 Fire, Monferno
 Grass, Tangrowth
-Darkness, Umbreon Star
-Metal, M Scizor-EX
+Psychic, Umbreon Star
+Fighting, M Scizor-EX
 Fighting, Claydol
 Grass, Mothim
 Grass, Ledian
@@ -2632,7 +2632,7 @@ Fire, Vulpix
 Colorless, Whismur
 Grass, Snivy
 Lightning, Tynamo
-Metal, Klink
+Fighting, Klink
 Grass, Servine
 Lightning, Magnemite
 Psychic, Natu
@@ -2660,7 +2660,7 @@ Colorless, Audino-EX
 Fire, Darumaka
 Psychic, Bronzor
 Grass, Vivillon
-Metal, Mawile
+Fighting, Mawile
 Grass, Skiddo
 Colorless, M Audino-EX
 Water, Seel
@@ -2676,7 +2676,7 @@ Water, Seaking
 Colorless, Eevee
 Water, Wooper
 Water, Vanillite
-Metal, Durant
+Fighting, Durant
 Water, Starmie
 Lightning, Pachirisu
 Lightning, Zekrom
@@ -2688,7 +2688,7 @@ Psychic, Muk
 Water, Glalie-EX
 Water, Snover
 Psychic, Mr. Mime
-Darkness, Scraggy
+Psychic, Scraggy
 Fighting, Cubone
 Fighting, Kabuto
 Water, Abomasnow
@@ -2703,13 +2703,13 @@ Colorless, Starly
 Fighting, Hawlucha
 Psychic, Cosmog
 Lightning, Magneton
-Metal, Mawile
+Fighting, Mawile
 Colorless, Cinccino
 Psychic, Spoink
 Lightning, Raikou
 Lightning, Luxray GL
 Psychic, Haunter
-Darkness, Stunky
+Psychic, Stunky
 Colorless, Cinccino
 Water, Staryu
 Water, Swinub
@@ -2735,37 +2735,37 @@ Fighting, Piloswine
 Lightning, Shinx
 Colorless, Snorlax
 Fighting, Pancham
-Fairy, Spritzee
+Colorless, Spritzee
 Grass, Yanma
 Lightning, Pikachu
 Psychic, Unown
-Darkness, Yveltal
+Psychic, Yveltal
 Psychic, Alolan Grimer
 Psychic, Alolan Muk
 Lightning, Flying Pikachu
-Fairy, Mr. Mime
-Fairy, Floette
-Metal, Steelix
+Colorless, Mr. Mime
+Colorless, Floette
+Fighting, Steelix
 Psychic, Nidorina
-Fairy, Xerneas
-Dragon, Axew
+Colorless, Xerneas
+Water, Axew
 Lightning, Fan Rotom
 Psychic, Trubbish
-Dragon, Fraxure
+Water, Fraxure
 Colorless, Purugly
 Water, Froakie
-Dragon, Haxorus
+Water, Haxorus
 Water, Shellder
 Psychic, Tentacool
 Psychic, Alakazam-EX
-Dragon, Noivern
+Water, Noivern
 Colorless, Doduo
 Fighting, Rhyperior
 Psychic, M Alakazam-EX
 Psychic, Unown F
-Darkness, Weavile
+Psychic, Weavile
 Colorless, Garchomp
-Darkness, Umbreon-EX
+Psychic, Umbreon-EX
 Water, Staryu
 Fighting, Lycanroc-GX
 Colorless, Zangoose
@@ -2781,7 +2781,7 @@ Grass, Caterpie
 Fighting, Hippowdon
 Fire, Growlithe
 Colorless, Noibat
-Metal, Aggron
+Fighting, Aggron
 Grass, Petilil
 Colorless, Hoothoot
 Colorless, Noctowl
@@ -2798,10 +2798,10 @@ Colorless, Aipom
 Colorless, Ambipom
 Lightning, Electabuzz
 Lightning, Electivire
-Metal, Genesect-EX
-Fairy, M Altaria-EX
+Fighting, Genesect-EX
+Colorless, M Altaria-EX
 Psychic, Hypno
-Dragon, Kingdra-EX
+Water, Kingdra-EX
 Psychic, Weezing
 Psychic, Azelf
 Psychic, Skorupi
@@ -2815,12 +2815,12 @@ Fighting, Sudowoodo
 Fighting, Gible
 Fighting, Garchomp
 Colorless, Altaria-EX
-Darkness, Pangoro
-Metal, Mawile
+Psychic, Pangoro
+Fighting, Mawile
 Fighting, Regirock-EX
-Metal, M Scizor-EX
+Fighting, M Scizor-EX
 Fighting, Riolu
-Metal, Bronzong
+Fighting, Bronzong
 Colorless, Blissey
 Grass, Yanmega BREAK
 Colorless, Doduo
@@ -2841,7 +2841,7 @@ Grass, Pansage
 Colorless, Pikipek
 Colorless, Trumbeak
 Fighting, Lunatone
-Darkness, Honchkrow
+Psychic, Honchkrow
 Fire, Pansear
 Fire, Fennekin
 Psychic, Alakazam-EX
@@ -2854,7 +2854,7 @@ Water, Lumineon
 Fighting, Mankey
 Lightning, Electrode
 Psychic, Ekans
-Fairy, Jigglypuff
+Colorless, Jigglypuff
 Psychic, Venipede
 Colorless, Patrat
 Grass, Foongus
@@ -2863,19 +2863,19 @@ Grass, Chesnaught BREAK
 Fire, Magmortar
 Fighting, Solrock
 Fighting, Timburr
-Fairy, Jigglypuff
+Colorless, Jigglypuff
 Colorless, Latios
 Fire, Slugma
-Darkness, Zorua
+Psychic, Zorua
 Grass, Meganium
 Colorless, Pidgeot
 Colorless, Snorlax
 Colorless, Watchog
-Metal, Doublade
+Fighting, Doublade
 Fire, Volcarona
 Lightning, Raichu
-Fairy, Spritzee
-Fairy, Swirlix
+Colorless, Spritzee
+Colorless, Swirlix
 Fighting, Sandshrew
 Colorless, Whismur
 Colorless, Skitty
@@ -2884,11 +2884,11 @@ Colorless, Bidoof
 Colorless, Lillipup
 Fire, Typhlosion
 Fire, Chimchar
-Metal, Bronzong
+Fighting, Bronzong
 Fire, Monferno
-Darkness, Tyranitar
+Psychic, Tyranitar
 Grass, Abomasnow
-Fairy, Azumarill
+Colorless, Azumarill
 Colorless, Whismur
 Grass, Ariados
 Fire, Volcanion-EX
@@ -2899,7 +2899,7 @@ Colorless, Lugia-EX
 Grass, Mothim
 Colorless, Zigzagoon
 Water, Mantine
-Metal, Bastiodon
+Fighting, Bastiodon
 Water, Shellos
 Colorless, Lopunny
 Psychic, Chimecho
@@ -2918,7 +2918,7 @@ Lightning, Voltorb
 Water, Corsola
 Water, Bergmite
 Water, Rayquaza δ
-Metal, Mawile
+Fighting, Mawile
 Water, Gyarados
 Fighting, Riolu
 Colorless, Slaking
@@ -2926,7 +2926,7 @@ Grass, Masquerain
 Water, Avalugg
 Lightning, Manectric
 Lightning, Mareep
-Darkness, Weavile G
+Psychic, Weavile G
 Lightning, Mow Rotom
 Colorless, Persian
 Water, Mantine
@@ -2937,7 +2937,7 @@ Lightning, Galvantula
 Fire, Rocket's Moltres
 Fighting, Gliscor
 Psychic, Mr. Mime
-Fairy, Mr. Mime
+Colorless, Mr. Mime
 Water, Lotad
 Psychic, Nidoqueen
 Psychic, Nidoran♂
@@ -2956,11 +2956,11 @@ Water, Misty's Goldeen
 Psychic, Sabrina's Mr. Mime
 Colorless, Rufflet
 Psychic, Hoopa
-Dragon, Kingdra
+Water, Kingdra
 Psychic, Unown I
 Psychic, Arbok
-Dragon, Noivern BREAK
-Darkness, Darkrai
+Water, Noivern BREAK
+Psychic, Darkrai
 Colorless, Ursaring
 Fighting, Mankey
 Water, Whiscash
@@ -2973,43 +2973,43 @@ Fighting, Armaldo
 Fighting, Toxicroak
 Psychic, Lampent
 Fighting, Landorus
-Darkness, Sneasel
+Psychic, Sneasel
 Fighting, Mankey
-Darkness, Spiritomb
+Psychic, Spiritomb
 Psychic, Drifloon
 Water, Piplup
-Darkness, Bisharp
-Metal, Pawniard
-Darkness, Yveltal
-Metal, Durant
+Psychic, Bisharp
+Fighting, Pawniard
+Psychic, Yveltal
+Fighting, Durant
 Colorless, Rayquaza C
 Colorless, Druddigon
 Water, Mudkip
 Psychic, Kirlia
-Darkness, Sableye
+Psychic, Sableye
 Water, Staryu
-Metal, Steelix-EX
+Fighting, Steelix-EX
 Colorless, Exploud
-Metal, Shieldon
+Fighting, Shieldon
 Water, Finneon
 Psychic, Chingling
 Water, Omastar
-Metal, Bastiodon
+Fighting, Bastiodon
 Psychic, Muk
 Psychic, Dusknoir
 Water, Croconaw
 Water, Ducklett
-Metal, Klinklang
+Fighting, Klinklang
 Fire, Numel
 Water, Misty's Staryu
 Water, Sabrina's Psyduck
 Water, Dewgong
 Grass, Shiftry
 Colorless, Dratini
-Metal, Magearna-EX
+Fighting, Magearna-EX
 Psychic, Espurr
 Psychic, Venipede
-Fairy, Gardevoir-EX
+Colorless, Gardevoir-EX
 Psychic, Gothitelle
 Grass, Silcoon
 Fighting, Boldore
@@ -3017,41 +3017,41 @@ Lightning, Team Aqua's Electrike
 Psychic, Grumpig
 Grass, Bellsprout
 Psychic, Claydol
-Fairy, Klefki
+Colorless, Klefki
 Fighting, Lucario
-Metal, Ferrothorn
+Fighting, Ferrothorn
 Colorless, Dodrio
 Water, Glaceon-EX
 Psychic, Shining Jirachi
 Water, Seadra
 Psychic, Unown R
 Colorless, Gabite
-Darkness, Purrloin
-Darkness, Crawdaunt G
+Psychic, Purrloin
+Psychic, Crawdaunt G
 Colorless, Watchog
 Psychic, Unown ?
-Fairy, Xerneas BREAK
+Colorless, Xerneas BREAK
 Colorless, Purugly G
 Colorless, Minccino
-Dragon, Druddigon
-Metal, Beldum
-Darkness, Liepard
+Water, Druddigon
+Fighting, Beldum
+Psychic, Liepard
 Colorless, Happiny
 Water, Politoed
 Water, Frillish
 Lightning, Zebstrika
-Dragon, Zweilous
+Water, Zweilous
 Psychic, Exeggcute
 Psychic, Gulpin
 Fighting, Hitmonchan
-Metal, Lairon
+Fighting, Lairon
 Fire, Magmar
 Psychic, Kirlia
 Colorless, Swablu
 Colorless, Bunnelby
 Colorless, Meowth
 Fighting, Nosepass
-Dragon, Hydreigon
+Water, Hydreigon
 Water, Poliwhirl
 Colorless, Meowth
 Colorless, Rufflet
@@ -3068,25 +3068,25 @@ Colorless, Hawlucha
 Psychic, Nidorina
 Water, Qwilfish
 Water, Remoraid
-Dragon, Axew
+Water, Axew
 Fighting, Crabrawler
 Grass, Bulbasaur
-Metal, Metagross
+Fighting, Metagross
 Fire, Volcanion-EX
 Water, Luvdisc
 Water, Octillery
-Metal, Steelix-EX
+Fighting, Steelix-EX
 Water, Bergmite
 Psychic, Gastly
 Fire, Turtonator
-Metal, M Steelix-EX
+Fighting, M Steelix-EX
 Psychic, Mr. Mime
 Fighting, Diglett
 Water, Alolan Sandslash
 Grass, Parasect
 Water, Swampert
 Fighting, Torkoal
-Fairy, M Gardevoir-EX
+Colorless, M Gardevoir-EX
 Colorless, Igglybuff
 Grass, Pineco
 Lightning, Pikachu
@@ -3095,12 +3095,12 @@ Fire, Volcanion-EX
 Colorless, Jigglypuff
 Water, Omastar
 Water, Omanyte
-Fairy, Gardevoir-EX
+Colorless, Gardevoir-EX
 Colorless, Bagon
 Fighting, Rhydon
 Colorless, Spearow
 Psychic, Dusknoir
-Metal, Skarmory
+Fighting, Skarmory
 Fighting, Trapinch
 Water, Krabby
 Water, Wailmer
@@ -3108,45 +3108,45 @@ Colorless, Altaria C
 Water, Magikarp
 Fighting, Pupitar
 Fighting, Sandslash
-Darkness, Stunky
+Psychic, Stunky
 Colorless, Pidgey
 Water, Sealeo
 Water, Staryu
-Darkness, Scraggy
+Psychic, Scraggy
 Grass, Nidoran♂
 Grass, Shiinotic
 Grass, Tropius
 Fire, Litwick
 Fighting, Nosepass
-Darkness, Vullaby
+Psychic, Vullaby
 Fire, Reshiram
 Colorless, Spearow
 Water, Piloswine
-Metal, Empoleon
+Fighting, Empoleon
 Lightning, Magnezone
 Colorless, Ditto
 Psychic, Unown E
 Colorless, Aipom
 Water, Barboach
 Psychic, Koffing
-Metal, Bronzor
+Fighting, Bronzor
 Fighting, Lunatone
 Fire, Blaziken-GX
 Psychic, Mismagius
 Fighting, Riolu
 Lightning, Raichu
 Fire, Entei
-Darkness, Purrloin
+Psychic, Purrloin
 Grass, Sceptile
 Psychic, Bronzong
-Darkness, Drapion
+Psychic, Drapion
 Fighting, Regirock
 Psychic, Mewtwo
-Metal, Klinklang
+Fighting, Klinklang
 Fighting, Phanpy
 Psychic, Dusknoir
 Water, Gyarados
-Metal, Durant
+Fighting, Durant
 Fighting, Cranidos
 Psychic, Gothita
 Psychic, Crobat G
@@ -3158,7 +3158,7 @@ Grass, Shedinja
 Colorless, Loudred
 Psychic, Celebi ex
 Colorless, Staraptor
-Metal, Steelix
+Fighting, Steelix
 Water, Empoleon
 Water, Articuno-EX
 Grass, Crobat
@@ -3205,8 +3205,8 @@ Grass, Ivysaur
 Water, Wailmer
 Water, Feebas
 Grass, Vileplume
-Darkness, Sableye
-Darkness, Murkrow
+Psychic, Sableye
+Psychic, Murkrow
 Water, Walrein
 Lightning, Pichu Bros.
 Water, Buizel
@@ -3221,7 +3221,7 @@ Colorless, Staravia
 Psychic, Gothita
 Psychic, Deoxys ex
 Psychic, Golett
-Dragon, Garchomp
+Water, Garchomp
 Colorless, Dragonair
 Colorless, Bidoof
 Colorless, Teddiursa
@@ -3230,17 +3230,17 @@ Grass, Cherubi
 Psychic, Drifloon
 Water, Totodile
 Lightning, Pikachu
-Darkness, Houndour
-Metal, Aron
+Psychic, Houndour
+Fighting, Aron
 Colorless, Vigoroth
 Psychic, Duskull
 Colorless, Buneary
 Psychic, Drowzee
-Dragon, Gible
+Water, Gible
 Psychic, Duskull
 Water, Finneon
 Psychic, Drifblim
-Dragon, Hydreigon
+Water, Hydreigon
 Colorless, Aipom
 Colorless, Jigglypuff
 Fighting, Larvitar
@@ -3268,7 +3268,7 @@ Grass, Cacturne
 Psychic, Dusknoir
 Psychic, Banette
 Fire, Houndour
-Metal, Mawile
+Fighting, Mawile
 Grass, Burmy Plant Cloak
 Fire, M Charizard-EX
 Grass, Ninjask
@@ -3282,12 +3282,12 @@ Psychic, Espeon
 Water, Vaporeon-EX
 Fighting, Machamp
 Psychic, Dark Espeon
-Darkness, Darkrai
+Psychic, Darkrai
 Lightning, Raichu
 Lightning, Pikachu
 Grass, Dark Crobat
 Grass, Exeggcute
-Metal, Registeel
+Fighting, Registeel
 Colorless, Aerodactyl
 Grass, Cherrim
 Fire, Charmeleon
@@ -3297,9 +3297,9 @@ Psychic, Wobbuffet
 Psychic, Duskull
 Colorless, Oranguru
 Lightning, Zapdos
-Metal, Metang
+Fighting, Metang
 Colorless, Rattata
-Metal, Scizor
+Fighting, Scizor
 Grass, Sceptile
 Grass, Beautifly
 Colorless, Fearow
@@ -3317,7 +3317,7 @@ Colorless, Porygon-Z
 Fire, Dark Houndoom
 Psychic, Croagunk
 Colorless, Dark Porygon2
-Fairy, Clefable
+Colorless, Clefable
 Psychic, Swalot
 Fighting, Dark Tyranitar
 Psychic, Latias
@@ -3341,7 +3341,7 @@ Psychic, Meowstic
 Grass, Weedle
 Water, Wailmer
 Colorless, Watchog
-Dragon, Salamence
+Water, Salamence
 Grass, Metapod
 Colorless, Light Dragonite
 Lightning, Pachirisu
@@ -3421,7 +3421,7 @@ Lightning, Larvitar δ
 Lightning, Dark Flaaffy
 Fire, Rapidash
 Fighting, Sudowoodo
-Metal, Mawile
+Fighting, Mawile
 Water, Swinub
 Water, Swablu δ
 Fighting, Mankey
@@ -3429,7 +3429,7 @@ Colorless, Sentret
 Water, Feebas
 Psychic, Dark Haunter
 Grass, Serperior
-Metal, Bronzor
+Fighting, Bronzor
 Grass, Genesect
 Fire, Charmander
 Grass, Rowlet
@@ -3463,16 +3463,16 @@ Fighting, Gligar
 Fighting, Armaldo ex
 Colorless, Pidgeot
 Water, Sealeo
-Darkness, Spiritomb
+Psychic, Spiritomb
 Grass, Ivysaur
 Fire, Dark Quilava
 Colorless, Dark Wigglytuff
 Colorless, Vibrava
 Fire, Heatmor
-Metal, Cobalion
+Fighting, Cobalion
 Grass, Gloom
-Darkness, Sableye
-Darkness, Houndour
+Psychic, Sableye
+Psychic, Houndour
 Grass, Light Venomoth
 Colorless, Bagon
 Water, Empoleon
@@ -3495,30 +3495,30 @@ Lightning, Magnezone-EX
 Grass, Scyther
 Colorless, Togepi
 Psychic, Toxicroak-EX
-Darkness, Zorua
-Darkness, Scraggy
+Psychic, Zorua
+Psychic, Scraggy
 Water, Empoleon
 Fighting, Rockruff
-Metal, Klink
-Metal, Bisharp
+Fighting, Klink
+Fighting, Bisharp
 Grass, Skiploom
 Fighting, Machamp
 Fighting, Golem
-Darkness, Sneasel
+Psychic, Sneasel
 Colorless, Lillipup
 Colorless, Haxorus
-Darkness, Sneasel
+Psychic, Sneasel
 Grass, M Venusaur-EX
-Darkness, Stunky
+Psychic, Stunky
 Psychic, Claydol ex
 Colorless, Whismur
-Fairy, Alolan Ninetales
-Dragon, Hydreigon
+Colorless, Alolan Ninetales
+Water, Hydreigon
 Psychic, Unown [C]
 Water, Piplup
 Psychic, Elgyem
 Grass, Ledyba
-Darkness, Skuntank
+Psychic, Skuntank
 Psychic, Drifloon
 Water, Seel
 Fighting, Team Magma's Rhydon
@@ -3526,13 +3526,13 @@ Water, Dark Octillery
 Colorless, Flygon ex
 Psychic, Exeggcute
 Grass, ナッシー[Exeggutor]
-Darkness, Sandile
-Darkness, Zorua
-Fairy, Florges BREAK
-Darkness, Krokorok
+Psychic, Sandile
+Psychic, Zorua
+Colorless, Florges BREAK
+Psychic, Krokorok
 Colorless, Girafarig
 Fighting, Rampardos
-Fairy, Flabébé
+Colorless, Flabébé
 Grass, Light Sunflora
 Fire, Reshiram
 Grass, Team Aqua's Seviper
@@ -3540,12 +3540,12 @@ Psychic, Gastly
 Fire, Growlithe
 Water, Mantine
 Water, Magikarp
-Fairy, Floette
+Colorless, Floette
 Psychic, Mewtwo-EX
 Grass, Pineco
 Colorless, Porygon
 Fighting, Hariyama
-Fairy, Floette
+Colorless, Floette
 Water, Psyduck
 Lightning, Manectric
 Water, Goldeen
@@ -3562,14 +3562,14 @@ Psychic, Unown [S]
 Water, Kyurem-EX
 Water, Team Aqua's Corphish
 Grass, Scyther
-Metal, Metagross
+Fighting, Metagross
 Psychic, Unown [V]
 Lightning, Team Aqua's Lanturn
 Fighting, Team Magma's Lairon
 Grass, Shaymin
-Fairy, Carbink
+Colorless, Carbink
 Lightning, Pikachu
-Metal, Aron
+Fighting, Aron
 Colorless, Regigigas FB
 Water, Psyduck
 Grass, Shining Celebi
@@ -3578,21 +3578,21 @@ Psychic, Kirlia
 Colorless, Linoone
 Colorless, Tornadus
 Psychic, Natu
-Dragon, M Charizard-EX
+Water, M Charizard-EX
 Grass, Venonat
-Dragon, Dragalge
+Water, Dragalge
 Grass, Swadloon
 Fire, Magcargo
 Water, Team Aqua's Carvanha
 Psychic, Gallade-EX
 Colorless, Swellow
 Grass, Gloom
-Dragon, Altaria
+Water, Altaria
 Fighting, Regirock
 Fire, Shining Charizard
 Grass, Yanmega
 Grass, Butterfree FB
-Metal, Aron
+Fighting, Aron
 Colorless, Pidgeotto
 Fighting, Team Magma's Baltoy
 Fighting, Shining Kabutops
@@ -3601,7 +3601,7 @@ Water, Carvanha
 Fire, Camerupt
 Grass, Snivy
 Fighting, Bewear
-Metal, Steelix
+Fighting, Steelix
 Lightning, Electrike
 Fighting, Makuhita
 Grass, Spinarak
@@ -3618,17 +3618,17 @@ Fire, Pansear
 Water, Vaporeon
 Fighting, Meloetta
 Lightning, Shining Raichu
-Metal, Metagross-GX
+Fighting, Metagross-GX
 Lightning, Raikou
-Darkness, Honchkrow
+Psychic, Honchkrow
 Grass, Tropius
 Grass, Nincada
 Water, Kingdra
-Metal, Shining Steelix
-Darkness, Shining Tyranitar
+Fighting, Shining Steelix
+Psychic, Shining Tyranitar
 Colorless, Lickilicky C
 Psychic, Solosis
-Dragon, Bagon
+Water, Bagon
 Water, Seel
 Water, Swampert
 Grass, Shuckle
@@ -3642,8 +3642,8 @@ Colorless, M Kangaskhan-EX
 Grass, Virizion
 Water, Seaking
 Grass, Shedinja
-Dragon, Latios-EX
-Dragon, Hydreigon-EX
+Water, Latios-EX
+Water, Hydreigon-EX
 Colorless, Snorlax
 Grass, Nidoqueen
 Grass, Venusaur
@@ -3654,7 +3654,7 @@ Water, Kyurem-EX
 Lightning, Zekrom-EX
 Lightning, Pikachu
 Psychic, Xatu
-Metal, Forretress
+Fighting, Forretress
 Water, Wailord
 Psychic, Ralts
 Colorless, Unfezant
@@ -3667,7 +3667,7 @@ Colorless, Lopunny
 Psychic, Reuniclus
 Lightning, Zapdos
 Grass, Burmy
-Darkness, Houndoom
+Psychic, Houndoom
 Fire, Fennekin
 Fire, Delphox BREAK
 Fire, Houndour
@@ -3678,19 +3678,19 @@ Colorless, Fletchling
 Psychic, Gothita
 Fire, Fletchinder
 Lightning, Tynamo
-Darkness, Absol
+Psychic, Absol
 Fighting, Pupitar
-Dragon, Rayquaza
+Water, Rayquaza
 Psychic, Jirachi
 Water, Kabutops
 Fighting, Carbink
 Fighting, Carbink BREAK
 Colorless, Lugia-EX
 Grass, Oddish
-Fairy, Mimikyu
-Metal, Magnemite
+Colorless, Mimikyu
+Fighting, Magnemite
 Water, Politoed
-Darkness, Vullaby
+Psychic, Vullaby
 Colorless, Bibarel
 Grass, Cacnea
 Lightning, Magnezone-EX
@@ -3700,15 +3700,15 @@ Grass, Scatterbug
 Fire, Typhlosion
 Fire, Houndoom-EX
 Fire, Simisear
-Metal, Scizor
+Fighting, Scizor
 Water, Misty's Gyarados
 Water, Octillery
 Water, Panpour
 Lightning, Rocket's Zapdos
 Psychic, Sabrina's Alakazam
 Grass, Giovanni's Nidoqueen
-Darkness, Tyranitar
-Darkness, Umbreon
+Psychic, Tyranitar
+Psychic, Umbreon
 Psychic, Unown [A]
 Psychic, Mewtwo-EX
 Psychic, Mewtwo-EX
@@ -3716,22 +3716,22 @@ Psychic, Wobbuffet
 Psychic, Toxicroak-EX
 Fighting, Mamoswine
 Fighting, Hippopotas
-Darkness, Cacturne
-Darkness, Zoroark
-Darkness, Zoroark BREAK
+Psychic, Cacturne
+Psychic, Zoroark
+Psychic, Zoroark BREAK
 Colorless, Kangaskhan-EX
 Fire, M Charizard-EX
-Fairy, Granbull
-Fairy, Ralts
-Fairy, Aromatisse
-Metal, Ferrothorn
+Colorless, Granbull
+Colorless, Ralts
+Colorless, Aromatisse
+Fighting, Ferrothorn
 Colorless, Ursaring
 Colorless, Chatot G
 Colorless, Meowth
 Colorless, Ursaring
-Metal, Pawniard
+Fighting, Pawniard
 Colorless, Smeargle
-Dragon, M Charizard-EX
+Water, M Charizard-EX
 Colorless, Eevee
 Psychic, Wobbuffet
 Colorless, Chatot
@@ -3744,19 +3744,19 @@ Colorless, Shaymin-EX
 Colorless, Tranquill
 Fighting, Dark Sandslash
 Grass, Genesect
-Darkness, Alolan Grimer
+Psychic, Alolan Grimer
 Psychic, Uxie
 Colorless, Dunsparce
 Colorless, Dragonite FB
 Psychic, Golbat
-Metal, Forretress
-Darkness, Alolan Muk
+Fighting, Forretress
+Psychic, Alolan Muk
 Grass, Butterfree
 Fire, Blaine's Charmeleon
 Lightning, Thundurus-EX
 Fighting, Hitmontop
 Psychic, Gallade-EX
-Darkness, Houndoom
+Psychic, Houndoom
 Lightning, Pachirisu
 Colorless, Smeargle
 Grass, Tangela
@@ -3769,7 +3769,7 @@ Fire, Ponyta
 Grass, Meganium
 Psychic, Unown M
 Fire, Pyroar
-Metal, Bisharp
+Fighting, Bisharp
 Lightning, Wash Rotom
 Fire, Magby
 Water, Clawitzer
@@ -3796,32 +3796,32 @@ Lightning, Thundurus
 Psychic, Gothitelle
 Colorless, M Kangaskhan-EX
 Fighting, Aerodactyl
-Metal, Forretress
-Darkness, Houndoom
+Fighting, Forretress
+Psychic, Houndoom
 Lightning, Minun
 Fighting, Krokorok
 Colorless, Ursaring
-Metal, Ferroseed
+Fighting, Ferroseed
 Fire, Blaine's Rapidash
 Lightning, Joltik
-Darkness, Murkrow
+Psychic, Murkrow
 Colorless, Skitty
 Psychic, Spoink
-Darkness, Liepard
+Psychic, Liepard
 Fighting, Breloom
 Fire, Houndour
 Water, Kabutops
-Metal, Cobalion
+Fighting, Cobalion
 Fighting, Makuhita
 Psychic, Weezing
-Metal, Magnemite
+Fighting, Magnemite
 Fighting, Pancham
 Water, Politoed
 Grass, Roserade
 Fighting, Poliwrath
 Fighting, Brock's Primeape
 Fighting, Brock's Sandslash
-Fairy, Clefairy
+Colorless, Clefairy
 Grass, Bayleef
 Grass, Yanma
 Colorless, Smeargle
@@ -3830,14 +3830,14 @@ Fire, Litleo
 Psychic, Mime Jr.
 Water, Milotic
 Colorless, Ditto
-Metal, Excadrill
+Fighting, Excadrill
 Colorless, Patrat
 Grass, Dark Muk
-Metal, Magnezone
-Darkness, Tyranitar
+Fighting, Magnezone
+Psychic, Tyranitar
 Water, Buizel
 Colorless, Dragonite
-Darkness, Umbreon
+Psychic, Umbreon
 Psychic, Espurr
 Lightning, Heliolisk
 Water, Seismitoad-EX
@@ -3851,25 +3851,25 @@ Grass, Pinsir
 Psychic, Wobbuffet
 Lightning, Lt. Surge's Electrode
 Colorless, Lt. Surge's Raticate
-Darkness, Stunky
+Psychic, Stunky
 Colorless, Clefairy
 Fighting, Team Magma's Aggron
 Psychic, Sabrina's Haunter
-Metal, Forretress
-Metal, Durant
+Fighting, Forretress
+Fighting, Durant
 Colorless, Dunsparce
 Grass, Yanma
 Grass, Metapod
-Fairy, Spritzee
+Colorless, Spritzee
 Lightning, Plusle
 Fighting, Hitmonchan
-Dragon, Druddigon
-Dragon, Sliggoo
+Water, Druddigon
+Water, Sliggoo
 Water, Poliwhirl
 Colorless, Pidgey
 Psychic, Unown [F]
 Lightning, Raichu
-Metal, Mawile
+Fighting, Mawile
 Colorless, Staravia
 Colorless, Furret
 Fighting, Phanpy
@@ -3894,7 +3894,7 @@ Fire, Ho-Oh
 Psychic, Gengar
 Psychic, Muk
 Colorless, Raticate
-Metal, Cobalion
+Fighting, Cobalion
 Fire, Growlithe
 Water, Lugia
 Colorless, Rattata
@@ -3915,7 +3915,7 @@ Grass, Erika's Oddish
 Grass, Beedrill
 Grass, Shaymin
 Psychic, Croagunk
-Fairy, M Gardevoir-EX
+Colorless, M Gardevoir-EX
 Water, Feebas
 Grass, Erika's Paras
 Fire, Typhlosion
@@ -3938,7 +3938,7 @@ Fire, Magby
 Water, Oshawott
 Colorless, Axew
 Grass, Pansage
-Darkness, Zorua
+Psychic, Zorua
 Water, Swinub
 Grass, Koga's Ekans
 Lightning, Magnemite
@@ -3949,8 +3949,8 @@ Fire, Darumaka
 Fire, Chimchar
 Water, Lapras
 Lightning, Magneton
-Darkness, Pangoro
-Darkness, Murkrow
+Psychic, Pangoro
+Psychic, Murkrow
 Colorless, Meowth
 Fire, Moltres
 Lightning, Zapdos
@@ -3968,7 +3968,7 @@ Fighting, Kabutops
 Fighting, Lucario-EX
 Psychic, Sabrina's Gastly
 Water, Croconaw
-Dragon, White Kyurem
+Water, White Kyurem
 Water, Keldeo
 Psychic, Sabrina's Gastly
 Grass, Seedot
@@ -3986,7 +3986,7 @@ Fire, Blaine's Moltres
 Colorless, Furret
 Grass, Gloom
 Psychic, Mime Jr.
-Darkness, Team Aqua's Sharpedo
+Psychic, Team Aqua's Sharpedo
 Colorless, Regigigas
 Colorless, Granbull
 Grass, Grovyle
@@ -4001,7 +4001,7 @@ Grass, Paras
 Lightning, Voltorb
 Fire, Charmeleon
 Lightning, Charmeleon δ
-Metal, Magearna-EX
+Fighting, Magearna-EX
 Colorless, Lt. Surge's Fearow
 Grass, Lurantis-GX
 Grass, Morelull
@@ -4097,8 +4097,8 @@ Fire, Fennekin
 Fighting, Makuhita
 Grass, Erika's Oddish
 Psychic, Budew
-Darkness, Houndoom
-Darkness, Houndour
+Psychic, Houndoom
+Psychic, Houndour
 Grass, Leafeon
 Water, Vaporeon
 Grass, Sunkern
@@ -4109,7 +4109,7 @@ Lightning, Ampharos
 Fire, Magmortar
 Grass, Servine
 Water, Poliwrath
-Dragon, M Latios-EX
+Water, M Latios-EX
 Psychic, Alakazam 4
 Water, Cloyster
 Grass, Bayleef
@@ -4124,7 +4124,7 @@ Lightning, Electrode G
 Fire, Torchic
 Grass, Karrablast
 Psychic, Gardevoir
-Darkness, Purrloin
+Psychic, Purrloin
 Grass, Masquerain
 Colorless, Delibird
 Water, Empoleon
@@ -4138,9 +4138,9 @@ Lightning, ___________'s Pikachu
 Colorless, Clefable
 Fire, Litleo
 Water, Primarina-GX
-Darkness, Krookodile-EX
+Psychic, Krookodile-EX
 Psychic, Slowking
-Darkness, Persian δ
+Psychic, Persian δ
 Grass, Trapinch δ
 Lightning, Emolga
 Water, Snorunt
@@ -4148,7 +4148,7 @@ Fighting, Hippowdon 4
 Psychic, Uxie
 Colorless, Slakoth
 Fighting, Sawk
-Dragon, Bagon
+Water, Bagon
 Colorless, Regigigas
 Water, Crabominable
 Lightning, Chinchou
@@ -4157,13 +4157,13 @@ Fire, Entei
 Colorless, Minccino
 Fire, Ho-oh
 Colorless, Cinccino
-Metal, Lairon
+Fighting, Lairon
 Fighting, Phanpy
-Darkness, Poochyena
-Darkness, Houndoom
+Psychic, Poochyena
+Psychic, Houndoom
 Grass, Erika's Exeggcute
 Lightning, Lanturn
-Darkness, Sharpedo
+Psychic, Sharpedo
 Grass, Scyther ex
 Water, Misty's Poliwrath
 Colorless, Dark Persian
@@ -4201,8 +4201,8 @@ Water, Seismitoad-EX
 Grass, Giovanni's Nidorina
 Colorless, Lt. Surge's Eevee
 Psychic, Jynx
-Metal, Skarmory
-Darkness, Sneasel
+Fighting, Skarmory
+Psychic, Sneasel
 Psychic, Sabrina's Kadabra
 Psychic, Sabrina's Mr. Mime
 Fighting, Blaine's Mankey
@@ -4224,13 +4224,13 @@ Grass, Spinarak
 Water, Jynx
 Lightning, Raichu
 Lightning, Electivire
-Darkness, Sableye
+Psychic, Sableye
 Fighting, Regirock
 Grass, Masquerain
 Lightning, Plusle
 Water, Surskit
 Fire, Ho-Oh LEGEND
-Metal, Magnemite
+Fighting, Magnemite
 Lightning, Lanturn
 Colorless, Togepi
 Water, Swampert-EX
@@ -4243,7 +4243,7 @@ Grass, Exeggcute
 Fighting, Hitmontop
 Colorless, Blissey
 Water, Octillery
-Darkness, Malamar
+Psychic, Malamar
 Water, Horsea
 Colorless, Fearow
 Psychic, Claydol
@@ -4251,17 +4251,17 @@ Colorless, Regigigas
 Psychic, Shuppet
 Colorless, Smeargle
 Water, Starmie
-Metal, Aron
+Fighting, Aron
 Grass, Pineco
 Grass, Chesnaught
 Colorless, Ambipom G
-Metal, Scizor
+Fighting, Scizor
 Psychic, Hypno
 Grass, Nidoran♂
 Fire, Reshiram
-Dragon, Rayquaza-EX
+Water, Rayquaza-EX
 Fighting, Piloswine
-Dragon, Latios
+Water, Latios
 Fighting, Roggenrola
 Fire, Growlithe
 Grass, Pansage
@@ -4271,7 +4271,7 @@ Colorless, Stantler
 Colorless, Igglybuff
 Psychic, Unown [B]
 Fighting, Blastoise δ
-Dragon, White Kyurem
+Water, White Kyurem
 Psychic, Drowzee
 Fire, Entei
 Psychic, Misdreavus
@@ -4279,7 +4279,7 @@ Fighting, Omastar
 Psychic, Unown [Y]
 Grass, Celebi
 Lightning, Charizard δ
-Metal, Aron
+Fighting, Aron
 Fire, Flareon 4
 Fighting, M Aerodactyl-EX
 Water, Luvdisc
@@ -4292,7 +4292,7 @@ Lightning, Chinchou
 Fire, Kingler δ
 Colorless, Farfetch'd
 Fighting, Geodude
-Darkness, Alolan Rattata
+Psychic, Alolan Rattata
 Psychic, Koffing
 Psychic, Hypno
 Lightning, Manectric
@@ -4300,14 +4300,14 @@ Psychic, Shuppet
 Fighting, Swampert
 Colorless, Lickitung
 Fighting, Solrock
-Metal, Jirachi
+Fighting, Jirachi
 Fighting, Riolu
-Fairy, Carbink
+Colorless, Carbink
 Grass, Venusaur
 Water, Goldeen
 Fire, Combusken
 Grass, Paras
-Dragon, Altaria
+Water, Altaria
 Colorless, Fearow
 Water, Quagsire
 Colorless, Taillow
@@ -4366,7 +4366,7 @@ Colorless, Snorlax
 Lightning, Rotom
 Water, Wingull
 Grass, Torterra
-Fairy, Floette
+Colorless, Floette
 Water, Phione
 Colorless, Glameow
 Fire, Chimchar
@@ -4374,43 +4374,43 @@ Psychic, Croagunk
 Colorless, Kangaskhan
 Colorless, Spearow
 Colorless, Wigglytuff
-Metal, Skarmory
-Metal, Solgaleo-GX
-Dragon, Rayquaza
+Fighting, Skarmory
+Fighting, Solgaleo-GX
+Water, Rayquaza
 Fighting, Hawlucha-EX
-Darkness, Scrafty
+Psychic, Scrafty
 Psychic, Haunter
 Water, Shellos East Sea
-Dragon, Dratini
+Water, Dratini
 Fire, Volcanion
-Fairy, Clefairy
+Colorless, Clefairy
 Psychic, Exeggcute
 Fighting, Diglett
 Fire, Arcanine
 Grass, Spinarak
 Water, Spheal
-Fairy, Clefable
+Colorless, Clefable
 Colorless, Swablu
 Fire, Charmander
 Fire, Pansear
 Water, Poliwag
-Fairy, Klefki
+Colorless, Klefki
 Water, Sealeo
 Fire, Simisear
 Grass, Ivysaur
 Psychic, Deoxys
 Water, Tentacruel
-Dragon, Dragonite-EX
+Water, Dragonite-EX
 Psychic, Abra
 Fire, Darumaka
 Lightning, Voltorb
-Dragon, Ultra Necrozma
+Water, Ultra Necrozma
 Lightning, Magnemite
 Colorless, Pidgey
-Dragon, Vibrava
+Water, Vibrava
 Fire, Lampent
 Fire, Ninetales
-Dragon, Flygon
+Water, Flygon
 Fire, Torkoal
 Colorless, Dunsparce
 Fire, Numel
@@ -4424,7 +4424,7 @@ Colorless, Slakoth
 Grass, M Beedrill-EX
 Grass, Combee
 Colorless, Noibat
-Metal, Steelix
+Fighting, Steelix
 Fire, Reshiram
 Water, Starmie
 Fire, Braixen
@@ -4464,16 +4464,16 @@ Water, Vanillite
 Psychic, Mismagius
 Psychic, Kirlia
 Fighting, Swinub
-Darkness, Zorua
+Psychic, Zorua
 Water, Vanillish
-Dragon, M Salamence-EX
-Metal, Bronzong
+Water, M Salamence-EX
+Fighting, Bronzong
 Grass, Metapod
 Colorless, Snorlax
-Fairy, Florges
+Colorless, Florges
 Colorless, Gumshoos
 Lightning, Pikachu
-Metal, Steelix
+Fighting, Steelix
 Grass, Butterfree
 Psychic, Drifloon
 Grass, Cascoon
@@ -4482,7 +4482,7 @@ Psychic, Haunter
 Grass, Paras
 Lightning, Mareep
 Lightning, Luxio
-Darkness, Nuzleaf
+Psychic, Nuzleaf
 Grass, Cottonee
 Grass, Parasect
 Colorless, Chatot
@@ -4491,7 +4491,7 @@ Grass, Pinsir
 Water, Spheal
 Fighting, Rhydon
 Colorless, Staravia
-Darkness, Mandibuzz BREAK
+Psychic, Mandibuzz BREAK
 Psychic, Giratina
 Grass, Leafeon-EX
 Colorless, Slaking
@@ -4501,12 +4501,12 @@ Fighting, Bonsly
 Fire, Rapidash
 Water, Relicanth
 Lightning, Shinx
-Fairy, Xerneas
+Colorless, Xerneas
 Fire, Volcanion
 Water, Blastoise-EX
-Metal, Aggron ex
+Fighting, Aggron ex
 Psychic, Gastly
-Metal, Magnemite
+Fighting, Magnemite
 Grass, Kricketot
 Lightning, Luxray
 Lightning, Luxio
@@ -4514,7 +4514,7 @@ Grass, Snover
 Psychic, Grimer
 Psychic, Mime Jr.
 Psychic, Misdreavus
-Metal, Magearna
+Fighting, Magearna
 Grass, Seedot
 Water, Blastoise-EX
 Psychic, Skorupi
@@ -4535,62 +4535,62 @@ Fighting, Roggenrola
 Psychic, Munna
 Fighting, Throh
 Fighting, Sawk
-Darkness, Mandibuzz
+Psychic, Mandibuzz
 Grass, Beautifly
-Metal, Klink
+Fighting, Klink
 Lightning, Raichu
 Grass, Dustox
 Grass, Ninjask
-Metal, Shieldon
+Fighting, Shieldon
 Colorless, Tornadus
 Water, Sealeo
 Lightning, Jolteon-EX
 Fire, Torkoal
-Metal, Raichu δ
+Fighting, Raichu δ
 Lightning, Helioptile
 Fighting, Riolu
 Psychic, Dusknoir
 Lightning, Jolteon-EX
 Lightning, Luxio
 Lightning, Luxray
-Darkness, Absol
-Darkness, Scrafty
-Dragon, Goodra
+Psychic, Absol
+Psychic, Scrafty
+Water, Goodra
 Colorless, Pidgeot
 Colorless, Furfrou
 Water, Bellossom δ
-Fairy, Florges
+Colorless, Florges
 Water, Feraligatr
 Grass, Accelgor
 Fire, Magmar
 Lightning, Mewtwo δ
-Darkness, Drapion
+Psychic, Drapion
 Fighting, Regirock
 Lightning, Minun
-Darkness, Weavile
+Psychic, Weavile
 Water, Kingler
 Water, Amaura
-Darkness, Sableye
+Psychic, Sableye
 Water, Aurorus
 Psychic, Zubat
 Psychic, Mew
 Fire, Team Magma's Numel
 Psychic, Gothitelle
 Psychic, Golett
-Metal, Chimecho δ
+Fighting, Chimecho δ
 Lightning, Raichu
 Fighting, Mienshao
-Metal, Bronzor
+Fighting, Bronzor
 Fighting, Hariyama
 Fighting, Landorus
 Psychic, Claydol
-Fairy, Sylveon
+Colorless, Sylveon
 Grass, Victreebel
 Colorless, Lickilicky
 Colorless, Slaking
 Colorless, Watchog
 Fighting, Donphan
-Dragon, Noivern
+Water, Noivern
 Fire, Talonflame
 Psychic, Team Magma's Baltoy
 Psychic, Team Magma's Claydol
@@ -4621,17 +4621,17 @@ Grass, Weepinbell
 Colorless, Chansey
 Grass, Yanma
 Psychic, Meloetta
-Darkness, Darkrai
+Psychic, Darkrai
 Lightning, Electabuzz
 Fire, Magby
 Fighting, Hawlucha
 Fighting, Armaldo ex
 Fighting, Rampardos GL
-Metal, Jirachi
+Fighting, Jirachi
 Psychic, Kadabra
 Grass, Illumise
 Psychic, Nidoran♂
-Dragon, Dragonair
+Water, Dragonair
 Water, Wartortle
 Colorless, Arceus
 Psychic, Gengar
@@ -4639,55 +4639,55 @@ Psychic, Gallade 4
 Fighting, Gastrodon West Sea
 Psychic, Slowpoke
 Water, Tympole
-Dragon, Dragonite
-Darkness, Malamar
+Water, Dragonite
+Psychic, Malamar
 Fighting, Rhyperior 4
 Grass, Scizor 4
-Dragon, Dragonite
+Water, Dragonite
 Fire, Charmander
 Psychic, Haunter
 Fire, Rapidash 4
 Fighting, Blaziken ex
 Lightning, Magneton
-Darkness, M Sharpedo-EX
-Fairy, Cottonee
+Psychic, M Sharpedo-EX
+Colorless, Cottonee
 Fighting, Hippopotas
 Water, Sealeo
 Fighting, Groudon ex
 Water, Staryu
-Dragon, Sliggoo
+Water, Sliggoo
 Psychic, Sceptile ex δ
-Darkness, Shiftry ex
+Psychic, Shiftry ex
 Colorless, Shelgon
 Grass, Bulbasaur
 Grass, Scyther
 Colorless, Persian
 Colorless, Eevee
-Dragon, Bagon
+Water, Bagon
 Fighting, Machop
-Metal, Magnemite
+Fighting, Magnemite
 Colorless, Porygon2
 Grass, Accelgor
-Dragon, Shelgon
+Water, Shelgon
 Water, Piplup
 Psychic, Roselia
 Colorless, Porygon-Z
 Fire, Torchic
 Fire, Torchic
 Colorless, Fearow
-Darkness, Tyranitar
+Psychic, Tyranitar
 Colorless, Lugia-EX
 Psychic, Kadabra
 Water, Kyurem-EX
 Colorless, Altaria
-Dragon, M Rayquaza-EX
+Water, M Rayquaza-EX
 Grass, Treecko
 Grass, Beautifly
 Fire, Combusken
 Fighting, Swinub
 Colorless, Skarmory
 Fire, Camerupt
-Darkness, Poochyena
+Psychic, Poochyena
 Fire, Torkoal
 Lightning, Pikachu
 Colorless, Swablu
@@ -4696,18 +4696,18 @@ Fire, Volcarona
 Water, Slowbro
 Fighting, Cubone
 Fighting, Machamp-EX
-Darkness, Mightyena
+Psychic, Mightyena
 Colorless, Regigigas-EX
 Water, Prinplup
-Darkness, M Tyranitar-EX
+Psychic, M Tyranitar-EX
 Grass, Beautifly
-Darkness, Crawdaunt
+Psychic, Crawdaunt
 Lightning, Plusle
 Colorless, Vigoroth
 Psychic, Gengar
 Psychic, Jynx
 Psychic, Drifblim
-Darkness, Mightyena
+Psychic, Mightyena
 Fire, Camerupt
 Psychic, Gardevoir
 Fire, Pansear
@@ -4720,7 +4720,7 @@ Water, Ludicolo
 Lightning, Joltik
 Fire, Heatmor
 Psychic, Duskull
-Darkness, Mightyena
+Psychic, Mightyena
 Colorless, Hoothoot
 Water, Marill
 Colorless, Slaking
@@ -4736,7 +4736,7 @@ Lightning, Galvantula
 Water, Kyurem
 Fighting, Diglett
 Water, Pelipper
-Metal, Lairon
+Fighting, Lairon
 Lightning, Tynamo
 Colorless, Lugia-EX
 Lightning, Tynamo
@@ -4747,12 +4747,12 @@ Water, Goldeen
 Grass, Shiftry
 Grass, Sceptile
 Water, Primal Kyogre-EX
-Metal, Dialga
+Fighting, Dialga
 Colorless, M Rayquaza-EX
-Darkness, Absol
+Psychic, Absol
 Lightning, Eelektross
 Psychic, Yamask
-Metal, Aron
+Fighting, Aron
 Psychic, Xatu
 Water, Luvdisc
 Water, Poliwag
@@ -4782,15 +4782,15 @@ Water, Corphish
 Water, Lotad
 Fighting, Gurdurr
 Fighting, Diglett
-Darkness, Spiritomb
+Psychic, Spiritomb
 Colorless, Lickitung
 Grass, Lotad
 Colorless, Staraptor FB
-Darkness, Umbreon
+Psychic, Umbreon
 Colorless, Tauros
 Grass, Venusaur
-Darkness, Umbreon
-Darkness, Krookodile
+Psychic, Umbreon
+Psychic, Krookodile
 Grass, Shaymin
 Water, Articuno
 Fighting, Diglett
@@ -4810,29 +4810,29 @@ Fighting, Roggenrola
 Grass, Weedle
 Lightning, Flaaffy
 Psychic, Mew-EX
-Darkness, Stunky
+Psychic, Stunky
 Psychic, Reuniclus
-Metal, Lairon
+Fighting, Lairon
 Colorless, Exploud
 Fighting, Nosepass
 Fighting, Terrakion-EX
 Fighting, Gigalith
-Darkness, Zorua
+Psychic, Zorua
 Fighting, Conkeldurr
-Dragon, Gabite
-Dragon, Deino
-Dragon, Zweilous
+Water, Gabite
+Water, Deino
+Water, Zweilous
 Colorless, Swablu
-Darkness, Zoroark
+Psychic, Zoroark
 Fighting, Terrakion-EX
 Fighting, Conkeldurr
-Dragon, Rayquaza-EX
-Dragon, Giratina-EX
+Water, Rayquaza-EX
+Water, Giratina-EX
 Psychic, Reuniclus
 Fighting, Stunfisk
-Darkness, Yveltal
-Fairy, Floette
-Darkness, Poochyena
+Psychic, Yveltal
+Colorless, Floette
+Psychic, Poochyena
 Psychic, Ralts
 Grass, Shroomish
 Psychic, Gulpin
@@ -4840,47 +4840,47 @@ Psychic, Ralts
 Fighting, Machamp
 Fighting, Geodude
 Water, Froakie
-Darkness, Lileep δ
+Psychic, Lileep δ
 Water, Oddish δ
 Fighting, Golurk
 Water, Staryu
-Fairy, Sylveon
+Colorless, Sylveon
 Fighting, Graveler
-Darkness, Vullaby
+Psychic, Vullaby
 Water, Dewgong
-Darkness, Zweilous
+Psychic, Zweilous
 Fighting, Hitmonlee
 Colorless, Blissey
 Fighting, Donphan
-Metal, Escavalier
+Fighting, Escavalier
 Fighting, Phanpy
 Grass, Crobat ex
-Metal, Pawniard
+Fighting, Pawniard
 Colorless, Blissey
 Lightning, Pidgey δ
 Grass, Jumpluff
 Fighting, Golem
 Fighting, Golem-EX
-Darkness, Poochyena
-Metal, Escavalier
+Psychic, Poochyena
+Fighting, Escavalier
 Lightning, Psyduck δ
 Lightning, Pikachu
-Metal, Cobalion
+Fighting, Cobalion
 Fire, Arcanine
 Psychic, Deoxys ex
 Colorless, Haxorus
 Colorless, Taillow
 Water, Crawdaunt ex
 Colorless, Herdier
-Fairy, Clefairy
+Colorless, Clefairy
 Fighting, Terrakion
 Colorless, Rayquaza ex
 Colorless, Castform
-Metal, Cobalion
+Fighting, Cobalion
 Water, Tentacruel
-Darkness, Tyranitar
+Psychic, Tyranitar
 Psychic, Kirlia
-Fairy, Mr. Mime
+Colorless, Mr. Mime
 Lightning, Ditto
 Colorless, Lickitung
 Grass, Yanmega
@@ -4896,7 +4896,7 @@ Colorless, Altaria
 Colorless, Meowth
 Fire, Rapidash
 Colorless, Ambipom
-Darkness, Rocket's Raikou ex
+Psychic, Rocket's Raikou ex
 Grass, Turtwig
 Colorless, Stoutland
 Colorless, Skitty
@@ -4920,7 +4920,7 @@ Colorless, Doduo
 Psychic, Honedge
 Grass, Meganium
 Water, Poliwrath
-Metal, Skarmory
+Fighting, Skarmory
 Grass, Venusaur
 Grass, Gloom
 Colorless, Dodrio
@@ -4931,26 +4931,26 @@ Lightning, Pachirisu
 Colorless, Kangaskhan
 Psychic, M Gengar-EX
 Psychic, Nidorino
-Metal, Aron
+Fighting, Aron
 Lightning, Raikou-EX
 Lightning, Croconaw δ
 Grass, Dragonair δ
 Fighting, Electabuzz δ
-Metal, Nidoran♀ δ
-Darkness, Carvanha
+Fighting, Nidoran♀ δ
+Psychic, Carvanha
 Psychic, Gulpin
 Psychic, Toxicroak
 Colorless, Buneary
 Fire, Taillow δ
 Colorless, Tornadus-EX
 Psychic, Gastly
-Darkness, Sneasel
+Psychic, Sneasel
 Psychic, Gourgeist
 Grass, Kricketot
 Colorless, Lickitung
 Grass, Caterpie
 Fighting, Cranidos
-Metal, Shieldon
+Fighting, Shieldon
 Fighting, Roggenrola
 Fighting, Hitmonchan ex
 Grass, Torterra
@@ -4958,7 +4958,7 @@ Grass, Beedrill
 Fire, Vulpix
 Fighting, Lunatone
 Colorless, Arceus
-Darkness, Honchkrow
+Psychic, Honchkrow
 Fire, Ninetales BREAK
 Fire, Growlithe
 Fire, Ponyta
@@ -4971,13 +4971,13 @@ Water, M Slowbro-EX
 Water, Seel
 Water, Dewgong
 Fire, Infernape
-Darkness, Mandibuzz
+Psychic, Mandibuzz
 Grass, Cradily
 Lightning, Magnemite
 Lightning, Magneton
 Lightning, Voltorb
 Fighting, Machoke
-Darkness, Liepard
+Psychic, Liepard
 Water, Empoleon
 Lightning, Zapdos
 Psychic, Nidoran♂
@@ -4989,7 +4989,7 @@ Psychic, Haunter
 Psychic, Koffing
 Psychic, Mewtwo-EX
 Psychic, Mew
-Metal, Escavalier
+Fighting, Escavalier
 Fighting, Sawk
 Colorless, Chatot
 Fighting, Machamp BREAK
@@ -5005,16 +5005,16 @@ Fire, Charizard-EX
 Grass, Forretress
 Lightning, Pikachu
 Colorless, Shelgon
-Metal, Steelix
-Dragon, Deino
-Dragon, Zweilous
-Metal, Dialga
+Fighting, Steelix
+Water, Deino
+Water, Zweilous
+Fighting, Dialga
 Fire, Blaziken
 Grass, Breloom
 Grass, Sceptile
 Water, Vaporeon
 Lightning, Electrike
-Dragon, Goodra
+Water, Goodra
 Grass, Grovyle
 Fighting, Hariyama
 Fighting, Anorith
@@ -5027,17 +5027,17 @@ Colorless, Skitty
 Fire, Torchic
 Fire, Torchic
 Fighting, Baltoy
-Darkness, Darkrai
+Psychic, Darkrai
 Colorless, Delcatty
-Fairy, Ralts
+Colorless, Ralts
 Fire, Magmortar
 Psychic, Gardevoir
 Fighting, Archeops
-Darkness, Sneasel ex
+Psychic, Sneasel ex
 Fire, Charmeleon
 Lightning, Electabuzz
-Metal, Skarmory
-Fairy, Cutiefly
+Fighting, Skarmory
+Colorless, Cutiefly
 Lightning, Raichu
 Lightning, Raichu
 Psychic, Cosmog
@@ -5048,12 +5048,12 @@ Psychic, Wobbuffet
 Colorless, Dark Dragonite
 Psychic, Jirachi
 Water, Feebas
-Metal, Lairon
+Fighting, Lairon
 Water, Luvdisc
 Colorless, Glameow
-Fairy, Flabébé
-Fairy, Sylveon-EX
-Fairy, Diancie
+Colorless, Flabébé
+Colorless, Sylveon-EX
+Colorless, Diancie
 Water, Gyarados
 Psychic, Misdreavus
 Grass, Lileep
@@ -5065,7 +5065,7 @@ Grass, Venusaur
 Fighting, Hippopotas
 Lightning, Raichu
 Water, Articuno
-Fairy, Gardevoir-EX
+Colorless, Gardevoir-EX
 Water, Lombre
 Lightning, Manectric G
 Grass, Beedrill
@@ -5077,26 +5077,26 @@ Grass, Scyther
 Grass, Masquerain
 Colorless, Dragonite
 Fighting, Golem
-Fairy, M Gardevoir-EX
+Colorless, M Gardevoir-EX
 Fire, Quilava
 Water, Marshtomp
 Lightning, Magneton
-Darkness, Darkrai
-Metal, Mawile
+Psychic, Darkrai
+Fighting, Mawile
 Colorless, Vigoroth
 Grass, Oddish
 Grass, Arbok
-Metal, Dialga
+Fighting, Dialga
 Water, Psyduck
 Psychic, Espeon
 Psychic, Jynx
-Metal, Aron
+Fighting, Aron
 Grass, Weezing
 Water, Palkia
 Psychic, Cresselia
 Psychic, Ditto
 Colorless, Latias
-Metal, Metang
+Fighting, Metang
 Grass, Cacnea
 Grass, Shelmet
 Water, Shellder
@@ -5115,8 +5115,8 @@ Water, Kyogre-EX
 Water, Vanillite
 Lightning, Jolteon δ
 Colorless, Smeargle
-Darkness, Darkrai
-Darkness, Darkrai
+Psychic, Darkrai
+Psychic, Darkrai
 Colorless, Eevee
 Lightning, Eelektross
 Lightning, Pikachu
@@ -5124,7 +5124,7 @@ Grass, Kakuna
 Lightning, Rotom
 Grass, Sceptile
 Psychic, Unown [A]
-Darkness, Scrafty
+Psychic, Scrafty
 Psychic, Ralts
 Psychic, Unown [D]
 Grass, Roserade
@@ -5147,13 +5147,13 @@ Psychic, Banette
 Grass, Shroomish
 Grass, Butterfree
 Psychic, Mewtwo
-Darkness, Pangoro
+Psychic, Pangoro
 Colorless, Exploud
 Fighting, Rhyperior
-Fairy, Togekiss
+Colorless, Togekiss
 Water, Wingull
 Colorless, Zigzagoon
-Darkness, Houndoom
+Psychic, Houndoom
 Fire, Vulpix
 Colorless, Pidgey
 Lightning, Rayquaza δ
@@ -5172,12 +5172,12 @@ Colorless, Shaymin-EX
 Water, Octillery
 Colorless, Azurill
 Psychic, Mesprit
-Dragon, Axew
-Metal, Skarmory FB
+Water, Axew
+Fighting, Skarmory FB
 Psychic, Spiritomb C
 Water, Kingler
 Colorless, Chatot
-Metal, Beldum
+Fighting, Beldum
 Grass, Yanma
 Water, Lapras
 Colorless, Latias
@@ -5190,13 +5190,13 @@ Grass, Masquerain
 Water, Magikarp
 Fighting, Primeape
 Fighting, Phanpy
-Metal, Magnezone
+Fighting, Magnezone
 Psychic, Dusknoir
 Lightning, Electrike
 Grass, Nincada
 Colorless, Spearow
 Colorless, Fletchling
-Darkness, Yveltal
+Psychic, Yveltal
 Water, Staryu
 Colorless, Porygon-Z
 Water, Squirtle
@@ -5205,10 +5205,10 @@ Lightning, Ampharos
 Water, Golduck
 Fire, Magmortar
 Psychic, Haunter
-Metal, Lairon
+Fighting, Lairon
 Fire, Chimchar
 Water, Tentacruel
-Dragon, Latias & Latios-GX
+Water, Latias & Latios-GX
 Fighting, Dark Donphan
 Grass, Bellsprout
 Psychic, Shuppet
@@ -5225,14 +5225,14 @@ Fire, Ninetales
 Grass, Cherubi
 Fire, Quilava
 Water, Shellos West Sea
-Dragon, Alolan Exeggutor
+Water, Alolan Exeggutor
 Fighting, Cubone
 Colorless, Zangoose
 Psychic, Seviper
-Metal, Holon's Magneton
+Fighting, Holon's Magneton
 Colorless, Porygon-Z
 Colorless, Porygon2
-Darkness, Team Magma's Mightyena
+Psychic, Team Magma's Mightyena
 Water, Rain Castform
 Water, Wailord
 Water, Team Aqua's Carvanha
@@ -5241,13 +5241,13 @@ Colorless, Wigglytuff
 Psychic, Phantump
 Colorless, Altaria
 Psychic, Mew
-Darkness, Weavile
+Psychic, Weavile
 Water, Palkia
-Metal, Dialga
+Fighting, Dialga
 Psychic, Giratina
 Psychic, Arbok
 Grass, Shroomish
-Metal, Magnemite
+Fighting, Magnemite
 Psychic, Beheeyem BREAK
 Grass, Shaymin
 Grass, Vivillon
@@ -5271,22 +5271,22 @@ Colorless, Farfetch'd
 Grass, Exeggcute
 Grass, Carnivine G
 Psychic, Drifloon
-Metal, Shieldon
-Metal, Bastiodon
+Fighting, Shieldon
+Fighting, Bastiodon
 Colorless, Ditto
 Colorless, Whismur
 Grass, Exeggcute
 Grass, Roselia
 Psychic, Zubat
-Darkness, Cacturne
+Psychic, Cacturne
 Colorless, Gible
 Grass, Sceptile
-Metal, Heatran
+Fighting, Heatran
 Fire, Litwick
 Grass, Ditto
 Fire, Ditto
 Lightning, Ditto
-Darkness, Weavile
+Psychic, Weavile
 Water, Ditto
 Water, Vanilluxe
 Lightning, Electrode
@@ -5298,8 +5298,8 @@ Psychic, Cofagrigus
 Fighting, Nidoking
 Lightning, Magneton
 Lightning, Metang δ
-Dragon, Dragonite
-Dragon, Latias-EX
+Water, Dragonite
+Water, Latias-EX
 Colorless, Raticate
 Colorless, Eevee
 Fire, Shelgon δ
@@ -5313,9 +5313,9 @@ Grass, Snover
 Lightning, Shinx
 Water, Gastrodon
 Grass, Shroomish
-Darkness, Pawniard
+Psychic, Pawniard
 Fighting, Probopass G
-Metal, Klang
+Fighting, Klang
 Psychic, Drowzee
 Lightning, Magnemite
 Grass, Vespiquen
@@ -5324,7 +5324,7 @@ Colorless, Fletchinder
 Lightning, Magnezone
 Psychic, Skorupi
 Fire, Arcanine
-Darkness, Poochyena
+Psychic, Poochyena
 Fire, Camerupt
 Water, Lapras
 Fire, Combusken
@@ -5332,9 +5332,9 @@ Water, Palkia-EX
 Water, Tympole
 Water, Greninja
 Lightning, Luxio
-Darkness, Sableye
+Psychic, Sableye
 Psychic, Gengar-EX
-Fairy, Clefable
+Colorless, Clefable
 Water, Floatzel
 Colorless, Dunsparce
 Colorless, Furfrou
@@ -5369,7 +5369,7 @@ Grass, Muk
 Water, Cloyster
 Fighting, Graveler
 Fire, Magmar
-Metal, Dialga
+Fighting, Dialga
 Grass, Grimer
 Water, Omanyte
 Grass, Tropius
@@ -5387,25 +5387,25 @@ Water, Slowpoke
 Water, Vaporeon
 Water, Glaceon
 Water, Palpitoad
-Darkness, Sandile
+Psychic, Sandile
 Grass, Metapod
 Water, Pelipper
 Psychic, Cresselia
 Colorless, Porygon2
-Darkness, Darkrai-EX
-Darkness, Zoroark
+Psychic, Darkrai-EX
+Psychic, Zoroark
 Fire, Litleo
 Psychic, Seviper
 Colorless, Chansey
 Fighting, Sandygast
 Colorless, Eevee
-Metal, Skarmory
+Fighting, Skarmory
 Lightning, Pichu
 Grass, Sunflora
 Grass, Heracross
 Psychic, Weezing
 Grass, Genesect
-Darkness, Darkrai
+Psychic, Darkrai
 Water, Slowbro
 Water, Slowbro
 Colorless, Wigglytuff
@@ -5420,12 +5420,12 @@ Grass, Masquerain
 Fire, Larvesta
 Water, Swampert
 Colorless, Arceus
-Dragon, Dratini
+Water, Dratini
 Colorless, Arceus
 Fighting, Medicham
 Water, Slowpoke
-Dragon, Gible
-Dragon, Gible
+Water, Gible
+Water, Gible
 Grass, Weedle
 Lightning, Eelektross
 Colorless, Bouffalant
@@ -5434,16 +5434,16 @@ Fighting, Croagunk
 Water, Keldeo
 Lightning, Jolteon
 Grass, Sunflora
-Dragon, Dragonair
-Dragon, Bagon
+Water, Dragonair
+Water, Bagon
 Water, Wailmer
 Fighting, Baltoy
 Water, Feebas
-Dragon, Salamence
+Water, Salamence
 Water, Marill
 Grass, Bayleef
 Water, Aurorus
-Dragon, Latias
+Water, Latias
 Colorless, Glameow
 Water, Poliwag
 Water, Articuno
@@ -5451,11 +5451,11 @@ Psychic, Xatu
 Fighting, Larvitar
 Grass, Oddish
 Water, Remoraid
-Dragon, Rayquaza
+Water, Rayquaza
 Fire, Houndour
 Grass, Illumise
 Colorless, Buneary
-Dragon, Fraxure
+Water, Fraxure
 Grass, Servine
 Colorless, Lopunny
 Fire, Braixen
@@ -5467,14 +5467,14 @@ Water, Slowpoke
 Fire, Volcarona
 Fighting, Marowak
 Fighting, Regirock-EX
-Metal, Wormadam
+Fighting, Wormadam
 Water, Mudkip
-Darkness, Stunky
+Psychic, Stunky
 Water, Pelipper
 Fire, Rapidash
 Psychic, Gastly
 Grass, Tangela
-Darkness, Absol
+Psychic, Absol
 Colorless, Porygon
 Water, Slowpoke
 Colorless, Yungoos
@@ -5493,13 +5493,13 @@ Lightning, Electivire
 Colorless, Oranguru
 Fighting, Golem
 Grass, Sunflora
-Metal, Wormadam Trash Cloak
+Fighting, Wormadam Trash Cloak
 Psychic, Xatu
 Water, Vaporeon ex
 Colorless, Shelgon
 Colorless, Smeargle
 Water, Kyogre Star
-Darkness, Carvanha
+Psychic, Carvanha
 Colorless, Clefairy
 Psychic, Unown Z
 Colorless, Dratini
@@ -5513,8 +5513,8 @@ Colorless, Swablu
 Grass, Venomoth
 Colorless, Togepi
 Fire, Growlithe
-Metal, Mawile
-Darkness, Houndoom
+Fighting, Mawile
+Psychic, Houndoom
 Lightning, Pelipper δ
 Grass, Ledyba
 Grass, Sunkern
@@ -5529,7 +5529,7 @@ Colorless, Pidgeot
 Colorless, Bagon
 Grass, Bulbasaur
 Fighting, Team Magma's Rhydon
-Darkness, Team Magma's Mightyena
+Psychic, Team Magma's Mightyena
 Grass, Gloom
 Grass, Burmy Sandy Cloak
 Lightning, Ampharos
@@ -5558,7 +5558,7 @@ Lightning, Pichu
 Psychic, Unown [J]
 Psychic, Inkay
 Psychic, Doublade
-Metal, Dialga
+Fighting, Dialga
 Grass, Ninjask
 Water, Lapras
 Colorless, Shelgon
@@ -5575,7 +5575,7 @@ Colorless, Pidgey
 Water, Remoraid
 Lightning, Elekid
 Water, Corphish
-Darkness, Sneasel
+Psychic, Sneasel
 Water, Suicune
 Grass, Grimer
 Water, Octillery
@@ -5585,7 +5585,7 @@ Lightning, Magnemite
 Fire, Arcanine
 Colorless, Eevee
 Lightning, Team Aqua's Manectric
-Darkness, Team Aqua's Mightyena
+Psychic, Team Aqua's Mightyena
 Water, Seaking
 Lightning, Pikachu
 Grass, Nincada
@@ -5606,14 +5606,14 @@ Grass, Wurmple
 Fire, Ho-oh
 Water, Suicune
 Psychic, Team Magma's Baltoy
-Dragon, Alolan Exeggutor
+Water, Alolan Exeggutor
 Water, Squirtle
 Water, Palkia
 Fighting, Sudowoodo
 Psychic, Xatu
 Fighting, Riolu
 Grass, Chikorita
-Darkness, Tyranitar
+Psychic, Tyranitar
 Colorless, Stantler
 Grass, Cherrim
 Lightning, Ampharos ex
@@ -5621,12 +5621,12 @@ Grass, Kakuna
 Grass, Chikorita
 Fire, Team Magma's Houndoom
 Water, Horsea
-Dragon, Dratini
+Water, Dratini
 Grass, Nuzleaf
 Water, Remoraid
 Fighting, Mankey
-Dragon, Dratini
-Dragon, Dragonair
+Water, Dratini
+Water, Dragonair
 Psychic, Girafarig
 Water, Suicune & Entei LEGEND
 Fire, Team Magma's Houndour
@@ -5635,14 +5635,14 @@ Grass, Hoppip
 Fire, Magcargo
 Colorless, Doduo
 Colorless, Hoothoot
-Darkness, Houndoom
+Psychic, Houndoom
 Grass, Vespiquen
 Grass, Leafeon
-Dragon, Dragonite
+Water, Dragonite
 Colorless, Jigglypuff
-Metal, Metagross
+Fighting, Metagross
 Colorless, Eevee
-Darkness, Honchkrow
+Psychic, Honchkrow
 Colorless, Dragonite ex
 Fighting, Onix
 Lightning, Pikachu
@@ -5656,7 +5656,7 @@ Grass, Ivysaur
 Grass, Breloom
 Colorless, Rayquaza & Deoxys LEGEND
 Grass, Spinarak
-Darkness, Drapion
+Psychic, Drapion
 Water, Totodile
 Water, Palkia & Dialga LEGEND
 Psychic, Slowpoke
@@ -5678,7 +5678,7 @@ Lightning, Tynamo
 Colorless, Aipom
 Water, Team Aqua's Corphish
 Colorless, Tauros
-Metal, Bronzor
+Fighting, Bronzor
 Fighting, Cubone
 Fighting, Diglett
 Lightning, Eelektross
@@ -5688,7 +5688,7 @@ Colorless, Swellow
 Grass, Volbeat
 Lightning, Voltorb
 Psychic, Drifloon
-Darkness, Darkrai & Cresselia LEGEND
+Psychic, Darkrai & Cresselia LEGEND
 Psychic, Deoxys
 Lightning, Charmander (Delta Species)
 Fire, Mew (Delta Species)
@@ -5706,7 +5706,7 @@ Psychic, Smoochum
 Psychic, Sigilyph
 Fighting, Tyrogue
 Fire, Typhlosion
-Darkness, Team Aqua's Poochyena
+Psychic, Team Aqua's Poochyena
 Water, Team Aqua's Spheal
 Grass, Bayleef
 Psychic, Solosis
@@ -5724,40 +5724,40 @@ Grass, Sceptile
 Fighting, Archeops
 Water, Wooper
 Water, Swampert
-Darkness, Zorua
-Darkness, Carvanha
+Psychic, Zorua
+Psychic, Carvanha
 Psychic, Metang
 Water, Squirtle
 Water, Kyogre
 Colorless, Smeargle
 Water, Politoed
-Darkness, Hoopa
+Psychic, Hoopa
 Colorless, Zangoose
-Darkness, Tyranitar
+Psychic, Tyranitar
 Grass, Victreebel
-Darkness, Houndoom
-Darkness, Team Magma's Poochyena
+Psychic, Houndoom
+Psychic, Team Magma's Poochyena
 Grass, Torterra
 Grass, Beedrill
 Psychic, Crobat
 Fire, Camerupt
 Psychic, Nidorina
 Colorless, Dratini
-Darkness, Absol
+Psychic, Absol
 Grass, Butterfree
 Colorless, Granbull
 Water, Palkia & Dialga LEGEND
 Fighting, Team Magma's Rhyhorn
-Darkness, Houndour
-Metal, Lairon
+Psychic, Houndour
+Fighting, Lairon
 Psychic, Hypno
 Psychic, Unown
 Psychic, Sableye
 Water, Wingull
 Fighting, Sandshrew
 Fighting, Lucario
-Metal, Aggron
-Darkness, Murkrow
+Fighting, Aggron
+Psychic, Murkrow
 Fighting, Pupitar
 Fighting, Claydol
 Water, Poliwrath
@@ -5774,7 +5774,7 @@ Fighting, Kabutops
 Water, Snorunt
 Fighting, Kabutops
 Colorless, Swellow
-Fairy, M Diancie-EX
+Colorless, M Diancie-EX
 Fire, Blaziken-EX
 Fire, Torchic
 Water, Glalie
@@ -5783,12 +5783,12 @@ Lightning, Electrike
 Lightning, Alolan Graveler
 Lightning, Electrike
 Lightning, Minun
-Metal, Jirachi-EX
+Fighting, Jirachi-EX
 Fighting, Larvitar
 Fighting, Meditite
-Metal, Dialga
-Dragon, Black Kyurem
-Dragon, Tyrantrum-EX
+Fighting, Dialga
+Water, Black Kyurem
+Water, Tyrantrum-EX
 Lightning, Heliolisk
 Fire, Numel
 Lightning, Pikachu
@@ -5799,11 +5799,11 @@ Psychic, Gothita
 Psychic, Gothorita
 Psychic, Tapu Lele-GX
 Fighting, Machamp-EX
-Darkness, Umbreon
+Psychic, Umbreon
 Psychic, Meloetta
-Dragon, Goomy
+Water, Goomy
 Psychic, Lunala
-Fairy, Klefki
+Colorless, Klefki
 Psychic, Mewtwo-EX
 Colorless, Swablu
 Fighting, Machoke
@@ -5813,10 +5813,10 @@ Fighting, Gligar
 Fire, Ho-Oh
 Fire, Vulpix
 Fighting, Barboach
-Darkness, Umbreon
+Psychic, Umbreon
 Colorless, Wigglytuff
 Fighting, Gliscor
-Metal, Forretress
+Fighting, Forretress
 Colorless, Lugia
 Fighting, Larvitar
 Colorless, Zangoose
@@ -5824,7 +5824,7 @@ Fighting, Minior
 Colorless, Lugia
 Water, Gyarados-EX
 Psychic, Misdreavus
-Darkness, Absol
+Psychic, Absol
 Fighting, Lucario
 Fighting, Poliwrath
 Colorless, Stantler
@@ -5835,25 +5835,25 @@ Grass, Zubat
 Psychic, Metagross
 Fire, Magcargo
 Colorless, Altaria ex
-Metal, Jirachi
+Fighting, Jirachi
 Psychic, Deoxys ex
 Psychic, Dusclops ex
 Grass, Ninjask
 Water, Lombre
-Metal, Solgaleo
+Fighting, Solgaleo
 Grass, Silcoon
 Grass, Weezing
-Fairy, Cottonee
+Colorless, Cottonee
 Colorless, Bagon
 Lightning, Raichu ex
 Fighting, Lunatone
 Water, Glalie
-Metal, Escavalier
-Dragon, Shelgon
-Dragon, Salamence
+Fighting, Escavalier
+Water, Shelgon
+Water, Salamence
 Water, Regice ex
 Colorless, Taillow
-Darkness, Sharpedo ex
+Psychic, Sharpedo ex
 Colorless, Rayquaza Star
 Psychic, Alakazam
 Fighting, Groudon
@@ -5861,18 +5861,18 @@ Grass, Beedrill
 Lightning, Manectric ex
 Colorless, Ditto
 Fighting, Groudon
-Dragon, Dialga-EX
-Dragon, Palkia-EX
+Water, Dialga-EX
+Water, Palkia-EX
 Fire, Arcanine
 Colorless, Kangaskhan
 Lightning, Electrode
-Dragon, Haxorus
+Water, Haxorus
 Grass, Illumise
 Psychic, Chimecho
 Psychic, Kirlia
 Grass, Swalot
 Fire, Rapidash
-Dragon, Druddigon
+Water, Druddigon
 Colorless, Kangaskhan
 Colorless, Porygon2
 Colorless, Loudred
@@ -5883,14 +5883,14 @@ Fighting, Medicham ex
 Colorless, Tauros
 Fire, Camerupt
 Fighting, Marshtomp
-Dragon, Drampa
+Water, Drampa
 Psychic, Kadabra
-Dragon, Goodra
+Water, Goodra
 Fire, Typhlosion
 Psychic, Wobbuffet
 Lightning, Manectric
 Water, Squirtle
-Darkness, Sableye
+Psychic, Sableye
 Colorless, Tauros
 Fire, Torchic
 Fighting, Cacturne δ
@@ -5925,7 +5925,7 @@ Grass, Kakuna
 Grass, Metapod
 Colorless, Stufful
 Fire, Tyranitar δ
-Darkness, Umbreon δ
+Psychic, Umbreon δ
 Water, Vaporeon δ
 Grass, Nidorina
 Grass, Nidorino
@@ -5940,13 +5940,13 @@ Lightning, Jolteon
 Colorless, Ursaring
 Water, Wartortle
 Grass, Volbeat
-Darkness, Houndoom
+Psychic, Houndoom
 Grass, Dark Weezing
 Colorless, Wigglytuff
 Water, Ditto
-Metal, Eevee δ
+Fighting, Eevee δ
 Grass, Ledian
-Metal, Metagross-GX
+Fighting, Metagross-GX
 Grass, Scyther
 Fire, Ponyta
 Colorless, Taillow
@@ -5954,20 +5954,20 @@ Grass, Bulbasaur
 Grass, Caterpie
 Colorless, Porygon
 Fighting, Groudon Star
-Metal, Metagross Star
+Fighting, Metagross Star
 Colorless, Doduo
 Fire, Growlithe
 Fighting, Nosepass
 Lightning, Pikachu
-Dragon, Kommo-o-GX
+Water, Kommo-o-GX
 Fighting, Claydol
 Colorless, Jigglypuff
 Fire, Ponyta
-Darkness, Nidoking δ
+Psychic, Nidoking δ
 Water, Squirtle
 Grass, Virizion-EX
 Psychic, Duskull
-Darkness, Poochyena
+Psychic, Poochyena
 Grass, Genesect-EX
 Fire, Charizard ex
 Fighting, Seadra δ
@@ -5982,17 +5982,17 @@ Lightning, Electrode ex
 Water, Gyarados ex
 Psychic, Trapinch δ
 Psychic, Mr. Mime ex
-Metal, Jirachi-EX
-Darkness, Alolan Meowth
+Fighting, Jirachi-EX
+Psychic, Alolan Meowth
 Fighting, Dark Primeape
 Psychic, Mr. Mime ex
-Dragon, Dialga-EX
+Water, Dialga-EX
 Fighting, Kingdra ex δ
 Grass, Venusaur ex
 Grass, Virizion
 Colorless, Porygon
-Fairy, Snubbull
-Metal, Deoxys δ
+Colorless, Snubbull
+Fighting, Deoxys δ
 Grass, Weedle
 Water, Articuno ex
 Fire, Turtonator-GX
@@ -6006,7 +6006,7 @@ Fire, Blaziken
 Fire, Latias δ
 Psychic, Baltoy
 Fire, Heatran
-Metal, Registeel
+Fighting, Registeel
 Grass, Exeggutor
 Grass, Treecko
 Water, Relicanth
@@ -6017,8 +6017,8 @@ Grass, Cacturne
 Lightning, Manectric
 Fighting, Sharpedo δ
 Psychic, Wobbuffet
-Metal, Magikarp δ
-Darkness, Meowth δ
+Fighting, Magikarp δ
+Psychic, Meowth δ
 Lightning, Pikachu
 Water, Palkia-GX
 Fire, Flareon
@@ -6028,11 +6028,11 @@ Water, Horsea
 Psychic, Starmie
 Water, Quagsire
 Water, Glaceon
-Metal, Steelix
+Fighting, Steelix
 Water, Squirtle
 Grass, Koffing
 Psychic, Mew
-Darkness, Dark Dragonair
+Psychic, Dark Dragonair
 Fighting, Kabuto
 Colorless, Rattata
 Water, Amaura
@@ -6041,7 +6041,7 @@ Water, Omanyte
 Lightning, Voltorb
 Water, Dewpider
 Lightning, Helioptile
-Darkness, Nuzleaf
+Psychic, Nuzleaf
 Water, Tentacruel
 Fire, Blaine's Arcanine
 Colorless, Persian
@@ -6072,24 +6072,24 @@ Fighting, Kabutops
 Grass, Giovanni's Nidoking
 Fighting, Machamp
 Psychic, Dusclops
-Darkness, Mightyena
+Psychic, Mightyena
 Grass, Seviper
 Colorless, Giovanni's Persian
 Colorless, Chansey
 Fighting, Anorith
-Darkness, Cacturne
+Psychic, Cacturne
 Fire, Charmeleon
 Fire, Combusken
 Fighting, Machoke
 Grass, Koga's Beedrill
 Fighting, Medicham
-Darkness, Nuzleaf
-Darkness, Sharpedo
+Psychic, Nuzleaf
+Psychic, Sharpedo
 Colorless, Shelgon
-Metal, Beldum
+Fighting, Beldum
 Colorless, Koga's Ditto
 Water, Seismitoad
-Darkness, Carvanha
+Psychic, Carvanha
 Fire, Charmander
 Psychic, Duskull
 Lightning, Pikachu
@@ -6110,8 +6110,8 @@ Colorless, Dratini
 Grass, Ekans
 Grass, Jumpluff
 Grass, Koga's Muk
-Darkness, Dark Tyranitar
-Darkness, Dark Dragonite
+Psychic, Dark Tyranitar
+Psychic, Dark Dragonite
 Grass, Grimer
 Lightning, Lt. Surge's Jolteon
 Fire, Dark Houndoom
@@ -6133,7 +6133,7 @@ Fire, Rapidash
 Grass, Erika's Bellsprout
 Grass, Erika's Bulbasaur
 Water, Froakie
-Metal, Honedge
+Fighting, Honedge
 Colorless, Miltank
 Grass, Wormadam Plant Cloak
 Water, Slowbro
@@ -6142,7 +6142,7 @@ Colorless, Porygon2
 Fighting, Wormadam Sandy Cloak
 Water, Kyurem
 Colorless, Cleffa
-Darkness, Pawniard
+Psychic, Pawniard
 Psychic, Trapinch δ
 Fighting, Giovanni's Machoke
 Lightning, Chinchou
@@ -6155,7 +6155,7 @@ Lightning, Lanturn
 Psychic, Nidoqueen
 Psychic, Nidorino
 Grass, Burmy Sandy Cloak
-Fairy, Flabébé
+Colorless, Flabébé
 Colorless, Giovanni's Meowth
 Lightning, Electrike
 Psychic, Banette
@@ -6169,7 +6169,7 @@ Psychic, Sabrina's Hypno
 Colorless, Wigglytuff
 Colorless, Igglybuff
 Colorless, Loudred
-Metal, Lairon
+Fighting, Lairon
 Fire, Blaine's Growlithe
 Colorless, Granbull
 Colorless, Exploud ex
@@ -6184,8 +6184,8 @@ Grass, Giovanni's Nidoran♂
 Grass, Koga's Grimer
 Grass, Koga's Koffing
 Colorless, Persian
-Metal, Skarmory
-Metal, Holon's Magnemite
+Fighting, Skarmory
+Fighting, Holon's Magnemite
 Colorless, Koga's Pidgey
 Colorless, Igglybuff
 Colorless, Latios Star
@@ -6197,20 +6197,20 @@ Fire, Smoochum δ
 Fire, Latias ex δ
 Fighting, Solrock
 Psychic, Flygon ex δ
-Darkness, Rocket's Mewtwo ex
+Psychic, Rocket's Mewtwo ex
 Grass, Koga's Zubat
 Lightning, Lt. Surge's Pikachu
 Psychic, Deoxys-EX
 Fighting, Barboach
 Fire, Numel
-Metal, Pichu δ
-Metal, Pikachu δ
+Fighting, Pichu δ
+Fighting, Pikachu δ
 Fighting, Mankey
 Lightning, Zapdos
 Fighting, Golem
 Fighting, Hariyama
-Darkness, Sneasel
-Darkness, Weavile
+Psychic, Sneasel
+Psychic, Weavile
 Fighting, Machop
 Lightning, Pikachu
 Colorless, Dunsparce
@@ -6224,15 +6224,15 @@ Lightning, Voltorb
 Psychic, Banette ex
 Fire, Slugma
 Psychic, Gengar & Mimikyu-GX
-Metal, Registeel Star
+Fighting, Registeel Star
 Water, Regice Star
-Metal, Pikachu δ
+Fighting, Pikachu δ
 Water, Misty's Horsea
-Darkness, Rocket's Suicune ex
+Psychic, Rocket's Suicune ex
 Water, Omastar
 Colorless, Lt. Surge's Rattata
 Psychic, Kirlia
-Metal, Aron
+Fighting, Aron
 Grass, Lileep
 Psychic, Wynaut
 Colorless, Dragonair
@@ -6243,7 +6243,7 @@ Water, Misty's Magikarp
 Lightning, Alolan Raichu
 Water, Misty's Poliwag
 Water, Misty's Psyduck
-Darkness, Rocket's Meowth
+Psychic, Rocket's Meowth
 Colorless, Furret
 Water, Misty's Seel
 Lightning, Pikachu
@@ -6254,7 +6254,7 @@ Psychic, Natu
 Colorless, Teddiursa
 Water, Squirtle
 Colorless, Sabrina's Porygon
-Darkness, Absol
+Psychic, Absol
 Water, Azumarill
 Fire, Dark Charizard
 Colorless, Blissey
@@ -6264,12 +6264,12 @@ Fire, Ninetales
 Fighting, Brock's Rhydon
 Colorless, Erika's Clefable
 Colorless, Erika's Dragonair
-Darkness, Umbreon
+Psychic, Umbreon
 Grass, Victreebel
 Fire, Ho-Oh
 Grass, Erika's Vileplume
 Water, Wailmer
-Metal, Scizor
+Fighting, Scizor
 Lightning, Lt. Surge's Electabuzz
 Water, Lugia
 Lightning, Lt. Surge's Magneton
@@ -6297,21 +6297,21 @@ Psychic, Mr. Mime
 Lightning, Lt. Surge's Raichu
 Colorless, Noctowl
 Water, Gyarados
-Metal, Dialga
+Fighting, Dialga
 Fighting, Hitmonchan
 Psychic, Mewtwo
 Water, Misty's Tentacool
 Water, Lugia
 Colorless, Rocket's Snorlax
 Psychic, Jirachi
-Darkness, Krookodile
+Psychic, Krookodile
 Water, Palkia
 Fire, Magmar
 Water, Poliwhirl
 Grass, Bellsprout
 Grass, Sabrina's Venomoth
 Water, Feraligatr
-Fairy, Granbull
+Colorless, Granbull
 Water, Poliwag
 Colorless, Spearow
 Water, Staryu
@@ -6321,7 +6321,7 @@ Grass, Brock's Golbat
 Lightning, Electrode
 Psychic, Mewtwo
 Fighting, Brock's Graveler
-Metal, Heatran
+Fighting, Heatran
 Colorless, Dark Dragonair
 Fire, Typhlosion
 Fighting, Hitmontop
@@ -6333,10 +6333,10 @@ Fire, Feebas δ
 Water, Omastar
 Water, Starmie
 Water, Staryu
-Dragon, Latias ◇
+Water, Latias ◇
 Colorless, Slakoth
 Fighting, Sandslash
-Darkness, Bisharp
+Psychic, Bisharp
 Colorless, Dodrio
 Psychic, Misdreavus
 Colorless, Clefairy
@@ -6344,12 +6344,12 @@ Psychic, Slowbro
 Colorless, Erika's Dratini
 Fire, Blaine's Charmander
 Water, Seadra
-Darkness, Bisharp
+Psychic, Bisharp
 Fire, Charmander
 Colorless, Persian
 Colorless, Snorlax
-Darkness, Deino
-Metal, Steelix
+Psychic, Deino
+Fighting, Steelix
 Colorless, Clefable ex
 Lightning, Magnemite
 Fire, Ho-Oh
@@ -6360,7 +6360,7 @@ Fire, Charmander
 Colorless, Latias
 Colorless, Latios
 Colorless, Cleffa
-Dragon, Dragonair
+Water, Dragonair
 Grass, Koga's Arbok
 Colorless, Hoothoot
 Lightning, Voltorb
@@ -6406,7 +6406,7 @@ Water, Seaking
 Grass, Exeggcute
 Fire, Pyroar BREAK
 Fire, Entei
-Dragon, Dragonite
+Water, Dragonite
 Fighting, Rhyhorn
 Colorless, Spearow
 Water, Suicune
@@ -6443,13 +6443,13 @@ Fire, Ponyta
 Grass, Sewaddle
 Grass, Erika's Gloom
 Grass, Erika's Gloom
-Darkness, Tyranitar ex
-Metal, Chimecho (Delta Species)
+Psychic, Tyranitar ex
+Fighting, Chimecho (Delta Species)
 Psychic, Banette
 Water, Articuno
 Grass, Erika's Weepinbell
 Grass, Crobat
-Metal, Forretress
+Fighting, Forretress
 Psychic, Gengar
 Psychic, Gengar
 Water, Gyarados
@@ -6469,7 +6469,7 @@ Colorless, Pidgeotto
 Water, Magikarp
 Psychic, Misdreavus
 Water, Misty's Psyduck
-Darkness, Shiftry
+Psychic, Shiftry
 Lightning, Electrode
 Grass, Golbat
 Water, Misty's Seaking
@@ -6479,7 +6479,7 @@ Grass, Grimer
 Colorless, Cleffa
 Grass, Heracross
 Fighting, Rhyhorn
-Metal, Dusk Mane Necrozma
+Fighting, Dusk Mane Necrozma
 Water, Misty's Tentacool
 Water, Huntail
 Psychic, Sabrina's Jynx
@@ -6496,7 +6496,7 @@ Water, Snow-cloud Castform
 Grass, Tangela
 Fire, Arcanine
 Colorless, Porygon2
-Metal, Beldum
+Fighting, Beldum
 Fire, Blaine's Growlithe
 Fire, Blaine's Ponyta
 Colorless, Dodrio
@@ -6509,9 +6509,9 @@ Colorless, Furret
 Fighting, Marowak
 Grass, Scyther
 Grass, Spinarak
-Metal, Dialga
+Fighting, Dialga
 Psychic, Toxicroak
-Metal, Metang
+Fighting, Metang
 Grass, Pinsir
 Grass, Scyther
 Grass, Pinsir
@@ -6541,9 +6541,9 @@ Psychic, Baltoy
 Psychic, Gengar
 Fighting, Brock's Rhyhorn
 Fighting, Brock's Sandshrew
-Dragon, Latias-EX
+Water, Latias-EX
 Fighting, Dugtrio
-Dragon, Latios-EX
+Water, Latios-EX
 Psychic, Beldum
 Water, Azumarill
 Fighting, Stunfisk
@@ -6578,14 +6578,14 @@ Fire, Brock's Vulpix
 Psychic, Garbodor
 Water, Feebas
 Grass, Erika's Bellsprout
-Dragon, Hydreigon
-Metal, Dark Scizor
+Water, Hydreigon
+Fighting, Dark Scizor
 Psychic, Unown [G]
 Water, Dark Croconaw
 Grass, Erika's Exeggcute
 Grass, Dark Forretress
-Dragon, Garchomp
-Dragon, Black Kyurem-EX
+Water, Garchomp
+Water, Black Kyurem-EX
 Water, Light Piloswine
 Grass, Parasect
 Grass, Vespiquen
@@ -6603,7 +6603,7 @@ Lightning, Lt. Surge's Voltorb
 Colorless, Jigglypuff
 Colorless, Tornadus
 Grass, Bellossom
-Metal, Steelix
+Fighting, Steelix
 Grass, Maractus
 Fighting, Phanpy
 Colorless, Clefairy
@@ -6619,7 +6619,7 @@ Psychic, Lampent
 Colorless, Snubbull
 Grass, Amoonguss
 Fighting, Nosepass
-Darkness, Murkrow
+Psychic, Murkrow
 Psychic, Smoochum
 Water, Misty's Shellder
 Colorless, Snubbull
@@ -6636,13 +6636,13 @@ Fighting, Hitmontop
 Fire, Monferno
 Colorless, Blissey
 Water, Tentacool
-Darkness, Yveltal BREAK
+Psychic, Yveltal BREAK
 Fighting, Hitmonchan
 Grass, Zubat
 Fire, Growlithe
 Psychic, Croagunk
 Fire, Infernape
-Metal, M Steelix-EX
+Fighting, M Steelix-EX
 Fighting, Groudon ex
 Water, Kyogre ex
 Lightning, Pikachu
@@ -6654,7 +6654,7 @@ Fighting, Regirock ex
 Water, Feraligatr
 Psychic, Kirlia
 Psychic, Meloetta-EX
-Metal, Registeel ex
+Fighting, Registeel ex
 Fire, Pansear
 Fire, Simisear
 Grass, Vileplume ex
@@ -6666,12 +6666,12 @@ Grass, Pinsir
 Water, Froslass
 Psychic, Trubbish
 Lightning, Voltorb
-Fairy, Azumarill
+Colorless, Azumarill
 Grass, Bellossom
 Colorless, Dragonair
 Colorless, Pidgeotto
 Psychic, Espeon
-Metal, Scizor
+Fighting, Scizor
 Water, Articuno-EX
 Grass, Kricketot
 Fire, Heatran
@@ -6679,12 +6679,12 @@ Fighting, Rockruff
 Water, Swinub
 Grass, Amoonguss
 Psychic, Giratina ◇
-Fairy, Xerneas
-Metal, Beldum
+Colorless, Xerneas
+Fighting, Beldum
 Psychic, Mismagius
 Fire, Growlithe
 Water, Mamoswine
-Darkness, Sableye
+Psychic, Sableye
 Lightning, Rotom
 Psychic, Cresselia
 Lightning, Luxray
@@ -6696,14 +6696,14 @@ Grass, Tropius
 Colorless, Rayquaza
 Water, Vanillish
 Water, Vanilluxe
-Dragon, Deino
+Water, Deino
 Fire, Litwick
-Darkness, Skuntank
+Psychic, Skuntank
 Water, Jellicent
 Lightning, Magnezone
 Fire, Chandelure
 Water, Lapras
-Darkness, Murkrow
+Psychic, Murkrow
 Colorless, Ambipom
 Grass, Yanmega
 Lightning, Magnezone
@@ -6714,14 +6714,14 @@ Lightning, Galvantula
 Psychic, Zubat
 Colorless, Braviary
 Water, Frillish
-Darkness, Darkrai ◇
+Psychic, Darkrai ◇
 Fighting, Hitmonlee
 Psychic, Deoxys Attack Forme
 Water, Jellicent
 Psychic, Crobat
 Colorless, Togepi
 Psychic, Deoxys Defense Forme
-Metal, Heatran
+Fighting, Heatran
 Psychic, Deoxys Speed Forme
 Psychic, Giratina
 Psychic, Trubbish
@@ -6759,13 +6759,13 @@ Lightning, Zebstrika
 Lightning, Emolga
 Colorless, Staraptor
 Lightning, Dedenne
-Fairy, Mr. Mime
+Colorless, Mr. Mime
 Psychic, Exeggutor
 Water, Magikarp
 Lightning, Zekrom
 Lightning, Zekrom-EX
 Psychic, Muk
-Fairy, M Gardevoir-EX
+Colorless, M Gardevoir-EX
 Water, Feraligatr
 Colorless, Porygon
 Psychic, Ralts
@@ -6780,13 +6780,13 @@ Grass, Ledian
 Colorless, Persian
 Lightning, Raikou
 Grass, Metapod
-Darkness, Absol
+Psychic, Absol
 Colorless, Blissey
 Psychic, Jynx
 Colorless, Pidgeot
 Lightning, Pikachu
 Fire, Ponyta
-Darkness, Sharpedo
+Psychic, Sharpedo
 Water, Corsola
 Water, Delibird
 Water, Cloyster
@@ -6794,7 +6794,7 @@ Psychic, Unown O
 Lightning, Flaaffy
 Colorless, Dunsparce
 Grass, Heracross
-Darkness, Sableye
+Psychic, Sableye
 Psychic, Unown N
 Colorless, Miltank
 Grass, Burmy Trash Cloak
@@ -6805,7 +6805,7 @@ Water, Lotad
 Fire, Quilava
 Fighting, Infernape
 Water, Lumineon
-Metal, Magnezone
+Fighting, Magnezone
 Grass, Chikorita
 Colorless, Clefairy
 Colorless, Girafarig
@@ -6825,19 +6825,19 @@ Psychic, Kirlia
 Colorless, Sentret
 Water, Slowpoke
 Grass, Sunkern
-Darkness, Tyranitar
+Psychic, Tyranitar
 Water, Totodile
 Fighting, Onix
 Colorless, Farfetch'd
 Psychic, Haunter
-Metal, Magneton
+Fighting, Magneton
 Fighting, Machoke
 Psychic, Bronzor
 Grass, Combee
 Lightning, Pikachu
 Lightning, Ampharos
 Fighting, Donphan
-Darkness, Absol G
+Psychic, Absol G
 Grass, Meganium
 Fire, Charizard
 Fire, Typhlosion
@@ -6850,8 +6850,8 @@ Water, Lugia LEGEND
 Psychic, Medicham
 Grass, Parasect
 Psychic, Roserade C
-Metal, Mawile
-Darkness, Sableye G
+Fighting, Mawile
+Psychic, Sableye G
 Fighting, Pancham
 Fighting, Zygarde
 Grass, Cherrim
@@ -6883,28 +6883,28 @@ Fighting, Machamp
 Fire, Magcargo
 Grass, Bellossom
 Psychic, Chimecho
-Metal, Metang
+Fighting, Metang
 Fighting, Hippowdon
 Water, Walrein
-Darkness, Umbreon ex
+Psychic, Umbreon ex
 Fighting, Mienfoo
 Psychic, Unown
 Psychic, Unown
 Psychic, Unown
-Darkness, Shiftry
+Psychic, Shiftry
 Psychic, Unown
 Psychic, Unown
 Water, Palkia-GX
 Psychic, Unown
 Water, Relicanth
-Darkness, Scraggy
+Psychic, Scraggy
 Psychic, Unown
 Psychic, Unown
-Metal, Bronzong
+Fighting, Bronzong
 Psychic, Unown W
 Fire, Sunny Castform
 Water, Milotic C
-Metal, Beldum
+Fighting, Beldum
 Grass, Treecko
 Grass, Tropius
 Fighting, Baltoy
@@ -6914,7 +6914,7 @@ Colorless, Regigigas-EX
 Colorless, Castform
 Fighting, Claydol
 Psychic, Hoopa-EX
-Fairy, Gardevoir-EX
+Colorless, Gardevoir-EX
 Colorless, Igglybuff
 Psychic, Hoopa-EX
 Grass, Golbat
@@ -6922,7 +6922,7 @@ Colorless, Minccino
 Fire, M Blaziken-EX
 Colorless, Cinccino
 Grass, Celebi
-Darkness, Darkrai
+Psychic, Darkrai
 Lightning, Lanturn
 Water, Luvdisc
 Fire, Moltres
@@ -6930,11 +6930,11 @@ Colorless, Loudred
 Fighting, Machoke
 Fighting, Medicham
 Grass, Shaymin-EX
-Darkness, Nuzleaf
+Psychic, Nuzleaf
 Water, Kyurem-EX
 Psychic, Metang
 Psychic, Slowking
-Metal, Steelix
+Fighting, Steelix
 Water, Octillery
 Psychic, Mewtwo-EX
 Fighting, Lucario
@@ -6945,18 +6945,18 @@ Lightning, Zapdos
 Fire, Salandit
 Fighting, Nosepass
 Fire, Heatran
-Metal, Probopass
+Fighting, Probopass
 Grass, Sceptile
 Water, Golduck
 Colorless, Spinda
 Fighting, Whiscash
 Lightning, Zapdos G
 Fighting, Aerodactyl
-Metal, Bronzong
+Fighting, Bronzong
 Psychic, Gengar
 Grass, Swalot
-Metal, Bronzong
-Metal, Bronzor
+Fighting, Bronzong
+Fighting, Bronzor
 Fighting, Graveler
 Grass, Chikorita
 Psychic, Alakazam
@@ -6978,8 +6978,8 @@ Fire, Arcanine
 Fire, Charmeleon
 Water, Dewgong
 Water, Totodile
-Darkness, Scrafty
-Metal, Klink
+Psychic, Scrafty
+Fighting, Klink
 Colorless, Lillipup
 Colorless, Stoutland
 Fire, Vulpix
@@ -6997,27 +6997,27 @@ Fighting, Trapinch
 Fighting, Crustle
 Fighting, Mienfoo
 Fighting, Mienfoo
-Darkness, Liepard
-Metal, Skarmory
-Dragon, Flygon
-Dragon, Black Kyurem-EX
+Psychic, Liepard
+Fighting, Skarmory
+Water, Flygon
+Water, Black Kyurem-EX
 Colorless, Raticate
 Colorless, Farfetch'd
 Lightning, Charmander δ
 Psychic, Golurk
-Dragon, Altaria
+Water, Altaria
 Grass, Chikorita
 Grass, Bayleef
 Fire, Ninetales ex
 Psychic, Drowzee
 Psychic, Trubbish
 Psychic, Doublade
-Darkness, Nuzleaf
-Darkness, Shiftry
-Metal, Metagross ex
-Metal, Scizor-EX
-Fairy, Spritzee
-Fairy, Aromatisse
+Psychic, Nuzleaf
+Psychic, Shiftry
+Fighting, Metagross ex
+Fighting, Scizor-EX
+Colorless, Spritzee
+Colorless, Aromatisse
 Colorless, Ho-Oh-EX
 Colorless, Wigglytuff ex
 Fighting, Armaldo δ
@@ -7027,7 +7027,7 @@ Colorless, Ho-Oh-EX
 Grass, Parasect
 Grass, Chespin
 Fighting, Conkeldurr
-Darkness, Deoxys δ
+Psychic, Deoxys δ
 Water, M Glalie-EX
 Water, Simipour
 Water, Vanillish
@@ -7045,9 +7045,9 @@ Lightning, Kabutops δ
 Psychic, Beheeyem
 Fighting, Marowak BREAK
 Fighting, Gallade
-Metal, Bronzor
-Fairy, Snubbull
-Fairy, Flabébé
+Fighting, Bronzor
+Colorless, Snubbull
+Colorless, Flabébé
 Fire, Kingdra δ
 Fire, Latias δ
 Water, Latios δ
@@ -7061,7 +7061,7 @@ Psychic, Mewtwo-EX
 Lightning, Pidgeot δ
 Water, Corphish
 Psychic, Vileplume δ
-Darkness, Zoroark
+Psychic, Zoroark
 Water, Azumarill
 Water, Panpour
 Lightning, Eelektross
@@ -7073,12 +7073,12 @@ Psychic, Sandygast
 Fighting, Nosepass
 Fire, Rayquaza δ
 Fighting, Carbink
-Darkness, Hydreigon
+Psychic, Hydreigon
 Water, Kyogre ex
 Fighting, Groudon ex
 Fire, Torkoal
 Fighting, Lucario
-Fairy, Kirlia
+Colorless, Kirlia
 Fire, Aerodactyl δ
 Lightning, Golduck δ
 Grass, Treecko
@@ -7088,7 +7088,7 @@ Grass, Vibrava δ
 Fighting, Whiscash
 Grass, Weedle
 Grass, Kakuna
-Metal, Anorith δ
+Fighting, Anorith δ
 Fighting, Carvanha δ
 Grass, Grovyle
 Fighting, Exeggcute δ
@@ -7104,14 +7104,14 @@ Grass, Pansage
 Lightning, Zekrom
 Psychic, Elgyem
 Fire, Torchic
-Darkness, Liepard
-Dragon, Black Kyurem-EX
+Psychic, Liepard
+Water, Black Kyurem-EX
 Grass, Virizion
 Fighting, Terrakion
 Lightning, Pikachu
 Psychic, Deoxys-EX
 Colorless, Cleffa
-Darkness, Scrafty
+Psychic, Scrafty
 Fighting, Lucario
 Grass, Leafeon
 Psychic, Espeon
@@ -7119,22 +7119,22 @@ Colorless, Eevee
 Water, Mudkip
 Fire, Ho-Oh
 Water, Kyogre
-Darkness, Umbreon
+Psychic, Umbreon
 Lightning, Ampharos
-Metal, Skarmory
+Fighting, Skarmory
 Colorless, Granbull
 Psychic, Mismagius
 Psychic, Mr. Mime
 Colorless, Pidgeot
-Metal, Skarmory
+Fighting, Skarmory
 Psychic, Slowking
 Psychic, Mew ex
 Lightning, Jolteon
 Grass, Chikorita
-Darkness, Houndour
+Psychic, Houndour
 Psychic, Koffing
 Lightning, Mareep
-Metal, Klang
+Fighting, Klang
 Fighting, Meditite
 Colorless, Pidgey
 Water, Relicanth
@@ -7142,7 +7142,7 @@ Fire, Vulpix
 Water, Palkia
 Lightning, Raikou
 Lightning, Pikachu Star
-Darkness, Mightyena ex
+Psychic, Mightyena ex
 Fire, Gyarados Star δ
 Water, Marshtomp
 Lightning, Pikachu
@@ -7157,30 +7157,30 @@ Grass, Treecko
 Fire, Torchic
 Water, Mudkip
 Colorless, Whismur
-Metal, Aggron
+Fighting, Aggron
 Psychic, Celebi
 Fighting, Buzzwole-GX
 Water, Ludicolo
 Fighting, Nidoking
 Psychic, Jirachi
-Metal, Aron
-Metal, Registeel
-Metal, Beldum
-Metal, Bronzong
+Fighting, Aron
+Fighting, Registeel
+Fighting, Beldum
+Fighting, Bronzong
 Colorless, Ditto
-Dragon, Kommo-o
+Water, Kommo-o
 Colorless, Miltank
 Colorless, Swablu
 Fighting, Dugtrio
 Lightning, Electivire
-Metal, Metang
+Fighting, Metang
 Fighting, Medicham
 Grass, Kricketune
 Psychic, Chimecho
 Fighting, Machamp
 Psychic, Nidoqueen
-Darkness, Sharpedo
-Dragon, Alolan Exeggutor-GX
+Psychic, Sharpedo
+Water, Alolan Exeggutor-GX
 Colorless, Flygon
 Fighting, Dugtrio
 Fire, Ludicolo δ
@@ -7191,25 +7191,25 @@ Water, Marshtomp
 Colorless, Dragonair
 Lightning, Electrode
 Water, Lombre
-Darkness, Nuzleaf
+Psychic, Nuzleaf
 Colorless, Skitty
 Psychic, Drifblim
 Fighting, Mamoswine
-Darkness, Skuntank
+Psychic, Skuntank
 Fire, Heatran
 Colorless, Regigigas
 Fire, Charmander
-Fairy, Jigglypuff
+Colorless, Jigglypuff
 Grass, Celebi
 Water, Suicune
 Grass, Rowlet
 Grass, Shiinotic
-Fairy, Granbull
-Fairy, Ribombee
+Colorless, Granbull
+Colorless, Ribombee
 Fighting, Lucario
 Grass, Decidueye
-Fairy, Kirlia
-Fairy, Morelull
+Colorless, Kirlia
+Colorless, Morelull
 Grass, Sceptile-GX
 Fire, Magcargo-GX
 Fire, Moltres ex
@@ -7221,13 +7221,13 @@ Fire, Incineroar-GX
 Water, Psyduck
 Lightning, Charjabug
 Psychic, Drowzee
-Metal, Pikachu δ
+Fighting, Pikachu δ
 Fire, Arcanine
 Psychic, Cosmoem
 Fighting, Hariyama
-Darkness, Sharpedo
-Darkness, Krookodile
-Metal, Alolan Dugtrio
+Psychic, Sharpedo
+Psychic, Krookodile
+Fighting, Alolan Dugtrio
 Colorless, Spinda
 Colorless, Herdier
 Colorless, Yungoos
@@ -7256,8 +7256,8 @@ Lightning, Raichu
 Lightning, Team Aqua's Manectric
 Psychic, Dark Hypno
 Fighting, Dark Marowak
-Darkness, Rocket's Sneasel ex
-Darkness, Rocket's Zapdos ex
+Psychic, Rocket's Sneasel ex
+Psychic, Rocket's Zapdos ex
 Lightning, Raikou ex
 Grass, Treecko Star
 Lightning, Dark Magneton
@@ -7267,13 +7267,13 @@ Fire, Dark Flareon
 Colorless, Dark Persian
 Fire, Dark Rapidash
 Colorless, Delcatty
-Metal, Dialga
-Metal, Dialga
-Metal, Dialga G
+Fighting, Dialga
+Fighting, Dialga
+Fighting, Dialga G
 Fire, Tepig
 Colorless, Dark Raticate
 Psychic, Skuntank G
-Metal, Bastiodon
+Fighting, Bastiodon
 Colorless, Blissey
 Fighting, Dugtrio
 Water, Golduck
@@ -7282,7 +7282,7 @@ Grass, Shaymin
 Psychic, Toxicroak G
 Psychic, Mismagius
 Psychic, Seviper
-Metal, Shieldon
+Fighting, Shieldon
 Water, Wartortle
 Colorless, Eevee
 Colorless, Chansey
@@ -7299,7 +7299,7 @@ Lightning, Minun
 Lightning, Plusle
 Fighting, Donphan
 Colorless, Deoxys δ
-Metal, Bastiodon
+Fighting, Bastiodon
 Lightning, Pachirisu
 Fighting, Rampardos
 Colorless, Starly
@@ -7311,7 +7311,7 @@ Fighting, Wormadam Sandy Cloak
 Colorless, Spinda
 Fire, Heatran
 Water, Oshawott
-Metal, Probopass
+Fighting, Probopass
 Grass, Carnivine
 Lightning, Luxio
 Fire, Chimchar
@@ -7328,9 +7328,9 @@ Grass, Ariados
 Water, Feraligatr ex
 Colorless, Lugia ex
 Grass, Meganium ex
-Metal, Scizor ex
+Fighting, Scizor ex
 Fire, Typhlosion ex
-Darkness, Tyranitar ex
+Psychic, Tyranitar ex
 Water, Suicune Star
 Psychic, Unown
 Psychic, Unown
@@ -7384,52 +7384,52 @@ Fighting, Riolu
 Fighting, Crabominable
 Fighting, Lycanroc
 Psychic, Pumpkaboo
-Darkness, Alolan Rattata
-Darkness, Alolan Grimer
-Darkness, Alolan Muk-GX
+Psychic, Alolan Rattata
+Psychic, Alolan Grimer
+Psychic, Alolan Muk-GX
 Fighting, Gligar
-Darkness, Darkrai
-Darkness, Inkay
-Fairy, Gardevoir-GX
+Psychic, Darkrai
+Psychic, Inkay
+Colorless, Gardevoir-GX
 Fighting, Gliscor
 Fighting, Boldore
-Fairy, Shiinotic
-Dragon, Zygarde
+Colorless, Shiinotic
+Water, Zygarde
 Colorless, Persian
 Colorless, Porygon
 Fighting, Gigalith
 Colorless, Noibat
 Colorless, Stufful
-Darkness, Murkrow
-Darkness, Poochyena
+Psychic, Murkrow
+Psychic, Poochyena
 Fire, Salazzle-GX
 Water, Horsea
-Darkness, Mightyena
-Darkness, Spiritomb
+Psychic, Mightyena
+Psychic, Spiritomb
 Fighting, Marshadow-GX
-Darkness, Darkrai-GX
-Darkness, Purrloin
-Darkness, Malamar-EX
+Psychic, Darkrai-GX
+Psychic, Purrloin
+Psychic, Malamar-EX
 Grass, Tapu Bulu-GX
-Metal, Skarmory
-Metal, Bronzong
-Metal, Dialga-EX
+Fighting, Skarmory
+Fighting, Bronzong
+Fighting, Dialga-EX
 Grass, Snivy
 Psychic, Necrozma-GX
-Metal, Heatran
-Darkness, Darkrai-GX
-Dragon, Noivern-GX
+Fighting, Heatran
+Psychic, Darkrai-GX
+Water, Noivern-GX
 Lightning, Zekrom
 Fire, Tepig
-Darkness, Zoroark
+Psychic, Zoroark
 Colorless, Minccino
 Colorless, Axew
 Water, Ducklett
-Darkness, Zoroark
+Psychic, Zoroark
 Grass, Serperior
 Fire, Emboar
 Water, Samurott
-Darkness, Scraggy
+Psychic, Scraggy
 Colorless, Axew
 Psychic, Litwick
 Fire, Victini
@@ -7442,27 +7442,27 @@ Fire, Volcarona
 Lightning, Thundurus
 Fighting, Landorus
 Water, Kyurem
-Darkness, Darkrai-EX
-Dragon, Rayquaza-EX
+Psychic, Darkrai-EX
+Water, Rayquaza-EX
 Grass, Lilligant
 Psychic, Crobat
 Colorless, Lillipup
 Water, Empoleon
-Dragon, Haxorus
-Dragon, Black Kyurem
+Water, Haxorus
+Water, Black Kyurem
 Water, Keldeo-EX
-Dragon, White Kyurem-EX
+Water, White Kyurem-EX
 Psychic, Drifblim
 Colorless, Jigglypuff
 Lightning, Ampharos
-Metal, Cobalion
-Darkness, Darkrai
+Fighting, Cobalion
+Psychic, Darkrai
 Psychic, Giratina
 Psychic, Metagross
 Lightning, Electrode
 Lightning, Raichu
 Fighting, Landorus
-Dragon, Druddigon
+Water, Druddigon
 Lightning, Thundurus-EX
 Colorless, Lugia-EX
 Colorless, Porygon-Z
@@ -7470,38 +7470,38 @@ Grass, Genesect
 Fire, Flareon
 Water, Vaporeon
 Water, Glaceon
-Darkness, Umbreon
+Psychic, Umbreon
 Colorless, Tornadus-EX
 Psychic, Mew
 Grass, Genesect
 Grass, Skiddo
 Grass, Gogoat
 Grass, Pheromosa
-Metal, Aegislash-EX
+Fighting, Aegislash-EX
 Grass, Scatterbug
 Grass, Scatterbug
 Grass, Spewpa
 Water, Croconaw
 Fire, Delphox
-Metal, Aegislash-EX
-Metal, Klefki
+Fighting, Aegislash-EX
+Fighting, Klefki
 Fire, Fennekin
 Fire, Pyroar
 Fire, Fennekin
 Water, Clawitzer
-Fairy, Swirlix
+Colorless, Swirlix
 Water, Bergmite
 Water, Avalugg
 Water, Clauncher
 Lightning, Magnezone
 Psychic, Rotom
 Psychic, Espurr
-Fairy, Slurpuff
-Fairy, Dedenne
+Colorless, Slurpuff
+Colorless, Dedenne
 Lightning, Heliolisk
 Water, Manaphy
-Fairy, Diancie
-Dragon, Sliggoo
+Colorless, Diancie
+Water, Sliggoo
 Psychic, Malamar
 Psychic, Hoopa
 Lightning, Raichu-GX
@@ -7517,28 +7517,28 @@ Colorless, Blissey
 Fighting, Lycanroc
 Colorless, Girafarig
 Colorless, Loudred
-Fairy, Floette
-Fairy, Sylveon
+Colorless, Floette
+Colorless, Sylveon
 Colorless, Exploud
 Colorless, Regigigas
-Fairy, Flabébé
-Fairy, Florges
-Dragon, Goodra
+Colorless, Flabébé
+Colorless, Florges
+Water, Goodra
 Colorless, Arceus ◇
 Colorless, Bunnelby
 Colorless, Diggersby
-Dragon, Sliggoo
+Water, Sliggoo
 Colorless, Noivern
 Colorless, Furfrou
 Grass, Weepinbell
 Psychic, M Gengar-EX
-Darkness, Malamar-EX
-Fairy, Florges-EX
+Psychic, Malamar-EX
+Colorless, Florges-EX
 Lightning, M Manectric-EX
-Dragon, Ultra Necrozma-GX
-Metal, Dialga-EX
+Water, Ultra Necrozma-GX
+Fighting, Dialga-EX
 Grass, Cherrim
-Fairy, Xerneas-GX
+Colorless, Xerneas-GX
 Grass, Venusaur
 Fire, Ninetales
 Fire, Heatran
@@ -7560,8 +7560,8 @@ Lightning, Alolan Geodude
 Lightning, Helioptile
 Psychic, Oricorio
 Fighting, Lucario
-Darkness, Skuntank
-Metal, Bastiodon
+Psychic, Skuntank
+Fighting, Bastiodon
 Psychic, Slowbro
 Psychic, Garbodor
 Psychic, Gothitelle
@@ -7573,13 +7573,13 @@ Fighting, Machop
 Fighting, Pancham
 Colorless, Patrat
 Grass, Sceptile
-Metal, Metang
-Metal, Probopass
-Fairy, Clefable
-Fairy, Sylveon-GX
+Fighting, Metang
+Fighting, Probopass
+Colorless, Clefable
+Colorless, Sylveon-GX
 Grass, Sceptile
 Grass, Shroomish
-Dragon, Jangmo-o
+Water, Jangmo-o
 Colorless, Blissey
 Colorless, Castform
 Grass, Volbeat
@@ -7645,14 +7645,14 @@ Water, Manaphy
 Lightning, Lanturn
 Lightning, Electrike
 Lightning, Electrike
-Metal, Alolan Dugtrio
-Metal, Alolan Diglett
-Metal, Magnezone
+Fighting, Alolan Dugtrio
+Fighting, Alolan Diglett
+Fighting, Magnezone
 Lightning, Manectric
 Lightning, Eelektrik
 Lightning, Eelektrik
 Psychic, Nidoran♀
-Dragon, Alolan Exeggutor
+Water, Alolan Exeggutor
 Psychic, Nidoqueen
 Psychic, Nidoqueen
 Psychic, Tentacool
@@ -7667,8 +7667,8 @@ Lightning, Xurkitree-GX
 Psychic, Dawn Wings Necrozma-GX
 Water, Glaceon-GX
 Fighting, Solrock
-Dragon, Palkia-GX
-Dragon, Dialga-GX
+Water, Palkia-GX
+Water, Dialga-GX
 Grass, Scyther
 Grass, Spinarak
 Grass, Ariados
@@ -7683,13 +7683,13 @@ Grass, Surskit
 Grass, Masquerain
 Grass, Volbeat
 Grass, Illumise
-Darkness, Sharpedo-EX
+Psychic, Sharpedo-EX
 Grass, Tropius
 Fire, Slugma
 Fire, Magcargo
 Fire, Torchic
 Fire, Torchic
-Darkness, Crawdaunt
+Psychic, Crawdaunt
 Fire, Torkoal
 Fire, Oricorio
 Water, Articuno-GX
@@ -7702,27 +7702,27 @@ Water, Ludicolo
 Water, Wailmer
 Water, Wailord
 Water, Clamperl
-Darkness, Hydreigon
-Metal, M Aggron-EX
-Metal, Honedge
+Psychic, Hydreigon
+Fighting, M Aggron-EX
+Fighting, Honedge
 Water, Luvdisc
 Water, Regice
 Water, Kyogre
 Lightning, Voltorb
-Metal, Doublade
+Fighting, Doublade
 Lightning, Electrike
 Lightning, Plusle
 Lightning, Minun
 Lightning, Oricorio
 Grass, Gloom
 Grass, Vileplume
-Fairy, Gardevoir-EX
+Colorless, Gardevoir-EX
 Psychic, Spoink
 Psychic, Grumpig
 Psychic, Lunatone
 Psychic, Solrock
-Fairy, M Gardevoir-EX
-Dragon, Kingdra
+Colorless, M Gardevoir-EX
+Water, Kingdra
 Psychic, Deoxys
 Psychic, Deoxys
 Psychic, Deoxys
@@ -7739,26 +7739,26 @@ Fighting, Groudon
 Fighting, Minior
 Fire, Camerupt-EX
 Water, Wailord-EX
-Darkness, Tyranitar
-Darkness, Sableye
-Metal, Steelix
-Dragon, Bagon
+Psychic, Tyranitar
+Psychic, Sableye
+Fighting, Steelix
+Water, Bagon
 Water, Primal Kyogre-EX
-Darkness, Sharpedo-EX
-Metal, Beldum
-Metal, Beldum
-Metal, Metagross
-Dragon, Bagon
-Fairy, Gardevoir-EX
+Psychic, Sharpedo-EX
+Fighting, Beldum
+Fighting, Beldum
+Fighting, Metagross
+Water, Bagon
+Colorless, Gardevoir-EX
 Psychic, Mew
-Metal, Solgaleo
-Metal, Celesteela
-Metal, Kartana
-Metal, Stakataka-GX
+Fighting, Solgaleo
+Fighting, Celesteela
+Fighting, Kartana
+Fighting, Stakataka-GX
 Colorless, Pidgeot
 Fighting, Onix
-Dragon, Latios ◇
-Dragon, Rayquaza-GX
+Water, Latios ◇
+Water, Rayquaza-GX
 Colorless, Dunsparce
 Colorless, Togepi
 Colorless, Vigoroth
@@ -7774,8 +7774,8 @@ Colorless, Jigglypuff
 Lightning, Electrode-GX
 Psychic, Mr. Mime-GX
 Grass, Butterfree
-Metal, Stakataka-GX
-Dragon, Rayquaza-GX
+Fighting, Stakataka-GX
+Water, Rayquaza-GX
 Water, Tentacruel
 Water, Marill
 Water, Lapras
@@ -7788,7 +7788,7 @@ Water, Wartortle
 Colorless, Lickitung
 Grass, Vileplume
 Psychic, Tapu Lele
-Fairy, Xerneas-EX
+Colorless, Xerneas-EX
 Grass, Golisopod
 Grass, Chespin
 Fighting, Primeape
@@ -7798,11 +7798,11 @@ Water, Seadra
 Colorless, Snorlax-GX
 Lightning, Togedemaru
 Psychic, Mewtwo
-Darkness, Zorua
+Psychic, Zorua
 Psychic, Marshadow
 Lightning, Pikachu
 Grass, Venusaur-EX
-Metal, Solgaleo-GX
+Fighting, Solgaleo-GX
 Water, Tapu Fini
 Psychic, Marshadow
 Grass, Rowlet
@@ -7847,7 +7847,7 @@ Colorless, Dratini
 Colorless, Eevee
 Grass, Ekans
 Fighting, Mankey
-Dragon, Jangmo-o
+Water, Jangmo-o
 Psychic, Espeon-GX
 Grass, Oddish
 Fire, Ponyta
@@ -7866,7 +7866,7 @@ Psychic, Drowzee
 Fighting, Machop
 Colorless, Meowth
 Psychic, Slowpoke
-Fairy, Xerneas
+Colorless, Xerneas
 Fire, Charizard
 Fire, Torchic
 Fire, Combusken
@@ -7892,28 +7892,28 @@ Water, Phione
 Water, Wishiwashi
 Fighting, Trapinch
 Psychic, Salazzle
-Dragon, Dratini
-Dragon, Dratini
-Dragon, Dragonair
-Dragon, Vibrava
-Dragon, Flygon
-Dragon, Bagon
-Dragon, Shelgon
-Dragon, Salamence-GX
-Dragon, Druddigon
-Dragon, Zekrom
+Water, Dratini
+Water, Dratini
+Water, Dragonair
+Water, Vibrava
+Water, Flygon
+Water, Bagon
+Water, Shelgon
+Water, Salamence-GX
+Water, Druddigon
+Water, Zekrom
 Colorless, Swablu
-Darkness, Zoroark
-Dragon, Zygarde
-Dragon, Turtonator
-Dragon, Jangmo-o
-Dragon, Hakamo-o
-Dragon, Kommo-o
+Psychic, Zoroark
+Water, Zygarde
+Water, Turtonator
+Water, Jangmo-o
+Water, Hakamo-o
+Water, Kommo-o
 Psychic, Dawn Wings Necrozma-GX
 Water, Kingdra-GX
-Dragon, Altaria-GX
+Water, Altaria-GX
 Lightning, Tapu Koko
-Metal, Solgaleo-GX
+Fighting, Solgaleo-GX
 Grass, Parasect
 Colorless, Persian
 Colorless, Raticate
@@ -7926,7 +7926,7 @@ Lightning, Ash's Pikachu
 Fighting, Rhyhorn
 Fighting, Sandshrew
 Fire, Ho-Oh-GX
-Fairy, Morelull
+Colorless, Morelull
 Lightning, Pikachu
 Lightning, Ash's Pikachu
 Psychic, Malamar
@@ -7946,13 +7946,13 @@ Psychic, Toxicroak
 Psychic, Necrozma-GX
 Fighting, Mudbray
 Fighting, Passimian
-Darkness, Sneasel
-Fairy, Diancie
+Psychic, Sneasel
+Colorless, Diancie
 Lightning, Surfing Pikachu
 Colorless, Porygon2
 Fire, Ho-Oh-GX
 Fighting, Lycanroc-GX
-Fairy, Gardevoir-GX
+Colorless, Gardevoir-GX
 Fire, Charizard GX
 Water, Tapu Fini-GX
 Grass, Exeggcute
@@ -7971,13 +7971,13 @@ Psychic, Swalot
 Psychic, Shuppet
 Fighting, Medicham
 Fighting, Palossand-GX
-Darkness, Alolan Rattata
-Darkness, Alolan Raticate-GX
+Psychic, Alolan Rattata
+Psychic, Alolan Raticate-GX
 Colorless, Pelipper
-Metal, Metang
-Metal, Jirachi ◇
-Dragon, Shelgon
-Dragon, Salamence
+Fighting, Metang
+Fighting, Jirachi ◇
+Water, Shelgon
+Water, Salamence
 Colorless, Wingull
 Water, Articuno-GX
 Fire, Blaziken-GX
@@ -7985,9 +7985,9 @@ Water, Articuno-GX
 Lightning, Electrode-GX
 Psychic, Mr. Mime-GX
 Psychic, Salandit
-Metal, Scizor-GX
-Metal, Stakataka-GX
-Dragon, Rayquaza-GX
+Fighting, Scizor-GX
+Fighting, Stakataka-GX
+Water, Rayquaza-GX
 Grass, Accelgor
 Grass, Skiddo
 Grass, Gogoat
@@ -8015,15 +8015,15 @@ Psychic, Oranguru
 Fighting, Cubone
 Fighting, Gastrodon
 Fighting, Stufful
-Darkness, Deino
-Darkness, Zweilous
-Darkness, Guzzlord-GX
-Metal, Escavalier
-Metal, Kartana-GX
+Psychic, Deino
+Psychic, Zweilous
+Psychic, Guzzlord-GX
+Fighting, Escavalier
+Fighting, Kartana-GX
 Fire, Salazzle
-Dragon, Alolan Exeggutor-GX
-Dragon, Jangmo-o
-Dragon, Hakamo-o
+Water, Alolan Exeggutor-GX
+Water, Jangmo-o
+Water, Hakamo-o
 Colorless, Altaria
 Colorless, Bunnelby
 Colorless, Diggersby
@@ -8033,7 +8033,7 @@ Colorless, Silvally-GX
 Lightning, Alolan Golem-GX
 Psychic, Nihilego-GX
 Fighting, Buzzwole-GX
-Darkness, Guzzlord-GX
+Psychic, Guzzlord-GX
 Fire, Charmeleon
 Fire, Blaziken
 Fire, Darmanitan
@@ -8041,21 +8041,21 @@ Fire, Reshiram-GX
 Water, Kingdra-GX
 Water, Gyarados
 Water, Quagsire
-Darkness, Hydreigon
-Dragon, Dragonite-GX
-Dragon, Altaria
-Dragon, Altaria-GX
-Dragon, Kyurem
-Dragon, White Kyurem-GX
-Dragon, Drampa
+Psychic, Hydreigon
+Water, Dragonite-GX
+Water, Altaria
+Water, Altaria-GX
+Water, Kyurem
+Water, White Kyurem-GX
+Water, Drampa
 Colorless, Kangaskhan
 Fire, Reshiram-GX
-Dragon, Dragonite-GX
+Water, Dragonite-GX
 Fire, Reshiram-GX
-Dragon, Altaria-GX
-Dragon, Salamence-GX
-Dragon, White Kyurem-GX
-Dragon, Ultra Necrozma-GX
+Water, Altaria-GX
+Water, Salamence-GX
+Water, White Kyurem-GX
+Water, Ultra Necrozma-GX
 Water, Volcanion ◇
 Psychic, Honedge
 Water, Froakie
@@ -8063,17 +8063,17 @@ Water, Frogadier
 Lightning, Magnemite
 Fighting, Gabite
 Fighting, Zygarde
-Darkness, Yveltal-GX
+Psychic, Yveltal-GX
 Fighting, Gible
-Fairy, Xerneas-GX
+Colorless, Xerneas-GX
 Psychic, Naganadel-GX
 Water, Palkia-GX
 Psychic, Naganadel-GX
 Fighting, Zygarde-GX
-Metal, Dialga-GX
-Fairy, Xerneas-GX
+Fighting, Dialga-GX
+Colorless, Xerneas-GX
 Fighting, Zygarde-GX
-Darkness, Yveltal-GX
+Psychic, Yveltal-GX
 Grass, Victreebel
 Grass, Trevenant
 Grass, Bulbasaur
@@ -8086,12 +8086,12 @@ Lightning, Vikavolt-GX
 Lightning, Tapu Koko-GX
 Psychic, Mimikyu
 Fighting, Sudowoodo
-Fairy, Comfey
+Colorless, Comfey
 Colorless, Watchog
 Colorless, Drampa-GX
 Grass, Venusaur
 Psychic, Toxapex-GX
-Fairy, Sylveon-GX
+Colorless, Sylveon-GX
 Water, Wishiwashi-GX
 Colorless, Drampa-GX
 Grass, Rowlet
@@ -8116,36 +8116,36 @@ Psychic, Mewtwo-GX
 Psychic, Shining Mew
 Psychic, Golett
 Psychic, Marshadow
-Darkness, Spiritomb
-Darkness, Scrafty
-Darkness, Yveltal
-Dragon, Shining Rayquaza
+Psychic, Spiritomb
+Psychic, Scrafty
+Psychic, Yveltal
+Water, Shining Rayquaza
 Colorless, Shining Arceus
 Psychic, Alakazam
 Psychic, Mewtwo-GX
 Psychic, Mewtwo-GX
 Water, Bruxish
-Dragon, Ultra Necrozma-GX
+Water, Ultra Necrozma-GX
 Psychic, Necrozma-GX
 Grass, Golisopod-GX
 Fire, Shining Ho-Oh
 Water, Kyogre
-Metal, Celesteela
-Dragon, Latios
+Fighting, Celesteela
+Water, Latios
 Fire, Reshiram-GX
-Metal, Heatran
+Fighting, Heatran
 Lightning, Thundurus-GX
 Lightning, Manectric
 Colorless, Delcatty
 Water, Glaceon-GX
 Colorless, Tornadus-GX
-Dragon, Latias
+Water, Latias
 Grass, Caterpie
 Grass, Metapod
 Grass, Paras
 Grass, Parasect
 Grass, Pinsir
-Dragon, Salamence-GX
+Water, Salamence-GX
 Grass, Dartrix
 Grass, Decidueye
 Grass, Decidueye-GX
@@ -8178,16 +8178,16 @@ Fighting, Gigalith
 Fighting, Crabrawler
 Fighting, Passimian
 Fighting, Palossand
-Darkness, Alolan Raticate
-Darkness, Alolan Persian
-Darkness, Umbreon-GX
-Darkness, Carvanha
-Darkness, Sandile
-Darkness, Krokorok
-Metal, Alolan Diglett
-Fairy, Cutiefly
-Fairy, Ribombee
-Dragon, Dragonair
+Psychic, Alolan Raticate
+Psychic, Alolan Persian
+Psychic, Umbreon-GX
+Psychic, Carvanha
+Psychic, Sandile
+Psychic, Krokorok
+Fighting, Alolan Diglett
+Colorless, Cutiefly
+Colorless, Ribombee
+Water, Dragonair
 Colorless, Tauros-GX
 Colorless, Eevee
 Colorless, Lillipup
@@ -8196,14 +8196,14 @@ Grass, Lurantis-GX
 Water, Lapras-GX
 Psychic, Espeon-GX
 Psychic, Lunala-GX
-Darkness, Umbreon-GX
-Metal, Solgaleo-GX
+Psychic, Umbreon-GX
+Fighting, Solgaleo-GX
 Colorless, Tauros-GX
 Colorless, Gumshoos-GX
 Water, Lapras-GX
 Psychic, Espeon-GX
-Darkness, Umbreon-GX
-Metal, Solgaleo-GX
+Psychic, Umbreon-GX
+Fighting, Solgaleo-GX
 Grass, Leafeon-GX
 Grass, Torterra
 Lightning, Electabuzz
@@ -8215,25 +8215,25 @@ Fighting, Lucario
 Fighting, Hippopotas
 Fighting, Rampardos
 Psychic, Giratina
-Darkness, Sneasel
-Darkness, Stunky
-Metal, Bronzong
-Fairy, Shiinotic
-Dragon, Garchomp
-Darkness, Honchkrow
+Psychic, Sneasel
+Psychic, Stunky
+Fighting, Bronzong
+Colorless, Shiinotic
+Water, Garchomp
+Psychic, Honchkrow
 Colorless, Purugly
 Colorless, Fan Rotom
 Grass, Leafeon-GX
-Dragon, Gabite
-Dragon, Palkia-GX
+Water, Gabite
+Water, Palkia-GX
 Grass, Team Aqua's Cacturne
 Grass, Pheromosa-GX
 Lightning, Xurkitree-GX
 Colorless, Starly
 Water, Team Aqua's Crawdaunt
-Metal, Dusk Mane Necrozma-GX
-Dragon, Dialga-GX
-Dragon, Palkia-GX
+Fighting, Dusk Mane Necrozma-GX
+Water, Dialga-GX
+Water, Palkia-GX
 Water, Team Aqua's Kyogre
 Water, Team Aqua's Sharpedo
 Grass, Turtwig
@@ -8241,14 +8241,14 @@ Water, Abomasnow
 Lightning, Luxray
 Psychic, Skorupi
 Fighting, Hippowdon
-Metal, Magnemite
+Fighting, Magnemite
 Colorless, Shaymin
 Psychic, Dawn Wings Necrozma-GX
 Water, Team Aqua's Walrein
 Grass, Pinsir
 Grass, Chikorita
 Psychic, Lunala-GX
-Metal, Solgaleo-GX
+Fighting, Solgaleo-GX
 Fighting, Team Magma's Aggron
 Fighting, Team Magma's Groudon
 Fire, Team Magma's Houndoom
@@ -8261,7 +8261,7 @@ Grass, Treecko
 Grass, Grovyle
 Grass, Wurmple
 Grass, Wurmple
-Darkness, Team Aqua's Mightyena
+Psychic, Team Aqua's Mightyena
 Water, Team Aqua's Sealeo
 Grass, Dustox
 Grass, Nincada
@@ -8285,7 +8285,7 @@ Water, Alolan Vulpix
 Water, Slowpoke
 Water, Slowking
 Water, Lapras
-Darkness, Team Aqua's Poochyena
+Psychic, Team Aqua's Poochyena
 Water, Suicune-GX
 Water, Cubchoo
 Water, White Kyurem
@@ -8296,7 +8296,7 @@ Fighting, Team Magma's Aron
 Fighting, Team Magma's Aron
 Fire, Team Magma's Houndour
 Lightning, Chinchou
-Darkness, Team Magma's Poochyena
+Psychic, Team Magma's Poochyena
 Fighting, Team Magma's Rhyhorn
 Fire, Blaziken ex
 Grass, Cradily ex
@@ -8304,16 +8304,16 @@ Fire, Entei ex
 Water, Suicune ex
 Fighting, Swampert ex
 Lightning, Dark Ampharos
-Metal, Cobalion-GX
+Fighting, Cobalion-GX
 Lightning, Tapu Koko
 Grass, Dark Crobat
-Darkness, Dark Houndoom
+Psychic, Dark Houndoom
 Water, Dark Octillery
 Psychic, Dark Slowking
 Water, Kingdra
 Fighting, Piloswine
 Colorless, Togetic
-Darkness, Dark Raticate
+Psychic, Dark Raticate
 Fighting, Dark Tyranitar
 Psychic, Litwick
 Psychic, Lampent
@@ -8325,52 +8325,52 @@ Water, Quagsire
 Fighting, Phanpy
 Grass, Yanma
 Grass, Dark Arbok
-Darkness, Dark Dragonair
+Psychic, Dark Dragonair
 Lightning, Dark Flaaffy
 Grass, Dark Golbat
-Metal, Honedge
+Fighting, Honedge
 Water, Dark Golduck
 Fire, Dark Magcargo
 Fighting, Dark Pupitar
 Fighting, Dark Pupitar
-Metal, Doublade
-Metal, Durant
+Fighting, Doublade
+Fighting, Durant
 Grass, Dark Weezing
 Water, Mantine
-Darkness, Rocket's Wobbuffet
+Psychic, Rocket's Wobbuffet
 Grass, Hoppip
-Fairy, Wigglytuff
+Colorless, Wigglytuff
 Fire, Houndour
 Grass, Koffing
 Water, Psyduck
 Colorless, Rattata
 Psychic, Slowpoke
-Fairy, Dedenne
+Colorless, Dedenne
 Fighting, Swinub
 Grass, Zubat
-Darkness, Rocket's Articuno ex
+Psychic, Rocket's Articuno ex
 Colorless, Chansey
-Darkness, Rocket's Entei ex
-Darkness, Rocket's Hitmonchan ex
-Darkness, Rocket's Moltres ex
-Darkness, Rocket's Scizor ex
+Psychic, Rocket's Entei ex
+Psychic, Rocket's Hitmonchan ex
+Psychic, Rocket's Moltres ex
+Psychic, Rocket's Scizor ex
 Colorless, Miltank
 Colorless, Ho-Oh
-Darkness, Rocket's Scyther ex
-Darkness, Rocket's Snorlax ex
+Psychic, Rocket's Scyther ex
+Psychic, Rocket's Snorlax ex
 Fire, Charmeleon
-Darkness, Yveltal
-Darkness, Yveltal-EX
+Psychic, Yveltal
+Psychic, Yveltal-EX
 Grass, Tangela
-Metal, Honedge
+Fighting, Honedge
 Fighting, Machamp
 Psychic, Trevenant
 Grass, Gogoat
-Metal, Genesect-GX
+Fighting, Genesect-GX
 Fire, Delphox-EX
 Water, Greninja-EX
-Darkness, Darkrai
-Darkness, Greninja
+Psychic, Darkrai
+Psychic, Greninja
 Grass, Shuckle
 Grass, Shuckle-GX
 Grass, Sceptile-GX
@@ -8379,7 +8379,7 @@ Grass, Ninjask
 Grass, Tapu Bulu
 Fire, Cyndaquil
 Fire, Typhlosion
-Dragon, Kingdra
+Water, Kingdra
 Water, Delibird
 Water, Mantine
 Water, Beartic
@@ -8389,22 +8389,22 @@ Water, Kyogre-EX
 Psychic, Gallade-EX
 Psychic, Meowstic
 Fighting, Pangoro
-Dragon, Salamence
-Darkness, Absol-EX
-Dragon, Rayquaza
-Metal, Jirachi
+Water, Salamence
+Psychic, Absol-EX
+Water, Rayquaza
+Fighting, Jirachi
 Colorless, Arceus
 Lightning, Pikachu
-Fairy, Mawile-EX
+Colorless, Mawile-EX
 Water, Manaphy
 Grass, Shaymin
-Metal, Genesect
+Fighting, Genesect
 Lightning, Pikachu-EX
 Fire, Pansear
 Grass, Yanmega
 Water, Clawitzer
 Grass, Shaymin-EX
-Darkness, Yveltal-EX
+Psychic, Yveltal-EX
 Water, Black Kyurem
 Psychic, Weezing
 Psychic, M Gengar-EX
@@ -8413,12 +8413,12 @@ Grass, Shaymin
 Fire, Victini
 Water, Manaphy
 Psychic, Mew
-Metal, Genesect
+Fighting, Genesect
 Grass, Chikorita
 Fire, M Camerupt-EX
 Fire, M Camerupt-EX
-Darkness, M Sharpedo-EX
-Metal, Ferroseed
+Psychic, M Sharpedo-EX
+Fighting, Ferroseed
 Grass, Heracross
 Grass, Silcoon
 Fire, Slugma
@@ -8452,28 +8452,28 @@ Grass, Parasect
 Fighting, Larvitar
 Fighting, Larvitar
 Fighting, Pupitar
-Darkness, Alolan Meowth
-Darkness, Alolan Persian
+Psychic, Alolan Meowth
+Psychic, Alolan Persian
 Grass, Exeggcute
 Grass, Pinsir
 Grass, Shaymin ◇
 Fire, Charmander
-Metal, Alolan Dugtrio
-Metal, Dialga
+Fighting, Alolan Dugtrio
+Fighting, Dialga
 Fire, Charmander
 Fire, Charmeleon
 Fire, Charizard
-Metal, Magearna
-Fairy, Marill
+Fighting, Magearna
+Colorless, Marill
 Fire, Vulpix
-Fairy, Ralts
-Fairy, Gardevoir
-Fairy, Carbink
-Fairy, Xerneas ◇
-Fairy, Cutiefly
+Colorless, Ralts
+Colorless, Gardevoir
+Colorless, Carbink
+Colorless, Xerneas ◇
+Colorless, Cutiefly
 Fire, Ninetales
-Fairy, Shiinotic
-Fairy, Tapu Lele
+Colorless, Shiinotic
+Colorless, Tapu Lele
 Colorless, Blissey
 Colorless, Ditto ◇
 Fire, Ponyta
@@ -8488,8 +8488,8 @@ Fire, Torracat
 Water, Squirtle
 Water, Squirtle
 Grass, Virizion-GX
-Fairy, Alolan Ninetales-GX
-Fairy, Mimikyu-GX
+Colorless, Alolan Ninetales-GX
+Colorless, Mimikyu-GX
 Colorless, Lugia-GX
 Grass, Spinarak
 Water, Toxapex
@@ -8500,11 +8500,11 @@ Psychic, Unown
 Psychic, Sigilyph-GX
 Psychic, Chandelure
 Fighting, Donphan
-Darkness, Umbreon
-Metal, Forretress
-Metal, Cobalion
-Fairy, Azumarill
-Fairy, Snubbull
+Psychic, Umbreon
+Fighting, Forretress
+Fighting, Cobalion
+Colorless, Azumarill
+Colorless, Snubbull
 Colorless, Trumbeak
 Grass, Shuckle-GX
 Water, Suicune-GX
@@ -8514,9 +8514,9 @@ Fire, Blacephalon-GX
 Water, Suicune-GX
 Lightning, Zeraora-GX
 Psychic, Sigilyph-GX
-Metal, Genesect-GX
-Fairy, Alolan Ninetales-GX
-Fairy, Mimikyu-GX
+Fighting, Genesect-GX
+Colorless, Alolan Ninetales-GX
+Colorless, Mimikyu-GX
 Colorless, Lugia-GX
 Fighting, Lucario
 Water, Wartortle
@@ -8524,7 +8524,7 @@ Water, Blastoise
 Water, Psyduck
 Water, Golduck
 Water, Staryu
-Darkness, Zoroark-GX
+Psychic, Zoroark-GX
 Water, Magikarp
 Water, Gyarados
 Water, Lapras
@@ -8567,23 +8567,23 @@ Fighting, Machamp-EX
 Lightning, Joltik
 Fighting, Regirock
 Fighting, Golurk
-Darkness, Tyranitar-EX
-Darkness, Sableye
-Metal, Beldum
-Metal, Metagross
+Psychic, Tyranitar-EX
+Psychic, Sableye
+Fighting, Beldum
+Fighting, Metagross
 Lightning, Galvantula
-Metal, Registeel
-Fairy, Ralts
-Fairy, Gardevoir
-Dragon, Giratina-EX
-Dragon, Goomy
+Fighting, Registeel
+Colorless, Ralts
+Colorless, Gardevoir
+Water, Giratina-EX
+Water, Goomy
 Colorless, Meowth
 Fighting, Pupitar
 Grass, Sceptile-EX
 Lightning, Helioptile
 Lightning, M Ampharos-EX
 Psychic, Hoopa-EX
-Dragon, Giratina-EX
+Water, Giratina-EX
 Lightning, Heliolisk
 Lightning, Tapu Koko ◇
 Lightning, Zeraora
@@ -8596,20 +8596,20 @@ Lightning, Electrode
 Psychic, Espeon
 Fire, Entei
 Grass, Exeggutor
-Darkness, Houndoom
+Psychic, Houndoom
 Grass, Exeggutor
 Psychic, Exeggutor
 Fire, Houndoom
 Water, Kingdra
-Darkness, Houndoom
+Psychic, Houndoom
 Psychic, Hypno
-Metal, Magneton
+Fighting, Magneton
 Psychic, Jynx
 Fighting, Nidoking
 Water, Lanturn
 Water, Octillery
-Metal, Scizor
-Metal, Magneton
+Fighting, Scizor
+Fighting, Magneton
 Grass, Muk
 Fighting, Sudowoodo
 Fire, Ninetales
@@ -8622,8 +8622,8 @@ Psychic, Slowking
 Fighting, Sudowoodo
 Water, Tentacruel
 Colorless, Togetic
-Darkness, Tyranitar
-Darkness, Umbreon
+Psychic, Tyranitar
+Psychic, Umbreon
 Grass, Victreebel
 Grass, Bellsprout
 Colorless, Dodrio
@@ -8640,7 +8640,7 @@ Lightning, Chinchou
 Psychic, Drowzee
 Fire, Growlithe
 Fighting, Hitmonchan
-Darkness, Houndour
+Psychic, Houndour
 Fighting, Larvitar
 Colorless, Lickitung
 Lightning, Magnemite
@@ -8693,13 +8693,13 @@ Fighting, Timburr
 Fighting, Throh
 Fighting, Sandile
 Fighting, Krokorok
-Darkness, Purrloin
-Darkness, Liepard
-Darkness, Scraggy
-Darkness, Zoroark
-Darkness, Mandibuzz
-Metal, Klang
-Metal, Klinklang
+Psychic, Purrloin
+Psychic, Liepard
+Psychic, Scraggy
+Psychic, Zoroark
+Psychic, Mandibuzz
+Fighting, Klang
+Fighting, Klinklang
 Colorless, Lillipup
 Colorless, Herdier
 Colorless, Pidove
@@ -8746,20 +8746,20 @@ Fighting, Groudon-EX
 Fighting, Hippopotas
 Fighting, Diggersby
 Fighting, Groudon
-Metal, Aggron-EX
-Metal, Aegislash
-Fairy, Azumarill
-Dragon, Flygon
+Fighting, Aggron-EX
+Fighting, Aegislash
+Colorless, Azumarill
+Water, Flygon
 Colorless, Linoone
 Colorless, Spinda
 Colorless, Bidoof
 Colorless, Bidoof
-Dragon, Vibrava
+Water, Vibrava
 Grass, Trevenant-EX
 Fighting, Groudon-EX
 Fighting, Primal Groudon-EX
-Metal, Aggron-EX
-Metal, M Aggron-EX
+Fighting, Aggron-EX
+Fighting, M Aggron-EX
 Water, Kyogre-EX
 Fire, Arcanine
 Psychic, Alakazam
@@ -8771,7 +8771,7 @@ Grass, Crobat
 Water, Dewgong
 Water, Dewgong
 Fire, Flareon
-Darkness, Houndoom
+Psychic, Houndoom
 Water, Gyarados
 Lightning, Jolteon
 Grass, Ledian
@@ -8781,7 +8781,7 @@ Fire, Magcargo
 Lightning, Magneton
 Lightning, Magneton
 Lightning, Magneton
-Metal, Magneton
+Fighting, Magneton
 Fire, Moltres
 Fire, Moltres
 Grass, Nidoqueen
@@ -8794,7 +8794,7 @@ Psychic, Starmie
 Lightning, Raikou
 Fighting, Rhydon
 Water, Vaporeon
-Darkness, Umbreon
+Psychic, Umbreon
 Water, Vaporeon
 Fighting, Piloswine
 Water, Starmie
@@ -8809,14 +8809,14 @@ Water, Lapras
 Grass, Ledyba
 Water, Magikarp
 Colorless, Meowth
-Darkness, Murkrow
+Psychic, Murkrow
 Grass, Nidoran♀
 Grass, Nidoran♀
 Water, Poliwag
 Fighting, Sandshrew
 Fighting, Sandslash
 Grass, Shuckle
-Metal, Skarmory
+Fighting, Skarmory
 Fire, Slugma
 Colorless, Snorlax
 Colorless, Stantler
@@ -8833,54 +8833,54 @@ Colorless, Golem
 Colorless, Ho-oh
 Colorless, Kabutops
 Grass, Tsareena
-Dragon, Zygarde
+Water, Zygarde
 Grass, Tsareena-GX
 Fire, Charizard-GX
 Psychic, Mimikyu
 Lightning, Pikachu
 Lightning, Pikachu
-Dragon, Dragalge
-Fairy, Slurpuff
+Water, Dragalge
+Colorless, Slurpuff
 Grass, Chesnaught-EX
 Fire, Charizard-EX
-Darkness, Yveltal
-Metal, M Metagross-EX
+Psychic, Yveltal
+Fighting, M Metagross-EX
 Psychic, Hoopa
-Metal, Bronzong
+Fighting, Bronzong
 Grass, Shiftry
 Grass, Sceptile-EX
 Water, Froakie
 Colorless, Ditto
 Fighting, Groudon-EX
 Fighting, Groudon
-Metal, Jirachi
+Fighting, Jirachi
 Psychic, Latios
 Lightning, Zekrom
 Grass, Chespin
 Psychic, Mew-EX
-Fairy, M Mawile-EX
-Metal, Jirachi
+Colorless, M Mawile-EX
+Fighting, Jirachi
 Fire, Moltres
-Darkness, Tyranitar
-Dragon, Garchomp-EX
+Psychic, Tyranitar
+Water, Garchomp-EX
 Water, Magikarp
 Fighting, Zygarde-EX
 Fighting, Zygarde
-Metal, Magearna
-Metal, Magearna-EX
-Metal, Klefki
-Fairy, Alolan Ninetales
-Fairy, Mimikyu
+Fighting, Magearna
+Fighting, Magearna-EX
+Fighting, Klefki
+Colorless, Alolan Ninetales
+Colorless, Mimikyu
 Psychic, Crobat BREAK
-Metal, Aegislash
+Fighting, Aegislash
 Fire, Entei
 Fire, Volcarona
 Water, Gyarados
 Water, Regice
-Darkness, Inkay
-Metal, Metagross
-Fairy, Kirlia
-Dragon, Goodra
+Psychic, Inkay
+Fighting, Metagross
+Colorless, Kirlia
+Water, Goodra
 Colorless, Porygon
 Colorless, Porygon-Z
 Grass, M Sceptile-EX
@@ -8889,12 +8889,12 @@ Fighting, Primal Groudon-EX
 Psychic, Gengar & Mimikyu-GX
 Psychic, Nidoran♀
 Psychic, Nidorina
-Darkness, Hoopa-GX
-Darkness, Incineroar-GX
-Metal, Skarmory
-Metal, Jirachi
-Metal, Bronzor
-Metal, Bronzong
+Psychic, Hoopa-GX
+Psychic, Incineroar-GX
+Fighting, Skarmory
+Fighting, Jirachi
+Fighting, Bronzor
+Fighting, Bronzong
 Colorless, Eevee & Snorlax-GX
 Colorless, Pidgey
 Colorless, Pidgey
@@ -8907,24 +8907,24 @@ Water, Magikarp & Wailord-GX
 Water, Magikarp & Wailord-GX
 Lightning, Pikachu & Zekrom-GX
 Lightning, Ampharos-GX
-Darkness, Hoopa-GX
-Darkness, Incineroar-GX
-Metal, Cobalion-GX
-Dragon, Latias & Latios-GX
-Dragon, Latias & Latios-GX
+Psychic, Hoopa-GX
+Psychic, Incineroar-GX
+Fighting, Cobalion-GX
+Water, Latias & Latios-GX
+Water, Latias & Latios-GX
 Colorless, Eevee & Snorlax-GX
-Dragon, Drampa
+Water, Drampa
 Fire, Litten
 Water, Popplio
 Fire, Turtonator
 Grass, Tapu Bulu-GX
-Darkness, Umbreon-GX
+Psychic, Umbreon-GX
 Fire, Incineroar-GX
 Water, Primarina-GX
 Colorless, Komala
-Darkness, Alolan Meowth
+Psychic, Alolan Meowth
 Fighting, Buzzwole-GX
-Dragon, Kommo-o-GX
+Water, Kommo-o-GX
 Fighting, Regirock
 Grass, Shining Celebi
 Water, Suicune
@@ -8933,8 +8933,8 @@ Water, Vaporeon-GX
 Colorless, Eevee-GX
 Colorless, Eevee-GX
 Colorless, Eevee-GX
-Metal, Meltan
-Metal, Melmetal-GX
+Fighting, Meltan
+Fighting, Melmetal-GX
 Colorless, Clefairy
 Lightning, Magneton
 Grass, Nidoking
@@ -8972,11 +8972,11 @@ Fighting, Rhyhorn
 Fighting, Rhydon
 Fighting, Mudsdale
 Fighting, Marshadow-GX
-Darkness, Alolan Raticate
-Darkness, Darkrai-GX
-Darkness, Malamar
-Fairy, Ribombee
-Dragon, Noivern-GX
+Psychic, Alolan Raticate
+Psychic, Darkrai-GX
+Psychic, Malamar
+Colorless, Ribombee
+Water, Noivern-GX
 Colorless, Porygon-Z
 Colorless, Hoothoot
 Grass, Golisopod-GX
@@ -8984,13 +8984,13 @@ Grass, Tapu Bulu-GX
 Water, Tapu Fini-GX
 Psychic, Necrozma-GX
 Fighting, Machamp-GX
-Darkness, Alolan Muk-GX
-Dragon, Noivern-GX
+Psychic, Alolan Muk-GX
+Water, Noivern-GX
 Grass, Golisopod-GX
 Fire, Salazzle-GX
 Fighting, Machamp-GX
-Darkness, Alolan Muk-GX
-Fairy, Gardevoir-GX
+Psychic, Alolan Muk-GX
+Colorless, Gardevoir-GX
 Grass, Seedot
 Grass, Nuzleaf
 Grass, Shiftry-GX
@@ -9004,12 +9004,12 @@ Psychic, Banette-GX
 Psychic, Lunala
 Fighting, Onix
 Fighting, Baltoy
-Darkness, Sneasel
-Metal, Scizor-GX
+Psychic, Sneasel
+Fighting, Scizor-GX
 Grass, Shiftry-GX
 Fire, Blaziken-GX
 Psychic, Banette-GX
-Metal, Scizor-GX
+Fighting, Scizor-GX
 Grass, Shiftry-GX
 Psychic, Banette-GX
 Grass, Cacturne
@@ -9023,20 +9023,20 @@ Psychic, Mismagius
 Psychic, Salazzle
 Psychic, Nihilego-GX
 Fighting, Primeape
-Darkness, Guzzlord-GX
-Metal, Mawile
-Metal, Lairon
-Metal, Aggron
-Fairy, Jigglypuff
-Fairy, Wigglytuff
+Psychic, Guzzlord-GX
+Fighting, Mawile
+Fighting, Lairon
+Fighting, Aggron
+Colorless, Jigglypuff
+Colorless, Wigglytuff
 Colorless, Silvally-GX
 Water, Gyarados-GX
 Fighting, Buzzwole-GX
-Darkness, Guzzlord-GX
-Metal, Kartana-GX
+Psychic, Guzzlord-GX
+Fighting, Kartana-GX
 Water, Gyarados-GX
-Metal, Kartana-GX
-Dragon, Alolan Exeggutor-GX
+Fighting, Kartana-GX
+Water, Alolan Exeggutor-GX
 Grass, Abomasnow
 Fire, Alolan Marowak
 Fire, Braixen
@@ -9051,21 +9051,21 @@ Fighting, Zygarde-GX
 Fighting, Diancie ◇
 Fighting, Rockruff
 Fighting, Buzzwole
-Darkness, Pangoro
-Metal, Empoleon
-Metal, Dialga-GX
-Fairy, Dedenne
-Dragon, Goomy
-Dragon, Ultra Necrozma-GX
+Psychic, Pangoro
+Fighting, Empoleon
+Fighting, Dialga-GX
+Colorless, Dedenne
+Water, Goomy
+Water, Ultra Necrozma-GX
 Colorless, Diggersby
 Colorless, Furfrou
 Colorless, Noibat
 Fighting, Lucario-GX
-Darkness, Yveltal-GX
-Metal, Dialga-GX
+Psychic, Yveltal-GX
+Fighting, Dialga-GX
 Water, Greninja-GX
 Fighting, Lucario-GX
-Dragon, Ultra Necrozma-GX
+Water, Ultra Necrozma-GX
 Grass, Lilligant
 Grass, Wimpod
 Grass, Golisopod
@@ -9088,18 +9088,18 @@ Fighting, Machop
 Fighting, Lycanroc-GX
 Fighting, Mudbray
 Fighting, Mudsdale
-Darkness, Murkrow
-Darkness, Honchkrow
-Darkness, Pangoro
-Metal, Beldum
-Metal, Metagross-GX
-Fairy, Clefairy
-Fairy, Whimsicott
-Dragon, Goomy
-Dragon, Sliggoo
-Dragon, Hakamo-o
+Psychic, Murkrow
+Psychic, Honchkrow
+Psychic, Pangoro
+Fighting, Beldum
+Fighting, Metagross-GX
+Colorless, Clefairy
+Colorless, Whimsicott
+Water, Goomy
+Water, Sliggoo
+Water, Hakamo-o
 Grass, Decidueye-GX
-Dragon, Kommo-o-GX
+Water, Kommo-o-GX
 Colorless, Chansey
 Colorless, Taillow
 Colorless, Swellow
@@ -9114,8 +9114,8 @@ Colorless, Drampa-GX
 Lightning, Vikavolt-GX
 Lightning, Tapu Koko-GX
 Fighting, Lycanroc-GX
-Fairy, Sylveon-GX
-Dragon, Kommo-o-GX
+Colorless, Sylveon-GX
+Water, Kommo-o-GX
 Grass, Meganium
 Grass, Ariados
 Grass, Hoppip
@@ -9137,14 +9137,14 @@ Psychic, Girafarig
 Psychic, Yamask
 Psychic, Meloetta
 Fighting, Onix
-Darkness, Tyranitar-GX
-Metal, Alolan Diglett
-Metal, Steelix
-Metal, Scizor
-Metal, Genesect-GX
-Fairy, Alolan Ninetales-GX
-Fairy, Mimikyu-GX
-Fairy, Tapu Fini
+Psychic, Tyranitar-GX
+Fighting, Alolan Diglett
+Fighting, Steelix
+Fighting, Scizor
+Fighting, Genesect-GX
+Colorless, Alolan Ninetales-GX
+Colorless, Mimikyu-GX
+Colorless, Tapu Fini
 Colorless, Stantler
 Colorless, Smeargle
 Colorless, Lugia-GX
@@ -9152,15 +9152,15 @@ Colorless, Toucannon
 Fire, Blacephalon-GX
 Lightning, Zeraora-GX
 Psychic, Sigilyph-GX
-Darkness, Tyranitar-GX
+Psychic, Tyranitar-GX
 Grass, Shuckle-GX
 Fire, Magcargo-GX
-Darkness, Tyranitar-GX
+Psychic, Tyranitar-GX
 Grass, Shroomish
 Grass, Carnivine
 Fire, Torkoal
 Fire, Torracat
-Darkness, Zoroark-GX
+Psychic, Zoroark-GX
 Fire, Entei-GX
 Fire, Entei-GX
 Lightning, Raichu-GX
@@ -9174,13 +9174,13 @@ Colorless, Bewear-GX
 Grass, Decidueye-GX
 Psychic, Seviper
 Lightning, Tapu Koko-GX
-Darkness, Alolan Meowth
+Psychic, Alolan Meowth
 Psychic, Dhelmise
 Fighting, Marshadow-GX
 Grass, Pheromosa-GX
-Metal, Celesteela-GX
+Fighting, Celesteela-GX
 Lightning, Xurkitree-GX
-Metal, Registeel
+Fighting, Registeel
 Colorless, Shining Lugia
 Lightning, Pikachu
 Lightning, Raichu-GX
@@ -9188,25 +9188,25 @@ Colorless, Silvally-GX
 Water, Wash Rotom
 Colorless, Gumshoos
 Fighting, Lucario-GX
-Metal, Dusk Mane Necrozma-GX
+Fighting, Dusk Mane Necrozma-GX
 Lightning, Raikou-GX
 Fighting, Zygarde-GX
 Psychic, Dawn Wings Necrozma
-Metal, Dusk Mane Necrozma
+Fighting, Dusk Mane Necrozma
 Psychic, Naganadel-GX
-Metal, Alolan Sandslash
+Fighting, Alolan Sandslash
 Lightning, Zekrom-GX
-Dragon, White Kyurem-GX
-Dragon, Kyurem
+Water, White Kyurem-GX
+Water, Kyurem
 Water, Articuno
 Grass, Leafeon-GX
-Fairy, Tapu Lele
+Colorless, Tapu Lele
 Water, Kingdra-GX
-Dragon, Dragonite-GX
+Water, Dragonite-GX
 Fire, Charizard
 Lightning, Zapdos
 Psychic, Nidoqueen
-Metal, Jirachi
+Fighting, Jirachi
 Water, Magikarp & Wailord-GX
 Fire, Flareon-GX
 Lightning, Jolteon-GX
@@ -9223,39 +9223,39 @@ Psychic, Lunala ◇
 Psychic, Mewtwo-EX
 Psychic, Dawn Wings Necrozma-GX
 Fighting, Passimian
-Darkness, Skuntank
-Metal, Magneton
-Metal, Bronzor
-Metal, Solgaleo ◇
-Metal, Dusk Mane Necrozma-GX
-Metal, Magearna
-Fairy, Morelull
-Fairy, Tapu Lele
-Dragon, Dialga-GX
+Psychic, Skuntank
+Fighting, Magneton
+Fighting, Bronzor
+Fighting, Solgaleo ◇
+Fighting, Dusk Mane Necrozma-GX
+Fighting, Magearna
+Colorless, Morelull
+Colorless, Tapu Lele
+Water, Dialga-GX
 Colorless, Lickitung
 Colorless, Eevee
 Colorless, Silvally-GX
 Grass, Pheromosa-GX
-Metal, Celesteela-GX
-Metal, Dusk Mane Necrozma-GX
+Fighting, Celesteela-GX
+Fighting, Dusk Mane Necrozma-GX
 Grass, Leafeon-GX
 Water, Glaceon-GX
-Metal, Celesteela-GX
-Metal, Metagross-EX
-Fairy, Diancie-EX
+Fighting, Celesteela-GX
+Fighting, Metagross-EX
+Colorless, Diancie-EX
 Lightning, Heliolisk
 Water, Gyarados
-Dragon, Flygon-EX
-Darkness, M Absol-EX
+Water, Flygon-EX
+Psychic, M Absol-EX
 Colorless, Rayquaza-EX
-Dragon, Latios-EX
-Dragon, Latias
+Water, Latios-EX
+Water, Latias
 Lightning, Pikachu-EX
 Psychic, Mewtwo-EX
 Water, Gyarados
-Fairy, Xerneas-EX
-Darkness, Yveltal-EX
+Colorless, Xerneas-EX
+Psychic, Yveltal-EX
 Grass, Beedrill-EX
-Dragon, Salamence-EX
-Darkness, Absol
+Water, Salamence-EX
+Psychic, Absol
 Colorless, Snorlax
