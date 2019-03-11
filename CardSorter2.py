@@ -1,3 +1,8 @@
+###
+### Takes a list of hokemon card images and sorts them into folders
+### based on test/train/val data
+###
+
 import os
 import glob
 import shutil

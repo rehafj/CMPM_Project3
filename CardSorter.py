@@ -1,3 +1,8 @@
+###
+### Takes a list of pokemon card images and sorts them into folders
+### based on their type
+###
+
 import os
 import glob
 import shutil
