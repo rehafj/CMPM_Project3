@@ -25,7 +25,7 @@ def setCardType(type):
 # writes the attacks to file
 def writeCard(card, card_type):
     for attack in card.attacks:
-        f.write(card_type + ",\"")
+        # f.write(card_type + ",\"")
         if "cost" in attack:
             f.write(json.dumps(attack["cost"]).replace('\"', '\'') + ',')
         if "name" in attack:
