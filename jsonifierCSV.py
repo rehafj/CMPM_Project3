@@ -1,5 +1,5 @@
 ###
-### Takes a list of pokemon names as created by NameReader2.py
+### Takes a list of pokemon names in CSV format 
 ### and converts them to JSON (for text classifier validation)
 ###
 

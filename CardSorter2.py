@@ -1,5 +1,5 @@
 ###
-### Takes a list of hokemon card images and sorts them into folders
+### Takes a list of pokemon card images and sorts them into folders
 ### based on test/train/val data
 ###
 
