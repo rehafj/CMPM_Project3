@@ -25,7 +25,7 @@ def setCardType(type):
 # writes the attacks to file
 def writeCard(card, card_type):
     for attack in card.attacks:
-        # f.write(card_type + ",\"")
+        # f.write(card_type + ",\"") Use when getting type, text
         if "cost" in attack:
             f.write(json.dumps(attack["cost"]).replace('\"', '\'') + ',')
         if "name" in attack:
@@ -34,7 +34,8 @@ def writeCard(card, card_type):
             f.write(json.dumps(attack["text"]).replace('\"', '\'') +  ',')
         if "damage" in attack:
             f.write(json.dumps(attack["damage"]).replace('\"', ''))
-        f.write("\"\n")
+        f.write("\n")
+        # f.write("\"\n") Use when getting type, text
 
 # Calls the API for each card, sees if they have an attack, and if so call other functions
 if __name__ == "__main__":
