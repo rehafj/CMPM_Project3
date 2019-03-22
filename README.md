@@ -24,3 +24,22 @@ NameClassifier and AttackClassifier are used to classify text. They take in a CS
 
 ## Results
 
+
+
+
+#credits: 
+
+kindly note the original credit of work and specific readme(s  )belongs to the authors,   the varied readme's within each folder 
+
+
+[1]   https://pokemontcg.io/
+[2]    https://www.youtube.com/watch?v=yz6dNf7X7SA
+[3]    https://github.com/affinelayer/pix2pix-tensorflow
+[4]    https://github.com/sherjilozair/char-rnn-tensorflow
+[5]    https://github.com/karpathy/char-rnn
+[6]     https://github.com/jiegzhan/multi-class-text-classification-cnn
+[7]    https://www.pokecard.net/
+[8]  Manu Mathew Thomas. 2019. CMPM202_GANs.
+[9]  Manu Mathew Thomas. 2019. CMPM202_SimpleImageClassifier.
+
+
