@@ -1,5 +1,10 @@
 # pix2pix-tensorflow
+this pix to pix ..................
 
+### original author--- note
+the following read me is forked from github: the instructions below were copied from the associated read me file......
+
+### original read me 
 Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 
 [Article about this implemention](https://affinelayer.com/pix2pix/)
