@@ -1,8 +1,12 @@
 # pix2pix-tensorflow
 this pix to pix ..................
+please uncompress the associated folders before starting. as for the training data/model itself, please find it here 
+
+and download the data to your training directory's train directory
+the remaining folders should be uncompressed into their directories 
 
 ### original author--- note
-the following read me is forked from github: the instructions below were copied from the associated read me file......
+the following read me is forked from GitHub: the instructions below were copied from the associated read me file......
 
 ### original read me 
 Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
