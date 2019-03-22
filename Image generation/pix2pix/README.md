@@ -1,7 +1,7 @@
 # pix2pix-tensorflow
 this pix to pix ..................
 please uncompress the associated folders before starting. as for the training data/model itself, please find it here 
-
+https://www.floydhub.com/oracle00/datasets/training_data_pix_to_pix
 and download the data to your training directory's train directory
 the remaining folders should be uncompressed into their directories 
 
