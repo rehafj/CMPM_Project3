@@ -24,22 +24,71 @@ NameClassifier and AttackClassifier are used to classify text. They take in a CS
 
 ## Results
 
+Combing various results from text generation (RNNS) and image generation (GANS) and classifying them we had a somewhat cohesive overall look. While not perfect, there is a general shape, text and color structure that we think fits with the type of classified cards. 
+
+the images below was classified as a fighting/ground  type based on the classifier, the input image was from the wgan, poke-card version, both the name, text and HP are also generated using the text generation NNs
+
+worsola and Gordele cards:
+
+
+<p float="left">
+    <img src="https://github.com/rj-90/CMPM_Project3/blob/master/worsola.jpg" height="300" width="200" /> 
+
+  <img src="https://github.com/rj-90/CMPM_Project3/blob/master/g.jpg" height="300" width="200" />
+
+</p>
 
 
 
-#credits: 
+the WGAN, pokemon sprite version generated this image, the pokemon was classified as a ghost or psychic type with a hp of 100 and a costly type move, the color pallet, and shape in our opinion matches the nature of the card. What differentiates this card is a more defined outline 
+
+Lsmilea 
+
+  <img src="https://github.com/rj-90/CMPM_Project3/blob/master/ls.jpg" height="300" width="200" /> 
+
+all images, have been passed through the pix-to-pix model to get a more defined shape and outline. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# credits: 
 
 kindly note the original credit of work and specific readme(s  )belongs to the authors,   the varied readme's within each folder 
 
+### data sorces: 
 
-[1]   https://pokemontcg.io/
-[2]    https://www.youtube.com/watch?v=yz6dNf7X7SA
-[3]    https://github.com/affinelayer/pix2pix-tensorflow
-[4]    https://github.com/sherjilozair/char-rnn-tensorflow
-[5]    https://github.com/karpathy/char-rnn
-[6]     https://github.com/jiegzhan/multi-class-text-classification-cnn
-[7]    https://www.pokecard.net/
-[8]  Manu Mathew Thomas. 2019. CMPM202_GANs.
-[9]  Manu Mathew Thomas. 2019. CMPM202_SimpleImageClassifier.
+Card data set credit: https://pokemontcg.io/
+
+pokemon images data sets:  https://www.kaggle.com/kvpratama/pokemon-images-dataset
+
+### github code sources: 
+
+Siraj's youtube explanation and link to github:  https://www.youtube.com/watch?v=yz6dNf7X7SA https://github.com/llSourcell/Pokemon_GAN
+
+Pix to Pix: https://github.com/affinelayer/pix2pix-tensorflow
+
+Char rnn: https://github.com/sherjilozair/char-rnn-tensorflow
+
+char-rnn:  https://github.com/karpathy/char-rnn
+
+text classification: https://github.com/jiegzhan/multi-class-text-classification-cnn
+
+ Manu Mathew Thomas. original Gan and Simple classifier
 
 
