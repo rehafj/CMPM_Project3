@@ -1,6 +1,12 @@
 # CMPM_Project3: Pokemon Trading Card Generator
 
-This project focuses on creating Pokemon trading cards using machine learning and neural networks. each folder has a read me atatched for 
+# video overview! 
+
+
+[![gotta generate em all! ](https://github.com/rj-90/CMPM_Project3/blob/master/tn.png)](https://www.youtube.com/watch?v=ctFtzsCKoXU&feature=youtu.be)
+
+
+This project focuses on creating Pokemon trading cards using machine learning and neural networks. each folder has a read me atatched based on orignal author's discriptions. 
 
 ## Python files  
 The python files located in the helper directory are used to download images and card text from the PokemonTCG API.
