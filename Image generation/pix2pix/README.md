@@ -5,6 +5,21 @@ https://www.floydhub.com/oracle00/datasets/training_data_pix_to_pix
 and download the data to your training directory's train directory
 the remaining folders should be uncompressed into their directories 
 
+To put together a new dataset from target images, place desired images in a folder called "dataCardImages" and provide another folder called "dataCardEdges". Then run the following commands:
+
+```sh
+# run edge detection:
+python edgeDetect.py
+# combine into the pix2pix expected input:
+python tools/process.py --input_dir dataCardImages --b_dir dataCardEdges --operation combine --output_dir <desiredLocation>
+```
+
+To run these images through our model, run:
+(This assumes that you have downloaded our pretrained model to the folder "pokemon_train")
+```sh
+python pix2pix.py --mode test --output_dir <desiredOutputLocation> --input_dir <directoryContainingPix2PixInput> --checkpoint pokemon_train
+```
+
 ### original author--- note
 the following read me is forked from GitHub: the instructions below were copied from the associated read me file......
 
