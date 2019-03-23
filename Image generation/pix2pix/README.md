@@ -15,6 +15,7 @@ python tools/process.py --input_dir dataCardImages --b_dir dataCardEdges --opera
 ```
 
 To run these images through our model, run:
+
 (This assumes that you have downloaded our pretrained model to the folder "pokemon_train")
 ```sh
 python pix2pix.py --mode test --output_dir <desiredOutputLocation> --input_dir <directoryContainingPix2PixInput> --checkpoint pokemon_train
