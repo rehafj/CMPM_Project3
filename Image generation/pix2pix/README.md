@@ -21,8 +21,9 @@ To run these images through our model, run:
 python pix2pix.py --mode test --output_dir <desiredOutputLocation> --input_dir <directoryContainingPix2PixInput> --checkpoint pokemon_train
 ```
 
-### original author--- note
-the following read me is forked from GitHub: the instructions below were copied from the associated read me file......
+### note
+the following read me is forked from GitHub: https://github.com/affinelayer/pix2pix-tensorflow.
+The instructions below were copied from the associated read me file.
 
 ### original read me 
 Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
