@@ -2,7 +2,7 @@
 
 this model has been trained on floydhub.com 
 
-pelase find the trained model at 
+please find the trained model at 
 https://www.floydhub.com/oracle00/projects/pokegan/10/files
 
 once there, please download the folder locally. 
