@@ -1,6 +1,6 @@
 # pix2pix-tensorflow
 this pix to pix ..................
-please uncompress the associated folders before starting. as for the training data/model itself, please find it here 
+Please uncompress the associated folders before starting. As for the training data/model itself, please find it here 
 https://www.floydhub.com/oracle00/datasets/training_data_pix_to_pix
 and download the data to your training directory's train directory
 the remaining folders should be uncompressed into their directories 
@@ -22,7 +22,7 @@ python pix2pix.py --mode test --output_dir <desiredOutputLocation> --input_dir <
 ```
 
 ### note
-the following read me is forked from GitHub: https://github.com/affinelayer/pix2pix-tensorflow.
+The following read me is forked from GitHub: https://github.com/affinelayer/pix2pix-tensorflow.
 The instructions below were copied from the associated read me file.
 
 ### original read me 
